@@ -1,0 +1,1409 @@
+#ed
+0hT3EKGhbpI|1:35:34|01 Introdução
+YC620GsN1CM|1:10:10|02 Análise de Algoritmos
+YR-gykNwQi8|1:09:26|03 Notação Assintótica
+VWSqqTeVE0s|1:20:11|04 Vetores
+OFQpmKltwXg|1:33:14|05 Merge Sort
+1fQjnt4kRcI|1:08:19|06 Pilhas e Filas
+NDTEIPjNsdA|1:35:35|07 Lista Encadeada
+0lXpLZEvjHs|41:26|08 Implementando Ponteiros e Objetos
+4ziQFHHW40Q|1:35:44|09 Árvores Enraizadas
+4kxDL9Wh8lQ|1:25:35|10 Percursos em Árvores
+f7sIuYI5M2Y|1:03:21|11 Árvore Binária de Busca
+QA2wFn9nQU4|43:17|12 Inclusão e Remoção em Árvores Binárias de Busca
+grWW36M8Qvw|46:15|13 Árvore Rubro-Negra
+NxF3xIBEAbE|1:08:35|14 Inclusão em Árvore Rubro-Negra
+wYD-DhVtLOQ|1:02:18|15 Remoção em Árvore Rubro-Negra
+cNWVQ_3L6Ho|56:38|16 Árvore B
+zR03qJOA_Tw|29:55|17 Inclusão e Remoção em Árvore B
+FH7hdrOpUhM|1:19:18|18 Dicionário
+xfC5h3-9i_M|1:05:10|19 Análise Amortizada
+nQ1IEVFPJko|56:58|20 Lista de Prioridades
+H2YQ3wGqdiM|24:14|21 Heaps e HeapSort
+#ga
+ijkDjQT7UPM|18:03|1.1 Noções iniciais de matrizes
+2L_YvWVVeRM|20:16|1.1 Tipos de matrizes
+TjmBMVbZfTw|13:08|1.2 Adição de matrizes
+QW5-C-FNPks|7:26|1.2 Multiplicação por escalar
+E_Q07YaURYA|16:34|1.2 Multiplicação de matrizes
+6JBqIBqix9Q|8:52|1.2 Matriz transposta
+8UiVBX_JvsI|15:47|1.3 Determinante e propriedades
+-pUjC3U7OHs|13:32|1.4 Matriz inversa e propriedades
+PmJnUI1VD_o|7:20|1.5 Matriz na forma escalonada, posto e pivô
+QsbCxntMaVU|4:41|1.6 Operações elementares por linhas
+OnZNoofF7XY|25:48|1.7 Escalonamento
+x76nLi42YMQ|14:22|1.8 Cálculo de determinante por escalonamento
+GP97sL-f9ow|11:49|1.9 Matriz inversa pelo método de Gauss-Jordan
+_Vqaj8FGlvQ|14:51|2.1 Sistemas Lineares I
+DQZnZMeZ32E|15:34|2.1 Sistemas Lineares II
+Hwj8K3iYRu8|5:59|2.2 Representação matricial
+9CeEr9MqY6Q|15:31|2.3 Resolução por matriz inversa
+bypDImbUY2I|19:22|2.4 Resolução por escalonamento I
+5uWllVV95ps|8:33|2.4 Resolução por escalonamento II
+ghkOpnk9vM4|25:11|2.4 Resolução por escalonamento III
+ENEuaqObL3E|22:00|3.1 Noções geométricas de vetores
+zCgbNqxDyWQ|21:02|3.2 Vetores: operações, propriedades e ângulo
+tHa5CE-rFts|18:37|3.3 Vetores do ponto de vista algébrico
+Cwhpy9UouiE|10:41|3.4 Operações com vetores do ponto de vista algébrico
+KZusqyXfck4|22:41|3.5 Combinação linear e dependência linear
+ZdpXpLSCH5I|11:03|3.6 Conjunto gerador e base
+ZobaOzWIKbo|22:30|3.7 Produto Escalar
+LvGoCRqaqMk|24:07|3.8 Módulo de um vetor
+lpGrX7qiaWg|15:14|3.9 Ângulo entre vetores (parte 1)
+D4H1iSO9j_M|14:00|3.9 Ângulo entre vetores (parte 2)
+jWReRVloI5k|14:15|3.9 Ângulo entre vetores (parte 3)
+zW40la8QplE|29:17|3.10 Produto Vetorial
+HhgxsFww8e4|27:50|3.11 Produto Misto
+GVBFgwItxg4|17:06|4.1 Equações vetorial e paramétricas de uma reta
+t4wxeCcH0Xw|18:50|4.2 Equações simétricas e reduzidas de uma reta
+VoTEPBtrTSQ|9:07|4.3 Paralelismo, perpendicularidade e coplanaridade entre retas
+aGOadzkIOXM|17:30|4.4 Interseção e ângulo entre retas
+6O8yLZdx9Ls|25:23|4.5 Equações do Plano (parte 1)
+YE8BtUckLxc|26:47|4.5 Equações do Plano (parte 2)
+j2TNWi21s0A|32:52|4.6 Posições relativas entre planos
+n61XO0sfRNo|32:52|4.7 Relações entre retas e planos
+bjP_SlTO9O0|21:21|4.8 Distâncias (parte 1)
+JobGfgGoRB0|27:38|4.9 Distâncias (parte 2)
+Cv8I-qboXDY|14:02|5.1 Completamento do quadrado
+Y-qnKWrYJwk|5:34|5.1 Translações em gráficos
+BdsnjJy350g|12:47|5.1 Circunferência
+NbSWyJSrPn8|19:40|5.2 Elipse
+Wnm3lp1sdNM|15:59|5.3 Parábola
+AjXWqDaGKSA|21:04|5.4 Hipérbole
+HPqtmIhXrOk|14:00|5.5 Estudo de curvas cônicas em geral
+92PEbqBloK8|12:50|Unidade 6: Noções gerais de Quádricas
+k35EgaQTU3U|19:02|6.1 Esfera
+GM9AYr6cbdU|14:12|6.2 Elipsoide
+RSHAcE4oP6M|25:09|6.3 Hiperboloides
+N0m1OCZK6Nk|16:26|6.4 Paraboloides elíptico e hiperbólico
+#disc
+KGoSTh1sgyM|3:11|Bibliografia
+hLtDkdt--WE|26:54|Lógica Matemática (aula 01)
+71tY5ao2n1I|26:57|Lógica Matemática (aula 02)
+r8kmAodJm4A|13:37|Lógica Matemática (aula 03)
+Tga3hhnToxw|20:15|Lógica Matemática (aula 04)
+dNkFbG3Z06g|24:44|Lógica Matemática (aula 05)
+--is3sRzn7Y|15:06|Lógica Matemática (aula 06)
+xXuZlyUyjD4|26:12|Lógica Matemática (aula 07)
+ksQ6SbRh7t4|14:49|Lógica Matemática (aula 08)
+SQML9EfD6go|29:03|Lógica Matemática (aula 09)
+2ITiuuyeUFs|28:37|Lógica Matemática (aula 10)
+tj8lfdLmRh4|24:08|Lógica Matemática (aula 11)
+SbtpG7QUcgg|13:01|Lógica Matemática (aula 12)
+s44VqGqs7l0|19:00|Conjuntos (aula 01)
+O5gahn7Q-2s|18:38|Conjuntos (aula 02)
+VuxaXrWTyqI|19:09|Conjuntos (aula 03)
+qozOSeGgbqA|25:14|Conjuntos (aula 04)
+tTPg0WgMHuE|35:06|Conjuntos (aula 05)
+rNC4vDbDt4k|18:02|Métodos de Demonstração (aula 01)
+T1KYbj1SvMU|21:07|Métodos de Demonstração (aula 02)
+kDNFmVQUVao|20:22|Métodos de Demonstração (aula 03)
+BbNINv0Eqlc|25:18|Métodos de Demonstração (aula 04)
+lsxlFHYO9Cs|12:13|Métodos de Demonstração (aula 05)
+HaA-HhSlFbI|19:11|Métodos de Demonstração (aula 06)
+eyI28HJCNGM|32:01|Métodos de Demonstração (aula 07)
+GpXwFeYDkd8|18:47|Métodos de Demonstração (aula 08)
+pp8Qoyz0d7E|13:41|Métodos de Demonstração (aula 09)
+FG9EXAA-CJY|21:32|Indução Matemática (aula 01)
+f4MLP3NJsU8|27:26|Indução Matemática (aula 02)
+HY65MCXOCWE|16:10|Indução Matemática (aula 03)
+WU1ylVlbCcE|19:07|Indução Matemática (aula 04)
+9PlUqzfPWtY|16:46|Indução Matemática (aula 05)
+2rHLzkFiSuw|13:42|Indução Matemática (aula 06)
+rYiYE9Utho8|13:01|Indução Matemática (exercícios)
+XVK622XAgew|38:00|Indução Matemática Forte - Fibonacci
+U8Lrz0vE2ug|5:38|Indução Matemática (Conjunto das Partes)
+cojDg-pBDTs|4:59|Lista 1 Questões 1(a) e 1(b)
+6PKfmD59mQ4|6:51|Lista 1 Questões 1(c) e 1(d)
+NAT3zh4xITw|5:04|Lista 1 Questões 2(a), 2(b) e 2(c)
+4MmJ_CZuONs|8:04|Lista 1 Questões 2(d) e 2(e)
+Ilb8gPerbPI|3:31|Lista 1 Questões 2(f)
+06rfqUT0Y8Y|5:36|Lista 1 Questão 3
+FixxzBou_sc|2:40|Lista 1 Questão 4
+CYyWuchmV7E|6:57|Lista 1 Questões 5 e 6
+b-k1dTh9-Ts|7:23|Lista 1 Questões 7 e 8
+kyvB8ykcwYE|8:34|Lista 1 Questão 9 itens a,b,c,e,f
+P9ZV8MHJwwg|8:02|Lista 1 Questão 9 itens d,g,h
+wUTDBbSzvqM|6:12|Lista 1 Questão 9 item d (d novo)
+EuzUwJUu8xg|6:10|Lista 1 Questão 10 itens a,b,c,d
+NCal03BNup4|5:33|Lista 1 Questões 10e, 10f e 11
+uizcEoK2tEc|3:20|Lista 1 Questão 11 item c
+O7OPpzQwipk|6:12|Lista 1 Questão 12 itens a,b,c
+yvpKYXRD4T8|7:22|Lista 1 Questão 12 itens d,e,f
+76yQEEP64sc|4:58|Lista 1 Questão 12 itens g,h,i
+VKj2fFPGQRQ|6:50|Lista 1 Questão 12 itens j,k,l
+-xujc3sdRus|6:18|Lista 1 Questão 13 a,b,c,d
+cTcF6cdgOdU|7:14|Lista 1 Questões 13(e,f) e 14
+AxfLAVRMto4|10:00|Relações (aula 01)
+-szocnFpbPA|14:56|Relações (aula 02)
+VHojXPzBqoE|14:17|Relações (aula 03)
+H8hQ9_DI6IA|12:30|Relações (aula 04)
+7ppyUGKolRs|10:24|Relações (aula 05)
+m7q6iFNl3tA|8:25|Relações (aula 06)
+5Kcw4i02p6c|14:25|Relações (aula 07)
+tpT6Yh7CgYc|12:34|Relações (aula 08)
+e91bSrq76Tk|8:55|Relações (aula 09)
+tazsgQBqpVQ|14:54|Relações (aula 10)
+SBxYHW7wmzk|13:45|Relações (aula 11)
+Q5rSXCaOYe8|14:55|Relações (aula 12)
+wrrGphzsVG8|14:17|Relações (aula 13)
+tO3SV4ZGVzQ|11:22|Relações (aula 14)
+jYnmcBh8uuw|13:06|Fecho de Relação (aula 01)
+A1tCVRD7Opw|14:14|Fecho de Relação (aula 02)
+XV3eHwf_rEE|9:01|Fecho de Relação (aula 03)
+wmAxoAaq8Gc|11:30|Fecho de Relação (aula 04)
+NnB84qPfqGs|11:57|Fecho de Relação (aula 05)
+LG8HWZrU0ko|8:58|Ordens Parciais (aula 01)
+W0jhRg2m5y4|13:15|Ordens Parciais (aula 02)
+7QsZKCBnaWw|14:55|Ordens Parciais (aula 03)
+_jcIqjXPXXA|12:27|Ordens Parciais (aula 04)
+z4_vLHaW1Gw|14:39|Ordens Parciais (aula 05)
+KDvqNeR_KyI|14:43|Ordens Parciais (aula 06)
+lskejE4dFFs|14:06|Ordens Parciais (aula 07)
+FZPrjyBJ_cc|25:19|Ordens Parciais (aula 08)
+Z4rXlOHtCFw|36:04|Ordens Parciais (aula 09)
+ua7VFX-JIaU|51:37|Relações de Equivalência (aula 01)
+9DI6mBS27IQ|9:05|Relações de Equivalência (aula 02)
+Dn0l3_zIN0E|30:17|Funções (aula 01)
+35rIQXnAlm4|27:06|Funções (aula 02)
+i-nT6bsulW0|38:36|Somatórios (aula 01)
+5KDh4Cob7co|13:47|Somatórios (aula 02)
+HLVL24Lwctk|27:17|Recorrências (aula 01)
+jZKKwg-lJX4|30:55|Recorrências (aula 02)
+HESkxeL9b1U|24:10|Recorrências (aula 03)
+fTNQB8gMMvk|36:50|Recorrências (aula 04)
+bj-jAdbPJCQ|6:42|Recorrências (aula 05) - Resumo
+mfZe-2BDOx4|31:15|Combinatória (aula 01)
+UGwwdb7waSw|26:30|Combinatória (aula 02)
+mv1A2qgVVEU|20:50|Combinatória (aula 03)
+MgF13aQ--Sg|23:49|Combinatória (aula 04)
+O3XZlA3gBmg|30:08|Combinatória (aula 05)
+6tZe66CwNro|44:27|Combinatória (aula 06)
+rnyqz8HS3iE|34:53|Combinatória (aula 07)
+Gh2fi-obwDI|27:44|Combinatória (aula 08)
+BcIlSOLg9y8|14:36|Combinatória (aula 09)
+JZdwOt0alII|39:13|Combinatória (aula 10)
+AsHmfCUgK5I|20:46|Princípio da Casa dos Pombos
+eEjyoYaUibk|34:10|Probabilidade (aula 01)
+uc7gvTmPO3U|21:03|Probabilidade (aula 02)
+9ji4nhb5QoQ|33:47|Probabilidade (aula 03)
+BRndvbPJCLs|32:50|Probabilidade (aula 04) - Problema de Monty-Hall
+qkpHZ9DagBk|44:50|Breve Introdução à Teoria dos Grafos - aula 1
+EfebNzGRKc4|25:46|Breve Introdução à Teoria dos Grafos - aula 2
+#py1
+WT_zCgSHSTQ|3:54|A quem se destina este curso
+rh65Lh5V7S0|12:24|01 - O que é ciência da computação
+1aUuW0aA7l0|3:46|Instalando o Python3 e o IDLE no Windows
+SqLhPI6pPy4|3:17|Instalação do python e IDLE no Linux (ubuntu)
+0SrKE9lVPTk|1:47|Consertando a configuração do Python3 no Windows
+LN8ejPwSzkU|7:34|02 - Primeiras linhas em Python
+tqF0MjcOqcI|10:33|03 - Variáveis e scripts (programas) em Python
+r8CSesZpFjo|4:32|Executando programas em python (Nelson Lago)
+UZ7_oudJ150|9:38|04 - Valores e tipos em Python
+sZg9nrUTgJE|13:29|O que é Software Livre? (Nelson Lago)
+ECFj-bWzU8I|16:43|05 - Entrada de dados
+sgfmuFRZuWs|14:41|06 - Tipos booleanos e precedência de operadores
+ngeVlLJ250s|13:53|07 - Condicionais
+v_QoUdfahng|9:42|08 - Exercício resolvido (Bhaskara)
+TllYO06DpUk|20:13|09 - Repetições (laços) com while
+RBjrLgdMaMI|17:22|10 - Indicadores de passagem
+Aa8-39qwbUU|7:12|11 - Depuração
+AMUxtcJ8yfc|17:08|12 - Funções
+se9JcK05PGw|17:25|13 - Exercício resolvido (coeficiente binomial) e testes
+c_5UByqX6kE|18:16|14 - Testes automatizados
+eGH9--FcDxY|6:41|Melô do Teste Automatizado + Entrevista Testes em Startups de Software
+GhWEOe81bJw|12:48|15 - Exercício Resolvido - Refatoração (Fórmula de Bhaskara)
+pYgAX8BuJN8|7:03|16 - Depuração com funções
+dRCDOH1lugs|11:11|17 - Repetições encaixadas
+pbzea8fXj98|8:29|18 - Exercício resolvido (fatorial)
+9AUu2xjOACI|10:15|19 - Exercicio resolvido (fatoração)
+Wcug8mjU8Sg|12:20|20 - Exercício resolvido (verificação de primos)
+krVca97F13I|20:14|21 - Coleções (listas, vetores)
+ctmPwp52b7w|15:31|22 - Repetições com "for"
+LrXapVI66so|25:04|23 - Manipulação de listas
+4TN8IdsJ78k|10:20|24 - Objetos na memória
+c9yjwWNiNQw|19:51|25 - Matrizes
+EpvCXjuHifg|24:13|26 - Exercício resolvido (máxima e mínima)
+DdhNltkI_hE|15:53|27 - Strings
+EWQTdbtCtKw|8:36|28 - Comparação de strings
+eH5kd48NfM0|12:19|29 - 4 Pequenos conceitos úteis
+6rSUPRZJFRM|14:21|30 - Módulo em Python
+x_hNj2C-kVs|9:42|31 - Manipulação de matrizes (soma)
+gCKza8cYdJY|11:10|32 - Exercício resolvido (multiplicação de matrizes)
+frtaUi3B6Sc|14:59|33 - Programação Orientada a Objetos - Parte 1
+LsbakVX54RY|14:02|34 - Programação Orientada a Objetos - Parte 2
+RYpV10216pw|24:25|35 - Códigos testáveis
+bsFhgaaHeV4|12:09|36 - Busca Sequencial
+a06rEkp7rNw|7:15|37 - Complexidade computacional
+JggjFK5PkMs|11:38|38 - Algoritmos de Ordenação - Seleção Direta
+tN-PwzkKcsk|8:30|39 - Algoritmos de Ordenação da Bolha
+gW6PUkzkIUw|12:48|40 - Comparação de Desempenho
+NDUbLp1Ro2Q|12:18|41 - Melhoria no algoritmo da Bolha
+kh3pKfh8TYU|11:11|42 - Testes automatizados em algoritmos de ordenação
+NxriUYWxoEU|12:58|43 - Busca Binária
+AyPJx1RIDuY|11:58|44 - Recursão - Parte 1
+386wQ0bP9vw|25:54|45 - Recursão - Parte 2
+rj8Sqsgh5TM|10:28|Scrapy 1 (Felipe Besson)
+DRfEY-qzyvk|9:41|Scrapy 2 (Felipe Besson)
+SXA58yKo9IY|1:24|Inspeção de elementos de uma página Web - Scrapy 3 (Felipe Besson)
+HQ2q8-EmUCs|6:18|Jogos (Alfredo Goldman)
+6Z2wLXGdPCM|6:57|Dicas finais para o exercício COH-PIAH
+E8a6avKhZgA|19:27|Impactos da Computação na Sociedade - Software livre no mundo e no Brasil
+#plog
+x_ahRnd1gTI|16:41|01 - Introdução ao Prolog
+Qn1KKsaPD80|23:25|02 - Fatos e Regras
+0zgnF5bJ6VM|19:32|03 - Exercícios sobre Fatos e Regras
+1re0PfcGJic|18:12|04 - Manipulação da base de conhecimento
+qk9kWSsfDMA|23:04|05 - Aritmética
+wXUOCDTWR9A|26:39|06 - Recursão
+IjrSlcYZZqU|29:55|07 - Comando de corte
+LsFbdODtk9U|17:37|08 - Fail e Repeat
+1KfhlylEcLI|25:58|09 - Listas
+c3wQXmObcaA|16:18|10 - Exercício sobre corte e recursão
+66SbQMXutbg|24:32|11 - Exercício sobre Listas
+#lp
+xfDdxqbkiSQ|1:12:41|Aula 01 - Critérios para Avaliação de LPs
+sCbRKDqxJZw|1:40:40|Aula 02 - Nomes e Vinculações
+2ZnIanX1P0I|51:00|Aula 03 - Escopo Estático e Dinâmico
+32sZ82fnKzY|36:51|Aula 04 - História das Linguagens de Programação
+hDRP3LZsIBk|1:47:25|Aula 05 - Tipo de Dados - Parte I
+tXFByMlfARY|1:21:01|Aula 06 - Tipo de Dados - Parte II
+gQRr23V7ze8|1:04:26|Aula 07 - Expressões e Sentença de Atribuição
+jK_vpphZn3A|1:05:41|Aula 08 - Estruturas de Controle no Nível de Sentença
+SHTw2SuGTHM|1:30:40|Aula 09 - Subprogramas
+K-qvhDJe5n8|1:25:25|Aula 10 - Implementando Subprogramas
+fvKcffZexWA|1:14:50|Aula 11 - Tipos Abstratos de Dados
+rCclQcyfaMc|1:26:30|Aula 12 - Suporte a Programação Orientada a Objeto
+eukk6HeTpUQ|1:09:50|Aula 03 - Escopo Estático e Dinâmico (outra gravação)
+#redes
+4sS1BMeJsEc|6:01:53|Aula 1 - Introdução
+dgwzJ1SOdEM|5:43:01|Aula 2 - Camada de Aplicação
+Wl0NI17Lj2c|4:31:39|Aula 3 - Camada de Transporte
+fg2cWHFY_Q4|3:34:07|Aula 4 - Camada de Rede: Plano de Dados
+qNgA8vTHfgQ|2:27:40|Aula 5 - Camada de Rede: Plano de Controle
+nZan2yTamJw|4:28:26|Aula 6 - Camada de Enlace (áudio corrigido)
+yDp_ms_Cu2M|2:44:30|Aula 7 - Redes Sem Fio
+VZGOapKSeFM|3:15:50|Aula 8 - Segurança de Redes
+#poo
+lSx_1SSUaoE|1:36|Bem vindo aos cursos de Orientação a Objetos Avançada
+qqF3okCnONk|6:10|Introdução ao Laboratório de Programação Orientada a Objetos
+IfWZRrgMWnc|12:18|Recapitulação dos conceitos básicos de OO
+9wxsdhNVLqE|4:33|Sistemas de Objetos
+SDFbmyRGkN8|5:53|Variáveis de classe vs. variáveis de instância
+XZ2-1Qd4XJ0|19:26|Pacotes-acesso-final-static
+RiYpWM74BmY|16:19|Resolução do exercício Biblioteca De Músicas
+PxWTMQg3ggU|24:28|Classes Abstratas e Interfaces
+54ot7oF40vA|20:19|Coleções em Java
+bVZ_hh8-G6o|15:59|Linguagens interpretadas vs. compiladas
+lXSdxd2vipw|30:08|Polimorfismo (exemplos em Java)
+xSKOXV2bNtw|13:38|Depurando código no Eclipse
+IhwGgY0FZgY|27:06|Tratamento de Exceções
+2IfQ9-W6SDs|13:19|Java I/O Streams
+05KcMNiEzgk|13:34|Java Network Streams demo
+gO5pvSOLpZk|32:31|Padrões de Projeto / Padrão Strategy
+nF91m1sSkW8|16:06|Padrão de Projeto: Adapter
+glRKfsJStPY|15:55|Padrão de projeto: Singleton
+vY6r2s4rZyk|9:50|Os Padrões Método Fábrica e Fábrica Abstrata (Parte 1 - Factory Method)
+75nZ8IUfMPE|20:32|O padrão Fábrica Abstrata (Abstract Factory)
+qTYj8au-SOs|11:21|O padrão Protótipo (Prototype)
+Z93dSsQzuCI|14:21|O padrão de Projeto State
+Q6tz2RFbnN0|18:24|Padrão MVC - Model-View-Controller
+7FjYfFp2llw|1:31:40|Injeção de Dependências e Spring
+Rc_3oxrR0Xc|10:29|O padrão de projeto Decorator
+SpWtH03rBfE|11:26|O padrão de Projeto Template Method
+q66ecXk1Mgc|12:24|O padrão Façade
+SfKqm0QGxkw|7:50|O Padrão Mediator
+MXA3aI7Er74|1:14:33|Orientação a Objetos e Padrões no SERPRO
+kBkAkfOghIE|9:50|O Problema com Software - Motivação para SOLID
+cFlpzS8hkXg|23:26|Princípios SOLID de bom projeto orientado a objetos
+t1NO3gsYY9M|1:58|Sólido (Song for the SOLID Principles of OO design)
+m_hnj1wcd_8|26:24|Arcabouços (Frameworks) Orientados a Objetos
+uVDJYFDA9us|15:56|10 Livros que você PRECISA ler para se tornar um excelente desenvolvedor de software
+tBxjacxRshE|13:30|25 dicas de Thelonious Monk para músicos
+Wg7b5I7Q2Ng|22:00|Boas Práticas de Programação Orientada a Objetos
+#grafos
+fjOiu6CD5pc|1:19:59|Apresentação da Disciplina
+lBUPslIZX_w|1:13:02|Introdução, conceitos e definições
+zQQSpHsVrmk|1:10:15|Introdução, conceitos e definições (continuação)
+vQV1eg0SXi0|50:34|Subgrafos e Conectividade
+oYS7tmFO-qg|1:04:56|Trilha, Passeio, Caminho, Ciclo e Árvore
+xk2tUn-jTd0|1:13:12|Grafos Hamiltonianos e Eulerianos
+R9pvWpDkU7w|1:20:25|Clique, Conjunto Independente e Cobertura de Vértice
+jO8IrUDCJCg|1:29:43|Conjunto Dominante, Emparelhamento e Coloração
+qfBTH33umQs|59:38|Grafos Planares
+QufEjJ6MUm8|37:57|Correção da 1ª Avaliação
+xKWwY__KhRA|1:09:49|Representação Computacional
+JLtaPTcskAc|42:22|Representação Computacional - Codificação
+46Fle4eSUYE|1:16:17|Busca em profundidade
+J763btsCJ0A|1:09:26|Busca em profundidade e nomenclatura das arestas
+PXEcdAkqNlM|21:10|Busca em profundidade - implementação
+8WeIVOef2tU|1:14:11|Ordenação Topológica e Componentes Conexas
+2hPMnCKaiqE|1:07:38|Busca em Largura
+SXS1eSl2wRc|36:46|Busca em Largura - Implementação
+1ufKJYglAxU|1:03:04|Caminho Mínimo - Algoritmo de Dijkstra
+DuSxO9cX73s|1:08:44|Caminho mínimo - algoritmo de Bellman-Ford
+nMQId9eMOF8|1:09:32|Árvore Geradora Mínima - Algoritmo de Prim
+Rd8uBFYl07A|59:52|Árvore Geradora Mínima - Algoritmo de Kruskal
+z-TVTUeYdvo|29:12|Revisão para 2ª Avaliação
+m-IRoh3xNIU|1:11:50|Fluxo Máximo - Ford & Fulkerson
+fJMAzwjfQGk|51:50|Fluxo Máximo - Algoritmo Push-Relabel
+#mn
+a6nNQ6qKgiY|4:10|Unidade 0.1 - Apresentação dos Métodos
+SdiiMm5fMJM|12:46|Unidade 0.2 - Visão Geral dos Métodos
+KzITgwgbj6A|14:00|Unidade 1.1 - Introdução a Erros Numéricos
+sbow-Gqr3yM|11:24|Unidade 1.2 - Aritmética de Ponto Flutuante
+aVTTzSOpODA|19:09|Unidade 1.3 - Tipos de Erros Numéricos
+sHmuCDgLCq0|15:52|Unidade 1.4 - Propagação de Erros Numéricos
+LodUyDzrXx4|26:26|Unidade 2.1 - Introdução a Raízes de Equações
+-MfDyYzYrGs|16:46|Unidade 2.2 - Método da Bissecção
+9X9GdZtt93E|11:44|Unidade 2.3 - Método da Posição Falsa
+kq0TU6DB_A4|26:07|Unidade 2.4 - Método do Ponto Fixo
+gFYLER6npLk|21:09|Unidade 2.5 - Métodos de Newton e da Secante
+xh_7VTYy9KE|34:33|Unidade 2.6 - Raízes de Polinômios
+DSh0PLTdrI4|23:30|Unidade 3.1 - Introdução a Sistemas de Equações
+B0FvzbK1Wp4|21:35|Unidade 3.2 - Tipos de Solução Numérica
+uANgK_u-_9c|32:50|Unidade 3.3 - Método de Eliminação de Gauss
+sRzZEUkQHV0|21:30|Unidade 3.4 - Gauss com Pivotamento
+I6ROKLwwd2Y|14:59|Unidade 3.5 - Método de Gauss-Jordan
+HXh173LO1WQ|31:17|Unidade 3.6 - Fatoração LU
+pf4l8gv_dCM|26:06|Unidade 3.7 - Método de Gauss-Jacobi
+rb83M5hgZdk|23:52|Unidade 3.8 - Método de Gauss-Seidel
+UnCsaTPvjGo|22:21|Unidade 4.1 - Introdução à Interpolação
+KcUKDBRDbmo|18:47|Unidade 4.4 - Interpolação Inversa
+usZhTClvjnA|16:26|Unidade 4.2 - Interpolação de Lagrange
+lnwllxHb3q8|36:34|Unidade 4.3 - Interpolação de Newton
+#arq1
+ELbnZzxeec4|17:00|Apresentação da disciplina MC404
+buqUG98H2bg|12:44|Dicas sobre como estudar durante o semestre
+BnDdFZiY1YQ|5:10|Tutorial: instalação do Simulador de Hardware no Linux
+VdvFcbbV6rI|3:31|Tutorial: instalação do simulador de hardware no Windows
+ULE80IFIGXA|15:18|Lógica Booleana
+WHmmm2bx37Q|20:16|Síntese de Funções Booleanas
+jXbHex6sVKk|7:41|Linguagem de Descrição de Hardware
+2KybzsU7qf8|6:46|Simulador de Hardware
+-Mdild9Ftec|14:31|Barramentos e Projeto 1
+obtuy4wsRV4|13:32|Representação de Números Binários
+XkhrjqcIrOE|11:43|Representação de números sinalizados
+3QZqrja-9M8|17:24|Operações aritméticas - somador
+TXJFA0YXyQ4|4:55|Dúvidas Números Binários
+l-h4U30jImw|18:28|Noção de arquitetura Von Neumann e ALU
+HPDWAoZZIG8|8:51|Operações da Unidade Lógica e Aritmética
+XLimOfQDfX0|7:25|Implementação da ULA do Processador Hack
+1t_W7FVlmsQ|13:50|Circuitos Sequenciais
+7FUUchhYgyg|23:04|Registrador de 1 Bit
+KL1AwQxjWZo|17:18|Memória RAM
+2WW7D_cSnn4|6:50|Contador de Programa
+fBR37lfkHkE|10:52|Detalhamento Memória RAM
+ouGneYX5aHo|28:32|Conceitos Básicos de Linguagem de Máquina
+zTJmpS66RkY|24:22|Elementos da Linguagem de Máquina
+H-RDwduHEi0|16:18|O Computador e a Linguagem de Máquina Hack
+SkUqn33RZvE|27:07|Especificação da Linguagem Hack
+JCG351zbwVU|9:48|Entrada e Saída
+Grr-gNwAOrI|40:28|Programando em Assembly Hack
+onpqrOo8FW8|8:33|Noções de Arquitetura de Processadores
+vBswOR8NF6c|9:44|As fases de busca e execução de instruções
+_zWS_totrhE|11:25|O Computador Hack
+Z2-Xh7iRM9E|21:50|A CPU Hack
+RFmKFxsFxsQ|14:53|Apresentação do Processador RISC-V
+mTNewJEm6UU|20:41|Primeiras Instruções do Processador RISC-V
+O-ejBiCZ92A|19:43|Instruções de Acesso à Memória e Saltos do RISC-V
+pmyWEfnsMkM|20:07|Exemplos Básicos de Código Assembly do RISC-V
+4shJTVZY3wE|4:19|Demonstração do Simulador Web para RISC-V
+jGJQPwNUQ1o|17:31|Codificação de Instruções
+kkeHDpfTSVA|25:09|Funções e Pilha
+RPjmdaPvUwg|25:25|Convenções de Registradores e Recursão
+ypRu1BQ0z18|22:30|Organização da Memória
+n9VZU2xBt4g|29:32|Manipulando bits com instruções lógicas e de deslocamento
+OyN7wAeQXd4|23:13|Representação de caracteres e strings
+MF8LOaY-J-U|17:07|Exemplo de funções de strings
+Q1qqby7v8-I|13:13|Chamadas de sistema
+CCM8-GiDVHo|12:41|Variáveis
+KMCHEZCxTME|32:08|Exemplo de Código com Variáveis Locais e Globais em RISC-V
+MNs6K8I9jco|18:42|Exceções e Interrupções no RISC-V
+#prob
+snXf8YT7L3U|15:48|Aula 01 - O que é Estatística?
+u8Ltc5645Nk|28:55|Aula 02 - Introdução à Probabilidade
+YsZJzP1rs5U|27:54|Aula 03 - Teorema da Soma - Probabilidade da União de dois eventos
+8yuHqWVrQXk|12:20|Aula 04 - Probabilidade do Evento Complementar
+LNIwcYjI2sc|39:22|Aula 05 - Exercícios de Probabilidade
+f6rTZHc98aU|27:32|Aula 06 - Combinatória na Probabilidade (Parte I)
+4lZDBkeZqis|20:24|Aula 07 - Combinatória na Probabilidade (Parte II)
+nons0GcdVqM|21:56|Aula 08 - Probabilidade Condicional
+8z932KFK9dU|32:50|Aula 09 - Eventos Independentes
+QbQq3I4DVpM|46:53|Aula 10 - Probabilidade em Espaços não Equiprováveis
+FZcBwjXBKWk|37:49|Aula 11 - Teorema da Probabilidade Total
+dWdyxWQrxAY|28:47|Aula 12 - Teorema de Bayes
+0rPnzm7iklQ|21:09|Extra - O problema que só foi resolvido pela mulher mais inteligente do mundo
+It1-TRv2Rzw|19:14|Aula 13 - Variáveis Aleatórias Contínuas e Discretas
+L_c0EBLBEDE|27:41|Aula 14 - Função de Probabilidade
+DCfV3LV8NkE|25:07|Aula 15 - Exercício de Função de Probabilidade
+bD8q4xbVCwI|28:27|Aula 16 - Esperança (Valor Esperado), Variância e Desvio Padrão
+WQOvHXIE-P8|10:51|Aula 17 - Distribuição Uniforme Discreta
+5EyJARJ6bo4|47:05|Aula 18 - Distribuição de Bernoulli e Binomial
+y2g-fzpmQkE|22:37|Aula 19 - Distribuição de Poisson
+QrOaBB8bi3Q|14:04|Aula 20 - Variável Aleatória Contínua e Função Densidade de Probabilidade
+AB4wWER_wAI|28:57|Aula 21 - Distribuição Normal
+fDSsMtzu7Io|42:31|Aula 22 - Exercícios da Distribuição Normal
+TV-8D20Ul78|30:51|Aula 23 - Amostragem (Estatística Descritiva)
+vpL_E5nR4Dk|26:37|Aula 24 - Distribuição de Frequências e Histograma
+3-Qc8ZTrFXI|25:16|Aula 25 - Medidas de Posição Central
+eIwy6lyxS7Q|26:51|Aula 26 - Medidas de Dispersão
+vOMMwcRLtXw|20:28|Aula 27 - Estatística Inferencial
+NpEd2p2kb-s|35:56|Aula 28 - Intervalo de Confiança para a Média com Variância Conhecida
+y5Q0nH0PXnM|28:24|Aula 29 - Intervalo de Confiança para a Média com Variância Desconhecida
+LWMJvwY-JCc|26:38|Aula 30 - Intervalo de Confiança para a Proporção
+A10LYLm-NgQ|59:25|Aula 31 - Teste de Hipótese para Média com Variância Conhecida
+IxPbPxyUUFA|18:22|Aula 32 - Teste de Hipótese para Média com Variância Desconhecida
+hORgEga59EE|18:08|Aula 33 - Teste de Hipótese para Proporção
+3NrjXOWkKLs|41:58|Aula 34 - O que é Correlação?
+YV_Q-cKfbyE|22:13|Aula 35 - Regressão Linear
+bZp5th6rb-w|19:51|Extra - Como calcular a eficácia de uma vacina
+jbMlDSz8RGg|2:39:10|Live de Revisão de Probabilidade e Estatística
+c7EnpLmbpoc|37:09|Prova 2021 - Licenciatura em Matemática UNIVESP
+PXQfMpuGxJg|38:14|Prova 2021 - Eixo Computação UNIVESP
+#bd
+pmAxIs5U1KI|23:07|Aula 01 - Visão geral sobre banco de dados e motivação
+oPlXecD-gZM|19:24|Aula 02 - Modelo Entidade-Relacionamento (MER) - Parte I
+KFIATc9nTrQ|24:01|Aula 03 - Modelo Entidade-Relacionamento (MER) - Parte II
+39058AQgBuA|16:44|Aula 04 - Modelo Entidade-Relacionamento estendido
+yLuJbXcAvoc|25:33|Aula 05 - Modelo Relacional: características, formalização e restrições
+cQP-k9farRk|18:34|Aula 06 - Mapeamento MER → Relacional - Parte I
+HXNQEfG4-mA|14:49|Aula 07 - Mapeamento MER → Relacional - Parte II
+JKOGucl3KF0|22:54|Aula 08 - Mapeamento MER → Relacional - Parte III
+sau3lHggfwE|24:20|Aula 09 - Ferramentas CASE para modelagem de banco de dados
+jhD9WYNWorA|31:17|Aula 10 - Álgebra Relacional - Parte I
+mjjjwrh6_6Q|20:57|Aula 11 - Álgebra Relacional - Parte II
+doJ1dI00Xbg|27:44|Aula 12 - Cálculo Relacional
+-HSyOYvksVw|20:20|Aula 13 - SQL Parte I
+XnS8XCXPkuk|23:41|Aula 14 - SQL Parte II
+oFti3s_Lc_o|19:15|Aula 15 - SQL Parte III
+qxoBxi7LpXk|24:46|Aula 16 - SQL Parte IV
+1Pcgwf5q9d4|24:48|Aula 17 - Diretrizes informais para um bom projeto de banco de dados
+KuakqxxghF8|26:06|Aula 18 - Dependências Funcionais
+Bt4UzD6yjF4|22:39|Aula 19 - Formas Normais - Parte I
+pIvuT6YMtDI|22:46|Aula 20 - Formas Normais - Parte II
+tvEpRQinYk4|22:49|Aula 21 - Aspectos de Segurança para Bancos de Dados
+pKlSEKNhYfc|25:58|Aula 22 - Noções sobre Processamento de Consultas
+FgxWsxXXYD8|30:12|Aula 23 - Arquiteturas de Bancos de Dados
+3FgsyHRG4SQ|27:14|Aula 24 - Transações
+zhL3pp4NdDY|23:10|Aula 25 - Controle de concorrência - Parte I
+5IlGUIvRu3k|23:47|Aula 26 - Controle de concorrência - Parte II
+YgaOjbVeza0|23:17|Aula 27 - Recuperação de falhas - Parte I
+r0wbNxHhAW8|28:27|Aula 28 - Recuperação de falhas - Parte II
+#al1
+-JcQJFNVjaA|1:14:26|Aula 1
+A7hwTnMmW_s|1:32:58|Aula 2
+iaMTWxAS8FA|1:32:36|Aula 3
+s2-JsZ9lqik|1:23:19|Aula 4
+pCiXN-Tv4ws|1:32:56|Aula 5
+YvbMICRHt7w|1:24:00|Aula 6
+Hd--TEyYB5Y|1:24:09|Aula 7
+SJluqRqHmss|1:24:35|Aula 8
+6dSJViDpe8U|1:31:16|Aula 9
+jwnS3bPn0zg|1:35:51|Aula 10
+1_pZ3C84JsU|1:34:02|Aula 11
+iSzRjrEEWsI|1:39:09|Aula 12
+RswSNr9jOLY|1:26:50|Aula 13
+yX8LBubhTJE|1:34:33|Aula 14
+v80av6PH6ls|1:32:11|Aula 15
+W9v4ALFfgjc|1:28:54|Aula 16
+lsrQcnmt7Pw|1:27:44|Aula 18
+3suEs11W6a4|1:33:31|Aula 19
+QCijNiH7ywQ|1:28:52|Aula 20
+wR3-xbXzuvc|1:30:53|Aula 21
+_XPIcck8-vI|1:35:16|Aula 22
+RtM-iHgHplA|1:34:48|Aula 23
+GLGIUXii0zU|1:38:15|Aula 24
+#so
+EGn8fOf7zE0|57:08|Aula 01 - Apresentação da Disciplina e Conceitos Básicos
+rIg23pzYuoM|1:12:40|Aula 02 - Tipos e Estrutura de um SO
+gH76AVnnzgM|1:18:11|Aula 03 - Chamadas ao Sistema e Interrupções
+mZ0Tuo1084k|1:01:58|Aula 04 - Processos e Escalonamento
+wjK9XbfTFLE|1:17:42|Aula 05 - Escalonamento de Processos
+9Ejx0TF1_ag|59:52|Aula 06 - Escalonamento de Processos II
+OMPKqyISh0g|27:19|Aula 07 (Parte 1) - Escalonamento e Threads
+yRoCXndUjqE|32:25|Aula 07 (Parte 2) - Escalonamento e Threads
+umpOy1aA-dY|1:00:56|Aula 08 - Threads e Comunicação Interprocessos
+kksOIzamkrY|1:03:34|Aula 09 - Comunicação Interprocessos
+kqSWZl0hJYg|1:09:29|Aula 10 - Comunicação Interprocessos II
+TpjIvyxjFME|58:38|Aula 11 - Comunicação Interprocessos e Problemas Clássicos
+NMqozuVk-Ng|55:56|Aula 12 - Problemas Clássicos, Multiprogramação e Memória
+lHUoI4voHZI|1:15:35|Aula 13 - Memória Virtual e Paginação
+gLleQXaEfWA|1:04:14|Aula 14 - Paginação
+E_y2KE0c9FQ|1:14:37|Aula 15 - TLB, Alocação e Troca de Páginas
+xxgw-Db2HEU|56:11|Aula 16 - Troca de Página e Implementação de Paginação
+tI8rrzcu9is|1:05:30|Aula 17 - Paginação, Segmentação e Dispositivos de E/S
+4UsT7E4z8Qs|47:10|Aula 18 - Dispositivos de Entrada e Saída II
+Mvfye48Oh18|1:16:22|Aula 19 - Hardware de Disco e Relógio
+yqXQW1TCres|1:11:42|Aula 20 - Sistema de Arquivos
+DcZtfayCTr0|1:17:57|Aula 21 - Sistema de Arquivos II
+dSVlv2Ksr8A|1:31:31|Aula 22 - Segurança
+#arq2
+jX1g1MjNIHI|18:41|Apresentação da Disciplina
+NThFjzeBwr8|16:52|Benchmarks e Ferramentas
+rn5TT7VuFQ0|15:11|O processador RISC-V
+lA_yc1dxYhY|17:38|Visão Geral dos Conceitos da Disciplina
+xJ-_WfiILmk|19:50|Tipos de Processadores
+Bz4KOHIiAaI|7:21|Descrição do Simulador do RISC-V
+678x_oZmLp8|27:14|Cache - Visão Geral
+hredPwpVdF8|17:16|Estrutura e Organização de Múltiplos Níveis de Cache
+xYTz_ZiZVFI|27:22|Memória Virtual
+7WAVftfDvVY|22:57|Implementação de Caches
+cFOkyFrRUmk|16:44|Unidade de Busca de Instruções (Fetch Unit)
+7Z9fbBV3Ozo|25:32|Preditores de desvios locais
+tVTbAqLXBhU|13:47|Preditor de Desvio de Correlação (gshare)
+wvYZAtPF664|11:45|Concluindo a Unidade de Busca de Instruções
+l1IQqoDoaBg|14:49|Decodificando Instruções num Processador
+-m3ZQDqMwEA|12:00|Formatos de Instruções
+blQD6h8FJ4A|10:12|Pipeline de Decodificação de Instruções
+PI0T7r6imCU|14:25|Impacto do Conjunto de Instruções de um Processador
+jeX1lBFIKqQ|9:01|Estágio de Allocation e Dependência de Dados
+qw1yHpjIETY|10:15|Exemplo de Dependências de Dados
+myX_bwYbMHc|23:28|Implementação de Register Renaming
+0Z5iVTvprCs|13:29|Despacho de Instruções (Issue) num Processador Superescalar
+RPBXP8XT3ok|25:31|Leitura de Dados antes do Despacho de Instruções
+09lWAJGLafA|13:47|Despacho de Instruções com Leitura de Dados Posterior
+gkp8RbUy3Jc|26:35|Despacho de Instruções de Memória
+lsQVfqPOSAA|25:55|As Unidades Funcionais do Estágio de Execução
+etZJI7AAXo0|21:10|Rede de Bypass das Unidades Funcionais
+cvHJx14Fy14|8:09|Clustering de Unidades Funcionais
+RHbykjvDQ4M|17:13|Estágio de Commit do Processador
+NAY3-hXml54|12:07|Recuperando de falhas e liberando recursos no commit
+Pfxm8GPJSm0|11:55|Desempenho de Computadores: Execução Serial
+xrgrck-nb8s|22:35|Desempenho de Sistemas Computacionais: Execução Paralela
+M93Ai6uKO4g|17:11|Workload Design
+tbsnV52ogY8|31:50|Reducing Workload
+#pm
+8rrgnFCL9LM|30:00|Métodos de Otimização - A01V01
+Un0p9Y4s-AE|36:44|Métodos de Otimização - A01V02
+vM3GZ8qUAOk|33:26|Métodos de Otimização - A01V03
+GXw3uW0wYKI|31:58|Métodos de Otimização - A02V01
+Jovd1TNapxg|25:46|Métodos de Otimização - A02V02
+XbTzgLZXhlE|31:47|Métodos de Otimização - A02V03
+fsbt439hkCE|47:46|Métodos de Otimização - A02V04
+ix9n8WrvhU0|1:20:06|Atendimento 17/09
+SBK9ae59MZU|1:26:42|S02P1 - Revisão de Álgebra Linear I
+JtzPXRNaeUc|1:09:43|Atendimento 24/09
+_DuX6o67yiA|1:13:51|S02P2 - Revisão de Álgebra Linear II
+OQNvc2lQlH4|53:30|S03P1 - Geometria e Estrutura I
+60GukVHfnHo|39:22|S03P2 - Geometria e Estrutura II
+Pe2OBRwui28|40:12|Atendimento 01/10
+PRQn8dWVtPI|1:07:22|S03P3 - Geometria e Estrutura III
+QajkykCRYFk|1:01:22|S03P4 - Geometria e Estrutura IV
+yVdET4_kLJA|1:26:07|S04P1 - Geometria e Estrutura V
+rzOUkFYEnfM|25:18|S04P2 - Geometria e Estrutura VI
+7z6xLq5wV8c|35:48|S04P3 - Geometria e Estrutura VII
+0IcQjnOMKdg|18:41|S04P4 - Geometria e Estrutura VIII
+9U1fHtJSdBg|43:49|S04P5 - Geometria e Estrutura IX
+62bqx_VQers|48:31|S05P1 - Geometria e Estrutura X
+e8yDEBG8lMQ|1:03:54|S05P2 - Geometria e Estrutura XI
+lVxNTHhaZK4|40:13|S06P1 - Total Unimodularidade I
+SAONVzG5Dnk|51:04|S06P2 - Total Unimodularidade II
+PHjeQhqYRto|48:45|S06P3 - Total Unimodularidade III
+xpWZo5FW0ns|57:00|S07P1 - Método Simplex I
+GNj7mi6U18s|45:33|S07P2 - Método Simplex II
+tt_XlYDVqBc|42:52|S07P3 - Método Simplex III
+aFctEL9q3lQ|1:11:08|Atendimento 24/11
+#es
+h_hEI1Kfm2U|46:12|Introdução à Engenharia de Software
+kZImAXvRjH8|44:36|Processos de Desenvolvimento de Software
+r4q87TQppqU|39:04|Resolução da Segunda Lista de Exercícios
+Y1jkAtxf2Rk|41:36|Gerenciamento de Projetos
+Keex8BJW0vY|1:02:26|Requisitos de Software
+zAsK1KyQUjU|15:28|Instruções para o projeto - Trello e Scrum
+4dWX9gMYC68|38:10|Modelagem de Software
+LbdEbcR7FX0|23:09|Princípios de Projeto
+BhvwJfEPH0Y|22:02|Arquitetura de Software
+ixOwkMTA7bI|27:47|Testes de Software
+ReyvbXyCoGw|19:33|Qualidade de Software
+#cg
+AVSAesOiKYY|45:26|Aula 02: Fundamentos Matemáticos
+bC4vTYlxxpY|28:24|Aula 03: Rendering - Pipeline Gráfico
+wH9qoJ5iRzg|20:14|Aula 04: Modelagem Geométrica 3D
+pfuGQBVkb3M|4:45|Aula 05: Laboratório 1 - OpenGL
+h_8jQjdlQQE|36:58|Aula 06: Transformações Geométricas 2D
+jdnPOs0ztyM|33:45|Aula 07: Transformações Geométricas 3D
+6_AQD8fwN-o|41:22|Aula 08: Sistemas de Coordenadas
+Cd-jmrEKW4k|31:18|Aula 09: Projeções
+uyYLdDXoVCI|6:31|Aula 10: Laboratório 2 - Biblioteca GLM, Divisão por w
+NuKhTpC3rLQ|26:15|Aula 11: Rasterização de Linhas
+0NOFJnn3IMk|25:39|Aula 12: Rasterização de Triângulos
+Wdm47oB0UKw|35:53|Aula 13: Clipping and Culling
+e1g_z696aG8|25:22|Aula 16: Curvas e Superfícies
+g7Byl6pWlzE|9:09|Aula 17: Cor
+44cTddXlc2s|30:37|Aula 18: Modelos de Iluminação
+89TyBovmIZU|28:43|Aula 20: Mapeamento de Texturas
+BsAOnFGJ2OA|17:36|Aula 21: Mapeamento de Texturas - Aplicações
+GdbzqEFF3G4|6:27|Aula 24: Animação
+4vhUoQs9Cwg|27:37|Aula 25: Iluminação Global (parte 1)
+82P0sHxxIrI|30:33|Aula 26: Iluminação Global (parte 2)
+#comp
+jgI711CrnnY|1:08:34|Apresentação do Curso
+Q5lLGCOSYIk|1:18:52|Aula 00 - Introdução, Fases de Compilação e Estrutura de um Compilador
+JJmf1wlNGeQ|2:00:11|Aula 01 - Ambiente Linux, Terminal, g++, gdb, make, cmake
+7WrTl_MaLk8|1:33:25|Aula 02 - Ambiente VS Code, C++, Make, CMake
+6k2i710Agh8|1:57:20|Aula 03 - Tradução Dirigida por Sintaxe
+FE5QwYEADak|1:37:18|Aula 04 - Análise Sintática Descendente e Conjuntos FIRST
+OOx6f8jD4_k|1:21:28|Aula 05 - Construção do Tradutor
+gzY-CTY4msg|1:49:32|Aula 06 - Análise Léxica
+XzxafZl3dZo|1:54:02|Aula 07 - Expansão do Tradutor
+k2jm1uplI5Y|1:51:34|Aula 08 - Tabela de Símbolos e Escopos
+vEwI5_BZO1s|1:45:42|Aula 09 - Exercícios e Revisão
+msv_0QqXz7s|2:07:11|Aula 10 - Análise Semântica e Verificação de Tipos
+k43ROBQoTM4|1:37:41|Aula 11 - Geração de Código Intermediário
+zoEBnC9BXcU|1:56:54|Aula 12 - Expressões Regulares, Tokens e Lexemas
+EBHc6hlrjRk|1:47:25|Aula 13 - Reconhecimento de Tokens e Diagramas de Transição
+7_TX7OtLWe8|1:41:39|Aula 14 - Flex
+WyQwPaLMvU4|1:45:35|Aula 15 - Aplicações do Flex
+5fvRRCd7mNs|1:46:21|Aula 16 - Autômatos Finitos (NFA e DFA)
+DXEIuWUaJdg|1:47:56|Aula 17 - Geração de Analisadores Léxicos
+CuMmRZGRnwE|2:00:40|Aula 18 - Exercícios e Revisão
+MLyFS7ClMf0|1:23:38|Aula 19 - Gramáticas, Derivações, LL e LR
+6wi_A-_1NaA|1:42:02|Aula 20 - Transformação de Gramáticas
+smoczWyJQsU|1:16:10|Aula 21 - Descida Recursiva, FIRST e FOLLOW
+8evMAwPF_vc|1:46:53|Aula 22 - Analisador Preditivo e Gramática LL
+EEKkSsHEKyg|1:36:27|Aula 23 - Análise Ascendente e Analisador LR
+Y8FkgaSlsHA|1:45:12|Aula 24 - Yacc e Bison
+mGRN6WagUKM|1:51:41|Aula 25 - Aplicações do Flex & Bison
+#ia
+-T3zDFxngf4|36:39|Aula 01 - Apresentação do plano de ensino e introdução à IA
+W95YlM5-iPk|1:27:47|Discovery Brasil: Inteligência Artificial - IBM
+GTuZ0WXcbI8|37:32|Aula 03 - Introdução à Inteligência Artificial (1/2)
+QZ3Z9TiNUSg|29:44|Aula 04 - Introdução à Inteligência Artificial (2/2)
+FZDg2Olv1PA|20:22|Aula 05 - Agentes Inteligentes (1/2)
+HXQ_-WTMxCM|25:15|Aula 06 - Agentes Inteligentes (2/2)
+6CNsXJwemUA|20:14|Aula 07 - Agente de Resolução de Problemas (1/4)
+W8PIuI-_lAc|28:05|Aula 08 - Agente de Resolução de Problemas (2/4)
+N1dgi46v6Mk|16:24|Aula 09 - Exercício Missionários e Canibais (3/4)
+0QE7NG9zjfY|45:18|Aula 10 - Resolução de Problemas: Heurísticas (4/4)
+8AzBLvKzQjs|33:24|Aula 11 - Local Search e Hill Climbing
+ds2Ps1kLk_I|26:48|Aula 12 - Simulated Annealing
+vVYZ9Mb51t0|19:17|Aula 13 - Beam Search
+D_TRdKEbc5c|23:31|Aula 14 - Algoritmos Genéticos (1/2)
+Vk2X4m0lkAk|25:51|Aula 15 - Algoritmos Genéticos (2/2)
+dRn9qrUx1_4|36:07|Aula 16 - Jogos com Adversários (Min-Max)
+WC3K-scfnjM|34:17|Aula 17 - Problema de Satisfação de Restrições (PSR)
+R-vdnt8H5pU|35:12|Aula 18 - Representação do Conhecimento (1/4)
+zoMLMzSVkn0|26:17|Aula 19 - Representação do Conhecimento (2/4)
+eNtXuvoTjR4|20:59|Aula 20 - Representação do Conhecimento (3/4)
+JWX8UJJvE8U|36:57|Aula 21 - Representação do Conhecimento (4/4)
+mzlhQqNUzQo|39:54|Aula 22 - Introdução ao aprendizado de máquina (1/6)
+BdsflRcqA0Q|30:44|Aula 23 - Introdução ao aprendizado de máquina (2/6)
+2OTgcYUIfOc|40:18|Aula 24 - Introdução ao aprendizado de máquina (3/6)
+u5dcmroFxAI|45:31|Aula 25 - Introdução ao aprendizado de máquina (4/6)
+FKXpU3LMiAc|20:15|Explicações sobre o Trabalho ROBOCODE
+YXQLhRE-SjE|32:45|Aula 26 - Introdução ao aprendizado de máquina (5/6)
+6U4vH6Z6aEE|18:40|Aula 27 - Introdução ao aprendizado de máquina (6/6)
+oIGsYlzlrHM|29:36|Disputas do Trabalho ROBOCODE 2021.2
+yN7ypxC7838|5:01|Todos os Modelos de Aprendizado de Máquina em 5 Minutos
+#tg
+kfHqZLYHfHU|29:29|01 Grafos como modelos
+MSBZD6iMzcU|53:47|02 Isomorfismo, Decomposição e Petersen
+xfV1lRWHG8w|1:24:10|03 Caminhos
+eh0-yaat5uA|1:19:03|04 Grafos Bipartidos
+Hxud9h7oU_Y|1:20:33|05 Circuitos Eulerianos
+BTdB-l_B6bY|1:20:01|06 Contagem
+zrb-uyP9btw|34:29|07 Problemas Extremais
+yMe8iih9F-0|50:54|08 Grafos Direcionados
+rnf77nX5DLk|1:17:36|09 Árvores
+rQgRnsUJn7g|1:25:38|10 Distâncias
+hquYJqE8Fks|1:26:20|11 Emparelhamentos
+aE1myOftLzU|1:02:06|12 Emparelhamentos, Coberturas e Conjuntos Independentes
+AFgnr9m5ebs|1:19:14|13 Conectividade
+O5Gsn4627nA|1:29:47|14 Conectividade em arestas
+n4CXSFH-Hzk|55:50|15 Blocos
+z0gZvl0OS2s|1:29:14|16 Grafos k-conexos
+alh-cDkLCMY|1:40:09|17 Coloração
+G-g_OrwTLLE|1:20:55|18 Coloração: Distância a Limitantes Superior e Inferior
+r5-W1vfvvlo|1:20:58|19 Grafos Planares
+KugIBFi6E9s|1:22:20|20 Fórmula de Euler
+#mp
+wfb3QmYWVVg|52:18|Módulo 1 - O Método Científico
+W0kcg-lHmis|1:03:31|Módulo 2 - Pesquisa como Resolução de Problemas
+ZZ53FvZ7YYE|1:05:10|Módulo 3 - Design de Pesquisas
+WpJ1skhVKkg|1:31:56|Módulo 4 - Design de Experimentos
+kK7tOsITmOk|1:05:55|Módulo 5 - Ética, diversidade e responsabilidade na pesquisa
+XFRmnjh7Ph0|1:08:45|Módulo 6 - Revisão Sistemática da Literatura
+eadVmuwEuAI|1:09:06|Módulo 7 - Como ler um artigo científico?
+Qvrvic7_zGk|1:09:03|Módulo 8 - Avaliação de Algoritmos, Prototipação e Simulação
+mkNjeqobt9Y|1:06:05|Módulo 9 - Estudos de Caso
+WnIgO7vbaKY|1:07:31|Módulo 10 - Instrumentos de Coleta de Dados
+8QVtn-3EdKc|1:02:16|Módulo 11 - Métodos Quantitativos I
+MSd7cx3dmDI|1:02:23|Módulo 12 - Métodos Quantitativos II
+1feCpvpb4ns|1:10:49|Módulo 13 - Análise Qualitativa I
+aK4Npnkimhg|1:08:37|Módulo 14 - Análise Qualitativa II
+E4BQhy34u1g|1:01:49|Módulo 15 - Análise de Dados com Grounded Theory
+57A6-2xUxjo|1:05:29|Módulo 16 - Compartilhamento de Dados de Pesquisas
+qAprWJ0DRZQ|1:09:25|Módulo 17 - A Escrita Acadêmica
+6lXf4HzNOfU|1:08:45|Módulo 18 - Publicação e divulgação científica
+8XpO2LLOhDw|1:08:51|Módulo 19 - Como apresentar um artigo
+KjiL-xeJZV0|1:04:19|Módulo 20 - Ciência Aberta
+#tc
+dWRxL30aoes|15:41|Aula 1 - Introdução a problemas e algoritmos
+1xqWORZlRLo|26:52|Aula 2 - Máquinas de Turing - Parte 1
+OBeDqMu12N0|38:12|Aula 3 - Máquinas de Turing - Parte 2
+DI0Hf58YRDQ|33:43|Aula 4 - Extensões de Máquina de Turing
+KGEUeBkW5lA|23:41|Aula 5 - Máquina de Turing não determinística
+klNBTLIkLCs|15:01|Aula 7 - Funções numéricas
+aaPwq3fOKIw|23:28|Aula 6 - Gramáticas
+-WEVYNxgOF0|15:11|Aula 8 - Tese de Church
+LoAzlZTQrNg|29:23|Aula 9 - Máquina de Turing Universal
+-fYUt1U4lp4|1:25:47|Live tira-dúvidas 4
+uM0OceyiOPM|30:25|Aula 10 - Problema da Parada
+bjQ3MF3bdZY|6:53|Aulas 11 e 12 - Problemas indecidíveis - Parte 1
+P4kD6g-dYmM|17:59|Aulas 11 e 12 - Problemas indecidíveis - Parte 2
+bxeY7Z4ei14|12:27|Aulas 11 e 12 - Problemas indecidíveis - Parte 3
+W-q9CVOGFpY|8:43|Aula 13 - Propriedades das linguagens recursivas
+Q6g-sJD9xls|11:11|Aula 14 - Classe de Complexidade P
+viQsPJKNN3o|12:42|Aula 15 - Classe NP
+YTWxvD1h_iM|9:18|Aula 16 - Classe NP-Completa
+f0AW00QI8A4|9:54|Aula 17 - Reduções
+Al3y7cDZfvA|18:08|Aula 18 - 3-SAT é NP-Completo
+zOp4vKrvFDA|24:56|Aula 20 - Soma de subconjuntos é NP-Completo
+8pXVeCi_SzI|19:17|Aula 21 - Classe Co-NP
+_KJ55spj2WM|1:32:09|Revisão
+#sd
+TEEy5f46h_Q|10:43|Aula 0
+hHwRMwgUTgg|18:56|Aula 1
+O8SIeW7fi5o|28:23|Aula 2
+VEOEXJ38QT0|24:46|Aula 3
+YuC886aCMX0|29:58|Aula 4
+p5k2DTWGo3I|36:32|Aula 5
+4Cw8uijD338|23:10|Aula 6
+9nJo9K4UH6M|21:23|Aula 7
+IjuRTiwqvh0|32:23|Aula 8
+eaCZBeWKqNk|31:16|Aula 9
+BvttaCSf_2c|31:59|Aula 10
+WDimwYFau1I|32:37|Aula 11
+tIMgjWgs-jE|25:56|Aula 12
+ABjVwE88S9w|27:09|Aula 13
+i-J_5Svbz9I|23:58|Aula 14
+3UDFaa_6Ahs|20:49|Aula 15
+ww5RYU6Eroo|31:45|Aula 16
+u9NRJ1ALWDU|27:15|Aula 17
+Fa91LVW_5QI|29:47|Aula 18
+LcalT2mXHNc|28:35|Aula 19
+y9AH4gczjto|29:08|Aula 20
+goxNE1nRXhw|13:06|Aula 21
+#cq
+siQAsHPRb0w|2:05:45|Números Complexos
+EnxBTTMXxIo|4:32:36|Espaço vetorial Complexo
+n1wQxA68Cws|36:46|Bits Quânticos
+3mwQRbi2skc|1:42:00|Estados de Bell, Paralelismo, Algoritmo de Deutsch
+G_pPzw3UVTo|16:38|Teorema da Não Clonagem
+1nBTY_f-KAA|25:05|Teletransporte Quântico
+WNYur9BjnH0|2:22:13|Aula 1 - Informação quântica
+Sb5WRs8XUuU|39:09|Algoritmo de Deutsch
+JWNDlSWDUU0|30:05|Teletransporte Quântico - 2016
+g-O9aRzGeHs|57:53|Algoritmo de Deutsch-Jozsa
+jBc35cih6Wc|14:10|Algoritmo de Deutsch-Jozsa - Exemplo 3 qubits
+xmBZKohaTxs|35:56|Formalismo do Operador Densidade
+qZhCNo_yRRg|35:54|Canais Quânticos
+zIrpDPyebmk|37:33|Operação Traço Parcial
+6lMYJFYqsAI|41:48|Operadores de Kraus
+8_l0ZycV900|55:51|Aprendizado de Máquina Quântico
+zcvjU5PfOn0|11:43|Quantum Neural Network for Calibrating Question Answering System
+9O3vYfQyaCM|9:11|Supremacia Quântica
+mxjSZ-2F19w|1:13:12|Problemas da Física com ML e Algoritmos Variacionais
+P9pS0A_Gans|21:49|Quantum Computing Today: Errors and Mitigation in the NISQ Era
+17MoFHkEWvo|42:16|Aprendizado de Máquina Quântico: algoritmos e resultados
+#calc3
+8mBTfk7s63s|22:27|T1.1 Integrais Duplas: Introdução
+wtE15tImppc|25:34|T1.2 Integrais Duplas: Introdução
+_xRVPnLCics|22:02|T1.3 Integrais Duplas: Introdução
+zojjmZhXtLk|24:13|T2.1 Teorema de Fubini
+MLO3f22Z7sc|24:57|T2.2 Teorema de Fubini
+Rv_xEzNTk2w|16:17|T2.3 Teorema de Fubini
+DJuBwQ5GnVE|24:56|T3.1 Integrais Iteradas
+bHFW8ocFI8o|23:41|T3.2 Integrais Iteradas
+MK3GFJub5iQ|17:46|T3.3 Integrais Iteradas
+_f0T4XVtvEo|18:57|T3.4 Integrais Iteradas
+-rGfJCkSzlQ|23:59|T4.1 Mudança de variáveis na integral dupla
+5oKzW1WaiAU|24:56|T4.2 Mudança de variáveis na integral dupla
+buB9X9WfTPs|18:34|T4.3 Mudança de variáveis na integral dupla
+ZSNgDr6duOU|20:08|T4.4 Mudança de variáveis na integral dupla
+4zSwz6maKKM|18:22|T4.5 Mudança de variáveis na integral dupla
+f0VRgp5n5RQ|19:13|T4.6 Mudança de variáveis na integral dupla
+Gaj12X0E6dc|25:33|T4.7 Mudança de variáveis na integral dupla
+kBN593NWzwg|21:13|T5.1 Integrais triplas
+LNKNAjbxTSg|20:17|T5.2 Integrais triplas
+Dz4pxX5Amjk|21:57|T5.3 Integrais triplas
+zM5KbtkQCZQ|28:17|T6.1 Mudança de variáveis na integral tripla
+rbTqQmJ5z6M|22:43|T6.2 Mudança de variáveis na integral tripla
+G4FJh2bf3KM|23:51|T6.3 Mudança de variáveis na integral tripla
+BqganOoOg04|16:26|T6.4 Mudança de variáveis na integral tripla
+KSPj3hWzn8c|19:45|T6.5 Mudança de variáveis na integral tripla
+E0WaAGGsk1g|21:00|T7.1 Integrais de linha
+7CPHG5wOAS8|20:28|T7.2 Integrais de linha
+e98sr5Y_aBU|18:40|T7.3 Integrais de linha
+y0wrRXQYy6U|21:19|T7.4 Integrais de linha
+8NkOi9B8EV0|30:30|T8.1 Revisão e complementação
+5o_JUDleFZg|21:19|T8.2 Revisão e complementação
+gHFulhUfLIk|18:59|T8.3 Revisão e complementação
+uoav0NrPjr4|17:50|T8.4 Revisão e complementação
+frSl49vxy5g|26:01|T8.5 Revisão e complementação
+_FCsVusohzE|21:50|T8.6 Revisão e complementação
+Ing4Y51V24Q|29:24|T8.7 Revisão e complementação
+f4r7bYjN_XY|27:13|T9.1 Integral de linha de campos vetoriais
+ky5ES960LkQ|26:23|T9.2 Integral de linha de campos vetoriais
+sGGJw4HS8i0|27:10|T9.3 Integral de linha de campos vetoriais
+-Z9XGv6vqHw|21:59|T9.4 Integral de linha de campos vetoriais
+nJ0-DyNIUM0|18:58|T9.5 Integral de linha de campos vetoriais
+riEdjp94Tsk|18:12|T9.6 Integral de linha de campos vetoriais
+uHuAW25rJCQ|20:49|T9.7 Integral de linha de campos vetoriais
+BkTSwQ6Ihj4|18:13|T9.8 Integral de linha de campos vetoriais
+tUKMhonYeHA|17:16|T9.9 Integral de linha de campos vetoriais
+lbOMX2oiTAU|17:49|T10.1 Teorema de Green
+WL-JUc1PGmc|21:26|T10.2 Teorema de Green
+N9bo0acKUfk|25:18|T10.3 Teorema de Green
+Ug30U_awhww|25:30|T10.4 Teorema de Green
+6BPC7m9cMfo|23:10|T10.5 Teorema de Green
+KxvPCAsIleE|20:32|T10.6 Teorema de Green
+QIkXtDVx9W4|23:27|T10.7 Teorema de Green
+sV5yslaZ3ZQ|23:31|T10.8 Teorema de Green
+k2e3j-P8l9Q|22:07|T10.9 Teorema de Green
+kLoRRzYeKgY|20:39|T11.1 Superfícies parametrizadas
+jMEKcEbCX_g|24:38|T11.2 Superfícies parametrizadas
+xoEUoFEc57s|22:27|T11.3 Superfícies parametrizadas
+W3HUB9yGiI0|17:06|T11.4 Superfícies parametrizadas
+Vnqkl_hS9I4|22:11|T12.1 Revisão e aprofundamento
+imxSrECsIMs|16:48|T12.2 Revisão e aprofundamento
+Mjad2ltyNC4|23:19|T12.3 Revisão e aprofundamento
+AwQDk7iTTLg|20:08|T12.4 Revisão e aprofundamento
+dY0p-6vIzQ4|26:41|T12.5 Revisão e aprofundamento
+jh4Wklud_-g|28:19|T12.6 Revisão e aprofundamento
+Evngdwnshp4|23:03|T12.7 Revisão e aprofundamento
+A6iZMmV3rg0|27:54|T13.1 Integrais de superfície de campos vetoriais (fluxos)
+Wt-COQSCWRo|25:16|T13.2 Integrais de superfície de campos vetoriais (fluxos)
+WcUcnqOzE1g|29:23|T13.3 Integrais de superfície de campos vetoriais (fluxos)
+0NQyvmitUDQ|28:33|T13.4 Integrais de superfície de campos vetoriais (fluxos)
+KBIelkVNYwM|25:06|T13.5 Integrais de superfície de campos vetoriais (fluxos)
+7CUN1LrzfYA|31:03|T14.1 Teorema de Gauss
+InvICivtpo4|26:55|T14.2 Teorema de Gauss
+1uIRGJsnzYc|28:00|T14.3 Teorema de Gauss
+c0wz-T-GHTs|24:58|T14.4 Teorema de Gauss
+d6v0nQbCHf8|27:32|T15.1 Teorema de Stokes
+SRRl9Tq-HCA|19:21|T15.2 Teorema de Stokes
+2F5mGBleSos|20:37|T15.3 Teorema de Stokes
+KJ0BBEtco5U|20:14|T15.4 Teorema de Stokes
+y1kZdti9xSo|27:22|T15.5 Teorema de Stokes
+W5q-3Nn_15g|23:07|T15.6 Teorema de Stokes
+i0RC_j_1azw|25:27|T15.7 Teorema de Stokes
+QBemvrcd9YQ|26:10|T15.8 Teorema de Stokes
+uBWNuY4vf54|28:41|T15.9 Teorema de Stokes
+XsvhPXxBRHo|24:16|T15.10 Teorema de Stokes
+-ROtipq_iU8|25:38|T16.1 Revisão e aprofundamento
+rq--vb6qv_I|27:44|T16.2 Revisão e aprofundamento
+5xK6xIPCBzg|28:12|T16.3 Revisão e aprofundamento
+WX53avLeI18|28:15|T16.4 Revisão e aprofundamento
+dx8TUSZiPvU|29:46|T16.5 Revisão e aprofundamento
+TJHgjLWwwSA|18:30|T16.6 Revisão e aprofundamento
+#circ
+1lsU6RoU9Ko|16:52|Aula 01 - Introdução aos Circuitos Digitais
+RuXmtYdmQKY|32:46|Aula 02 - Sistemas de Numeração (Parte 1)
+MhaGPACGIEs|19:36|Aula 03 - Sistemas de Numeração (Parte 2)
+Pg2tvTNfBzQ|14:01|Aula 04 - Sistemas de Numeração - Exercícios
+ZQkNfdwaG2c|23:39|Aula 05 - Códigos Binários
+gBsNWWscIcg|21:33|Aula 06 - Aritmética Binária
+PceEtFggO_Q|21:47|Aula 07 - Representação de Números Binários Inteiros com Sinal
+i48FGijMVO0|12:35|Aula 08 - Aritmética de Números BCD
+jzR0kYsay2U|16:14|Aula 09 - Ferramentas de Descrição de Circuitos Digitais
+-4b58LvY6NI|29:26|Aula 10 - Funções e Portas Lógicas
+Px3W4QHfrHc|26:11|Aula 11 - Propriedades da Álgebra Booleana
+XoWag-f1UTY|27:41|Aula 12 - Análise de Expressões Lógicas
+u7FJAOnWS08|17:20|Aula 13 - Análise de Circuitos Combinacionais
+xzCpDBYKCTA|22:56|Aula 14 - Elaboração de Diagrama de Circuito Lógico
+32ritDV6XxU|13:54|Aula 15 - Utilização do Logisim
+Q2s6ZFX3de8|21:05|Aula 16 - Formas Canônicas para Expressões Lógicas
+lGIVvVAiR6U|16:36|Aula 17 - Síntese de Circuitos Combinacionais
+mOBy3LJV5sM|17:24|Aula 18 - Simplificação Algébrica
+8_Ip6PzYqrs|24:15|Aula 19 - Mapas de Karnaugh (Parte 1)
+AVb_9sXqfSk|22:29|Aula 20 - Mapas de Karnaugh (Parte 2)
+rv2r_hSLRN0|17:33|Aula 21 - Mapas de Karnaugh (Parte 3)
+qNXLHeHurpk|15:56|Aula 22 - Mapas de Karnaugh (Parte 4)
+ttoNkYJ38zQ|13:39|Aula 23 - Exemplo de Projeto de Circuito Combinacional
+qXEx7nFvMh4|14:47|Aula 24 - Universalidade das Portas NAND e NOR
+r_DpiGT0YmA|19:53|Aula 25 - Circuitos Somadores (Parte 1)
+rhZ0QmX6Gf0|11:44|Aula 26 - Circuitos Somadores (Parte 2)
+6sBkmAlJlvs|27:03|Aula 27 - Somadores no Logisim
+TQfRSFsRDAU|20:02|Aula 28 - Circuitos Subtradores
+iiTMiSu_xbU|9:12|Aula 29 - Somador/Subtrador Compartilhado no Logisim
+XAGm1k_H49w|5:18|Aula 30 - Incrementadores e Decrementadores
+fLZRFkFWQ4c|11:07|Aula 31 - Somadores BCD
+6mf8qFEBxEU|16:51|Aula 32 - Multiplicadores em Array
+tVgocuuisjA|13:33|Aula 33 - Comparadores de Magnitude
+l56a1Rp-LNs|23:41|Aula 34 - Somadores Carry Look-Ahead
+z0qUmHXd8ZA|16:52|Aula 35 - Geradores e Verificadores de Paridade
+h0vnz4ebT08|12:19|Aula 36 - Conversores de Código Binário (Parte 1)
+RCbCm9TyZ9w|15:48|Aula 37 - Conversores de Código Binário (Parte 2)
+NJwesHY5nPQ|15:59|Aula 38 - Decodificadores para Display de 7 Segmentos
+C8Y8ST2hnqA|23:26|Aula 39 - Decodificadores
+y-Ni9BIpS8c|12:08|Aula 40 - Projeto Combinacional Utilizando Decodificadores
+_2RRcq8YIKk|17:31|Aula 41 - Codificadores
+qfqoSlvIkiA|24:56|Aula 42 - Codificadores de Prioridade
+e70pe-Cdtfc|27:21|Aula 43 - Multiplexadores
+X8lHW9yfr30|14:04|Aula 44 - Associação de Multiplexadores
+_uBk4xDi-8c|18:15|Aula 45 - Funções Combinacionais com Multiplexadores (Parte 1)
+wypiacFZFww|20:40|Aula 46 - Funções Combinacionais com Multiplexadores (Parte 2)
+Kjtvyf6e-9U|17:24|Aula 47 - Teorema da Expansão de Shannon
+Jmw4OiI0O3A|18:56|Aula 48 - Demultiplexadores
+FWk2a7oTpxc|10:22|Aula 49 - Associação de Demultiplexadores
+EBrHRwnVMsU|24:58|Aula 50 - Deslocadores
+SemyzwoLxDo|14:20|Aula 51 - Unidade Lógico-Aritmética
+3uXHong2PvQ|18:49|Aula 52 - Aplicações de Circuitos Combinacionais #1
+mcAnKpiPO-c|9:15|Aula 53 - Aplicações de Circuitos Combinacionais #2
+Q0hxfNu0EGw|8:14|Aula 54 - Fundamentos de Circuitos Sequenciais
+rkfQKM_jQK8|12:51|Aula 55 - Máquinas de Estados Finitos
+6sVrWGekNX4|15:31|Aula 56 - Modelos para Máquinas de Estados
+qFXXLbwvWsg|14:18|Aula 57 - Tabela de Transição de Estados
+Q0QNvjRt_pk|9:22|Aula 58 - Diagrama de Transição de Estados
+YHEvh3PoPcE|25:47|Aula 59 - Latch SR
+MaelrWb21QI|10:14|Aula 60 - Latch SR Controlado
+XZ5I9mJdg0w|10:35|Aula 61 - Latch D (Transparente)
+XQe4qElLDWI|4:12|Aula 62 - Latches com Portas NAND
+wYTRa2r3fjM|10:37|Aula 63 - Latches no Logisim
+E12RmfvaIf8|27:19|Aula 64 - Flip-Flop D
+zQj0oDimU2I|10:45|Aula 65 - Flip-Flop JK e Flip-Flop T
+2qOUSXgKUbc|5:08|Aula 66 - Entradas Assíncronas em Flip-Flops
+6fEfOZJTQcQ|7:28|Aula 67 - Flip-Flops no Logisim
+f9L2vdplWgM|27:40|Aula 68 - Análise de Circuitos Sequenciais (Exemplo 1)
+h_Mx1DL14yE|19:31|Aula 69 - Análise de Circuitos Sequenciais (Exemplo 2)
+4Mx_cYvoZKY|24:47|Aula 70 - Análise de Circuitos Sequenciais (Exemplo 3)
+__57NZcf52A|14:46|Aula 71 - Análise de Circuitos Sequenciais (Exemplo 4)
+3LXF2p2LSQU|35:05|Aula 72 - Projeto de Circuitos Sequenciais (Exemplo 1)
+EUvxMNTFN4s|22:29|Aula 73 - Projeto de Circuitos Sequenciais (Exemplo 2)
+7Y0oWahVWUw|27:32|Aula 74 - Projeto de Circuitos Sequenciais (Exemplo 3)
+zctwOD5i9mQ|28:53|Aula 75 - Projeto de Circuitos Sequenciais (Exemplo 4)
+QZQeMbeXnoQ|28:31|Aula 76 - Projeto de Circuitos Sequenciais (Exemplo 5)
+Ez3nIadMiR8|29:36|Aula 77 - Projeto de Circuitos Sequenciais (Exemplo 6)
+BQC1pypMw1c|19:47|Aula 78 - Projeto de Circuitos Sequenciais (Exemplo 7)
+eW3VQYW-sTw|21:50|Aula 79 - Projeto de Circuitos Sequenciais (Exemplo 8)
+WzW6nU7NUus|27:00|Aula 80 - Projeto de Circuitos Sequenciais (Exemplo 9)
+ta-esYaoz4E|18:52|Aula 81 - Projeto de Circuitos Sequenciais (Exemplo 10)
+5Ya0o-pGumA|26:22|Aula 82 - Projeto de Circuitos Sequenciais (Exemplo 11)
+seZk9pKNYaA|26:47|Aula 83 - Projeto de Circuitos Sequenciais (Exemplo 12)
+29rFIM-izEc|38:00|Aula 84 - Projeto de Circuitos Sequenciais (Exemplo 13)
+aYaEqsyxRP0|57:16|Aula 85 - Projeto Sequencial com Multiplexadores
+AfWMnhgDO4k|42:25|Aula 86 - Máquina Moore vs. Máquina Mealy
+AJj8DpeW_yY|11:51|Aula 87 - Minimização de Máquinas de Estados
+9PCN3yNe4JU|34:45|Aula 88 - Tabela de Implicação
+Z1hZhMn29WY|30:24|Aula 89 - Particionamento Sucessivo
+NXjf7GWlA6A|17:28|Aula 90 - Relação de Máquinas Moore vs. Mealy
+gpObH7mDB-I|9:39|Aula 91 - Estado Inicial de uma Máquina de Estados
+Kib0DmQCLjQ|5:34|Aula 92 - Condições de Temporização em Máquinas de Estados
+XYAXzeIpNXw|41:23|Aula 93 - Codificação dos Estados
+#calc1
+WgHUHPlJETs|26:35|Aula 1 (1/3) Panorama do Cálculo Diferencial e Integral
+nKua7iJK2WQ|27:49|Aula 1 (2/3) Panorama do Cálculo Diferencial e Integral
+aQSoCjHVNKc|24:53|Aula 1 (3/3) Panorama do Cálculo Diferencial e Integral
+ilZC6iMNM-I|23:01|Aula 2 (1/3) Continuidade e Limites I
+0QA1FPiN-XU|24:36|Aula 2 (2/3) Continuidade e Limites I
+kCRJyiZoXSg|36:18|Aula 2 (3/3) Continuidade e Limites I
+KrWmmvayDOY|26:28|Aula 3 (1/3) Continuidade e Limites II
+fbrIsCCowUg|38:11|Aula 3 (2/3) Continuidade e Limites II
+kLj-u2xEDG0|23:02|Aula 3 (3/3) Continuidade e Limites II
+oxfFtzDsLy4|25:13|Aula 4 (1/3) Cálculo de Limites e Propriedades
+jkIkvkmlJ54|24:00|Aula 4 (2/3) Limites Laterais
+iE6zC3bT2vo|26:05|Aula 4 (3/3) Limites no Infinito
+uRsEH6FEoqI|25:32|Aula 5 (1/3) Limites Infinitos, Propriedades e Exemplos
+gLdYM1mtdKU|34:10|Aula 5 (2/3) Teorema do Confronto e Consequências
+dOMtlkKtCzQ|32:51|Aula 5 (3/3) Teorema do Confronto e Consequências
+G6wCnibmY9M|32:42|Aula 6 (1/3) Continuidade das funções trigonométricas
+XfzlgM845Qc|24:09|Aula 6 (2/3) Limite Trigonométrico Fundamental e Aplicações
+8t5IE7BGKUU|24:41|Aula 6 (3/3) Derivadas: definição, propriedades e primeiros exemplos
+B2fJry2Ih2Y|32:03|Aula 7 (1/3) Aproximação da função por sua reta tangente
+hTQxTA7fqtw|29:15|Aula 7 (2/3) Regras de derivação e exemplos
+k0eUDfTakIE|29:36|Aula 7 (3/3) Regras de derivação e exemplos
+XbUSK49mOEQ|31:12|Aula 8 (1/3) Derivadas de funções inversas
+8wItjvqynC4|31:15|Aula 8 (2/3) Funções inversas e funções dadas implicitamente
+7PV_FLPYUeQ|26:19|Aula 8 (3/3) Notações e derivadas de ordem superior
+Gop_dmZu7bo|30:11|Aula 9 (1/3) Funções inversas
+eHs5EbGwShY|32:36|Aula 9 (2/3) Taxas Relacionadas
+Beqg0JLePew|26:42|Aula 9 (3/3) Taxas Relacionadas: mais exemplos
+Xdat6VRMuIE|24:10|Aula 10 (1/3) Limites e Derivadas: Exercícios
+KYuqbUPUB1A|34:42|Aula 10 (2/3) Limites e Derivadas: Exercícios
+1KceV6dSy94|23:13|Aula 10 (3/3) Limites e Derivadas: Exercícios
+rlyacFHR-PY|33:06|Aula 11 (1/3) Limites e Derivadas: Exercícios
+YqzUrlRgKgM|26:16|Aula 11 (2/3) Limites e Derivadas: Exercícios
+3-5BQSo3ZeI|19:53|Aula 11 (3/3) Limites e Derivadas: Exercícios
+OWEiX0EFipI|29:40|Aula 12 (1/3) Limites e Derivadas: Exercícios
+SJjbkHraC5w|32:11|Aula 12 (2/3) Limites e Derivadas: Exercícios
+72doxLO8tf4|15:54|Aula 12 (3/3) Limites e Derivadas: Exercícios
+52Wb_huJ0Pc|36:07|Aula 13 (1/3) Funções exponenciais e logarítmicas; o número e
+Ax53USQv_cM|23:44|Aula 13 (2/3) Derivadas das exponenciais e logarítmicas; sequências
+ls67oSbVqOA|29:55|Aula 13 (3/3) Mais sequências e a existência de e
+69kI4OJYbUk|32:08|Aula 14 (1/3) Existência de e; derivada de f(x)^g(x)
+RLqMZPyeVZI|39:11|Aula 14 (2/3) Teorema do Valor Intermediário
+TrjbOGW76os|20:41|Aula 14 (3/3) Máximos e mínimos: teorema de Weierstrass
+yFP6ENUPi-s|37:16|Aula 15 (1/3) Teoremas do Valor Intermediário, Weierstrass e Fermat
+VE7gSDBzjGc|23:46|Aula 15 (2/3) Teorema de Fermat e Exemplos
+uJwwgyJZ4FM|17:06|Aula 15 (3/3) Teoremas de Rolle e do Valor Médio
+2_Wac3faA7c|33:27|Aula 16 (1/3) Teorema do Valor Médio: consequências e aplicações
+auxoggKAk5Y|26:09|Aula 16 (2/3) Teorema do Valor Médio: crescimento de funções
+R92lpPw28qw|21:16|Aula 16 (3/3) Teorema do Valor Médio: crescimento de funções
+u_G7ZX3TSMo|31:19|Aula 17 (1/3) Concavidade e inflexão: segunda derivada
+4IkP9t7erV0|25:06|Aula 17 (2/3) Concavidade e inflexão: exemplos
+6t77dhmaIBk|36:22|Aula 17 (3/3) Regras de L'Hospital
+bVLWSs5kq3o|31:37|Aula 18 (1/3) Regras de L'Hospital: exemplos
+V-W392JPn9g|22:35|Aula 18 (2/3) Esboço de gráficos
+iIUj8AhG-UE|21:54|Aula 18 (3/3) Esboço de gráficos: exemplos e assíntotas
+NSPWxvrpJL4|28:33|Aula 19 (1/3) Assíntotas: um exemplo
+qSfFJQVlYeE|26:02|Aula 19 (2/3) Assíntotas: outro exemplo
+Uy0vxqJ6SXs|31:55|Aula 19 (3/3) O retorno dos máximos e mínimos
+2myFQaIiMac|31:59|Aula 20 (1/3) Problemas de otimização
+kUcfj46eKfo|27:33|Aula 20 (2/3) Polinômios de Taylor: Preliminares
+8eDuxoRJW9s|22:46|Aula 20 (3/3) Polinômios de Taylor de ordem 1
+dnGnL87OtNI|24:45|Aula 21 (1/3) Polinômios de Taylor de ordem 2
+zRsmdkc2vXA|28:53|Aula 21 (2/3) Polinômios de Taylor de ordem n
+pn0NmHnSO0M|29:29|Aula 21 (3/3) Polinômios (quase séries) de Taylor
+eVgxj-ZMzdM|30:54|Aula 22 (1/3) Unicidade do polinômio de Taylor; Exercícios
+3K30K2tMTW4|23:52|Aula 22 (2/3) Derivadas e aplicações: exercícios
+ZV4ttYGVcL8|29:24|Aula 22 (3/3) Derivadas e aplicações: exercícios
+fWn6BEYaS3k|25:11|Aula 23 (1/3) Derivadas e aplicações: exercícios
+DJwhtCWQRpY|22:27|Aula 23 (2/3) Derivadas e aplicações: exercícios
+_FQWywPdJvU|24:51|Aula 23 (3/3) Derivadas e aplicações: exercícios
+KlH_drg-LNk|20:17|Aula 24 (1/3) Derivadas e aplicações: exercícios
+dE6IZL_EaYY|29:52|Aula 24 (2/3) Derivadas e aplicações: exercícios
+ZXhXQIbnrAo|34:20|Aula 24 (3/3) Derivadas e aplicações: exercícios
+5T3XUtRtsX8|28:52|Aula 25 (1/3) Integral de Riemann: construção do conceito
+9W49euBM0KE|31:21|Aula 25 (2/3) Integral de Riemann: propriedades e áreas
+kbo0Co6oMVM|25:51|Aula 25 (3/3) O Teorema Fundamental do Cálculo
+045rSkkHGvU|33:46|Aula 26 (1/3) TFC: exemplos; existência de primitivas
+PA9Z9cWnZ_o|23:34|Aula 26 (2/3) Método da substituição
+R2FC55Gtu54|28:11|Aula 26 (3/3) Exemplos de substituição
+w47sIdDh6rk|20:30|Aula 27 (1/3) Integração por partes
+3iy_T8FDup4|27:09|Aula 27 (2/3) Exemplos de integração por partes
+m-4zC9ZbP-4|30:32|Aula 27 (3/3) Potências de senos com cossenos
+Aj4B8aslG2I|31:11|Aula 28 (1/3) Produtos trigonométricos e frações parciais
+hvjGb9vtc7Q|24:19|Aula 28 (2/3) Exemplos com frações parciais
+0da_2CNS3Hs|33:49|Aula 28 (3/3) Frações parciais; Volumes
+JblKT8hmqdg|25:36|Aula 29 (1/3) Sólidos de Rotação: volumes e áreas
+jeSF7BOL2tA|27:53|Aula 29 (2/3) Sólidos de Rotação: áreas
+Pa1JhQdDALc|25:29|Aula 29 (3/3) Comprimento de gráficos
+eDuc5JrLh5Q|33:03|Aula 30 (1/3) Cálculo de algumas primitivas
+0hEhQoIWPiY|30:52|Aula 30 (2/3) Mais primitivas e funções dadas por integrais
+jGH6G9A7XbA|26:44|Aula 30 (3/3) Funções dadas por integrais
+XQkG62lHi4M|29:04|Aula 31 (1/3) Derivando funções dadas por integrais
+-CqvvjMIVTI|28:19|Aula 31 (2/3) Volumes por fatiamento
+jbcbVCNsXyc|25:02|Aula 31 (3/3) Integrais impróprias: intervalos ilimitados
+HcnTc_e1wXE|27:35|Aula 32 (1/3) Funções dadas por integrais impróprias
+zUgAQD2TCsI|23:06|Aula 32 (2/3) Integrais impróprias: convergência
+95_meqsk3vg|30:10|Aula 32 (3/3) Convergência e aproximação de integrais
+Z8B4d_2qOSg|18:56|Aula 33 (1/3) Polinômios de Taylor através de progressões geométricas
+ukprTbUITHo|29:36|Aula 33 (2/3) Integração: Exercícios
+9ez3Q15_puE|24:49|Aula 33 (3/3) Integração: Exercícios
+Qa16IeGJZiQ|23:57|Aula 34 (1/3) Integração: o volume do toro
+gs-0iLnO50s|31:18|Aula 34 (2/3) Integração: mais exercícios
+jbCa26K80iY|30:25|Aula 34 (3/3) Integração: mais exercícios
+#aa
+_HBTCUNPxOg|23:27|Introdução à análise de algoritmos
+AQ7A2Z0TdM4|24:27|Corretude de algoritmos iterativos - Invariante de laço
+_CNRkhN7Z2w|18:44|Corretude por invariante - Busca binária
+JpbGKB6LF2g|22:51|Tempo de execução
+JlHfhLQ2qrc|12:09|Tempo de execução (análise de casos)
+gjw7AaOs9P8|18:38|Notação assintótica (O)
+t0MhdT7Z-_U|13:18|Notação assintótica (Ω e Θ)
+vqVnHLett28|25:22|Exemplos com notação assintótica
+xRkq-wMRHqk|22:46|Tempo de execução com notação assintótica
+pfCjJqTKvFY|53:24|Insertion Sort
+tOEP5wnnaBk|16:43|Recursão e corretude (parte 1)
+L6BvI9M7UHU|16:38|Recursão e corretude (parte 2)
+RGXa85ZUAmY|9:23|Recorrências
+RxDK2sgwWUk|11:44|Mergesort
+g63dqkcDOG4|23:44|Mergesort (corretude e tempo)
+BCNTkGtNfDw|2:48|Divisão e conquista
+W4zD3LVPQyA|20:57|Método da substituição
+vWh0C-jkNFI|11:54|Método da substituição (mais exemplos)
+ctlpzZ5Gqyg|21:36|Método da iteração
+5AVfVJxIpP0|9:27|Método da iteração (mais exemplos)
+9IEiJ0sDtTE|19:20|Método da árvore de recursão
+6FcHxGcZnIQ|23:36|Método Mestre
+j1XWCLZ3-mU|8:31|Método Mestre (demonstração)
+FUlmg8HsF4k|7:41|SelectionSort
+m_H7bBNC35I|15:19|Heap: conceitos iniciais
+DtvOvTEINyE|15:00|Heap: manutenção da propriedade (parte 1)
+hfJO-FnaXkA|6:43|Heap: manutenção da propriedade (parte 2)
+v3xF3bKChnI|10:08|Heap: insere, remove e atualiza
+t8a7XQ9E1gM|12:44|Heap: construção
+MPfycf5Unj8|12:04|Heapsort
+urgJPOXfTAA|4:38|Ordenação
+cTDolIbWrnc|7:25|Grafos: motivação
+RqWbrsv58lg|13:53|Grafos: definição formal e conceitos essenciais
+6YP0VGElhR8|13:50|Representação de grafos
+lLVDziVfbgQ|7:13|Introdução a análise de algoritmos em grafos
+645q30mcz7w|22:54|Remoção de um vértice em grafos
+E5XHLl2oVtA|8:29|Subgrafos, passeios, caminhos e ciclos
+VHT844YrwWI|7:56|Conexidade em (di)grafos
+KtNqatY4nMA|9:12|Distância em (di)grafos
+flyK0iVIHgI|16:09|Árvores (grafos)
+E8yuPq6u-58|16:34|Algoritmos de busca em grafos
+lDvkB3s_Jnw|14:49|Busca em largura
+e7eSEbY5wSE|17:09|Busca em profundidade
+KQoh-wPqrb4|8:18|Aplicações das buscas em largura e em profundidade
+uCX-ldXlku4|19:08|Busca em digrafos
+lvtCMZSZ5EE|9:19|Técnicas de projeto de algoritmos e problemas de otimização
+PCMcGPknMwk|30:01|Algoritmos gulosos e Problema das Tarefas Compatíveis
+wuLAH-7qYDY|22:18|Problema da mochila fracionária
+CRYjHV_29gU|16:46|Mochila fracionária - Prova de otimalidade
+OUAf-RmK59g|26:29|Problema da árvore geradora mínima
+RXIiK_nvkoQ|13:27|Algoritmo de Kruskal
+J5HDjZA53Os|9:39|Kruskal - Tempo de execução (parte 1)
+OzFKSD2CA7E|21:18|Union-Find
+IxVWTXisv2Q|17:41|Kruskal - Tempo de execução (parte 2)
+k1kW1HWtD08|7:07|Problemas de caminhos mínimos
+_bzpo50PLyg|23:53|Algoritmo de Dijkstra
+578n2FCZ67k|9:58|Dijkstra - Corretude
+1RvlOqDOGYM|15:29|Dijkstra - Tempo de execução
+7ZI0U8nJ_8E|24:54|Programação dinâmica e número de Fibonacci
+_-zOuCUql0E|51:09|Problema do corte da barra de ferro
+PhDi025n5Uw|25:25|Problema da mochila (parte 1)
+aQOFxHoVT4I|22:26|Problema da mochila (parte 2)
+kVHS3gWA5dQ|26:50|Problema do alinhamento de sequências
+zL51gTKF0o8|17:08|Algoritmo de Floyd-Warshall (parte 1)
+SslGFcvyQ8I|14:55|Algoritmo de Floyd-Warshall (parte 2)
+_NxAewEN4a8|29:19|Introdução à redução
+9NQNV0HVwcg|14:16|Problemas de decisão
+nbrTYPXiUV8|44:37|Redução entre problemas
+BghNkJH2Ybw|6:19|A importância da redução
+z_hGP6EYgio|9:04|As classes P e NP
+VJucgdXGHyE|12:09|Problemas NP-completos
+tMCWr3a-unk|12:49|Um problema NP-completo
+jFIciOBUd9U|11:31|Outros problemas NP-completos
+z4jJ9IyuCV8|4:42|Caminhos mínimos com ciclos negativos
+#hask
+U7gdzYiFJKg|10:09|0.3 Instalando o Windows Subsystem for Linux (WSL)
+VSTj9Qg2S8I|17:02|0.4 Emacs ♥ Haskell
+v0yExSZ6fzQ|29:58|0.5 Vim ♥ Haskell
+CzGSaXbPFRA|26:59|1.1 Paradigmas de Programação
+T980iXAlWAY|28:49|1.2 Paradigma de Programação Funcional
+AG0LtzDQrZ0|45:08|2.1 Cálculo λ - Uma (brevíssima) introdução
+a32y4ma10x4|34:20|2.2 Cálculo λ - Programando com Lambdas
+yHDdRy2bWZE|31:21|2.3 Cálculo λ - O combinador Y
+rrBMYho3frs|22:25|3.1 Haskell Básico - Parte 1
+WUGlBL9Fagw|20:49|3.2 Haskell Básico - Tipos Básicos
+dS5qmvxI7Us|21:15|4.1 Assinaturas de Funções e Cláusula Where
+u5b75ENDpdY|19:53|4.2 Condicionais, Guards e Pattern Matching
+SNgTSnYjQHo|17:54|4.3 Listas
+B7OcmmL4ous|17:59|4.4 Compreensão de Listas
+bJg0fkvGdNQ|11:57|4.5 Recursão simples e em listas
+w1N9ecrABBA|38:38|5.1 Testes de Propriedades - QuickCheck
+TqLtexmxdko|31:45|6.1 Funções de Alta Ordem
+tO-F4hYX7lg|32:12|6.2 Dobrando sua lista: foldr, foldl, foldl'
+nQoEbUpXIG4|7:31|6.3 Composição de Funções
+Ii5uQ74daQI|20:28|7.1 Criando apelidos de tipos com type
+u3TRRMQKnf8|39:42|7.2 Tipos de Dados Algébricos
+xADDRW7LPgY|14:59|7.3 Tipos de Dados Recursivos
+uAaIoauk7Jk|42:48|7.4 A Álgebra dos Tipos
+ir_qrcjVXEU|45:36|7.5 Estrutura Zipper
+7HosJvLdeY0|23:53|7.6 Classe de Tipos
+E_ng7pVl3SE|52:51|8.1 Classe de Tipos Monoid
+6e-C6ESOgg8|31:40|8.2 Tipo de Dado Fold
+7SuH3ymEG9M|20:41|9.1 Classe Functor
+HgQ8p4V-53U|13:18|9.2 Receita para criar instâncias de Functor
+nowE1MWZcu8|34:04|9.3 Estudo de caso: Functor SafeNum
+DUmGOabTgnc|21:25|10.1 Classe Applicative
+Rq1TOaROXnA|4:59|10.2 Estudo de caso: Applicative SafeNum
+lqyaWEHBmiw|14:30|10.3 Classe Traversable
+H7CatTDfyO0|20:44|10.4 Exemplo de uso do Traversable
+3EneadBLko8|18:16|10.5 Instância de Applicative para a ADT Folds
+GTWZbeuOwb8|21:37|11.1 Classe Monad
+DTj0bFdo7Us|5:32|11.2 Estudo de Caso: Monad SafeNum
+LUOvVPXvA9k|15:56|11.3 Monad Lista
+3CRqf13q7p4|9:13|11.4 Monad Either
+JGPz38LoOwQ|24:58|11.5 Monad Reader
+rLkYB8Y2f-E|17:40|11.6 Monad Writer
+_yKJ2ft9Lg4|30:03|11.7 Monad State
+zsOFMbNPryM|17:53|11.8 Monad IO
+1KKehjj4D1w|16:03|11.9 Funções de Alta Ordem para Monads
+YjeLCT9h4Rk|20:48|12.1 Laziness
+YS1VH4fB2lY|18:01|12.2 Primo Folgado
+A_x_gtdS6f0|7:52|12.3 Fibonacci Preguiçoso
+o_qGcTLE5lg|24:46|13.1 Haskell Paralelo - Eval Monad
+lT_1TcYglQM|13:56|13.2 Haskell Paralelo - Estratégias de Avaliação
+YbkJ5NBeBHs|19:20|13.3 Haskell Paralelo - Threadscope
+JTqXzLlNEow|15:11|14.1 Concorrência - Threads e forkIO
+RJvokKmFgMI|23:05|14.2 Concorrência - MVars
+hfqOYselemo|23:49|14.3 Concorrência - Async
+-69zlxzAe_4|10:13|15.1 Estruturas de Dados Funcionais - Persistência
+SsbT6ER96fg|28:21|15.2 Estruturas de Dados Funcionais - Explorando Listas
+Q-ZJI5XSQ34|19:25|16.1 Árvores Binárias e Percursos
+fqxHuihBA2I|55:42|16.2 Árvores Binárias: Percurso em Largura
+DPFmz8vaqcg|21:01|16.3 Zippers para Árvores
+3eDLL_VdWd4|18:59|16.4 Roseiras (Rose Trees)
+jAzh3mkVhgY|9:44|16.5 Árvores Rubro-Negras: Introdução
+W0WFVELrUm0|10:14|16.6 Árvores Rubro-Negras: Operações Básicas
+F5V477CHH6A|23:01|16.7 Árvores Rubro-Negras: Inserção
+#calc2
+lQdzRBRL9Tw|33:30|T1 Polinômios de Taylor, funções de uma variável real
+rzuY_L8ag2M|22:42|T2.1 Fórmula de Taylor com resto de Lagrange
+nV0YeH4QaLo|30:32|T2.2 Fórmula de Taylor com resto de Lagrange
+vRLzlgt01sk|25:07|T2.3 Fórmula de Taylor com resto de Lagrange
+A_PIIDItrBc|23:10|T3.1 Curvas planas: equações paramétricas e vetor tangente
+BMfK3zze7fA|21:46|T3.2 Curvas planas: equações paramétricas e vetor tangente
+ueNy2UgUX_o|31:34|T3.3 Curvas planas: equações paramétricas e vetor tangente
+2ddgsYYPaeg|25:16|T4.1 Funções de duas variáveis: gráfico e curvas de nível
+OwQ2vSDCR6c|22:59|T4.2 Funções de duas variáveis: gráfico e curvas de nível
+5OZ-IbICMGc|24:22|T4.3 Funções de duas variáveis: gráfico e curvas de nível
+nz-ssZWxz6w|23:57|T5.1 Limites de funções de duas variáveis
+DNjMLOs2UC4|28:04|T5.2 Limites de funções de duas variáveis
+nOPK6CubFtE|29:36|T5.3 Limites de funções de duas variáveis
+DQ11oOm_s3E|26:56|T5.4 Limites de funções de duas variáveis
+X_VfVMj9eik|21:40|T5.5 Limites de funções de duas variáveis
+TKSoYEC1ODo|23:29|T5.6 Limites de funções de duas variáveis
+c8F8-iAsy84|34:23|T6.1 Exercícios da lista 1
+3lKDYhlABpc|28:00|T7.2 Exercícios da lista 1
+dfBszI2BSBE|25:24|T8.1 Exercícios da lista 1 II
+AwBt5LCOOTk|24:29|T8.2 Exercícios da lista 1 II
+pqc5RI2gniE|21:34|T8.3 Exercícios da lista 1 II
+dPgt7dDoLhA|32:43|T9.1 Derivadas Parciais
+lCrBaypZJHk|23:51|T9.2 Derivadas Parciais
+kFQoEoUpyww|27:32|T9.3 Derivadas Parciais
+Zqd4PhUVtio|28:38|T10.1 Diferenciabilidade de funções de duas variáveis
+zMOfZLNyiT8|17:00|T10.2 Diferenciabilidade de funções de duas variáveis
+Qb8qSZOMyFw|22:00|T10.3 Diferenciabilidade de funções de duas variáveis
+V3Abl3nTk4E|35:03|T11.1 Condições suficientes para diferenciabilidade
+-aEgqHlGKb4|22:33|T11.2 Condições suficientes para diferenciabilidade
+BWGvPBS2QOw|30:06|T12.1 Regra da Cadeia e Gradiente
+_gvxJAudsWo|19:15|T12.2 Regra da Cadeia e Gradiente
+4AddFcbXfqY|22:13|T12.3 Regra da Cadeia e Gradiente
+4eFFW-mZmTU|28:49|T13.1 Regra da Cadeia; derivadas parciais de ordem superior
+hAGbHk8ucZo|25:43|T13.2 Regra da Cadeia; derivadas parciais de ordem superior
+cX5mKe9s460|18:12|T13.3 Regra da Cadeia; derivadas parciais de ordem superior
+GOTY9Datrec|23:01|T14.1 Vetor gradiente e derivada direcional
+E4VfHZZuUM4|24:00|T14.2 Vetor gradiente e derivada direcional
+5A5grEuOaMM|28:59|T14.3 Vetor gradiente e derivada direcional
+z-0khGRb_AE|28:46|T15.1 Exercícios: gradiente e regra da cadeia
+vDSg54obDGs|22:06|T15.2 Exercícios: gradiente e regra da cadeia
+o4y63UCfYm8|24:26|T15.3 Exercícios: gradiente e regra da cadeia
+1tDPIWG5qtc|30:15|T16.1 Exercícios
+KPip6L81FQg|30:34|T16.2 Exercícios
+Gksfr0uJzsA|25:58|T17.1 Funções de 3 variáveis e superfícies de nível
+BdG7ky8ilss|25:46|T17.2 Funções de 3 variáveis e superfícies de nível
+HnlPnqmNLD4|22:28|T17.3 Funções de 3 variáveis e superfícies de nível
+CH_MQ7vxIkA|27:01|T18.1 Superfícies de nível e vetor gradiente
+xZEuC4vZOpo|23:24|T18.2 Superfícies de nível e vetor gradiente
+qPwk0Oy9BWA|30:26|T18.3 Superfícies de nível e vetor gradiente
+J66K5FJBPOM|28:45|T19.1 Máximos e mínimos em conjuntos
+HHe4tz4XX4s|26:52|T19.2 Máximos e mínimos em conjuntos
+CoZcYDYW4E8|26:17|T19.3 Máximos e mínimos em conjuntos
+RCYBZw_5eBQ|30:16|T20.1 Multiplicadores de Lagrange
+Xl4Vgas5uJ4|29:21|T20.2 Multiplicadores de Lagrange
+XGrgI02NbgI|21:17|T20.3 Multiplicadores de Lagrange
+Py9PeEYvdn4|30:33|T21.1 Lagrange para 2 e 3 variáveis
+RLdDPpDi7SY|22:04|T21.2 Lagrange para 2 e 3 variáveis
+oC3jsXJKAIk|24:05|T21.3 Lagrange para 2 e 3 variáveis
+90oRabEXfU8|18:26|T22.1 Lagrange com duas restrições
+ukyPnwZIF-c|30:42|T22.2 Lagrange com duas restrições
+0XcNYPZwUhE|24:36|T22.3 Lagrange com duas restrições
+e3InsGUTlEY|24:51|T23.1 Condições necessárias para máximo ou mínimo local
+LH8Q_gjbIGY|31:25|T23.2 Condição suficiente para máximo ou mínimo local
+GcMykB43_1M|24:59|T23.3 Condição suficiente para máximo ou mínimo local
+MphHeFq-rBw|29:55|T24.1 Exercícios
+orhrMl55CsE|29:24|T24.2 Exercícios
+jl0V_jFXuSE|23:24|T25.1 Exercícios da lista 3
+R2jjPMmOwzc|20:52|T25.2 Exercícios da lista 3
+pym3eQMm3n4|28:55|T25.3 Exercícios da lista 3
+KI0t8BceVak|27:30|T26 Revisão do Teorema de Weierstrass e exercícios
+#lfa
+4zMwOozUt9U|26:27|Conceitos centrais em linguagens formais e autômatos
+0W_HK4MYKL8|22:22|Autômatos finitos determinísticos - Definições
+Jq5AIXV2h4c|29:54|Demonstrando a linguagem de um AFD
+pqfYAgt2K_E|10:47|Linguagens regulares
+7Do1FZTGD7I|21:19|Projeto de autômatos finitos determinísticos
+eYllB2bQI4w|53:12|AFDs: exercícios
+G6Ypl9FbiRI|7:54|Simulando um AFD
+U3xswIkOu4Q|16:10|Autômatos finitos não determinísticos - Definição
+Dw3Z_TNo-pM|17:23|Autômatos finitos não determinísticos - Computação
+sq7cZ52mknA|15:37|Demonstrando a linguagem de um AFN
+mlaF5aT2rnE|16:28|AFNs: mais exemplos
+oF4KiYZU0PY|22:49|AFDs vs AFNs
+26A3H77EdEo|6:20|Convertendo AFNs em AFDs
+L6CM99jvBIY|9:13|Simulando um AFN
+PwkmIR-kCQE|13:37|Operações regulares
+IDTVuqyNvNI|22:44|União de linguagens regulares
+HUgfLNiDFYo|6:22|União de linguagens regulares - Outra demonstração
+zl6oi0ayBXg|6:43|Concatenação de linguagens regulares
+OEevDk1u-G4|9:38|Estrela de uma linguagem regular
+gLmt0O35Ohc|7:50|Construção de autômatos por união, concatenação e estrela
+7kqrQJB-rqU|16:06|Expressões regulares
+DFbnZYts3NI|4:41|Expressões regulares: mais exemplos
+CsGl3vtKuhM|17:58|Projeto de expressões regulares
+xucVaM2FubQ|7:51|Toda expressão regular descreve uma linguagem regular
+uypUSVRzyEQ|8:39|Transformando uma expressão regular em um AFN
+G_wngjI8EWk|31:05|Toda linguagem regular é descrita por uma expressão regular
+gn2DlgSGkrU|9:27|Transformando um AFN em uma expressão regular
+sTV3dN-KAq0|20:20|AFDs e o Princípio da Casa dos Pombos
+wVMmMtPSAFc|9:39|Lema do bombeamento para linguagens regulares
+dpfYv39dZfY|30:43|Usando o lema do bombeamento (regulares)
+Cqk4LzrMs8g|14:20|Erros ao usar o lema do bombeamento (regulares)
+xP_J570j7pM|7:57|Linguagens regulares: o fim!
+W88XbH2e4_w|25:07|Gramáticas livres de contexto
+JMh9wfZuiYE|10:13|Demonstrando a linguagem de uma GLC
+6G-da97ROw4|14:12|Linguagens livres de contexto
+nFosAsJ1ymo|38:16|GLCs: mais exemplos (parte 1)
+egWpcPXe1ak|26:25|GLCs: mais exemplos (parte 2)
+-rfslM7ouzY|30:32|Autômatos com pilha
+wXtbxHn81mQ|21:32|APs: mais exemplos
+bV7emJ2kDuc|19:15|GLCs vs. APs
+3EqWy6rQAgE|4:17|Simulando GLCs e APs
+kjlx1nnFGOM|14:50|Propriedades das linguagens livres de contexto
+EtDUzu-ghy0|15:25|Discussão sobre GLCs
+ByQcwPhSuI0|10:58|Lema do bombeamento para linguagens livres de contexto
+NbORqnOM5k8|21:21|Usando o lema do bombeamento (livres de contexto)
+7-ABbECfErM|4:10|Linguagens livres de contexto: o fim!
+5ffHAXG0CE4|22:13|Introdução a máquinas de Turing
+KDiDPHR0eEk|24:33|Máquinas de Turing
+wNBWJdh5WOY|47:06|Mais exemplos de máquinas de Turing
+pyVGeqcz8Bc|15:37|Variantes de máquinas de Turing
+YA_B0HOTb6Q|20:21|Descrevendo máquinas de Turing
+q-eqDYic8kk|11:28|Tudo é cadeia
+FvBii2K7DtM|13:16|A tese Church-Turing
+HPpOOQuHcVU|8:43|Máquinas de Turing e computadores
+E5TIyO_nUF0|26:40|Decidibilidade
+SgzrgOMf5Ts|13:53|O problema da parada
+YsLNFs-Cr8U|28:31|O método da diagonalização
+hdRch9DQ19s|27:49|Os limites da computação
+-TSInYiLUPQ|29:49|Introdução à redutibilidade
+Xf7RnwOOGEc|19:19|Redução
+6lY9buXaYtA|31:09|Exemplos de redução (indecidibilidade)
+T5erQ1LsiuA|12:04|Exemplos de redução (irreconhecibilidade)
+huIXTpLSQ9o|33:54|Tempo de execução
+U1e0cTZ17Do|16:48|Notação assintótica
+JAurTOiZZkM|17:39|Tempos nos diferentes modelos de computação
+jvaNawcnvdU|30:54|As classes P e NP
+A78N4u0vHDc|9:50|Problemas NP-completos
+tMCWr3a-unk|12:49|Um problema NP-completo
+#dl
+0VD_2t6EdS4|3:03|L00 Apresentação do curso de Deep Learning
+l3YXuNJREOk|41:53|L01 O que é aprendizado de máquina e aprendizado profundo? (parte 1)
+wTtpqCkuy28|50:01|L01 O que é aprendizado de máquina e aprendizado profundo? (parte 2)
+_rxy25sl1YY|41:10|L02 Breve história das redes neurais e deep learning
+VkLUQWNhApk|40:34|L03 O Perceptron e redes neurais de camada única (parte 1)
+yNA-aaZAkdQ|46:23|L03 O Perceptron e redes neurais de camada única (parte 2)
+1KRhtQOcORk|42:20|L04 Álgebra Linear para deep learning (parte 1)
+OmQn8aPpkO4|25:23|L04 Álgebra Linear para deep learning (parte 2)
+xI9LolOu0jo|47:16|L05 Aprendizado com gradiente descendente (parte 1)
+FW3vf3TSGr0|35:56|L05 Aprendizado com gradiente descendente (parte 2)
+mIKuWmJRApQ|25:45|L05 Aprendizado com gradiente descendente (parte 3)
+1EQV6d8ArJo|48:29|L06 Diferenciação automática com PyTorch
+LMA081dvtf4|46:36|L07 Regressão logística e classificação multiclasse (parte 1)
+CDguod1rNvU|33:36|L07 Regressão logística e classificação multiclasse (parte 2)
+gSMYyUYA9Us|47:20|L07 Regressão logística e classificação multiclasse (parte 3)
+VN8RTIyfJUs|46:45|L08 Rede neural multilayer perceptron (parte 1)
+-YY1AIM3j88|1:02:49|L08 Rede neural multilayer perceptron (parte 2)
+pOVcv_XouUg|49:30|L09 Regularização (parte 1)
+-vS_rk4ZDTA|40:04|L09 Regularização (parte 2)
+W4X2ZeEzreM|49:20|L10 Normalização de características e inicialização de pesos (parte 1)
+6jWywZypNdI|33:28|L10 Normalização de características e inicialização de pesos (parte 2)
+akgqZ6M9pQw|1:00:40|L11 Algoritmos de otimização para Deep Learning
+OoYUL7lzznw|1:24:23|L12 Redes neurais convolucionais
+_QbA4IOT1GM|40:25|L13 Redes neurais convolucionais (parte 1)
+5MySLWCG6E0|1:02:09|L13 Redes neurais convolucionais (parte 2)
+1inwL2FNy90|39:50|L13 Redes neurais convolucionais (parte 3)
+jxqVnVYPndU|27:41|L13 Metric learning
+n7jWzlMDT-0|57:11|L14 Redes neurais recorrentes (parte 1)
+vrEMGdfDB7A|38:12|L14 Redes neurais recorrentes (parte 2)
+IKVuwKh1n1g|55:44|L15 Autoencoder (parte 1)
+VYXY5Z1jx78|34:06|L15 Autoencoder (parte 2)
+zAESjdU_QyE|54:21|L16 Generative Adversarial Networks (parte 1)
+dzLDlWllKNU|42:48|L16 Generative Adversarial Networks (parte 2)

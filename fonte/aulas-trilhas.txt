@@ -1,0 +1,2438 @@
+#PLU15eSNTfwrnd1I835eFA124rd4CVGq3e
+FizuHaatRAs|24:24|LoRa: a tecnologia da comunicação ponto a ponto
+bB2U2iOsEkw|11:29|Introdução ao LoRa e LoRaWAN - Camada Física
+iPGXyeHv5JQ|13:07|LoRa e LoRaWAN - Classes de Operação
+6fSIgRUznnk|13:56|LoRa e LoRaWAN - Spreading Factor, Potência e AirTime
+YHrpIq-T88A|25:53|LoRa e LoRaWAN - Topologia de Rede
+vV3dlsUz_Yc|18:44|LoRa e LoRaWAN - Algoritmo Adaptive Data Rate (ADR)
+yub2dC56fZg|14:48|LoRa e LoRaWAN - Airtime, Time on Air (ToA), dwell time
+_Ndep_luE9Q|24:47|LoRa e LoRaWAN - Regulamentos Regionais AU915 (Brasil)
+_VW0w1RqQkc|45:18|Rede com e-IDF C/C++
+#PLY-Tw02f5SDIP3CRtcaenRQc8Yz52m6XZ
+#PL7ScB28KYHhGTTHA2PFe0DmHmt3qU4YgM
+#PL7581C21F8ADD6C8E
+bJuoKyIG13A|43:42|Aula 1
+D5CRU_woDF4|45:05|Aula 2
+ez0aAXj5BjI|46:18|Aula 3
+XlbLm9-0Owo|45:58|Aula 4
+kLnHwlHZgM4|47:18|Aula 5
+hSQQC5sud0k|39:57|Aula 6
+iJ-aYFE3jNM|41:47|Aula 7
+my9mG2UD1JA|44:22|Aula 8
+0pUc0HEXr5k|46:14|Aula 9
+vwndK54QKgg|45:33|Aula 10
+IOuF0E0yKfc|46:09|Aula 11
+60QPpMBgxnY|31:57|Aula 12
+BQ--536UoWs|46:26|Aula 13
+cnJxwqyi_Og|46:41|Aula 14
+LRCtrRXrfsM|45:24|Aula 15
+sATEFy8PtiY|44:54|Aula 16
+fqZgMJVZhMU|50:50|Aula 17
+inXQevW9PqQ|54:52|Aula 18
+qIPDhfhr-bQ|47:18|Aula 19
+EDAlNpavMPs|42:26|Aula 20
+-H9_Gr90Frw|48:46|Aula 21
+Aq3tdAoeY7Y|35:56|Aula 22
+kQjxi8tAuBA|47:48|Aula 23
+Bl4Yem2Zn54|39:58|Aula 24
+0wKMXu1lzHM|41:07|Aula 25
+HVY2eyqJT-o|49:17|Aula 26
+#PL2xox8ncv81X2Cp3FClIjRE9sG_Vq6sZ_
+CtDH3J7oFcI|1:42:08|01 Fundamentos axiomáticos (Parte 1)
+tHSqEdIklQQ|1:31:04|02 Fundamentos axiomáticos (Parte 2)
+epyIFVbwj9s|1:21:52|03 Operações entre conjuntos
+pXcX2M-CgVA|1:13:31|04 Relações e funções
+r_7Urp1nL6s|41:15|05 Imagens diretas e inversas
+pxALoHkoe98|1:14:02|06 Funções injetivas, sobrejetivas e bijetivas
+6wEMsEgl1Zc|1:04:55|07 Números naturais: os axiomas de Peano
+FOo44NmhpLo|1:03:56|08 O produto de números naturais
+c9IrBTK8-Jo|1:56:12|09 A ordem nos números naturais
+i5u1gqWkG24|1:14:03|10 Conjuntos finitos (Parte 1)
+XEX_tJ_-1NI|1:30:36|11 Conjuntos finitos (Parte 2)
+0LzkSSy44sA|1:17:45|12 Conjuntos finitos (Parte 3)
+5trNsGo6yWE|1:12:57|13 Conjuntos enumeráveis (Parte 1)
+uTZgVM8c-18|51:30|14 Conjuntos enumeráveis (Parte 2)
+#PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo
+LlNaI6upK94|3:53:26|Implementando o algoritmo Ray Tracing do zero
+KxOEEDFZPIs|3:13:54|Reflexos, materiais e anti-aliasing com Ray Tracing
+y9beDEOk3bM|3:45:49|Câmera virtual fotorrealista com Ray Tracing
+MtPx1d2E05E|9:18|O algoritmo de iluminação realista de filmes e jogos
+E8PJDhwy_RI|2:30:23|Amostragem e reconstrução de imagens: o que é aliasing
+dupUXsBKH74|3:09:23|Braço robótico articulado EP.1: transformações lineares e matrizes
+v_FKh3oFaZE|2:24:35|Braço robótico EP.2: grafo de cena e hierarquias
+Kqgo4oehrp0|2:49:30|Programando vídeos com animações: braço robótico articulado
+#PL5TJqBvpXQv54i_HWjd7s70vbP4Is7sK_
+T9V_axU6jU8|15:23|O que é uma imagem?
+kb8S06dpZiM|24:00|Sintetizando imagens com Python
+_3VcRHwZpPU|17:07|Convertendo uma imagem para escala de cinza com Python
+0twXh_AMJKQ|13:16|Entendendo cores no RGB
+YQB9hXRfnSk|14:30|O que é um filtro de imagem?
+IgQfpMPblR0|22:10|Borrando uma imagem em Python
+uHT4qDzq1bY|27:13|Detectando arestas na imagem com filtro Sobel
+6PMHKXXhRXc|19:30|Como fazer chroma key programando
+l204_L-IiI4|15:54|Programando uma animação de Dia dos Namorados
+TsdPlaxx9B0|16:32|Criando filtro negativo em Python
+E8PJDhwy_RI|2:30:23|Amostragem e reconstrução de imagens: o que é aliasing
+x78FpxMF-eY|8:54|Capa da invisibilidade com visão computacional
+tj9YO90bFbE|3:22:03|Desafio: criando a bandeira brasileira em Python do zero
+#PL516F59E9AE8F5BF7
+p3QjNd2eA14|35:26|Gravitação, massa etc. - Parte 1
+XBbl-L922e4|36:13|Gravitação, massa etc. - Parte 2
+dL0PtiqTfNo|40:06|Gravimetria, matéria escura, energia potencial gravitacional - Parte 1
+HJyNoL1T5JA|37:53|Gravimetria, matéria escura, energia potencial gravitacional - Parte 2
+jZLcZlZ51RQ|41:31|Equilíbrio e elasticidade - Parte 1
+prTJJmzhyRo|38:03|Equilíbrio e elasticidade - Parte 2
+hi2ORXrJk6k|44:51|Fluidos - Parte 1
+B9s4PQt2TAc|44:41|Fluidos - Parte 2
+LVJyxS-sO0w|46:41|Calor e 1ª Lei da Termodinâmica - Parte 1
+XDCcDTpuDoY|45:35|Calor e 1ª Lei da Termodinâmica - Parte 2
+T5IfNuCOa7w|40:48|A 2ª lei da termodinâmica - Parte 1
+MSFAbZpIi1c|43:56|A 2ª lei da termodinâmica - Parte 2
+uSqApPtHUds|38:48|A entropia e sua interpretação microscópica - Parte 1
+lszr2DYTtUo|47:08|A entropia e sua interpretação microscópica - Parte 2
+Zuuv8nJFy8E|45:29|Gases ideais e teoria cinética - Parte 1
+ewnoinZ3R7E|44:39|Gases ideais e teoria cinética - Parte 2
+WBUcT8NVwuk|37:01|Oscilações - Parte 1
+HrC_7BFiT3Y|32:48|Oscilações - Parte 2
+y4sB6oGZeLs|25:34|Oscilações - Parte 3
+UCfLm9DRfuI|40:11|Ondas I - Parte 1
+eU1tQwNnrLM|37:16|Ondas I - Parte 2
+EV1d_u6K7A0|33:35|Ondas II - Parte 1
+qnwNUQ1tuig|35:14|Ondas II - Parte 2
+R7hmbj4wl5E|42:14|Ondas III - Parte 1
+P4mKhOkCwIY|43:31|Ondas III - Parte 2
+#PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z
+fPvI7Hqspko|1:40:22|01 O corpo dos números reais
+nHlR8fSU4fo|1:40:11|02 Intervalos e limitação
+bhj44pczzA4|1:30:42|03 A não-enumerabilidade de ℝ
+N8CBiCntRRg|1:21:37|04 Sequências e convergência
+4OdulDrEi6A|1:24:54|05 Sequências limitadas: o Teorema de Bolzano-Weierstrass
+F-P9MfB2Ln8|44:02|06 Limites e desigualdades
+QgTh__yGGPo|1:17:01|07 Operações com limites
+aDJLDoMNuJE|2:02:51|08 Radiciação
+Dssd_XZJU6s|1:03:24|09 Potências com expoente racional
+HWgIonsSg_8|1:20:55|10 Limites infinitos
+-jIm2iNb1C0|1:53:58|11 Séries de números reais
+7XAjYFaJMx0|1:20:42|12 Critério de convergência para séries
+CSKSxL-DSFE|1:15:16|13 Topologia da reta: conjuntos abertos
+P3A-5YKW8LI|1:03:49|14 Topologia da reta: conjuntos fechados
+4GJvDRKA1Tw|1:31:01|15 Topologia da reta: cisão e acumulação
+tsYEBC-k8Y0|1:35:11|16 Topologia da reta: conjuntos compactos
+kADZMhn6ihw|1:54:24|17 Limites de funções
+c-G7K8UWzn8|1:27:07|18 Limites laterais
+OJqtQ-xxgm8|1:10:51|19 Limites no infinito
+#PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP
+Tt3BLZCVjAE|6:46|O que é Makefile e onde encontrar a documentação oficial
+5PgKE_7bF0s|7:15|Apresentação e Olá mundo, Make!
+EwgSWgSv9pw|11:49|Alvo, dependência e ação no Makefile; make all
+bZ3l5bjrAOE|13:56|Compilando o programa e as dependências (módulos)
+Ck7bTBBAE60|5:27|Remover arquivos com make clean
+RNbQwAMxhtE|11:11|Organizando em diretórios com as opções -c e -o
+kVy3_2AQFsY|10:15|Organizando em diretórios com as opções -J e -I
+WBWRSWpZVKc|8:05|Variáveis no Makefile
+ioAWdE3dxZ4|10:25|Máscaras no Makefile (Parte 1)
+tGLiDZuaiw8|13:08|Máscaras no Makefile (Parte 2)
+tLbbeEYhDeE|13:09|Máscaras no Makefile (Parte 3)
+bAGY4W6PBlc|11:43|Wildcard e extensões de arquivos
+pWswtc02rkU|13:58|Bibliotecas compartilhadas (shared libraries)
+UZkw4RGStjI|8:07|Bibliotecas estáticas (static libraries)
+kbye7ESeSHQ|6:25|Funções addprefix e addsuffix (Parte 1)
+JSsmB9DrW5U|5:44|Funções addprefix e addsuffix (Parte 2)
+OfF8DGNimaE|7:14|Builds condicionais no Makefile
+ciMUOGCXuFI|5:43|Funções personalizadas com parâmetros (Parte 1)
+zUAq6aKJ_Wc|10:26|Funções personalizadas com parâmetros (Parte 2)
+#PL2xox8ncv81W698VTHptmp7ZNvcKqlyHO
+8inI_MeSTuM|1:05:59|01 Números reais
+EjI8QNzYMwg|1:06:44|02 A intimidade dos números reais
+TKDFnq2VEJ8|53:12|03 Qual a função das funções?
+iYbkY1f-Rzo|46:03|04 Contatos imediatos de 1º grau
+R1c1g9ADzQc|41:31|05 Contatos imediatos de 2º grau
+Rp9gUV8wmTg|1:06:40|06 Contatos imediatos de n-ésimo grau
+G4EVhxkZNCI|1:11:33|07 Funções trigonométricas
+tXzGOp83QgM|1:02:49|08 Funções exponenciais e logarítmicas
+S_U_h_7lVDw|29:32|09 Composição de funções
+#PL5TJqBvpXQv4TO4Y_JZExBCBzNXDLYUCj
+Tj0CUAyxjck|14:54|Uma linguagem para ciência de dados? Programe em Julia
+x2vSipeVjBw|56:25|Aprendendo a linguagem Julia - Dia 1
+is4Rfubv0-o|1:23:59|Aprendendo a linguagem Julia - Dia 2
+DnUDdonY724|1:08:25|Aprendendo a linguagem Julia - Dia 3
+xlSa2Ry6TvQ|1:47:27|Aprendendo a linguagem Julia - Dia 4
+EtT6yrxnUYU|1:29:25|Aprendendo Julia ao vivo - 5
+qOH3NiznnxA|1:49:27|Aprendendo Julia ao vivo - 6
+wbQxUdKx31E|48:13|Aprendendo Julia ao vivo - 7
+JhSd_MeZhPM|1:26:11|Aprendendo Julia ao vivo - 8
+r0_vOeP_Yew|1:08:11|Aprendendo Julia ao vivo - 9
+QO1-3rdoh2g|56:10|Aprendendo Julia ao vivo - 10
+Fjpc_z5XC_o|1:42:11|Aprendendo Julia ao vivo - 11
+07ZqqCaA9Y0|1:17:35|Aprendendo Julia ao vivo - 12
+iFn4fgHcQJo|1:09:23|Aprendendo Julia ao vivo - 13
+M0yhpFtj_XA|56:21|Aprendendo Julia ao vivo - 14
+I_DZ3kyutWE|1:18:45|Aprendendo Julia ao vivo - 15
+NdpmmxDagpM|1:36:05|Aprendendo Julia ao vivo - 16
+Sh9HBL14df8|54:19|Aprendendo Julia ao vivo - 17
+TXoopIWFHUU|1:06:09|Aprendendo Julia ao vivo - 18
+DBCHoKd2bn0|1:05:19|Aprendendo Julia ao vivo - 19
+FOVK3Aqslpg|1:41:29|Aprendendo Julia ao vivo - 20
+c_1ldsKm92o|1:18:36|Aprendendo Julia ao vivo - 21
+H2NTHeq3E3Q|1:30:37|Aprendendo Julia ao vivo - 22
+kuq6lKtS60c|1:28:39|Aprendendo Julia ao vivo - 23
+FL-m5TLyR2k|1:02:45|Aprendendo Julia ao vivo - 24
+1CMT4aStXiE|1:42:05|Aprendendo Julia ao vivo - 25
+kyEdzHvswyQ|1:04:05|Aprendendo Julia ao vivo - 26
+mFJCNkCbKWs|1:18:01|Aprendendo Julia ao vivo - 27
+AueVtmvSRuY|1:18:08|Aprendendo Julia ao vivo - 28
+cQoMbgukPOg|1:48:12|Custom Set (HARD) - Aprendendo Julia ao vivo
+E-vz6eHNFJM|2:25:30|Circular Buffer (exercism.io) - Aprendendo Julia ao vivo
+LlNaI6upK94|3:53:26|Implementando o algoritmo Ray Tracing do zero
+#PLU15eSNTfwrnlzgvMmb1NK7l0qNo8UMKr
+ibHPl2nLsq0|39:04|Palestra: melhore seus projetos Arduino usando FreeRTOS
+LA98DiYYdUs|9:51|01 Introdução
+D3ykqdgRWdM|15:11|02 Organização de código em microcontroladores
+sDIgrW8mk3Y|9:21|03 Organização de código em Posix/Linux
+DEaecdlCDr4|4:31|04 Adaptações para Ubuntu
+Ny0Qek-MRJE|8:43|05 Compilar ou importar simulador para Eclipse
+DPAqw5VS47I|13:49|06 Novidades
+lVQ_aOgOkek|1:20|07 Dependências
+DzTaZvrFP4c|4:44|08 Modificações nos arquivos de simulação
+y3K0DaQ_TzI|25:11|09 Tarefas
+ARHVDmR3eWM|17:10|10 Filas
+LPOnoNyMP0I|11:15|11 Semáforos e Mutex
+8LazxZ5cuZI|10:16|12 Timers
+ONUeCSEEJI4|2:51|13 Task Notification
+Xd_1YGCv9y8|8:28|14 Event Groups
+KeHcqGh8kq8|12:48|15 Implementação de Tarefas
+w3DPhEBSQKk|14:00|16 Implementação de Filas
+JTl9UgCBku0|6:52|17 Implementação de Semáforos
+acdtttFcUf4|8:18|18 Implementação de Task Notify
+#PL2xox8ncv81WXIutzWJDQ7E78riZqJClA
+c5gknW-7CQ8|51:54|A origem
+ET9BR4cuJDA|1:31:08|01 Álgebra de matrizes
+eiDzE_ABXS8|42:41|02 Matrizes invertíveis
+bGsL9KdSFYY|1:06:10|03 Matrizes elementares
+PdIJ0NcnTAE|1:15:59|04 Sistemas de equações lineares (Parte 1)
+l0RtI3Ur8YE|1:23:45|05 Sistemas lineares (Parte 2)
+stbG_r-0JK8|1:11:47|06 Espaços vetoriais
+dICkXu54yKM|1:17:55|07 Subespaços vetoriais
+QJ3T80Mla74|1:00:01|08 Bases
+_BNMmXH8nJA|1:18:20|09 A dimensão de um espaço vetorial
+9lhEr0B3CI4|1:04:52|10 Dimensão finita
+ZDHgF4XkHh0|1:09:10|11 Transformações lineares (Parte 1)
+-Iv5DlC8mvE|1:34:08|12 Transformações lineares (Parte 2)
+tqo3NcgrRLE|1:31:44|13 O Teorema do Núcleo e da Imagem
+5-f0HO-h4QQ|1:14:04|14 Soma direta de espaços vetoriais
+VvIXFvyzW6E|53:06|15 O espaço de transformações lineares: nasce o dual
+JrzR1OEIYNU|58:43|16 O espaço de transformações lineares: o ataque do dual
+HfRa76nLs7s|1:14:13|17 Matrizes arbitrárias vs. transformações lineares (Parte 1)
+BnglDDD2uww|55:18|18 Matrizes arbitrárias vs. transformações lineares (Parte 2)
+urtcsvStKqA|2:08:37|19 Transformações lineares em dimensão infinita
+#PL3B-OV5dZTqbaLi1f2UmXEWbcx9WyYaTX
+P1Mm-gTi5i8|1:38|01 Introdução
+_4PikzgWX24|9:25|02 O que é
+XX1800nlbxU|4:05|03 Por quê?
+KHcFYMtKVko|6:00|04 Princípios arquiteturais
+BkzfaIcbXVc|12:33|05 Recursos
+fqGqlygkrcQ|9:17|06 Verbos
+rxxC9FJukXg|10:53|07 Códigos HTTP
+dIY6WUDlm1o|2:41|08 Fluxo da requisição
+G4qUa3uftgY|6:05|09 Requisições assíncronas
+V0KqWy877Jg|6:18|10 Query strings
+rmHVC2u4N1s|8:49|11 Exercícios
+m-XFJXipGqU|5:13|12 HATEOAS
+Fl7u3WZO9kk|12:01|13 Modelagem
+SXHVdP0LlPo|3:39|14 Contrato
+tdi3B6zZlr8|7:47|15 Versionamento
+tXaw3doMuBc|9:01|16 OpenID Connect e OAuth 2.0
+2jLLNWF6Vac|1:07:18|Extra: programando uma API em .NET Core
+#PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE
+oZeezrNHxVo|36:39|Aula 0 - Preparando o ambiente
+8Qm5K0GTD3s|34:19|Aula 1 - Funções main() e printf()
+UF9YDhM_aq4|31:53|Aula 2 - Variáveis booleanas e do tipo char
+GJoGD0HM6mE|33:06|Aula 3 - Variáveis do tipo int
+7J83DWILXSc|19:27|Aula 4 - Variáveis do tipo float
+yh2SkgAxq8Q|22:31|Aula 5 - Arrays
+2H-JA3ezSnU|24:38|Aula 6 - Operadores aritméticos
+AZrF2FJDGVE|23:40|Aula 7 - Operadores lógicos
+SNJ21zJs3KM|21:44|Aula 8 - Operadores bit a bit
+tb0TdIOwl90|32:03|Aula 9 - Condicional if
+SCdXdotTnTo|29:15|Aula 10 - Repetições (Parte 1/2)
+h87OR04KRHg|25:04|Aula 10 - Repetições (Parte 2/2)
+VZJ0KZGORwg|26:05|Aula 11 - Ponteiros (Parte 1/2)
+llxAXgKlA9g|41:26|Aula 11 - Ponteiros (Parte 2/2)
+UwS7p9mVtig|27:04|Aula 12 - Indexação de arrays e ponteiros
+wdvppLzQL2A|36:28|Aula 13 - Alocação dinâmica de memória
+hJhZhxioTHo|21:16|Aula 14 - Estruturas e uniões
+OkmYNLFxTKg|38:53|Aula 15 - Funções
+5PJ0cuq4tHM|36:25|Aula 16 - Macros
+a_O6bNgR5AM|31:10|Aula 17 - Escopo e classes de armazenamento
+hG2gzKkFqVE|31:25|Aula 18 - Projeto readpe (Parte 1/3)
+NTYoGxcnJRA|21:39|Aula 19 - Projeto readpe (Parte 2/3)
+_69fK2DUt8M|35:42|Aula 20 - Projeto readpe (Parte 3/3)
+_GrN71JZ7dg|10:23|Livro gratuito de GNU C
+#PL2xox8ncv81W0HbBtma7QQMeyVllJMk0m
+-nrB-pN3TLw|1:11:05|01 Extensões algébricas
+PWMHEhW0kcc|1:16:14|02 Extensões finitas
+LDUhMWu6ikU|46:39|03 Extensões finitamente geradas
+Cc7Gz4RhzmE|47:54|04 O fecho algébrico de uma extensão de corpos
+6YqT6W0qC94|1:06:34|05 Raízes de polinômios
+Uz9G_gcAk_0|50:08|06 Multiplicidade de raízes de polinômios
+T9usW5Ns19c|1:26:05|07 Multiplicidade via derivadas formais
+4sx0JSl6C_w|1:28:57|08 Corpos algebricamente fechados
+925wTAXMBSg|1:03:06|09 Teorema de Kronecker (Parte 1)
+dStCELvoGW4|1:02:21|10 Teorema de Kronecker (Parte 2: Aplicações)
+Ed-n4ao8Ff4|1:19:19|11 O fecho algébrico de um corpo
+-8DlM1Io_Xk|1:14:42|12 Extensões de morfismos de corpos
+8DZUuY5HF7o|21:37|Errata: extensão de morfismos de corpos
+h7yNYdmb5EM|50:11|13 Extensões de morfismos e a unicidade do fecho algébrico
+jtS5SbZDBjM|1:07:26|14 Corpo de decomposição de um polinômio em ℚ[X]
+JkhLB5RfNic|1:10:34|15 Corpo de decomposição de uma família arbitrária de polinômios
+zuyKl-4t3jo|1:20:03|16 Unicidade do corpo de decomposição e extensões normais
+yX8PakBIVL8|1:07:33|17 O grau de separabilidade de uma extensão algébrica
+KEQxv-8lI5w|1:21:57|18 Extensões separáveis
+R00tDx8FDcQ|1:29:29|19 O Teorema do Elemento Primitivo
+VE5kcCTDVKM|1:06:56|20 Corpos finitos (Parte 1)
+wMbIL93x-MY|55:32|21 Corpos finitos (Parte 2)
+yHpzuFrFHZ0|1:13:52|22 O fecho normal de uma extensão algébrica
+1WBDKt7dGHE|1:06:36|23 Extensões puramente inseparáveis
+JhL4_c9xFqs|1:05:27|24 O fecho separável de uma extensão de corpos
+C0ZptBs4edQ|1:41:31|25 O traço e a norma de uma extensão finita
+opzTh2FoAak|50:03|26 O compositum
+eyFpi9BeEns|1:08:11|27 Bases de transcendência
+a9jS-IN7pMM|1:04:06|28 Alguns clássicos da transcendência
+NQ8wOn99XaE|1:06:12|29 O grau de transcendência
+aoNqmeTxccQ|50:35|30 Extensões finitamente geradas (feat. transcendência)
+#PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX
+kfHqZLYHfHU|29:29|01 Grafos como modelos
+MSBZD6iMzcU|53:47|02 Isomorfismo, Decomposição e Petersen
+xfV1lRWHG8w|1:24:10|03 Caminhos
+eh0-yaat5uA|1:19:03|04 Grafos Bipartidos
+Hxud9h7oU_Y|1:20:33|05 Circuitos Eulerianos
+BTdB-l_B6bY|1:20:01|06 Contagem
+zrb-uyP9btw|34:29|07 Problemas Extremais
+yMe8iih9F-0|50:54|08 Grafos Direcionados
+rnf77nX5DLk|1:17:36|09 Árvores
+rQgRnsUJn7g|1:25:38|10 Distâncias
+hquYJqE8Fks|1:26:20|11 Emparelhamentos
+aE1myOftLzU|1:02:06|12 Emparelhamentos, Coberturas e Conjuntos Independentes
+AFgnr9m5ebs|1:19:14|13 Conectividade
+O5Gsn4627nA|1:29:47|14 Conectividade em arestas
+n4CXSFH-Hzk|55:50|15 Blocos
+z0gZvl0OS2s|1:29:14|16 Grafos k-conexos
+alh-cDkLCMY|1:40:09|17 Coloração
+G-g_OrwTLLE|1:20:55|18 Coloração: Distância a Limitantes Superior e Inferior
+r5-W1vfvvlo|1:20:58|19 Grafos Planares
+KugIBFi6E9s|1:22:20|20 Fórmula de Euler
+#PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8
+WlxnQ2WIiOU|1:20:20|Aula 01 - Conceitos básicos: dispositivos e leis de Kirchhoff
+zyE7CxbQtos|1:31|Aula 01 - Resolução do teste
+X3GRES9CQ7g|1:20:27|Aula 02 - Amplificador operacional: topologia não-inversora
+i_0fiv86IR8|1:09:02|Aula 03 - Circuitos básicos com amplificador operacional
+pgRpdg0eXsE|1:19:42|Aula 04 - Não-idealidades do AmpOp: ganho finito, slew rate e banda
+Nu_5ZzdaLMU|1:19:53|Aula 05 - Não-idealidades do AmpOp: offset e corrente de polarização
+O1ZFFdqWCoY|1:24:08|Aula 06 - Física dos semicondutores: dopagem, deriva e difusão
+hju3j3qGJdM|1:23:23|Aula 07 - Junção PN: equilíbrio e polarização reversa
+cNwkO8aeVi8|1:21:51|Aula 08 - Junção PN: polarização reversa e direta
+4kCpX0hhC7A|1:23:11|Aula 09 - Circuitos com diodos: retificadores e limitadores
+xS-lGaOK_VA|1:23:22|Aula 10 - Circuitos com diodos: portas lógicas e fonte de alimentação
+U6uzw9YaVZ4|1:02:38|Aula 12 - Revisão geral para a prova
+e6ncGiWy-HI|1:18:19|Aula 13 - Física básica do transistor bipolar (TBJ)
+Fek-V7V5Dms|1:42:18|Aula 14 - Operação do transistor bipolar em circuitos
+uhYKsNbB1Ww|1:14:42|Aula 15 - Resolução de circuitos com transistores bipolares
+P6-qB4-dt7Y|1:43:48|Aula 16 - Física básica do MOSFET
+lY8mfUQwzJo|1:21:15|Aula 17 - Amplificadores: definição e princípio de construção
+LhFI8xHtN70|1:30:33|Aula 18 - Amplificadores: impedância de entrada e de saída
+Rh_AzIU2aQU|1:24:58|Aula 19 - Modelo de pequenos sinais do MOSFET
+-slf6LI4-WQ|1:16:49|Aula 20 - Topologias: fonte-comum e emissor-comum
+-slf6LI4-WQ|1:16:49|Aula 20 - Topologias: fonte-comum e emissor-comum
+hk8EdL2x2u0|1:37:20|Aula 21 - Amplificadores: porta/base-comum e dreno/coletor-comum
+aYZ1cs3lYyE|1:34:30|Aula 22 - Ponto de operação
+aYZ1cs3lYyE|1:34:30|Aula 22 - Ponto de operação
+hwgW-lNbed8|1:34:03|Aula 23 - Polarização de amplificadores com MOSFET
+#PLmSWX0ePcw4j6xaMvvTuYI0BgKadati5L
+W530u7lTZ_k|6:14|01 O que é e para que serve
+j7SOK5ppaTQ|2:07|02 Requisitos para o uso do Vagrant
+oUsVstZ6Kno|1:44|03 Instalando no Mac
+122x7DIeTIU|2:32|03 Instalando no Linux
+0jcsj4MZHZs|5:04|03 Instalando no Windows
+ynvkkyksPtE|5:39|04 O que são e onde encontrar as Boxes
+isLlLbTGTwk|4:46|05 Configurando uma nova Box
+oKuw-ff0s2w|11:29|06 Iniciando e acessando uma Box
+KXA8Tt3mtck|5:08|07 Empacotando uma nova box para distribuir
+_8SXm-XVSDA|5:02|08 Considerações finais
+#PLUUx2DlFul6LjL3K9AZT2nTlyZ4o38tE7
+LfsxuRkuWL8|54:21|Método da Inversão e Rejeição
+nL0hNX1SCSE|34:52|Método da Razão de Uniformes e distribuições truncadas
+dpNuchHSVL0|53:12|Laboratório: razão de uniformes e distribuições truncadas
+VO90I-7tdyQ|45:06|Geração de variáveis discretas
+eTymFZEQjGY|16:46|Geração de modelos de regressão linear
+GmRfigcjm3E|44:48|Laboratório: variáveis discretas
+j2pZ-grYzAo|18:09|Laboratório: geração de modelos de regressão
+XmbWAQj9-2o|55:09|Método de Monte Carlo
+XYIHj2hwwG4|34:41|Monte Carlo via função de importância
+34Sx7qMUW54|1:02:53|Método de Monte Carlo no R
+ZHMrkkKZ52U|57:34|O método Bootstrap
+He1hrCuDDNA|27:51|O método Jackknife
+jJ5QJ7UUCrU|27:46|Laboratório: Bootstrap no R - Parte 1
+V8vARWehxY8|31:51|Laboratório: Bootstrap no R - Parte 2
+rIGBpx-D2HE|28:22|Laboratório: Jackknife
+E3eus5jp0do|59:25|Algoritmo EM - Parte 1
+q8-Zo64NVsg|25:00|Algoritmo EM - Parte 2
+scQTG4g9OSw|52:47|Laboratório: Algoritmo EM
+xa7J1DNsKp8|1:01:19|Introdução aos Métodos MCMC
+XK3VmgxQWKE|54:06|MCMC - Algoritmo de Metropolis-Hastings
+4rVgvGDjnks|1:16:08|MCMC - Prática do Metropolis-Hastings
+mXvdd2kbhfk|1:08:09|MCMC - O Amostrador de Gibbs
+ZhzPOAxW9SQ|1:05:09|MCMC - Prática do Amostrador de Gibbs
+qoJaqTPlAk0|38:29|Comparação de modelos - AIC e BIC
+RT4i2gZyrjE|16:11|Comparação de modelos - DIC
+t4G2y__eVyI|31:08|MCMC - Gibbs com passos de Metropolis
+N7dOfZvGy68|52:17|Distribuição Preditiva
+#PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J
+XwPSWKnZIg4|9:33|Aula 1 - Introdução
+gT3VS98FxBc|6:07|Aula 2 - Seletores
+Zsnf9foBvPQ|13:02|Aula 3 - Variáveis
+00MRCtPYJEY|3:44|Aula 4 - Interpolação
+w7hki2quPIQ|7:06|Aula 5 - Extend
+3nThniunnnM|17:25|Aula 6 - Operações
+JInBK6uFWCs|7:22|Aula 7 - Mixins
+fvBILePvdK4|10:19|Aula 8 - Funções
+i9Y0zh3yKMU|4:10|Aula 9 - Placeholder
+AZa-CCRiyoU|3:34|Aula 10 - Condições
+KvdCe_DjM_Y|9:54|Aula 11 - Iterações
+D65V6NNGgcA|7:31|Aula 12 - Media Queries
+DhQre13u9nY|4:39|Aula 13 - @import
+nAC7LKSdL6M|3:31|Aula 14 - Outputs
+#PLW5Hta-B_II5vB4Vn9wVWaJVHTo4XxB_i
+7G5FuiDZQx8|38:24|Aula 01 - Introdução
+eH915K-_1pw|39:47|Aula 02 - Relatividade
+0cMA22r8oQY|48:08|Aula 03 - Transformadas de Velocidade
+G8YTsxG9vII|36:11|Aula 04 - Massa Relativística
+pA9BxDIHqT8|36:47|Aula 05 - Dinâmica Relativística
+QO-W7O5kJrI|45:16|Aula 06 - Introdução à Atomística
+6uqswKNduHk|37:35|Aula 07 - Teoria Cinética dos Gases
+hGzDCefizFg|39:31|Aula 08 - Distribuição de Maxwell-Boltzmann
+mudZyuhRjd4|39:08|Aula 09 - Interação entre os Átomos
+_KbekW4giNs|44:20|Aula 10 - Interação Radiação com o Átomo
+4eYUXNeo6wc|42:23|Aula 11 - Não linearidade na Interação Radiação-Átomo
+Ey8tBPvUy0E|41:41|Aula 12 - Força da Radiação
+bUgL6ZAzqGk|36:11|Aula 13 - O Elétron de Thomson
+v0VmRg2FzaA|1:00:41|Aula 14 - Espalhamento Rutherford
+KyEvnfWbnzs|1:03:25|Aula 15 - Introdução à Radiação de Corpo Negro
+jgCKMmioDOI|58:55|Aula 16 - Radiação de Corpo Negro e Densidade Espectral
+I9FyckUlid0|42:37|Aula 17 - Lei da Radiação de Planck (1)
+sihG0SJfQrQ|36:53|Aula 18 - Lei da Radiação de Planck (2)
+VGTPC_n3N-Q|42:48|Aula 19 - Efeito Fotoelétrico
+6G-aeb0XB1Q|35:30|Aula 20 - Efeito Compton
+U3_GasOnDLg|43:36|Aula 21 - Ondas de De Broglie
+sAnYq1t3iM0|44:07|Aula 22 - Ondas de matéria e o Princípio de Incerteza
+J57ebnjwj-0|29:24|Aula 23 - Princípio de Incerteza de Heisenberg
+H0hZ1A1u4hg|44:54|Aula 24 - Modelo Atômico de Bohr
+ywLFSzJ3ohI|23:24|Aula 25 - Generalização da Quantização: Wilson e Sommerfeld
+qjzl6o3MAbE|51:27|Aula 26 - Introdução à Mecânica Quântica
+SWOeGsxZlfU|48:42|Aula 27 - Equação de Schrödinger
+OW7iYykFYKc|38:02|Aula 28 - Aplicações de Mecânica Quântica 1
+_FOUqng0KTo|38:02|Aula 28 - Aplicações de Mecânica Quântica 1 (outra versão)
+eaWyd6-n_V8|31:16|Aula 29 - Aplicações de Mecânica Quântica 2
+52tZ8i7xI_E|36:22|Aula 30 - Aplicações de Mecânica Quântica 3
+hxM6B_IxQs4|37:15|Aula 31 - Introdução à Física Nuclear 1
+Fp8rot0jInU|30:11|Aula 32 - Introdução à Física Nuclear 2
+-mZoRnExBkI|45:27|Aula 33 - Introdução à Física Nuclear 3
+soXtjs6zR9I|1:08:29|Extra - Conceito de Difusão e Lei de Fick
+#PLg2lQYZDBwORqALpRkVPXEdgOloQz8sux
+BRprc9g6j3c|16:36|Diferentes maneiras de usar o console no JavaScript
+9vttEI5YPKM|16:39|O que nunca te ensinaram sobre o console do navegador
+#PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H
+lQ1RS-OUuzk|5:38|Introdução
+Znxg-KhVdH4|14:35|Macros
+InggSSiHBrc|13:28|Display LCD (Introdução)
+leAoo72IJqY|22:56|Display LCD (Exemplos)
+M5E0gc4U1yc|16:59|Timers (Introdução)
+aDdhWvrlMhY|17:01|Timers (Registradores)
+88Sb5fSGVnY|12:08|Timers (Exemplo 1)
+-0VRYKJKSk8|11:33|Timers (Exemplo 2)
+LHcS7i6__Ik|14:51|Timers (PWM)
+CEpo9i43-mA|16:45|Timers (Varredura de Displays)
+DJYUqoFBIMw|15:46|Conversor AD (Introdução)
+EYFbxcpfYG8|16:22|Conversor AD (Registradores)
+MYDK6WGxkzM|14:55|Conversor AD (Exemplo 1)
+iieDNKB8P8o|10:17|Conversor AD (Exemplo 2)
+64fDT36G9QU|14:25|Comunicação Serial UART (Introdução)
+b_eMQKVkKVU|16:54|Comunicação Serial UART (Registradores)
+Dv9EbDeHVzk|13:22|Comunicação Serial UART (Exemplo 1)
+ze8kaCxvDZ4|16:21|Comunicação Serial UART (Exemplo 2)
+OK6mcFfOMgU|17:03|Comunicação I2C (Introdução)
+1FBkc4V_7NE|19:09|Comunicação I2C (Registradores)
+mtksY0w-kos|15:37|Comunicação I2C (Exemplo - Parte 1)
+s2pBIQKal60|17:32|Comunicação I2C (Exemplo - Parte 2)
+7NLzp0Ravak|14:17|Comunicação I2C (Exemplo - Parte 3)
+9cUZYgv85pE|12:58|Comunicação SPI (Introdução)
+c6MTN4P-lV8|14:27|Comunicação SPI (Registradores)
+xhMfm6llxx8|11:30|Comunicação SPI (Exemplo - Parte 1)
+2GoRNo18Yjs|12:36|Comunicação SPI (Exemplo - Parte 2)
+-ARMMBHRNMg|15:34|Comunicação SPI (Exemplo - Parte 3)
+#PL2xox8ncv81XSiyT7czJX8q7I7kNmc8Bk
+3uLKG6_XHeg|1:13:15|01 O que é um anel?
+EHiVY4k3NZA|1:21:21|02 Corpos, domínios e anéis reduzidos
+9-EqzcJ7ySI|59:12|02.5 Potências em um anel
+ClPVH_4ziMs|1:24:15|03 Subanéis e ideais
+YkK7u4nKIkg|1:16:13|04 Morfismos de anéis
+50_0i3u0wpY|1:13:57|05 Anéis quocientes: primeiro encontro
+64ANO9Po7xU|1:16:53|06 Anéis quocientes: início da relação
+gGLlMZZKLpA|1:14:37|07 Ideais primos
+DkujV9JONes|1:20:01|08 Ideais maximais
+F0KnIU9Yve8|1:40:46|09 Ideais radicais
+r1hX6ZP2G30|1:01:35|10 Produto de ideais
+I92npVReP_k|1:08:43|11 Produto de anéis e o Teorema Chinês dos Restos
+WLQL9-6OAEU|38:15|12 Como evitar primos
+9RLpJRVuqG4|1:34:24|13 O corpo de frações de um domínio
+w_z6YZu6gZA|1:35:32|14 O anel de polinômios
+_xcOAFWu620|1:21:10|15 Domínios euclidianos
+arsbCf7SZTU|54:52|16 O serviço sujo característico
+1hMRXLb2XGw|9:43|Errata característica
+kJKOEZ_uhrI|1:15:23|17 A característica de um anel
+aaQpdY9JpBk|57:10|18 Domínios de fatoração única (Parte 1)
+GRBQdg3iYWk|46:52|19 Domínios de fatoração única (Parte 2)
+MlXiihb_7Gs|1:25:06|20 O Lema de Gauss
+yKSvF4Z68qU|1:02:54|21 Critérios de irredutibilidade para polinômios
+MtaVOI0SpcI|7:03|Exercício: potências de ideais comaximais ainda são comaximais
+-g3wIqObmQk|7:08|Exercício: polinômios primos entre si sobre um DFU
+YxowXS9cEWg|13:40|Exercício: um domínio é corpo sse seu anel de polinômios é principal
+xxGuKIpXW-4|35:50|Bônus: anéis indecomponíveis
+hFW9dhJpZRc|26:00|Bônus: quociente e decomponibilidade
+7nvBkUfJCDs|19:29|Bônus: anel principal sse todo ideal primo é principal
+Jc5xiVI4XYE|12:32|Bônus: domínio principal sse DFU com primos não nulos maximais
+wqCcDGM53Aw|8:10|Bônus: todo subdomínio de DFU é DFU?
+FORHkmZIfPs|1:34:43|Bônus: anel de polinômios em cardinalidade arbitrária
+#PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs
+RuNTvYejG90|5:52|Apresentação
+bcRArpK00OU|11:18|Revisão Docker
+X2r09kPi8aA|5:42|O que é Kubernetes?
+bPFxwwSfSmk|26:32|Arquitetura do K8s
+Y0kHzwifFEA|24:45|Conceitos importantes do K8s
+7H61VJV0YI8|5:14|Instalação dos componentes do K8s
+V1g0alYqI1w|53:48|Configuração do K8s
+qfiQyTqzUqU|7:14|ReplicaSet
+2JbQkTF6TzU|18:52|Deployment
+zGqMvzbWAJc|27:30|Service
+SS748X6xvdk|7:48|Microservices
+#PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc
+GII-SyqjbqE|4:10|Iniciando o ambiente
+x-oNtE1BfyQ|7:16|Iniciando o Node
+WFyecpnaV8g|3:45|Criando o banco de dados
+tY-MR9SujHw|1:36|Middlewares iniciais
+dc-Y-LZ1T5k|6:06|Criando models
+XBhOI2jrtDU|5:21|Criando o controller de usuários
+et_AKpCm8_A|6:46|Testando a rota de cadastro de usuários
+X5K8Tgcv5go|4:56|Declarando a interface do usuário
+3GmcJJcekgU|5:52|Criando hooks para o modelo de usuário
+yfVqMhI9Cds|8:58|Criando a rota de autenticação
+LFlzrwwr29o|2:24|Introdução ao JWT
+EPwzQbqsDZs|6:04|Gerando o token do usuário
+NNlu_9-s1XA|5:49|Criando a rota de envio de mensagem
+pwvWcqctEIo|6:23|Middleware de autenticação
+7vwBywJyyL8|5:54|Decodificando o token
+S4c-Sgq50Bg|4:11|Declarando tipagens globais
+40PwmXFstqU|6:53|Testando requisições com token
+r6iYcP3Mpgs|7:00|Finalizando a rota de envio de mensagens
+ILY59lpsd90|3:43|Criando a interface de mensagens
+1nz1XT3yoxo|6:04|Operadores do MongoDB
+a8EuIxlm310|2:34|Ordenação com Mongoose
+vOXt9UgMEV0|3:35|Mapeando o resultado de mensagens
+fK7wcFsgNjc|3:28|Listando dados do usuário
+ckeg6HN91iM|5:29|Operador de negação do MongoDB
+1shDdjOMnTM|8:05|Criando métodos personalizados
+DSIf8dom6lA|3:32|Limitando a consulta de dados
+AVTwMksfUe0|5:35|Lidando com operadores ternários
+Yw-h_tyL1DE|6:00|Resolvendo várias Promises com Promise.all
+0kz_8q7g7Sw|4:14|Testando a rota de listagem de usuários
+-xJeyrcHmF0|3:25|Ordenando mensagens dos usuários
+tH_724g0q1k|5:10|Criando o serviço de mensagens
+41va5BlVy6o|2:12|Refatorando a ordenação de mensagens
+5D1nMo2Wewo|2:55|Utilizando Optional Chaining
+#PLVRDPs83ZhmcXYuktF3r2hfyoabg_EVPO
+IejsKqJG9dM|13:39|Aula 01 - Janela GLFW
+f3cVb1kD9YY|11:43|Aula 02 - Desenhando um triângulo
+FwOw70_2UAc|8:48|Aula 03 - Projeção glOrtho (desenhando um quadrado)
+VXtROZCAOXU|10:14|Aula 04 - Redimensionamento de janela (glViewport)
+VXx2Lhn7eMU|20:14|Aula 05 - Projeção perspectiva (desenhando um cubo)
+XjjTuqtFjiQ|14:41|Aula 06 - Transformações: translação, rotação e escala
+f_e9_gcyHx0|19:53|Aula 07 - Esfera: plotando pontos
+JH6_dKjfW5Q|17:53|Aula 08 - Esfera (malha triangular)
+9qzqvR5rJKc|18:09|Aula 09 - Display List
+SMITfw1x_Hw|7:01|Aula 10 - Remoção de faces (face culling)
+cMVmvlb08lM|15:06|Aula 11 - Controlando quadros (fps, delta time)
+mW_LO1wMS3c|21:37|Aula 12 - Construindo um cenário
+NN_drGR8A04|19:32|Aula 13 - Câmera (Parte 1): MVP e gluLookAt
+CTpnk2qdLdo|19:39|Aula 14 - Câmera (Parte 2)
+6atBuWFnoUg|24:48|Aula 15 - Câmera (final): rotação yaw
+AKz52bZb-9I|32:57|Aula 16 - Texturas (Parte 1)
+mCkFZDm-AZs|22:59|Aula 17 - Texturas (Parte 2): classe Textura
+7jpYmJMmRio|32:55|Aula 18 - Textura para esfera (Parte 3)
+3RMQWKpkyAs|25:49|Aula 19 - Textura: classe Esfera (Parte 4)
+I81zVfhgZ0o|34:53|Aula 20 - Texturas: classe Primitiva (Parte 5)
+xEy7FdECoyg|22:07|Aula 21 - Texturas: Mipmap (Parte 6)
+CG0eXhZAcrM|18:00|Aula 22 - ImGui (Parte 1/3)
+_mQCDif2ksI|13:02|Aula 23 - ImGui (Parte 2/3)
+Xsu5tDsY65I|14:07|Aula 24 - ImGui (Parte 3/3)
+wid2E30vifQ|15:52|Aula 25 - Iluminação básica (Parte 1)
+axr3t6aixjw|16:12|Aula 26 - Iluminação (Parte 2)
+IFv4zPlYuQg|23:18|Aula 27 - Carregando arquivo OBJ (Blender)
+V9ryjR44Y8Q|16:18|Aula 28 - Carregando OBJ: Male Head Model
+Za4ghaBaCec|16:16|Aula 29 - Posicionando a fonte de luz
+d_zGZdRjZyg|23:21|Aula 30 - Câmera orbital
+#PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP
+V2lyjyBRx5Y|1:22:34|Aula 01
+SSmZDbu8esY|1:27:51|Aula 02
+lisCbI8BiNM|1:27:55|Aula 03
+ljW6VfIq0WM|1:32:56|Aula 04
+HOwjL67Ewuk|1:21:13|Aula 05
+CubHFBdRLyo|1:18:33|Aula 06
+FVGcWOPEijk|1:23:16|Aula 07
+GWzp1t8l_nM|1:28:26|Aula 08
+3u8zYJ_piOM|1:23:48|Aula 09
+B7I-GH1zIkY|1:16:36|Aula 10
+pM-PNMWBYx4|1:38:50|Aula 11
+6Xd_vJz08ZE|1:33:07|Aula 12
+XMQO9KCLRXk|1:33:09|Aula 13
+0EBB_pZFtt8|1:35:28|Aula 14
+NcoF9-wPAqQ|1:29:48|Aula 15
+S6yay1khs-I|1:27:25|Aula 16
+ymO6yobBVPQ|1:28:19|Aula 17
+aZ97UM_EYVY|1:35:14|Aula 18
+SvKhudC1a8E|1:43:02|Aula 19
+CpDT79EXcjI|1:23:33|Aula 20
+BJP5cebCgDQ|1:23:48|Aula 21
+P9cSL_a3-IQ|1:06:01|Aula 22
+GrdPx39z_2w|1:16:22|Aula 23
+#PLhueTEPO9C1KEX8jTphPeb9kEF9it4b5x
+-MquLI7EXqE|1:34:34|Aula 01 - Espaços topológicos e fechados
+CTDdW-Vy_nI|1:15:25|Aula 02 - Fecho, interior, fronteira e bases
+5g6luM4aNh8|1:36:11|Aula 03 - Axiomas de separação
+xIMi2Mh98NI|1:27:31|Aula 04 - Axiomas de enumerabilidade
+i8jiMft0c2Y|1:19:29|Aula 05 - Funções contínuas e homeomorfismos
+O0B4H6x2KMU|52:40|Extra - Caracterização da reta com a topologia da ordem
+cUWa1HEpq_k|1:25:01|Aula 06 - Extensão de funções
+XU__D9Ma76c|1:04:01|Aula 07 - Lema de Urysohn e Teorema de Tietze
+Wl1Z4dk1Tak|1:35:56|Aula 08 - Topologia produto
+tECynckI-8w|36:49|Extra - Teorema da imersão
+yVjLA7R4MzY|1:17:20|Aula 09 - Topologia quociente
+rVU27o7jAY4|1:49:39|Aula 10 - Espaços compactos
+eQkfTDrmpy8|2:05:29|Aula 11 - Teorema de Tychonoff e caracterizações
+-8iTLyGichU|1:18:30|Aula 12 - Espaços conexos
+H2iwga-lMNw|1:25:40|Aula 13 - Componentes, conexidade por caminhos e propriedades locais
+#PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA
+u40Opm9TZxU|1:16:56|Aula 01
+py6JntVZKFI|1:36:07|Aula 02
+-un0VLEUfwA|1:37:03|Aula 03
+nxCSbU2vF6g|1:27:09|Aula 04
+QYaeloxRXeU|1:43:43|Aula 05
+iSILNAS2pJE|1:37:21|Aula 06
+G-OTs6PWTGU|1:34:16|Aula 07
+jYVDRGT9v_8|1:37:11|Aula 08
+KEoGIb5PD_4|1:41:51|Aula 09
+BjJU887R7oc|1:42:27|Aula 10
+JBDZgZkRqaI|1:42:27|Aula 11
+6EZLePdkzp4|1:29:58|Aula 12
+sWHAT2hKRw0|1:40:55|Aula 13
+CkgUwuMOb1w|1:37:52|Aula 14
+7hwhLeAnhJ8|1:40:56|Aula 15
+we6EW2-DAho|1:32:32|Aula 16
+Ra9I2VwJV8E|1:32:32|Aula 17
+LQEej8SS0U4|1:40:37|Aula 18
+3nbP8Etwt-U|1:25:39|Aula 19
+TBjddUA1_Qo|1:22:59|Aula 20
+#PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4
+c2y_yz9B6_M|14:22|Preparando o ambiente de estudos Docker
+_su5XaOdEKg|7:23|Introdução à CLI do Docker
+FLgtWvt21u0|9:28|Gerenciando containers - Parte 1
+mgSgkoxGtd0|10:41|Gerenciando containers - Parte 2
+YkLgYhVNPUY|15:37|Conceitos de rede no Docker
+5huKTRhI5x4|8:05|Gerenciando redes Docker
+0OzLFvklZas|5:57|Como usar DNS em containers
+Y02f4hj0yDU|3:55|Como funcionam volumes em containers
+StQYXkFgeeA|20:09|Entendendo volumes Docker de uma vez por todas
+#PLw9ZE443YE45QSRr576gk6ZfhbWVjiIbr
+hHkYlMIEBFU|17:51|Gráficos e tabelas para uma variável
+NafuRFU7fwM|7:28|Média, mediana e quartis
+4ABBnMUOSb4|10:49|Variância e desvio padrão
+dR549rr3RH4|13:04|Outliers, boxplot e padronização
+7zzQAPuATK8|7:54|Associação entre duas variáveis qualitativas
+qMVALuutgU0|7:16|Associação entre uma variável qualitativa e uma quantitativa
+nW4yMYf8YDg|8:20|Associação entre duas variáveis quantitativas
+#PLpizEtrJatZEUjIgADKdbE6_jGhcXFxht
+_k1arnt1I5s|59:06|Aula 01 - Os números complexos
+_6SjEzJ8j68|58:20|Aula 02 - Raízes de números complexos
+SbPm4xLx_aQ|55:10|Aula 03 - Funções de variável complexa
+G3W3xIdKi0E|33:36|Aula 04 - Limites
+dt5nCJCXgOY|54:10|Aula 05 - Derivadas
+6Ccfp4VbKUI|43:05|Aula 06 - Analiticidade
+tPExevykzBE|1:06:59|Aula 07 - Equações de Cauchy-Riemann
+9NmxxVoD_A8|58:35|Aula 08 - Funções elementares (Parte 1)
+wbFsmCgpO3A|1:00:26|Aula 09 - Funções elementares (Parte 2)
+-OmDio0gYZY|1:04:45|Aula 10 - Integração complexa
+vX_Tm_Tacy4|1:03:30|Aula 11 - Teorema de Cauchy-Goursat
+r22Sghwn4E8|1:04:15|Aula 12 - Fórmula integral de Cauchy
+RC7o0_P7TdU|1:07:10|Aula 13 - Sequências e séries
+_0uOEi8kndA|1:14:46|Aula 14 - Série de Taylor
+e7MAukbZHyk|1:04:29|Aula 15 - Série de Laurent
+SobeuJJ8Ihc|50:03|Aula 16 - Singularidades e polos
+LKQnzMGJ1yw|1:04:15|Aula 17 - Resíduos e Teorema dos Resíduos
+1ZLgKi0VVHI|44:44|Aula 18 - Integrais trigonométricas reais
+r3KkRLj8cd0|50:56|Aula 19 - Integrais impróprias reais
+vtzBjHFfGlY|59:11|Aula 20 - Soma de séries infinitas
+Bh2wx6TGh_M|1:05:20|Aula 21 - Invertendo a transformada de Laplace
+#PLxI8Can9yAHcfxDjfTmU-t7XC1w2GVwc_
+0e1bgWE13-Y|4:12|Apresentação da disciplina
+zXNMbGle0OQ|14:11|Aula 01 - Origem dos números e sistemas de numeração
+pRWwj4XrAtw|14:25|Aula 02 - Sistema de numeração indo-arábico
+OEwfjWdZQws|12:12|Aula 03 - Princípio da indução e princípio do menor inteiro
+o67zA0UrGpg|11:16|Aula 04 - Algoritmo da divisão
+dEq81ItGcKg|12:39|Aula 05 - Divisibilidade: máximo divisor comum
+t_pT9fiivlc|11:42|Aula 06 - Mínimo múltiplo comum; equações diofantinas lineares
+DJGuxLAdN4Y|11:05|Aula 07 - Números primos: Teorema Fundamental da Aritmética
+Q2kXPBeEEH4|12:47|Aula 08 - Números primos: distribuição e conjecturas
+Xqwix_DePvA|16:15|Aula 09 - Teoria das congruências, propriedades e aplicações
+ZA5qGr4eAEE|14:27|Aula 10 - Congruências similares e simultâneas
+RmxRgoef_C8|9:21|Aula 11 - Relação de equivalência
+y0DhBchRQ10|11:13|Aula 12 - Relação de equivalência e conjunto quociente
+ILRkErP_CkU|8:02|Aula 13 - Números racionais a partir dos inteiros
+U-y-sLV6icY|11:43|Aula 14 - Polinômios e divisibilidade
+#PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_
+mRixno_uE2o|14:08|01 Introdução
+KL1qNPQCz6M|6:20|02 Mitos e verdades
+-4ZQk8fyCmc|9:33|03 Instalando o compilador e o primeiro código
+-BKYrctVmmg|5:29|04 Criando e configurando o tsconfig
+voII0wn66k0|17:36|05 Types
+zyYjns2aYJQ|5:30|06 Type Inference
+DqpBryBjs6Q|7:00|07 Type Aliases e Union
+ZkFLCA_exLI|7:59|08 Estendendo Type Aliases com Intersection
+rxpycPZnT6I|24:27|09 Classes
+x-q7kGA_yp0|16:25|10 Interfaces
+PMhd1ebCGl8|12:29|11 Type Alias vs Interface
+Zjs7IJuhdaM|18:18|12 Generics
+vegOllzhmV0|16:15|13 Type Utilities
+o1gCpXdVyHE|30:53|14 Decorators
+#PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL
+lfNvbJbYxFQ|30:00|Aula 1 - Carga Elétrica - Parte 1
+4SWzemMEY4w|41:55|Aula 1 - Carga Elétrica - Parte 2
+njsGDadL09g|45:49|Aula 2 - Campo Elétrico - Parte 1
+A01u84pUGVI|39:03|Aula 2 - Campo Elétrico - Parte 2
+C2Tl8twv1_Q|48:39|Aula 3 - Lei de Gauss - Parte 1
+8ZShQQahhJc|44:47|Aula 3 - Lei de Gauss - Parte 2
+g5BhOVeT6JM|46:15|Aula 4 - Potencial Elétrico - Parte 1
+81m2JfIdL5k|45:14|Aula 4 - Potencial Elétrico - Parte 2
+08B6k_8RMxg|44:25|Aula 5 - Capacitores e Dielétricos - Parte 1
+BLRMUltW5h8|44:43|Aula 5 - Capacitores e Dielétricos - Parte 2
+kQb6T5MiRLM|45:50|Aula 6 - Resistência - Parte 1
+8uH2NGL3NHc|40:21|Aula 6 - Resistência - Parte 2
+P-gnSiahFaA|43:38|Aula 7 - Circuitos - Parte 1
+nYYFrOzv2vQ|42:29|Aula 7 - Circuitos - Parte 2
+mRIxLpyh_xo|46:56|Aula 8 - Campo Magnético - Parte 1
+Jsa6ixez3bc|46:05|Aula 8 - Campo Magnético - Parte 2
+FcisdpsqoJE|45:30|Aula 9 - Campos Magnéticos Produzidos por Correntes - Parte 1
+qtxUAEoYGiM|47:16|Aula 9 - Campos Magnéticos Produzidos por Correntes - Parte 2
+sX68xgzgzB8|42:27|Aula 10 - Lei de Faraday da Indução - Parte 1
+VocDVWgygHQ|45:20|Aula 10 - Lei de Faraday da Indução - Parte 2
+msh4bFgKsws|48:51|Aula 11 - Indução - Parte 1
+zk8Y0XdPUJ0|45:50|Aula 11 - Indução - Parte 2
+tmC0pTww988|45:32|Aula 12 - Oscilações Eletromagnéticas - Parte 1
+mJcVQi6FPBo|46:57|Aula 12 - Oscilações Eletromagnéticas - Parte 2
+cG-6uy-hbbc|46:06|Aula 13 - Correntes Alternadas - Parte 1
+UlACnG24z14|46:34|Aula 13 - Correntes Alternadas - Parte 2
+3CgGG7AHPJs|42:47|Aula 14 - Magnetismo - Parte 1
+WoZ8kCGQZEE|50:08|Aula 14 - Magnetismo - Parte 2
+#PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn
+i8Uz1A0sC6o|1:03:07|Aula 01
+JRfN1Cq1xm8|1:07:33|Aula 02
+aIuu1Rm1Y38|1:09:01|Aula 03
+z6KRlwT6050|1:09:20|Aula 04
+l_6b2J4JmFo|1:16:25|Aula 05
+t-vuLowF2Wc|1:13:42|Aula 06
+Dafiph7_mTI|1:03:31|Aula 07
+0vc9LHHZVaE|1:09:38|Aula 08
+OeyopLPISS0|1:09:39|Aula 09
+05q3xMjEevk|1:17:44|Aula 10
+5Fc-PZcrQkc|55:59|Aula 11
+MNQ0oy8uezk|1:10:15|Aula 12
+4Tt3Ewegb-U|1:06:12|Aula 13
+b4YsBEDh6cs|1:12:43|Aula 14
+nCCHvTJwa4w|1:14:07|Aula 15
+ACsfhL4qKXE|1:13:11|Aula 16
+i4m28zLIBrw|1:12:20|Aula 17
+-hBUh3n_eI8|1:07:00|Aula 18
+BU-6Jssd7vE|1:10:39|Aula 19
+XV7V4FLpfKQ|1:14:48|Aula 20
+4P9eooHq9Hk|1:24:09|Aula 21
+-UaAeL7yFn8|1:06:25|Aula 22
+8gEMC-0HKbY|1:18:36|Aula 23
+sx_1M45RgWw|1:25:44|Aula 24
+zv4BkM65PxY|1:17:44|Aula 25
+#PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7
+ZM--I3NJ2jY|33:11|01 Conceitos básicos
+j3ScglKLvq8|22:14|02 Antes do primeiro script
+h8X-3bmrjwE|56:46|03 Nosso primeiro script
+5JZG9CfxQMw|58:07|04 Variáveis
+CFdh6zkSJ2c|55:30|05 Variáveis especiais
+c-YNy9wf5gk|42:01|06 Um script para criar scripts
+xCxIYCHfek4|16:18|07 Colocando seus scripts no PATH
+peE6nedoxyg|14:50|08 Checando o PID do script
+X0pIxW4NkaE|27:13|09 Um pouco mais sobre o comando test
+8XH6i_T2Whc|36:02|10 Variáveis indexadas e associativas (arrays)
+dF1LJLaWrms|34:27|11 Concatenação de strings
+6qwONGj5DxI|36:37|12 Expressões aritméticas
+1GBHJx53w6c|54:03|13 Expansões do Bash
+7S3DdzCAk4s|56:34|14 Expansões de parâmetros
+pbdQkk6dSCs|1:00:07|15 O loop for
+t34CwTGP6aE|29:08|16 Os loops while, until e select
+R_XCcwEvdMc|49:01|17 Estruturas de decisão: if e case
+84hbaufKM6M|27:36|18 Funções
+jR9NtwMDASU|29:21|Extra: alternando o compositor do Xfce via script
+#PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+fNk_zzaMoSs|9:52|Cap. 1 - Vetores
+k7RM-ot2NWY|9:59|Cap. 2 - Combinações lineares, espaço gerado e vetores de base
+kYB8IZa5AuE|10:59|Cap. 3 - Transformações lineares e matrizes
+XkY2DOUCWMU|10:04|Cap. 4 - Multiplicação de matrizes como composição
+rHLEWRxRGiM|4:46|Cap. 5 - Transformações lineares tridimensionais
+Ip3X9LOh2dk|10:03|Cap. 6 - O determinante
+uQhTuRlWMxw|12:09|Cap. 7 - Matrizes inversas, espaço coluna e núcleo
+v8VSDg_WQlA|4:27|Cap. 8 - Matrizes não quadradas como transformações
+LyGKycYT2v0|14:12|Cap. 9 - Produto escalar e dualidade (em inglês)
+eu6i7WJeinw|8:54|Cap. 10 - Produtos vetoriais
+BaM7OCEm3G0|13:10|Cap. 11 - Produto vetorial e transformações lineares (em espanhol)
+jBsC34PxzoM|12:12|Cap. 12 - Regra de Cramer, geometricamente (em inglês)
+P2LTAUO1TdA|12:51|Cap. 13 - Mudança de base (em inglês)
+PFDu9oVAE-g|17:16|Cap. 14 - Autovetores e autovalores (em inglês)
+e50Bj7jn9IQ|13:13|Cap. 15 - Truque para calcular autovalores (em inglês)
+TgKwz5Ikpc8|16:46|Cap. 16 - Espaços vetoriais abstratos (em inglês)
+#PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew
+7VQE278hIXc|3:12|Apresentação da disciplina
+VRiFnz7Di20|17:35|Aula 01 - Aleatoriedade
+F5FcmpAfGuE|14:11|Aula 02 - Pensamento probabilístico
+avPlaW1oW_A|14:11|Aula 03 - Análise combinatória - Parte I
+bSPk4LVZgDg|11:57|Aula 04 - Análise combinatória - Parte II
+7qmZM8VhwP0|7:03|Aula 05 - Metodologia de pesquisa
+3FLBgd33_lI|24:08|Aula 06 - Metodologia científica
+gBOer0OnF4c|19:31|Aula 07 - Tabelas
+0R-UQLRk4VI|22:12|Aula 08 - Gráficos
+TmjWDmmN75c|19:24|Aula 09 - Níveis de mensuração e seleção de métodos
+efy2kjExwTU|22:22|Aula 10 - Medidas de tendência central e de variabilidade
+FM9tz8U2g2k|21:29|Aula 11 - Inferências
+4QfHVbpAoSg|17:41|Aula 12 - Teste qui-quadrado
+AgDC9yoopUA|11:26|Aula 13 - Teste t de Student
+1ceP2FL5fzE|13:24|Aula 14 - Análise de Variância (ANOVA)
+#PLw-GnG0Kv5F7UM9y-FUmw7sI5sjdbaSpe
+JEE9RvwEDuo|42:31|01A Introdução à linguagem Assembly e linguagem de máquina
+J4voQgaliB4|25:54|01B Introdução à linguagem Assembly e linguagem de máquina
+mo7Mibw109c|49:07|Registrador de status
+CthGglLNqMQ|41:34|Pinos de entrada e saída digitais
+pyQjlWom_HE|19:05|Contador de endereços e ponteiro de pilha
+iUBh8ftmuIE|19:57|Exemplo: divisão em Assembly
+7WSuDteJwjM|45:53|Linguagem de máquina
+#PLxI8Can9yAHf6oB0nf8FwLhqSOcBLqOxH
+bW_e68PoN4Q|28:56|Aula 01 - Apresentação da disciplina
+EElh5FJ7FhI|22:05|Aula 02 - Lógica
+MOJPp7n_5dQ|23:22|Aula 03 - Lógica e linguagem
+I92EYq0FLaU|23:30|Aula 04 - Demonstrações I
+bmm9Q6pCzHE|23:42|Aula 05 - Demonstrações II
+Esg9NLDZFdI|24:33|Aula 06 - Noções da teoria dos conjuntos I
+ENptMNeiDTQ|23:53|Aula 07 - Quantificadores e funções
+8guZB85DYF8|23:07|Aula 08 - Números
+QhoTDQZsfcU|22:40|Aula 09 - Princípio da Indução Finita I
+PmnFIiQnBK0|25:03|Aula 10 - Princípio da Indução Finita II
+31Ovf0d3NxU|24:06|Aula 11 - PIF e boa ordenação
+L5W8aEp_kNs|23:02|Aula 12 - Técnicas de contagem: reunião e produto cartesiano
+XyQ302OVdlE|23:36|Aula 13 - Princípio Fundamental da Contagem - Parte I
+zDlNYWeKN9E|24:23|Aula 14 - Princípio Fundamental da Contagem - Parte II
+SVXCfdtXdiI|22:08|Aula 15 - Permutações sem repetição
+DsHnvrhWwnE|23:06|Aula 16 - Permutações com repetição
+FrJSVVHvoIY|25:27|Aula 17 - Permutações circulares e caóticas
+q84zG9bmJT8|22:52|Aula 18 - Arranjos
+wLv9uKwUIVE|23:24|Aula 19 - Combinações I
+PBaFPKKEvFk|26:09|Aula 20 - Combinações II
+ji-Rz31jKT0|23:24|Aula 21 - Binômio de Newton I
+wIEtzZzwh-4|23:23|Aula 22 - Binômio de Newton II
+-trNZtVHG1o|23:04|Aula 23 - Aplicações I
+CNutlRgys14|26:11|Aula 24 - Aplicações II
+zH1vLYs08JQ|22:04|Aula 25 - Revisão e exercícios I
+0W7pBq_LbbA|26:39|Aula 26 - Revisão e exercícios II
+TYT3O3c6Tns|21:00|Aula 27 - Revisão e exercícios III
+-EpxNtgnZ6U|25:48|Aula 28 - Revisão e exercícios IV
+#PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj
+Bd0PCypQ44s|1:17:44|Aula 01
+QEH10puhBXY|1:19:37|Aula 02
+zbo57u_VH-s|1:25:04|Aula 03
+FsRkyGOoxv8|1:26:26|Aula 04
+W_anAt95N2k|1:28:42|Aula 05
+R2H4lYELnQk|1:03:25|Aula 06
+aZE5vRcoRMo|1:17:28|Aula 07
+AZBuvsczQXg|1:16:01|Aula 08
+93DYtp7-jUg|1:21:39|Aula 09
+mzxh-tnIaG0|1:20:25|Aula 10
+m5MUp1VzW-A|1:09:34|Aula 11
+cD3WiOaQPLk|1:37:43|Aula 12
+u9GHTmiy5kA|1:21:50|Aula 13
+fca_89K7eUA|1:44:47|Aula 14
+eDvn29QBbzs|1:25:42|Aula 15
+0qRwYjxodCw|56:50|Aula 16
+A_icsKwwqvY|1:22:46|Aula 17
+NHQqqG9MCH4|1:23:19|Aula 18
+FHSg3d6vqOU|1:31:27|Aula 19
+GSY6AaqcPGw|1:23:44|Aula 20
+e7-VIfcv-Rg|1:20:12|Aula 21
+nJMikyjuTXE|1:11:35|Aula 22
+s-ZanVzO33o|1:07:05|Aula 23
+P9Fq-WrD1zg|1:18:56|Aula 24
+XLIh_ABXMWE|1:37:51|Aula 25
+t28SQhuoJcM|1:04:54|Aula 26
+jVOiCFDtxp4|1:04:14|Aula 27
+gDFgFQC6Ko8|1:37:46|Aula 28
+0dwwRfC36N0|53:55|Aula 29
+aMoXSVDgd_g|1:05:46|Aula 30
+#PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW
+kKgWNDAYJOw|3:59|Apresentação da disciplina
+186lPQE-h64|27:07|Aula 01 - Introdução ao projeto e análise de algoritmos
+ojCAnD7vrOY|27:55|Aula 02 - Análise assintótica: O, Ω e Θ - Parte I
+DNX4sTlrfwo|27:35|Aula 03 - Análise assintótica: O, Ω e Θ - Parte II
+eTYN65ap_cU|18:27|Aula 04 - Divisão e conquista: equações de recorrência
+sb6Sy3hJphc|22:22|Aula 05 - Solução de recorrências (Parte I)
+34fb0LBpUkQ|22:47|Aula 06 - Solução de recorrências (Parte II)
+hyedRznKnjQ|21:14|Aula 07 - A estrutura de dados heap
+KtlWBhaygH8|24:07|Aula 08 - Heapsort e Quicksort
+tVjVaO3KD0w|17:14|Aula 09 - Limite inferior para ordenação
+NlSM_9U1j6I|21:13|Aula 10 - Ordenação em tempo linear
+b9EEZcLoWko|21:30|Aula 11 - Conceitos básicos e representação de grafos
+dQ42rha2qFA|24:08|Aula 12 - Busca em largura e profundidade em grafos
+02fSc7kJ_NE|22:43|Aula 13 - Problema do caminho mais curto
+wsvXnmUHJX8|22:16|Aula 14 - Classes P, NP e NP-completos
+#PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr
+WsLmdMPU3Rc|3:05|Apresentação
+r1o7RryS8WM|21:59|Aula 01 - Matrizes e determinantes (Parte 1)
+u4xKswRO4bQ|21:02|Aula 02 - Matrizes e determinantes (Parte 2)
+nPds6INVaEo|8:20|Aula 03 - Equações
+oGYDPxcNMmw|24:32|Aula 04 - Sistemas de equações lineares
+FAJ5DFY6d0k|19:54|Aula 05 - Vetores e espaço vetorial
+lQT17sdopbA|22:21|Aula 06 - Base e mudança de base
+FcNZNzdOugY|18:20|Aula 07 - Transformações lineares
+NrzNe_AJeCs|15:28|Aula 08 - Transformações lineares planas
+FW7VQEubh3w|17:21|Aula 09 - Transformações lineares no espaço
+wm4Vlu9LFCg|18:47|Aula 10 - Exercícios e operadores lineares
+SazzwSJPd_g|19:10|Aula 11 - Autovalores e autovetores
+h_cKoTIEgHg|8:00|Aula 12 - Autovalores e autovetores: aplicações
+0D-8NoSYPPk|24:15|Aula 13 - Espaços vetoriais com produto interno
+ngQp4Uh84Pk|11:35|Aula 14 - Produto interno: aplicações
+#PL2D9B691A704C6F7B
+XJCmMuZV-JA|40:35|Aula 1 - Introdução
+vBxka1HhlAs|44:54|Aula 2 - Funções - Parte 1
+qFXs4iSsbrk|37:31|Aula 3 - Funções - Parte 2
+LDbD0z2_xdQ|41:16|Aula 4 - Criando funções - Parte 1
+ECblTdistvE|41:45|Aula 5 - Criando funções - Parte 2
+8_Sgh5YnxY8|40:45|Aula 6 - Limite - Parte 1
+6xUHE4ctIt8|36:31|Aula 7 - Limite - Parte 2
+_bKzJP0Q778|39:29|Aula 8 - Regras de cálculo de limite - Parte 1
+wBe4f-MVkTA|40:38|Aula 9 - Regras de cálculo de limite - Parte 2
+Z0wNGmPGlGk|46:06|Aula 10 - Limite da composição - Parte 1
+eAEN9Zfa3ZU|40:37|Aula 11 - Limite da composição - Parte 2
+jXIP2GciTaY|41:13|Aula 12 - Funções contínuas - Parte 1
+ebj4X4q6Dk0|38:46|Aula 13 - Funções contínuas - Parte 2
+HK6DDx8G7ZU|48:12|Aula 14 - A derivada como uma função - Parte 1
+eQsN_tJ9CyA|41:08|Aula 15 - A derivada como uma função - Parte 2
+JMtmSdWcjqA|44:40|Aula 16 - Derivadas trigonométricas e regra da cadeia - Parte 1
+rPzFJpGIEh0|43:26|Aula 17 - Derivadas trigonométricas e regra da cadeia - Parte 2
+f_PwzFrWp7Q|40:03|Aula 18 - Diferenciação implícita e derivadas superiores - Parte 1
+J_pgvEewQU0|46:59|Aula 19 - Diferenciação implícita e derivadas superiores - Parte 2
+h4Y65dlhCy4|44:26|Aula 20 - Derivadas logarítmicas e funções hiperbólicas - Parte 1
+E2NnUgDFryg|46:19|Aula 21 - Derivadas logarítmicas e funções hiperbólicas - Parte 2
+C5X4JDhOBJ8|44:16|Aula 22 - Revisão I - Parte 1
+aYTDGK5ymM0|41:05|Aula 23 - Revisão I - Parte 2
+2NAPSX-GHPI|45:35|Aula 24 - Taxas relacionadas - Parte 1
+MO3Pq3aP43Y|44:00|Aula 25 - Taxas relacionadas - Parte 2
+weAcF2HdpJo|45:43|Aula 26 - Funções hiperbólicas - Parte 1
+dGFcHsuBD-I|43:48|Aula 27 - Funções hiperbólicas - Parte 2
+sIAowfuIz6Q|46:30|Aula 28 - Aproximações lineares; máximos e mínimos - Parte 1
+5HNxdN5QleM|45:53|Aula 29 - Aproximações lineares; máximos e mínimos - Parte 2
+pEMM0IKPJ1Y|47:14|Aula 30 - Teorema do Valor Médio - Parte 1
+JOhvpKNCUbM|44:40|Aula 31 - Teorema do Valor Médio - Parte 2
+aYC5UqqDWP4|44:42|Aula 32 - Formas indeterminadas e L'Hôpital - Parte 1
+xw8wRpk8pbQ|40:53|Aula 33 - Formas indeterminadas e L'Hôpital - Parte 2
+gzOkqOFEJFE|43:23|Aula 34 - Regra de L'Hôpital - Parte 1
+pAhjTa3lZ0o|41:38|Aula 35 - Regra de L'Hôpital - Parte 2
+p-HMNfGRgvE|44:51|Aula 36 - Integração: motivação geométrica (área) - Parte 1
+x60T7SmOCDg|44:41|Aula 37 - Motivação geométrica: área - Parte 2
+QOFmqqdJkos|49:56|Aula 38 - Propriedades da integral
+NaIgyOeN8KM|45:31|Aula 39 - Teorema Fundamental do Cálculo
+pi8et8w6epw|43:48|Aula 40 - Teorema Fundamental do Cálculo - Parte 2
+FllUpA1B7Fk|41:10|Aula 41 - Teorema Fundamental do Cálculo - Parte 3
+qpQZALtRqgk|45:34|Aula 42 - O logaritmo definido como integral - Parte 1
+aJ5E8rLO0Ug|44:51|Aula 43 - O logaritmo definido como integral - Parte 2
+KP-bf_Qwhdk|49:46|Aula 44 - Áreas entre curvas - Parte 1
+jZIpl6iWFfc|41:23|Aula 45 - Áreas entre curvas - Parte 2
+njO-gPgQbjs|43:29|Aula 46 - Volumes - Parte 1
+agEKx6LzGKw|44:29|Aula 47 - Volumes - Parte 2
+N9rbdULDKSc|43:01|Aula 48 - Volumes por cascas cilíndricas - Parte 1
+8bIx_Tg6v6w|43:39|Aula 49 - Volumes por cascas cilíndricas - Parte 2
+kau-Uto7A88|50:49|Aula 50 - Integrais trigonométricas - Parte 1
+RJ9nl9leXvI|43:58|Aula 51 - Integrais trigonométricas - Parte 2
+Mm21ME5eqnA|35:23|Aula 52 - Substituição trigonométrica - Parte 1
+jvzuPH4fnbU|45:01|Aula 53 - Substituição trigonométrica - Parte 2
+iEhKfVjSw5A|45:58|Aula 54 - Funções racionais e frações parciais - Parte 1
+AQR5gr8Es40|42:17|Aula 55 - Funções racionais e frações parciais - Parte 2
+#PLFBA21F349930F92F
+lempeC72Tyg|47:20|Introdução - Parte 1
+5waZ5E7F-ew|41:45|Introdução - Parte 2
+el8Pwa6ztAQ|41:01|Equações separáveis e métodos de substituição - Parte 1
+VGsIyKQInyk|41:59|Equações separáveis e métodos de substituição - Parte 2
+_HiODd5x-cs|41:34|Equações exatas e fatores integrantes - Parte 1
+Y5rpaYzRkJA|42:50|Equações exatas e fatores integrantes - Parte 2
+01FK-H7Kbpk|38:07|Teorema de existência e unicidade - Parte 1
+B18fCS7laQw|36:15|Teorema de existência e unicidade - Parte 2
+2MxBPMOu69Y|40:33|EDO linear de 2ª ordem; Wronskiano - Parte 1
+deSbiyiyYYk|40:40|EDO linear de 2ª ordem; Wronskiano - Parte 2
+qpePb6jrVBs|42:13|Fórmula de Abel; EDO homogênea de coeficientes constantes - Parte 1
+HdP4bZDA4vE|41:25|Fórmula de Abel; EDO homogênea de coeficientes constantes - Parte 2
+TM_uhRgXfvA|46:50|Equações de Euler, redução de ordem - Parte 1
+HSwfq1pH8VE|41:31|Equações de Euler, redução de ordem - Parte 2
+ef_-20O-Y5I|43:59|Método dos coeficientes indeterminados - Parte 1
+2Vo5CFtftd4|46:05|Método dos coeficientes indeterminados - Parte 2
+KlhO-aISAx8|41:56|Equações não homogêneas, variação de parâmetros - Parte 1
+AviIX_L7zvU|42:07|Equações não homogêneas, variação de parâmetros - Parte 2
+bNiw3CMGsK4|41:36|Transformada de Laplace: definição e cálculo - Parte 1
+7npqDO4sJJ4|40:56|Transformada de Laplace: definição e cálculo - Parte 2
+FQY6EFpQnWQ|45:59|Transformada da derivada e da integral; frações parciais - Parte 1
+3cYKiIpiLuo|45:04|Transformada da derivada e da integral; frações parciais - Parte 2
+t7jE0YIyVFs|42:35|Derivada e integral da transformada; convolução - Parte 1
+ihmuGerz05c|41:29|Derivada e integral da transformada; convolução - Parte 2
+SA8TxzhPQ-I|42:47|Funções descontínuas; função degrau - Parte 1
+LiXFcX87eSM|40:15|Funções descontínuas; função degrau - Parte 2
+-81_31633gQ|41:12|Função impulso; delta de Dirac - Parte 1
+4blJR4ZExko|34:44|Função impulso; delta de Dirac - Parte 2
+IL7uLqJ2zcU|44:41|Sistemas lineares com coeficientes constantes: autovalores reais - Parte 1
+oM3mXg2jBA4|40:09|Sistemas lineares com coeficientes constantes: autovalores reais - Parte 2
+pVwU-3PLtnY|45:25|Sistemas lineares homogêneos: autovalores complexos - Parte 1
+oo5Ut1bYVx8|45:00|Sistemas lineares homogêneos: autovalores complexos - Parte 2
+GAXOW_BaifI|44:47|Autovalores repetidos - Parte 1
+FQq46peJrHY|41:37|Autovalores repetidos - Parte 2
+n1DQChhJpMc|43:27|Sequências numéricas - Parte 1
+QQ5B5fPYFQc|46:18|Sequências numéricas - Parte 2
+JiWKLACcRME|45:51|Séries numéricas; testes de convergência - Parte 1
+AVUjsHZ9Um4|46:20|Séries numéricas; testes de convergência - Parte 2
+W9BCFKULvaU|44:33|Testes de convergência e séries alternadas - Parte 1
+cb0apXI5SaM|53:19|Testes de convergência e séries alternadas - Parte 2
+w1M69ifBFX4|40:52|Séries de potências - Parte 1
+PXmcPSLZxmQ|38:54|Séries de potências - Parte 2
+8STPRjedg44|48:38|Série de potências em ponto ordinário - Parte 1
+C1FRI5CRQIo|47:19|Série de potências em ponto ordinário - Parte 2
+-xnGlLO4nbM|44:35|Exemplos; ponto singular regular - Parte 1
+gPoVK0acKCE|45:58|Exemplos; ponto singular regular - Parte 2
+B_bjR1xeGCU|43:19|Séries de potências em ponto singular regular - Parte 1
+YnGY-dHNKYE|41:06|Séries de potências em ponto singular regular - Parte 2
+dSIwvBQ7AzQ|41:27|Solução em série; ponto singular regular - Parte 1
+5KV5flB5cHA|44:27|Solução em série; ponto singular regular - Parte 2
+vEd-7rDFXNg|44:29|Séries de Fourier - Parte 1
+p3-yeI9LINU|42:54|Séries de Fourier - Parte 2
+AZh6vZQmRSQ|40:15|Funções pares e ímpares; extensão periódica - Parte 1
+0Rv2_xLrCm8|44:15|Funções pares e ímpares; extensão periódica - Parte 2
+zc9WbbIJMjI|38:48|Separação de variáveis; equação do calor - Parte 1
+hhUXVJVlTes|34:34|Separação de variáveis; equação do calor - Parte 2
+ybwwDTRCzCA|25:59|Equação da onda e de Laplace - Parte 1
+mIXFe3BDM2s|23:20|Equação da onda e de Laplace - Parte 2
+#PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL
+HtfVKyjrj9c|4:56|Teoria de grupos: grupos e grupos abelianos
+7cx5Aa3crt8|3:30|Exemplos de grupos
+n4QQ5iZIlv0|8:12|Exercícios resolvidos sobre teoria de grupos
+ynNbcjxUVIg|3:53|Exercícios resolvidos sobre teoria de grupos (continuação)
+zIIIDb9hga4|6:48|Exercício resolvido: teoria de grupos, Ex. 2
+vlDKrkxljMw|9:28|Exercício resolvido: teoria de grupos, Ex. 3
+qo5ruHriU34|18:16|Aula 1 - Teoria de grupos: definição, grupo abeliano
+XVYGd0pF-oM|4:01|Exercício resolvido: teoria de grupos, Ex. 4
+6cb-vbC3AyI|20:57|Aula 2 - Propriedades imediatas, grupos finitos
+61CPef1a6kk|17:43|Aula 3 - Grupos lineares de grau n
+GC6JaC4a98A|14:34|Aula 4 - Subgrupos e propriedades
+Zoup9YOnzps|10:21|Aula 5 - Potenciação em um grupo
+GoJFHuVtQmY|13:48|Aula 6 - Homomorfismos de grupos
+5HXTVtu8JDE|11:56|Aula 7 - Núcleo de um homomorfismo
+Dg4wb8WlSNI|6:34|Demonstração: homomorfismo injetor sse núcleo trivial
+Efa3jZX4kw8|12:23|Aula 8 - Isomorfismo de grupos
+-5FYwGUimUQ|11:18|Aula 9 - Grupos isomorfos e o isomorfismo inverso
+wlFYcBcJqgY|22:34|Aula 10 - Grupos cíclicos e exercícios
+uPKARQueKIE|7:45|Exercício 6: todo grupo de ordem 2 ou 3 é cíclico
+TtmB8qDEklo|6:22|Exercícios 7 e 8: ordem de elementos
+UhEUVdm2_Hk|17:35|Aula 11 - Subgrupos de grupos cíclicos
+8rzCIOQi8iI|4:37|Exercício 9: (Zm, +) é cíclico
+KJK2O7ehvq8|12:40|Aula 12 - Todo grupo cíclico é abeliano
+VZaz4eZDjjk|19:39|Aula 13 - Classes laterais
+gAU3zrteUjU|14:52|Aula 14 - Teorema de Lagrange
+dcEDwR1fV4I|8:02|Exercício 10: classes laterais em Z12
+TUTfjZ506KM|25:04|Aula 15 - Subgrupos normais e grupos quocientes
+w_36aOs-HJU|3:16|Exercício: subgrupo normal
+ZsUGKoCVp3Y|18:46|Aula 16 - Anéis (Parte 1): definição, exemplos e propriedades
+g-63MU4hQYE|25:42|Aula 17 - Anéis (Parte 2): anéis finitos e comutativos
+4GEdWpa3NvQ|21:10|Exercício 11: anel comutativo sobre Q
+0uB9YvZzjG0|17:21|Aula 18 - Anéis (Parte 3): subanéis, anéis de integridade, corpos
+fnfY55_3eu0|5:57|Exercício 12: (Q, +, ·) é um corpo
+hzFiilP_EPU|11:44|Exercício 13: funções afins formam um grupo
+e-7ji93FXMY|15:31|Aula 19 - Anéis (Parte 4): domínio é corpo? corpo é domínio?
+1ofAmb21674|23:26|Aula 20 - Anéis (Parte 5): homomorfismos de anéis
+V86CdnwFqJY|21:04|Aula 21 - Anéis (Parte 6): núcleo de um homomorfismo de anéis
+c9Qj2mIBp84|23:48|Aula 22 - Anéis (Parte 7): isomorfismo de anéis
+cjBRvcPEha0|12:37|Exercício 13: conjugação é isomorfismo
+ZRyEkcxzebk|9:25|Exercício 14: homomorfismo de anéis
+EKVvKAYIr2Y|19:56|Aula 23 - Anéis (Parte 8): corpo de frações em um domínio
+VcoxgaQ0jAI|16:30|Exercício 15: (Z3, +, ·) é um corpo
+4Mc4aKVCM2E|11:37|Exercício 16: subanel de M2(R)
+sAEDvEaYC64|20:55|Aula 24 - Corpo de frações de um anel de integridade
+QE7FMGGjGBg|10:01|Exercício 17: corpo de frações de um corpo
+NDALS2rcChM|10:29|Exercício 18: caracterização de subgrupo normal
+Il_MpSZw59U|13:37|Exercício 19: imagem de subgrupo normal
+H9Svdcl69eI|20:58|Exercício 20: (R², +, ·) é um corpo
+IEBZ3lDPXYk|14:33|Exercício 21: Z5×Z4 e Z7* são cíclicos?
+OwC1PiUyUd0|21:11|Aula 25 - Característica de um anel
+BpF4gIcboHg|31:11|Aula 26 - Ideais em um anel comutativo
+#PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI
+Nu-jj55daAY|6:16|Aula 01 - Introdução
+PL3LshCQzpo|12:09|Aula 02 - Instalação e variáveis
+bS7Y7ngJ2wM|4:09|Aula 03 - Operadores
+lV4vd0K8MoQ|6:23|Aula 04 - Operadores relacionais e lógicos
+ThwDm4pMoPw|7:46|Aula 05 - Operadores bit a bit
+31ArWBQi3gs|10:30|Aula 06 - Operadores de atribuição
+03oVsYpw3dg|8:18|Aula 07 - Estrutura condicional
+kKluw4u4Bxo|6:51|Aula 08 - Estrutura de repetição - Parte 1
+AW2e7bU-Mm8|12:53|Aula 09 - Estrutura de repetição - Parte 2
+V25aDjNL6NE|9:19|Aula 10 - Funções - Parte 1
+biWgEqraFc0|10:40|Aula 11 - Funções - Parte 2
+INkW2Puy1AU|10:43|Aula 12 - Funções - Parte 3
+kLHyu8fc8ik|3:22|Aula 13 - Void
+lBb0d2hZpKY|20:44|Aula 14 - String - Parte 1
+XzyyQu4BqSI|13:28|Aula 15 - String - Parte 2
+Cn2HS0Y6_TI|14:02|Aula 16 - Number - Parte 1
+rwAvMsNvCSw|9:51|Aula 17 - Number - Parte 2
+8amhgLwYYYg|2:27|Aula 18 - Boolean
+_I1w7PSi0XU|12:31|Aula 19 - Math
+rBNtXHBrw8E|9:40|Aula 20 - Array - Parte 1
+rYxklS8c9Dg|16:42|Aula 21 - Array - Parte 2
+lmP6gvZ8-ew|16:19|Aula 22 - Array - Parte 3
+02vrrk7kFtE|16:49|Aula 23 - Objetos JSON - Parte 1
+J1-BL5rmKxQ|12:19|Aula 24 - Objetos JSON - Parte 2
+ljZKG2ZbW3s|15:15|Aula 25 - Date
+L709KtTSX9o|8:45|Aula 26 - Eventos de tempo
+M-vJ7UMq3FA|17:05|Aula 27 - RegEx
+2Uks6s9el70|9:57|Aula 28 - Collections: Maps
+0BWsACzsoYA|5:04|Aula 29 - Collections: Sets
+Ib79UqGAQek|7:11|Aula 30 - Strict Mode
+O9KWhlDR6Co|13:49|Aula 31 - Módulos
+9-3zncqS_vU|10:59|Aula 32 - Módulos em Node.js
+tsUupWcv2oA|16:20|Aula 33 - Promises
+bwL6mScSkFo|22:11|Aula 34 - Promises (reforço)
+mvx8_vJyL3Y|10:57|Aula 35 - Tratamento de erros
+_NdLtSqMOgo|14:21|Aula 36 - Classes em ES5
+PX8BjUNhh-U|8:00|Aula 37 - Classes
+eSJsWkcQ050|13:59|Aula 38 - Métodos
+Ls0Mb9Q7G54|22:35|Aula 39 - Herança
+#PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR
+Wm99C_f7Kxw|8:19|O treinamento Descomplicando o Docker está gratuito
+qZevFPMtQho|14:02|Day 1 - 01 O que são containers
+Hbb5zP-2vTU|10:52|Day 1 - 02 O que é copy-on-write
+V3ILFaE7q0o|7:26|Day 1 - 03 Namespaces, cgroups e Netfilter
+r59eodKRwzk|1:06|Day 1 - 04 Um pouco de prática
+4XwzR9vXT5s|6:50|Day 1 - 05 Instalando o Docker
+ms04rvuRyyI|17:37|Day 1 - 06 Primeiros passos 1
+HkFy7HRFkGo|12:18|Day 1 - 07 Primeiros passos 2
+4vPmK9aEHug|18:03|Day 1 - 08 Primeiros passos 3
+eXRlBgyQu6g|11:51|Day 1 - 09 Primeiros passos 4
+HqLvKPozd0o|2:52|Day 1 - 10 Primeiros passos 5
+t6n6sDuH3Rw|3:44|Day 2 - 01 Introdução
+5WPekl4XH2M|9:08|Day 2 - 02 Volumes do tipo bind
+TQmUeka6xzA|9:38|Day 2 - 03 Volumes do tipo volume
+O3fZbot5rtw|15:08|Day 2 - 04 Data only e prune
+SJtpsE095LI|1:16|Day 2 - 05 Desafio sobre volumes
+8sLRU6cVM3Q|2:41|Day 2 - 06 Resposta do desafio
+OhgQLTaI4es|6:01|Day 2 - 07 Volumes e backup
+bJUccjvkPg4|12:38|Day 2 - 08 Dockerfile - Parte 1
+CSqY_Ofroxc|11:32|Day 2 - 09 Dockerfile - Parte 2
+RE6KoZlLvsI|2:51|Day 2 - 10 Dockerfile - Parte 3
+rlZzKlXRhOE|11:54|Day 2 - 11 Dockerfile - Parte 4
+h3pTSW4p3OU|6:16|Day 2 - 13 Dockerfile multistage
+omptRNbu7cg|8:13|Day 2 - 14 Dockerfile multistage - Parte 2
+DX8p6KZdorc|27:27|Day 2 - 15 Images e o commit
+Uj9AgpxNS64|3:04|Day 2 - 16 Docker Hub - Parte 1
+D6rLGiR-luY|6:45|Day 2 - 17 Docker Hub - Parte 2
+kyIDFEqf40o|8:19|Day 2 - 18 Registry
+0gzkfvjShJA|3:50|Day 2 - 19 Registry (final)
+lSVsez3DJkI|4:22|Day 3 - 01 Introdução
+agpu1gtl7wk|11:25|Day 3 - 02 Docker Machine (obsoleto)
+JcgJf6OFLvk|15:19|Day 3 - 03 Docker Machine - Parte 2 (obsoleto)
+ojQUXXea2Bk|12:41|Day 3 - 04 Docker Swarm - Parte 1
+aGif8R0BWHg|4:39|Day 3 - 05 Docker Swarm - Parte 2
+9aIYlRSC2Zs|8:38|Day 3 - 06 Docker Nodes
+oXvXwuAxa4I|11:55|Day 3 - 07 Docker Services
+p-JGKuFThcA|19:51|Day 3 - 08 Docker Service Volumes
+Vwi6w4fKuyU|5:12|Day 3 - 09 Desenho: Service Volumes
+RX_3-aJAa0M|21:16|Day 3 - 10 Docker Service Network
+BMSf-qdhaTA|8:53|Day 3 - 11 Final
+mLTqwAXnYg8|38:34|Day 4 - 01 Introdução
+PDiNdjSa1KE|10:41|Day 4 - 02 Docker Secrets
+aG9H9L6Hbcg|4:58|Day 4 - 03 Docker Secrets - Parte 2
+uHoTBOfgiME|1:38:43|Day 4 - Aula ao vivo: Traefik
+IhoNwQQnePk|19:47|Day 4 - 04 Docker Compose - Parte 1
+vz5oYhdA0EE|15:19|Day 4 - 05 Docker Compose - Parte 2
+h6uvOofo0Kg|16:05|Day 4 - 06 Docker Compose - Parte 3
+6X99ZZDXt5s|24:25|Day 4 - 07 Docker Compose - Parte 4
+QFHWJBdOgrE|15:31|Day 4 - 08 Docker Compose - Parte 5
+dtPKx7ncxGg|50:58|Day 4 - 09 Aula ao vivo: Docker Compose
+#PLxI8Can9yAHdOIYVPQPS6oUPBk8mb1CVU
+gbwDHqoufeA|10:04|Origem dos sistemas de numeração: babilônico e egípcio
+DrwzKXvDxhA|7:28|Outros sistemas de numeração e os algarismos indo-arábicos
+4p1vPIjdBYA|12:13|Geometria antes dos gregos: Egito, Mesopotâmia e China
+UTSuRMs2hzE|10:53|Os primórdios da matemática grega: a geometria dos números
+SaF6qVCujTU|10:59|Os problemas clássicos da matemática grega
+5KXlOCBB2lo|12:55|Os Elementos de Euclides e o método axiomático
+lxiLq4DQwyg|9:55|A Teoria das Proporções de Eudoxo e os incomensuráveis
+YawzJ2ENuJg|7:26|Arquimedes e a geometria
+JYUBNxZOlxI|5:39|Apolônio e as seções cônicas
+b2YUcjeABmU|13:24|Diofanto e a álgebra grega
+Ti90fc2eYpw|11:46|Episódios da álgebra islâmica medieval
+n-tv3X_2jco|13:58|Álgebra no Renascimento: o caso das equações
+z0OBgxWwWZk|12:34|Fibonacci: herdeiro dos trabalhos islâmicos
+1896EX7jeU8|10:24|Métodos matemáticos no Renascimento: astronomia e trigonometria
+3i_SXYtCXbo|11:04|Logaritmos - Parte 1
+HcmzWkG4mm8|6:01|Logaritmos - Parte 2
+xovwsA-z-7U|12:44|A elaboração dos métodos infinitesimais no cálculo
+fFohrLDU4S8|18:09|Fermat, Descartes, Newton e Leibniz
+gfNUMA4x6NY|15:03|A formação do conceito de função - Parte 1
+B9odqX6xPxs|7:17|A formação do conceito de função - Parte 2
+#PLxI8Can9yAHcSZv2BBUJAfGsXx0D0hn-2
+t9dAl4imiO4|20:30|Aula 01 - Apresentação da disciplina
+WhcTfvX9vJk|28:33|Aula 02 - Coordenadas cartesianas no plano R²
+hyGia7VREcU|25:11|Aula 03 - Equação da circunferência
+hYLSxAg0U18|25:17|Aula 04 - Coordenadas polares
+1C43Zlwe9h4|24:30|Aula 05 - Vetores no plano R²
+_Vi9S62Aipw|21:14|Aula 06 - Dependência linear
+E_wm77isckY|26:16|Aula 07 - Produto escalar
+M064Cv7DK3o|20:45|Aula 08 - Equação da reta - Parte 1
+SIssYpYEUX4|20:15|Aula 09 - Equação da reta - Parte 2
+bD-RMSP1db4|22:18|Aula 10 - Cônicas - Parte 1
+NdWjwExnQWg|21:15|Aula 11 - Cônicas - Parte 2
+uQPMW44RDpk|22:43|Aula 12 - Mudança de coordenadas
+OE6MJLQZAlY|20:30|Aula 13 - Coordenadas cartesianas no R³
+iAn65WYDWb8|19:05|Aula 14 - Vetor no espaço R³
+V1n9bG8vovo|20:59|Aula 15 - Dependência linear no R³
+wDIvgP91DsU|23:08|Aula 16 - Produto escalar e produto vetorial
+BXsx2CcH1kk|22:07|Aula 17 - Produto misto
+aRSxKV1HUbo|22:25|Aula 18 - Estudo da reta e do plano - Parte 1
+6pMZbxbqm0g|21:33|Aula 19 - Estudo da reta e do plano - Parte 2
+egIXadtpVnc|25:50|Aula 20 - Ortogonalidade
+xPDi8RjCEfg|19:44|Aula 21 - Posições relativas - Parte 1
+XnbAKv6IqxA|22:13|Aula 22 - Posições relativas - Parte 2
+F4LEHjXnvlU|22:20|Aula 23 - Distâncias - Parte 1
+hgu4pprFEhI|19:49|Aula 24 - Distâncias - Parte 2
+QUTiiEJtaQo|25:36|Aula 25 - Exercícios no plano R²
+6x7UwrJD4z8|22:05|Aula 26 - Exercícios de vetores no R³
+-sEmXHPkJHc|23:16|Aula 27 - Retas e planos
+g2Xl5MR_PHU|19:19|Aula 28 - Distâncias
+#PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC
+1LhX2u6_BJE|19:17|Aula 01 - Introdução ao React e primeiro app
+xsR894YLShs|11:23|Aula 02 - Instalação do Node e primeiro app no PC
+Pl_aGMWTk4g|15:20|Aula 03 - Estrutura básica de um app React
+um9WkmclLFs|17:22|Aula 04 - Expressões em JSX, imagens, constantes e variáveis
+875omMYCjA0|9:05|Aula 05 - Como criar componentes
+CsCP8ZFySg4|11:52|Aula 06 - Enviando propriedades com props
+6T6AM9VbLMY|8:47|Aula 07 - Enviando funções para os componentes
+zhP0EoBbfuc|17:09|Aula 08 - Formas de usar CSS em React
+rg3QOhzii_w|8:41|Aula 09 - Como funciona a renderização de componentes
+ZokLiEbKiiU|15:13|Aula 10 - O que é state e como usar
+UVJfll2KefM|20:42|Aula 11 - Eventos
+lanKyPZQG_4|18:00|Aula 12 - Renderização condicional
+6iJABCS34Jk|13:09|Aula 13 - Listas com map
+CmdBwXsbGOs|13:48|Aula 14 - Elementos de formulário
+UUY3cYUif0Y|11:12|Aula 15 - Objetos com state
+Mgpj-YC7a7Y|18:04|Aula 16 - Elevação de state
+0onL9O2ysCE|6:17|Aula 17 - Solução do desafio da aula 16
+-jKFmAKDJKc|10:08|Aula 18 - Contenção
+6id-PtDSnmw|8:46|Aula 19 - O hook useEffect
+oaDdTH2JQrA|11:15|Aula 20 - LocalStorage
+pIUMIOgP8j8|13:49|Aula 21 - Componentes de classe
+10_raCSnrqc|14:36|Aula 22 - State em componentes de classe
+-QRlXs9LTOw|10:43|Aula 23 - Manipulando state em componentes de classe
+UH-s-DwcYA8|12:37|Aula 24 - O método bind
+aeCiOmLlr94|16:09|Aula 25 - Ciclo de vida dos componentes
+zRttpd14ci4|13:53|Aula 26 - Estrutura de um componente de classe
+0gCEIt-WNQ0|13:30|Aula 27 - Variáveis globais static
+-I2hggc2yFA|21:35|Aula 28 - Navegando entre telas de forma nativa
+whBg2A-ls2I|15:50|Aula 29 - Exercício de React
+bHu_jB9apfM|23:16|Aula 30 - Calculadora de IMC (com desafio)
+89DrQYYhiNc|15:55|Aula 31 - Solução do desafio da aula 30
+JDiH9BMzjNs|11:14|Aula 32 - De componentes funcionais para classe
+qycEIwP_qKs|23:37|Aula 33 - Calculadora em React
+wdOBZm-_ZnY|22:51|Aula 34 - Finalização da calculadora
+de7njgttAVg|13:08|Aula 35 - Jogo da velha (1)
+WD94J2odWQc|17:56|Aula 36 - Jogo da velha (2)
+o0_rVkkWWrc|14:38|Aula 37 - Jogo da velha (3)
+VsXwvgW17ow|11:15|Aula 38 - API simples em Node.js
+GrxM7aHyN84|16:42|Aula 39 - Consumindo dados de uma API Node.js
+ufb8a6ZztOM|8:58|Aula 40 - Consumindo API com componente funcional
+fTqOfPfOFJE|7:39|Aula 41 - Usando fetch para consumir a API
+5LE1-W3TSvs|15:22|Aula 42 - Rotas com React Router
+ZKTaOoNCAcg|8:42|Aula 43 - O atributo key
+rzR2Z1c8Mps|8:42|Aula 44 - Ideias de projetos React
+#PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs
+EOLPUc6oo-w|10:28|01 Introdução e conceitos básicos
+zjS1wfpKEmQ|17:55|02 Variáveis de ambiente e comandos env, unset e echo
+VUyLS_gPGO4|11:22|03 Arrays: variáveis com múltiplos valores
+cru9166Gfss|15:28|04 Aliases e funções no Bash
+aJFdIA5w3BY|20:20|05 Arquivos de configuração: profile, bashrc e outros
+6Uq3L9fj36Q|16:27|06 Criando scripts simples: comando echo
+laFqtoKLhT0|11:46|07 Usando variáveis nos scripts
+eTXJlgWEFyA|11:27|08 Redirecionando comandos para variáveis com a crase
+bAa0BNB-fcE|10:06|09 Redirecionamento de entrada e saída
+HubJgtEJ99k|9:33|10 Cálculos aritméticos simples
+9yNh9XifAJQ|19:58|11 Usando a calculadora bc em scripts
+G8pAhoouBmk|9:53|12 Status de saída e o comando exit
+aJdJFdAeHq0|15:14|13 Estrutura condicional if then else
+oOFd0vfwTXU|9:25|14 Condicional aninhado com elif
+AWtUhkHMtaA|17:11|15 Comparações numéricas e de strings com test
+lUrovWevUYk|12:02|16 Comparando arquivos e diretórios com test
+yHjt-11itSU|8:28|17 Condições compostas com AND e OR
+8fpQKnA129c|8:02|18 Comando case
+m0XiSjbdqTo|12:57|19 Laço for
+Ex1Na4jfkAs|7:19|20 Laço while
+uaRORyaAQfE|5:47|21 Laço until
+YEw_U7uh6UY|5:52|22 Laço for no estilo C
+jgtdKoIEwSk|11:57|23 Parâmetros de linha de comando
+7wI8XbNhGVQ|7:51|24 Comando shift
+0cQcRh2SVkM|7:29|25 Opções de linha de comando
+1wuo96LEcHA|20:37|26 Comando read
+wFO3KgXPkIU|18:15|27 Caixas de diálogo TUI com whiptail
+uHgcchg2VIM|12:12|28 Criando funções em scripts
+q90fP1IDc3I|22:08|29 Caixas de diálogo TUI com dialog
+sfO3ePx8dWY|11:36|30 Declaração break
+7VHQ68EoB9g|15:08|31 Comando printf
+#PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B
+LLqq6FemMNQ|9:43|O que é Node.js
+522HiDiAf0w|8:07|Como instalar o Node.js
+5fuoA7pGH_Y|10:56|Node na prática
+bWSkUscBeZc|11:28|Módulos
+QnTCre0HHv8|11:23|Protocolo HTTP
+pohvlFd0byI|6:59|Introdução ao Express
+UMI7kFwmAHo|15:40|Rotas
+G9b-Zi0rg3o|12:33|Parâmetros
+u3MrPxq_RyA|2:30|Nodemon
+UkwLcuzJRDQ|8:41|Exibindo HTML
+HmmYkLyVy-c|14:51|Instalando o MySQL
+IPbLptXXXc0|15:46|Criando tabelas no MySQL
+MlhNP1UbCRA|10:42|Manipulando o MySQL
+QA2pmm8FC60|4:19|Deletando registros no MySQL
+YfG6MgedXTc|4:58|Atualizando registros no MySQL
+0q0u8syrztg|3:13|Sequelize
+jk9aFVXR9Cs|8:30|Conectando ao MySQL
+4ktEr1rbhx8|13:51|Models no Sequelize
+U4OUBjnjBWU|7:14|Handlebars
+p6oubMfuNto|5:28|Criando um formulário
+LwvZeRj7CdQ|8:16|Enviando dados do formulário
+P1OI_EKyl6U|5:01|Body parser
+Ql6F6wPphkA|9:30|Estruturando o banco de dados
+OFrnB7Bvznk|8:29|Pegando dados do formulário
+Oo8oNXyrxB0|8:17|Listando dados do banco
+PiM-E4cDj0s|8:49|Deletando posts
+wHvz6SMKZq4|4:03|Introdução ao MongoDB
+XlvR0_AECoI|11:09|Instalando o MongoDB
+5_LRvbmlqeg|11:45|Iniciando com Mongoose
+h4lS9V3FCRQ|16:33|Trabalhando com o Mongoose
+x2FZQsQiHl0|7:57|Iniciando projeto Express.js
+ROL4ylHN47g|9:46|Grupo de rotas no Express.js
+dghtXs5j__Q|9:56|Arquivos estáticos
+1AuXAlmhUV4|9:18|Formulário de categorias
+0llTpZe5GiE|5:55|Definindo o model de categorias
+9ELKCM4MU3c|7:01|Cadastrando categorias no banco de dados
+zw4duVA-ahY|3:53|O que são sessões e cookies
+4rlKcxz09uE|5:11|Middlewares
+BN5iQ4pkhTc|5:52|Configurando sessões
+yNDCRAz7CM8|15:23|Validando formulários no Express.js
+xFbptBF9Vag|5:48|Listando categorias
+yNasCYQ2AOE|15:53|Editando categoria
+JMWeqWUKNv0|5:35|Deletando categorias
+VFEE6_Ydf80|4:29|Definindo o model de postagens
+4jFC_EAbMyw|11:16|Formulário de postagens
+EJvY2qFu7Mc|9:28|Salvando postagens no banco de dados
+7nDmDOR3784|6:06|Listando postagens
+kZuQj24CZ3Y|15:18|Editando postagens
+BtsIcD09vmQ|4:25|Deletando postagens
+X3IXjiq3DLA|7:43|Criando a home page
+tvqXaP802u0|9:28|Página de postagem
+FtEaHKrH9Kc|13:51|Listagem de categorias
+JSUMbMhyADQ|2:50|Definindo o model de usuário
+acCEOBM2eC0|12:40|Registro de usuários
+5j5RHllZoBU|1:26|Fazendo correção
+YPkv701xk78|13:51|Cadastrando usuários no banco de dados
+s1AZiMwuECE|3:04|Formulário de login
+JwrIhK1OME0|12:40|Configurando o Passport
+oVQ7enobouE|8:36|Finalizando a autenticação
+DbKwNEBwZwI|11:49|Controlando acesso
+bfuhndq5-II|2:22|Logout
+4ssxoAltYmM|10:39|Deploy no Heroku - Parte 1
+OVsvdeG_AZc|9:06|Deploy no Heroku - Parte 2
+#PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R
+wiM6_4IC_4o|27:10|Introdução
+kScqMtkukWQ|21:01|Instalação do MPLAB X e outros softwares
+p7bQd4ykKp4|9:21|Configuração
+U6bABLzSFfU|14:01|Elementos de microcontroladores
+nl2d39RRzNE|9:02|Características do microcontrolador AVR
+PWjFWGUR85c|12:10|Arquitetura interna
+if3Hs7qUco8|16:14|Memórias internas
+nLkZhgYuH9g|21:49|Sistemas de clock e reset
+XV9gZLlhWH8|34:13|Hardware utilizado e primeiro programa em Assembly
+c0hqSK4zOoc|17:17|Fundamentos da linguagem Assembly
+7PUnHO4PIwM|13:40|Lab 02 - Instruções básicas de Assembly (Parte 1)
+RtdusbxqTgk|9:05|Lab 02 - Instruções básicas de Assembly (Parte 2)
+yfPLS8y8L1k|12:13|Lab 03 - Simulação no MPLAB X
+ZH3msSJPJkU|12:38|Resistores de pull-up e pull-down
+VHDVKE7fxp8|10:34|Portas de entrada e saída (Introdução)
+UuJOP9RAHRg|18:26|Portas de entrada e saída (Hardware)
+E7LBErism8M|10:46|Lab 05 - Portas de entrada e saída (Parte 1)
+koNzBWpojj4|13:36|Lab 05 - Portas de entrada e saída (Parte 2)
+iD6FLM2zbwQ|11:39|Lab 05 - Portas de entrada e saída (Parte 3)
+-POTDYH4aig|10:31|Lab 05 - Portas de entrada e saída (Simulação)
+Kjbntwdtyfo|16:21|Sub-rotinas
+b4mQVmEhiNk|17:40|Lab 06 - Sub-rotinas
+uXaI5VG6TQ0|15:31|Linguagem C para AVR (Introdução)
+lsg80ZeSh28|15:51|Lab 07 - Linguagem C para AVR
+upOOjaekw3Q|16:19|Máscaras de bits
+R4GsEcLyGIY|10:40|Lab 08 - Máscaras de bits
+8cHSjKY8BaA|14:35|Lab 09 - Debounce
+Kf-MvxWNX1I|16:21|Lab 10 - Acionando display de 7 segmentos
+b6pa_D63xaA|12:38|Lab 11 - Display de 7 segmentos com vetores
+J0EJXWesGa8|11:02|Interrupções (Introdução)
+MS1Vod5_e7Q|13:24|Vetores das interrupções
+p43RXoFRe5I|13:12|Interrupções externas
+2Kpg_Gs6W8I|17:52|Lab 12 - Interrupções externas (Parte 1)
+FLmpT7SaPMo|11:01|Lab 12 - Interrupções externas (Parte 2)
+6xgQVM88lUg|11:26|Lab 12 - Interrupções externas (Simulação)
+#PLZ8dBTV2_5HS79fVexGTtCMDUp7kjnumS
+F0-CgRe6hAc|28:52|Quartus II, FPGA vs. processador
+dRmxHZjES7o|18:15|Gravando um código no FPGA
+KcJd3swjcn0|26:21|Sinais e circuito combinacional
+XOuGgW-Qqpk|26:53|Vetores e multiplexadores em VHDL
+hOgk3AT-AiM|23:28|Processos em VHDL e decodificador
+hMy3vJ8MPVQ|22:13|Unidade lógica aritmética em VHDL
+HfZFrMe0N3E|16:07|Latch com enable em VHDL
+3TSL4S6c-ZI|18:46|Célula de memória SRAM
+rfYbdBUQ9Xw|19:00|Sintetizando circuitos TTL
+so8RP-eAgC8|21:40|Introdução ao ModelSim e testbench
+EL8pIdIkokk|14:41|Controlador de display de 7 segmentos
+AE7DMwm_Z44|14:01|Contador regressivo com display de 7 segmentos
+BggGroIzzdo|12:48|Somador de 2 bits em VHDL
+BjFCFn9IX-o|18:41|LED blink em VHDL
+QWe5sdWmsgQ|11:41|Register Transfer Level (RTL)
+PEq4Gysat94|13:10|Registrador sensível a nível
+P9z7X0UB6yE|12:40|Registrador sensível à borda
+x9OSGK1E1Us|13:10|Registrador sensível à borda (inicialização assíncrona)
+TD6GbOke1bM|10:14|Máquina de estado
+ogjjk4OrA9c|11:21|Máquina de estados finitos
+TeceQQaVuS0|11:51|Flip-flop empregando variáveis
+McUUqYqXDz8|11:53|Contadores em VHDL
+QAUUV2-9Crg|10:01|Outros modos de descrever flip-flops em VHDL
+Z-U0XDyEUKg|10:52|Declaração de componentes em VHDL
+lNZ8pOHXKKo|16:10|Somador de 4 bits com componente em VHDL
+R2Q6wkIf_gM|10:26|Genéricos em VHDL
+O6X6yR_btdA|8:48|Mapa de genéricos
+0eukFPuhtvY|9:07|Circuito somador com generate e for
+lWP6sCfkWSg|10:07|Circuito somador com generate if
+pigLXFPN54A|8:05|Comando loop
+8W6KBskhhE4|10:08|Funções em VHDL
+z2xEzFvxlEU|11:35|Procedimentos em VHDL
+YZBwz6uN-6k|10:10|Sobrecarga de operadores
+SxbudUKSPP8|9:45|Vetores sem limites
+HRuVe-UkOps|9:59|Variáveis compartilhadas
+TzGZkt_qoSM|7:51|Bibliotecas em VHDL
+3jujZjud-b4|8:48|Pacotes em VHDL
+gY8nALLntoM|11:17|Constantes deferidas
+Ezwr5BD1U9s|7:28|Sinais globais
+lY9zAJW7EIY|9:59|Padrão IEEE 1164 (std_logic, std_ulogic)
+KYZ2PKJTPR0|12:24|Utilizando o pacote std_logic_1164
+eh40ALQRCNY|9:59|Chave de alta impedância
+hMs_E6wbpIo|11:19|Codificação de valores
+A68PfOsZ6qE|9:34|Minimização de tabelas
+KQHVd2o9WFc|10:10|Detecção de borda de subida e descida
+7EarCdQ_vhA|6:57|Comando null
+h1ZLOe2UMgs|7:09|Padrão IEEE 1076
+jUUyCh2_jQE|9:57|Funções lógicas IEEE 1076
+Itq1jEW1ZZ4|7:48|Saídas de alta impedância IEEE 1076
+JjMqRdRDHI4|7:47|Função std_match IEEE 1076
+JhSddd2zIU8|7:12|Transbordo em operações de soma (unsigned)
+OxWchiNmB08|6:39|Decodificador para transbordo (signed)
+Ds4NO534OA4|10:10|Review do novo kit FPGA e novidades
+5UNoiikLecE|10:35|Gravando o kit FPGA EE03
+sB7CR_aIea0|10:30|Contador decimal em VHDL
+xhNc9wwe_c8|10:27|Contador decimal na prática
+4fyiS-MFCd4|5:53|Registrador de deslocamento
+1vFrPIxFu2Q|8:04|Registrador de deslocamento na prática
+a9dI0gF4tTc|8:45|Tipos e subtipos
+W8zSdSpG00Q|7:09|Vetores unidimensionais
+j5cVj-8MNOI|8:26|Vetor com limites em aberto
+-40vKssVHrE|8:53|Inversão de elementos de vetores
+Nmvz9G64wCo|6:47|Vetor multidimensional
+PMogJUpbS_Q|7:41|Tipo record
+atjLiLUUjBI|7:22|Pseudônimos em objetos
+xhKWTQGwfDs|6:42|Pseudônimos em funções e procedimentos
+ewT5uol1N-M|6:57|Síntese de memórias ROM
+a2DlOlzjuYE|7:05|Síntese de memórias RAM
+zSNbgM9-GDI|5:46|Escrita em arquivos com VHDL
+rXYK_FlrqRE|7:25|Leitura de arquivos
+QJ_xeoSlQNY|7:14|Sorteio do livro de VHDL
+RSLWzU4uTgg|5:59|Escrita em arquivos com procedimento VHDL
+QqjaGiuFmrU|5:12|Pacote textio para escrita
+OCqgcgTODkc|4:48|Leitura de arquivo em formato texto
+C-vbotT7-Os|6:16|Leitura e escrita de arquivo texto
+_-_cXC1Eorc|7:23|Sinalizando warnings com assert
+0h2YuphLMhU|6:17|Comando assert em código concorrente
+zE5Vw2qPebk|6:02|Aplicação do comando report
+mM-S6yihj4g|8:47|Display de 7 segmentos do kit EE03
+tbBiHPvzUIg|7:14|Display LCD do kit EE03
+#PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY
+BrufXJ2AhNo|22:16|Aula 1 - Sequências numéricas I (1/4)
+-WXsYcWLr30|20:55|Aula 1 - Sequências numéricas I (2/4)
+j8bd446q2wk|24:05|Aula 1 - Sequências numéricas I (3/4)
+767sM0V6Ss4|23:37|Aula 1 - Sequências numéricas I (4/4)
+lUfv3bspiGw|20:50|Aula 2 - Sequências numéricas II (1/3)
+LxjSbzWipak|23:05|Aula 2 - Sequências numéricas II (2/3)
+hSuUyOXvfvk|26:42|Aula 2 - Sequências numéricas II (3/3)
+8MjfOpAINUk|29:59|Aula 2 - Séries numéricas: conceitos básicos
+d_U9WfFXTXY|20:25|Aula 3 - Critérios de convergência (1/8)
+IqnYmacgmpY|27:17|Aula 3 - Critérios de convergência (2/8)
+jC9MWU3VrsU|23:05|Aula 3 - Critérios de convergência (3/8)
+UOoV1FX5oO8|24:32|Aula 3 - Critérios de convergência (4/8)
+F_Mx__unOeM|21:08|Aula 4 - Critérios de convergência (5/8)
+XZeLekfACKs|21:55|Aula 4 - Critérios de convergência (6/8)
+o0fS-j0BYqg|21:06|Aula 4 - Critérios de convergência (7/8)
+5x24l90oZFk|26:19|Aula 4 - Critérios de convergência (8/8)
+PPu7D3bIwsc|26:22|Aula 5 - Convergência condicional ou absoluta I
+UGD6c-3whJA|26:51|Aula 5 - Convergência condicional ou absoluta II
+M3459ZGJFd4|24:58|Aula 5 - Séries de potências: introdução I
+dEIytPdERKQ|30:23|Aula 6 - Séries de potências: introdução II
+EigL60vEwCc|21:27|Aula 6 - Séries de potências (1/5)
+MFO89oazdPQ|29:30|Aula 6 - Séries de potências (2/5)
+HqnYPbD3xvk|27:24|Aula 7 - Revisão: séries de potências (1/7)
+w0L8c4MkDjE|24:31|Aula 7 - Revisão: séries de potências (2/7)
+uIX-OaOat_8|21:45|Aula 7 - Revisão: séries de potências (3/7)
+HYSzJ3VKNaw|27:04|Aula 7 - Revisão: séries de potências (4/7)
+Y9Prh7iYVcg|22:33|Aula 7 - Revisão: séries de potências (5/7)
+NCxoy1Ncw8A|28:35|Aula 7 - Revisão: séries de potências (6/7)
+FcXHCFG2hDw|31:10|Aula 7 - Revisão: séries de potências (7/7)
+ZkP8S6-2Ljo|26:04|Aula 8 - Séries de potências (3/5)
+8ad2ly1clvc|31:53|Aula 8 - Séries de potências (4/5)
+Dmiud-Xoy0A|27:36|Aula 8 - Séries de potências (5/5)
+XNg3c8Pm53U|26:53|Aula 9 - Séries de Taylor (1/7)
+g8giCcjyl-8|27:28|Aula 9 - Séries de Taylor (2/7)
+4Vd4W0qc68I|23:08|Aula 9 - Séries de Taylor (3/7)
+CavnRpUt9bA|25:32|Aula 9 - Séries de Taylor (4/7)
+mD0D0c5_9iE|26:18|Aula 10 - Séries de Taylor (5/7)
+E72lVIEWkPg|26:45|Aula 10 - Séries de Taylor (6/7)
+uTkn4KJPSr0|27:15|Aula 10 - Séries de Taylor (7/7)
+JFdBfemyXRU|34:34|Aula 11 - Séries de Fourier (1/8)
+VJQkBy8m-VQ|23:19|Aula 11 - Séries de Fourier (2/8)
+C9ZNQu93Zp0|31:02|Aula 11 - Séries de Fourier (3/8)
+4tNRuKw9YVc|28:36|Aula 12 - Séries de Fourier (4/8)
+zq3SjPDkxQM|32:18|Aula 12 - Séries de Fourier (5/8)
+51K6yCJwA0Y|27:02|Aula 12 - Séries de Fourier (6/8)
+LKp2fi0NWOw|32:57|Aula 13 - Séries de Fourier (7/8)
+AQqbNkScX2g|28:55|Aula 13 - Séries de Fourier (8/8)
+MSqsEiOUwWU|22:34|Aula 13 - Exercícios de séries de potências
+hQfM2tF1VQg|18:55|Aula 14 - Revisão: séries de Taylor (3/4)
+sDUW26Yhmf8|20:50|Aula 14 - Revisão: séries de Taylor (4/4)
+M3Ve6qPsY9I|27:44|Aula 14 - Revisão: séries de Taylor (1/4)
+ldOL7jfU9aI|27:12|Aula 14 - Revisão: séries de Taylor (2/4)
+eHcKsANp2zw|24:05|Aula 15 - Revisão: séries de Fourier (1/4)
+paEgp7e4eSY|23:22|Aula 15 - Revisão: séries de Fourier (2/4)
+j0qaFRqtT3A|24:36|Aula 15 - Revisão: séries de Fourier (3/4)
+S1ZnT08ZyqE|21:32|Aula 15 - Revisão: séries de Fourier (4/4)
+XHyX5M6GO6w|28:14|Aula 16 - EDO (Parte 1)
+Lt-pTKZney4|28:04|Aula 16 - EDO (Parte 2)
+jVx230CAOiE|26:29|Aula 16 - EDO (Parte 3)
+RMcE9YM3Aqs|22:52|Aula 17 - EDO (Parte 4)
+GScauDYFrY0|24:32|Aula 17 - EDO (Parte 5)
+EuMoy9qZIic|21:47|Aula 17 - EDO (Parte 6)
+qLFPeLgG-mY|26:34|Aula 17 - EDO (Parte 7)
+OxmYqpyTCS4|18:33|Aula 18 - EDO (Parte 8)
+6w0B1NZUEfs|28:23|Aula 18 - EDO (Parte 9)
+Kx-KqvoeLDI|21:08|Aula 18 - EDO (Parte 10)
+3vrhfLfDNlw|25:25|Aula 18 - EDO (Parte 11)
+552HYhPGzCc|31:25|Aula 19 - EDO (Parte 12)
+_1k_dBqEJQc|25:43|Aula 19 - EDO (Parte 13)
+hbTxiZkvwXg|26:44|Aula 19 - EDO (Parte 14)
+DVvR070MlVs|28:28|Aula 20 - EDO (Parte 15)
+UHclnF9obvU|33:10|Aula 20 - EDO (Parte 16)
+KLCk0Rq0yWg|22:26|Aula 20 - EDO (Parte 17)
+ceUkeX4F1MY|28:04|Aula 21 - EDO (Parte 18)
+qAhgvox74vU|23:03|Aula 21 - EDO (Parte 19)
+_zRjsTNZDNY|26:44|Aula 21 - EDO (Parte 20)
+V_6wYC4bFv8|16:10|Aula 21 - EDO (Parte 21)
+RqkPSR-kYCo|29:57|Aula 22 - Revisão: equações diferenciais (1)
+wo6SNnhgNeE|23:31|Aula 22 - Revisão: equações diferenciais (2)
+R0o5gXtvLsA|21:18|Aula 22 - Revisão: equações diferenciais (3)
+Et5L0J3yVPU|18:36|Aula 22 - Revisão: equações diferenciais (4)
+iW5p7CXTnbk|20:55|Aula 23 - Revisão: equações diferenciais (5)
+c64U5ttODD4|30:30|Aula 23 - Revisão: equações diferenciais (6)
+LmHOvNXC7x8|28:07|Aula 23 - Revisão: equações diferenciais (7)
+#PLpB72X90N5xST4NmvjQicgfRgpt-9rgw-
+4bF8VPlnmoI|32:53|01 Introdução às EDPs: motivação
+V2CRb64aro0|33:13|02 Introdução às EDPs: definições
+ffcEN9-jlcY|16:41|03 Introdução às EDPs: definições (continuação)
+ror-VMX4lRU|32:06|Tipos de problemas: contorno, inicial e misto
+XcmR4GbqQVQ|12:32|Solução de EDPs simples
+cT3qtJ9K4w8|25:38|Método das características 1 (veja a correção na descrição)
+qYx-sB_fRr8|28:22|Equação do transporte: caso n-dimensional
+EhprcRdUdzU|16:36|Método das características 3: problema não homogêneo
+BwA0MWVaYgE|18:38|Separação de variáveis 1: introdução
+lSO2AAaEv3M|12:15|Separação de variáveis 2: linearidade
+hbdhr4EkMjM|28:26|Separação de variáveis 3: solução
+D4MWVyG4gVI|23:07|Separação de variáveis 4: generalização via linearidade
+ve6wbzEBFQo|27:25|Integrais envolvendo funções periódicas
+0oadBrORXoM|40:37|Seno e cosseno: funções ortogonais
+Y70xQAEPu4M|35:27|Série de Fourier: cálculo dos coeficientes
+Y-0vfM9bWu0|46:30|Funções pares e ímpares e série de Fourier - Parte 1
+umxnd78Lh7I|48:21|Funções pares e ímpares e série de Fourier - Parte 2
+iC6_9XIzcBM|49:34|Equação da onda: solução via transformada de Fourier
+j_CgsbjULEk|41:20|Exemplo de cálculo: série de Fourier
+g9GOfdzjeFg|32:54|Extensão periódica par e ímpar em domínio finito
+XOgivBia4j4|41:14|Equação do calor: conceitos iniciais e intuição
+Ti9-AGslcH4|29:05|Equação do calor: obtendo a EDP
+y0T48ULO_gg|1:07:52|Equação do calor com condições de Dirichlet: solução
+BXffhjOAsrI|32:06|Equação do calor em domínio limitado: exercício resolvido
+vYWfh-CViYo|47:55|Equação do calor com condições de Neumann: solução
+HwZZjY4dyYg|29:19|Equação da onda em domínio limitado: obtendo a EDP
+XfqDaCz5ukU|51:02|Equação da onda em domínio limitado: solução
+0Wy1Na1bd6M|39:19|Solução de D'Alembert para a equação da onda
+IztXFcFl6Ng|26:16|Equação da onda em domínio limitado: exercício resolvido
+W_Q3UzbD4pQ|42:53|Equação de Laplace 1
+Ef2p2rzoF-0|22:22|Transformada de Fourier 1: noções iniciais e interpretação
+oPzil8rSNK0|29:10|Transformadas seno e cosseno de Fourier - Parte 1
+ibaDU_Ycydo|36:19|Transformadas seno e cosseno de Fourier - Parte 2
+LgRMLGBRVBc|14:01|EDP da onda: exercício 1
+0girbokayM0|33:25|Transformada de Fourier - Parte 1
+1A016YJyEgo|27:49|Transformada de Fourier - Parte 2
+xjPOQCy-ZwI|45:07|Propriedades da transformada de Fourier
+RT8_Wu-Ad2g|27:50|Equação do calor e transformada de Fourier
+PSSDc_fQqVg|36:03|Equação de Laplace em domínio semi-infinito
+NPeeAdPNQkk|53:42|Funções generalizadas
+KxWIP0Ey2L0|49:29|Equação de Laplace 2
+#PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER
+4elA1yVc5oo|33:54|Aula 1 - Polinômios de Taylor, funções de uma variável real
+g3D2nSqYPc8|23:06|Aula 2.1 - Fórmula de Taylor com resto de Lagrange
+IkRDGHww1wU|31:21|Aula 2.2 - Fórmula de Taylor com resto de Lagrange
+A0uIM-lEUJs|26:08|Aula 2.3 - Fórmula de Taylor com resto de Lagrange
+1EbCIC8awLw|23:35|Aula 3.1 - Parametrizações de curvas planas
+k6FkKVwAGJw|23:38|Aula 3.2 - Parametrizações de curvas planas
+0DUb0iln_hE|33:05|Aula 3.3 - Parametrizações de curvas planas
+Zhx0pi6EVYY|25:41|Aula 4.1 - Funções de duas variáveis reais
+DGGCjA94-To|24:06|Aula 4.2 - Funções de duas variáveis reais
+h0Cp-pwIm_U|25:41|Aula 4.3 - Funções de duas variáveis reais
+y3tHEp--YOA|24:22|Aula 5.1 - Continuidade e limites de funções de duas variáveis
+-bhggVDsl2g|29:21|Aula 5.2 - Continuidade e limites de funções de duas variáveis
+Wn1BM3gDIdE|31:46|Aula 5.3 - Continuidade e limites de funções de duas variáveis
+8CPS8DjxvZY|27:19|Aula 6.1 - Continuidade e limites de funções de duas variáveis
+P0XdmntNkak|22:13|Aula 6.2 - Continuidade e limites de funções de duas variáveis
+nkXJq1uS0xc|26:30|Aula 6.3 - Continuidade e limites de funções de duas variáveis
+B4Fk2Wv4AnQ|34:57|Aula 7.1 - Exercícios da lista 1
+RzBQPhYa3ic|28:37|Aula 7.2 - Exercícios da lista 1
+LiPK16swuIM|25:57|Aula 8.1 - Exercícios da lista 1 (II)
+ZaWsJBygjtU|25:03|Aula 8.2 - Exercícios da lista 1 (II)
+YJbL3R5z7DA|22:08|Aula 8.3 - Exercícios da lista 1 (II)
+J_3v4ecm8Dg|33:08|Aula 9.1 - Derivadas parciais
+RB817qsQR8E|24:16|Aula 9.2 - Derivadas parciais
+q38OP08yZrg|29:39|Aula 9.3 - Derivadas parciais
+ZYgEtOYWoVY|29:02|Aula 10.1 - Diferenciabilidade de funções de duas variáveis
+7iUQ7q1Fu3o|21:23|Aula 10.2 - Diferenciabilidade de funções de duas variáveis
+frVjtEXG8DA|24:38|Aula 10.3 - Diferenciabilidade de funções de duas variáveis
+-3oPKOgb9mY|35:27|Aula 11.1 - Condições suficientes para diferenciabilidade
+CiVUOfLKZ3I|24:48|Aula 11.2 - Condições suficientes para diferenciabilidade
+7BrraT4pJKM|30:33|Aula 12.1 - Regra da cadeia; gradiente
+LpXzOTZ-A-I|20:26|Aula 12.2 - Regra da cadeia; gradiente
+JK6qvJxVThg|25:09|Aula 12.3 - Regra da cadeia; gradiente
+6W1DtZb6dCk|29:13|Aula 13.1 - Regra da cadeia; derivadas parciais de ordem superior
+4ZZBEZs2mFo|26:06|Aula 13.2 - Regra da cadeia; derivadas parciais de ordem superior
+yX0E43OJs-M|21:52|Aula 13.3 - Regra da cadeia; derivadas parciais de ordem superior
+u1HpK8fXRcw|23:27|Aula 14.1 - Vetor gradiente e derivada direcional
+PtrcaZapGBI|25:05|Aula 14.2 - Vetor gradiente e derivada direcional
+rmTs85P0vDM|30:32|Aula 14.3 - Vetor gradiente e derivada direcional
+CBH1xToD0Fk|29:22|Aula 15.1 - Exercícios: gradiente e regra da cadeia
+UvhGPWc64d4|24:59|Aula 15.2 - Exercícios: gradiente e regra da cadeia
+5eV9VDWqd0M|26:55|Aula 15.3 - Exercícios: gradiente e regra da cadeia
+FmWyumjmioY|30:47|Aula 16.1 - Exercícios: diferenciabilidade e plano tangente
+2csTHLS3vvA|31:06|Aula 16.2 - Exercícios: diferenciabilidade e plano tangente
+rf7yKfgH5Z4|26:23|Aula 17.1 - Funções de 3 variáveis e superfícies de nível
+WreSe9zYnJo|26:11|Aula 17.2 - Funções de 3 variáveis e superfícies de nível
+K8ozh59LI9E|23:14|Aula 17.3 - Funções de 3 variáveis e superfícies de nível
+4JluMIlwFQw|27:26|Aula 18.1 - Superfícies de nível e vetor gradiente
+IhJjwDpSZoM|23:49|Aula 18.2 - Superfícies de nível e vetor gradiente
+CgxE2HDriUg|31:17|Aula 18.3 - Superfícies de nível e vetor gradiente
+A87PUnK5Ico|29:11|Aula 19.1 - Máximos e mínimos em conjuntos
+Bad6_Gg02vw|29:04|Aula 19.2 - Máximos e mínimos em conjuntos
+XRnAF5pFSaw|28:22|Aula 19.3 - Máximos e mínimos em conjuntos
+-sZCbCYKv0w|30:40|Aula 20.1 - Multiplicadores de Lagrange
+mtfIFkbzE54|29:45|Aula 20.2 - Multiplicadores de Lagrange
+fjaBtV86sE4|22:45|Aula 20.3 - Multiplicadores de Lagrange
+_qSZx8V-rMw|30:57|Aula 21.1 - Lagrange para 2 e 3 variáveis
+BSbHnYT6u6I|24:48|Aula 21.2 - Lagrange para 2 e 3 variáveis
+QJ6oAnQWkZs|27:03|Aula 21.3 - Lagrange para 2 e 3 variáveis
+uJk27a4W12M|19:27|Aula 22.1 - Lagrange com duas restrições
+PKGOvJbcxrA|31:47|Aula 22.2 - Lagrange com duas restrições
+3OtscRBC5rQ|27:54|Aula 22.3 - Lagrange com duas restrições
+VZRDoKN6VHw|25:19|Aula 23.1 - Condições necessárias e suficientes para extremos
+-Ou-oByma_Q|32:35|Aula 23.2 - Condições necessárias e suficientes para extremos
+rHMvnngl06Q|27:53|Aula 23.3 - Condições necessárias e suficientes para extremos
+Z06-hEvD7kQ|30:27|Aula 24.1 - Exercícios: curvas, reta tangente e mais
+GkqxYY9xNAw|29:59|Aula 24.2 - Exercícios: curvas, reta tangente e mais
+CzrT7DNdkjY|23:59|Aula 25.1 - Exercícios da lista 3
+m6ATQqz4O7Q|21:55|Aula 25.2 - Exercícios da lista 3
+nNpHHVejzxg|29:27|Aula 25.3 - Exercícios da lista 3
+NEgXSdmaTkM|28:05|Aula 25.4 - Exercícios da lista 3
+#PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck
+jes0Z6i-3DA|8:21|C++ e código de máquina
+OobsgkdgrTM|6:28|C++ e linguagens de programação
+SXiumPyfz00|7:56|Compiladores e interpretadores
+BwCkoUu2bI8|6:32|Olá Mundo!
+otO94WJjH_M|4:08|O espaço de nomes std
+fLhrfY02m-Y|2:50|Olá Qt!
+INsnnq0kYk8|1:53|Comentários no código fonte
+_h5m5oYpvjA|5:41|Variáveis e tipos de dados fundamentais
+DjCNT4ZL4z8|3:40|Variantes de tipos fundamentais
+-n_3jSptu5w|8:23|Constantes e constantes como promessas
+mboaJDbhJw8|1:47|Operador de atribuição
+JDS3n5xcVVM|2:20|Fluxo de entrada
+fjl1isxAcrA|4:04|Fluxo de saída
+UCl5xNxpJ2w|2:52|Operadores aritméticos
+-AHF7VqA7X8|2:00|Operadores de atribuição aritmética
+pOg_dGmkabw|2:42|Operadores de incremento e decremento
+yoTYbrPnZPg|3:18|Operadores relacionais e lógicos
+dSALezHTECU|4:08|Estruturas condicionais
+dNNnEqwPq7E|7:25|Inferência de tipos
+N4cfP-Nr38U|8:22|Variantes
+XzLSMOHMpI8|5:15|Operador de endereço: stack e heap
+LTH3w2T9jio|2:46|Arranjos brutos
+Jeox5IVz8bY|2:34|Arranjos em C++
+SNRRQt1hCw8|3:35|Arranjos dinâmicos em C++
+Iz4MjtwTrdA|1:25|Strings brutas
+VljGE8-OlYk|1:30|Strings em C++
+htoDDVBE7Ps|1:55|Arranjos de arranjos
+4o60YzB55Xk|10:27|Repetição baseada em contadores
+I3KqrSLun1o|7:58|Repetições e arranjos
+cgoZlWpfTe4|5:03|Repetições e arranjos multidimensionais
+yWUbg0mWrns|7:35|Repetições baseadas em condições
+4p7t_XnXl0A|9:15|Escopos de bloco
+RaFzzuCTG7o|4:19|Ponteiros brutos e endereços
+RNHGEGOFqwY|4:48|Ponteiros brutos e alocação dinâmica
+aWL512jc73g|3:27|Vazamento de memória e aritmética de ponteiros
+iL6AU8qbtlQ|5:02|Arranjos dinâmicos brutos
+pXwoHgr___8|5:20|Referências
+b8sdBvOvm2s|5:21|Ponteiros únicos
+9hUvnamr2KI|5:31|Ponteiros compartilhados
+CwM1NouryCg|8:18|Funções
+wt-x99es1NA|7:33|Referências como parâmetros
+U-Wbai7BK54|6:33|Retornando tuplas
+rN0ZLlHEiEY|5:52|Funções recursivas
+rvmds9ljX0c|8:04|Funções lambda
+baiOfG_2Cg8|8:30|Structs e classes
+uomIzHG3Zas|8:14|Arquivos de texto
+qFTgLml4VCc|6:06|Arquivos binários
+-hd1EDtdErk|8:40|Algoritmos
+AWOYZuSbP9w|9:53|Templates
+luwNkW-5UnQ|4:45|Restringindo templates com SFINAE
+89CUAo08HBM|7:21|Restringindo templates com Concepts
+5ZXz7EKaEUM|6:40|Intervalos de ponteiros
+LvC97f2JM70|7:49|Intervalos de iteradores
+hpNRS9FKfh4|2:29|Padrão de algoritmos da STL
+MiwxxXg4bf0|6:41|Números aleatórios
+NP-EuOxN3UU|5:18|Relógios
+MFr8nsC3FI8|3:48|Medidas de custo real
+mE7yFloGDCg|7:26|Modelos matemáticos de custo
+E26VEFxGQls|7:21|Notação O
+bB5KcEU8ghQ|5:04|Busca sequencial
+gJjVJ2B_z6I|9:37|Busca binária
+Cqh8KqnviaU|2:29|Ordenação de arranjos
+eojzHqtp6WU|7:27|Ordenação estável
+IoXVT9JF6kg|3:31|Custo de ordenação
+sMnpB-7IMkc|9:55|Selection sort
+PHNHTfLY9fI|9:40|Insertion sort
+P4mpFKLIZ14|2:35|Selection vs. insertion sort
+onxesaVwICk|8:13|Merge sort
+WdFOpdqaHz0|9:17|Quicksort
+fzWb8Zn2HfA|5:56|Quicksort: pivôs
+j6MPgplkBKI|11:20|Comparação de algoritmos de ordenação
+xoYT82HH5Q0|3:10|Tipos de container
+kTWE2G4oQ4g|4:17|vector: arranjos dinâmicos
+1YEmiGOn4Rg|3:45|deque: filas de ponta dupla
+4juBdTcRkho|8:41|list: listas duplamente encadeadas
+210TA3t8i0E|4:09|Comparação de containers de sequência
+Yezix_LI1kU|8:55|set: conjuntos
+gGpqRaQEiJE|5:37|map: arranjos associativos
+852x7ohoOUc|8:13|Árvores binárias
+U8Tk1miSq_4|4:03|unordered_set: conjuntos desordenados
+yOC2XMP_3Mo|9:43|Tabelas hash
+a9bdUm7qgPU|7:55|Comparação de containers
+SeOO96GOuns|8:13|Adaptadores de container
+pRbJGKlXJ4w|4:10|stack: pilhas
+0ci8CxrUMfI|2:53|queue: filas
+_IebWYIJs_g|6:35|priority_queue: filas de prioridade
+iSA-jXStUQk|3:29|Algoritmos da STL
+IWibJB8L2Kw|5:46|Algoritmos modificadores
+zXh2koAfc1w|3:29|Algoritmos não modificadores e numéricos
+-4EVybsh6cE|7:26|Algoritmos baseados em intervalos
+nX1rnHTJCD8|11:30|Compiladores e arquiteturas
+riy34lZt_uc|10:50|Vinculação
+FfJkM__US-k|6:13|Sistemas de compilação
+a9Z9-oP16NQ|5:39|Bibliotecas
+o8faaLyOUt0|6:21|Estrutura de projetos
+Tnw9vcC80FI|7:16|Testes unitários
+FDFIqQcGdaM|9:41|Testes unitários (Catch)
+#PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
+U_A2kwUfmlw|4:55|Seja apoiador e receba recompensas
+S9uPNppGsGo|29:07|Seja um programador
+Mp0vhMDI7fA|21:53|Para que serve o Python?
+VuKvR1J2LQE|17:49|Instalando o Python3 e o IDLE
+31llNGKWDdo|27:33|Primeiros comandos em Python3
+ElRd0cbXIv4|31:41|Instalando o PyCharm e o QPython3
+nIHq1MtJaKs|12:31|Exercício - Deixando tudo pronto
+FNqdV5Zb_5Q|4:46|Exercício - Respondendo ao usuário
+hdDHg1p3YVc|29:41|Tipos primitivos e saída de dados
+PB254Cfjlyk|5:36|Exercício - Somando dois números
+tHYxjJxtJko|8:37|Exercício - Dissecando uma variável
+Vw6gLypRKmY|40:24|Operadores aritméticos
+664e0G_S9nU|5:13|Exercício - Antecessor e sucessor
+mqcNw_dhl8I|8:23|Exercício - Dobro, triplo, raiz quadrada
+_QfISzy0IKs|7:56|Exercício - Média aritmética
+KjcdG05EAZc|5:57|Exercício - Conversor de medidas
+qajq3SI0QQs|7:14|Exercício - Tabuada
+xM4AX3Lp2mo|7:27|Exercício - Conversor de moedas
+mzSJpn9ldt4|6:57|Exercício - Pintando parede
+4MAmKOT9FeU|9:21|Exercício - Calculando descontos
+cTkivN8XcJ0|6:22|Exercício - Reajuste salarial
+9l_Gay8BuAw|6:50|Exercício - Conversor de temperaturas
+I4NYUeetLAc|7:48|Exercício - Aluguel de carros
+oOUyhGNib2Q|33:29|Utilizando módulos
+-iSbDpl5Jhw|7:23|Exercício - Quebrando um número
+vmPW9iWsYkY|7:22|Exercício - Catetos e hipotenusa
+9GvsphwW26k|8:39|Exercício - Seno, cosseno e tangente
+_Nk02-mfB5I|6:29|Exercício - Sorteando um item na lista
+OPh0nngbBSY|5:49|Exercício - Sorteando uma ordem na lista
+9FiEji_fzvk|7:46|Exercício - Tocando um MP3
+a7DH88vk2Sk|46:47|Manipulando texto
+EQQt-6QqXOs|10:57|Exercício - Analisador de textos
+wD2aerLMBWA|8:16|Exercício - Separando dígitos de um número
+QroT8cZMRnc|5:48|Exercício - Verificando as primeiras letras de um texto
+WHWGz2Dy1ZU|5:33|Exercício - Procurando uma string dentro de outra
+23UOVEetNPY|9:46|Exercício - Primeira e última ocorrência de uma string
+SifYYsXhLM8|7:43|Exercício - Primeiro e último nome de uma pessoa
+K10u3XIf1-Q|34:45|Condições (Parte 1)
+kchC5KLZSZ4|10:22|Exercício - Jogo da adivinhação v1.0
+hgJ_ETNGSj8|8:41|Exercício - Radar eletrônico
+4vFCzKuHOn4|5:54|Exercício - Par ou ímpar?
+PGqHyzWoagc|7:17|Exercício - Custo da viagem
+cyGY_83m4Xw|8:46|Exercício - Ano bissexto
+a_8FbW5oH6I|8:25|Exercício - Maior e menor valores
+Sfadj_AzKHw|7:39|Exercício - Aumentos múltiplos
+NZiNphKkxhg|10:49|Exercício - Analisando triângulo v1.0
+0hBIhkcA8O8|30:43|Cores no terminal
+nJkVHusJp6E|17:49|Mundo 2 - Dicas e regras
+j9bYDjaAYzw|29:35|Condições aninhadas
+IV13X0QOMU8|11:48|Exercício - Aprovando empréstimo
+B3F0IjH5WAM|11:14|Exercício - Conversor de bases numéricas
+iuPbB9uHczM|6:41|Exercício - Comparando números
+ePwP4gU_waY|12:55|Exercício - Alistamento militar
+QuWDyUeoaJs|9:48|Exercício - Aquele clássico da média
+ZiC5NgSGJXU|6:12|Exercício - Classificando atletas
+ZX7sCPjcHA0|13:51|Exercício - Analisando triângulos v2.0
+b7r34za963I|13:31|Exercício - Índice de massa corporal
+I-SH3QchuZ4|15:24|Exercício - Gerenciador de pagamentos
+tapTa6KVG-A|16:47|Exercício - Game: pedra, papel e tesoura
+cL4YDtFnCt4|35:25|Estrutura de repetição for
+NR1RKt6NT8s|7:25|Exercício - Contagem regressiva
+Qws8-E-YrlY|7:11|Exercício - Contagem de pares
+iHjsUxNA-wo|9:40|Exercício - Soma ímpares múltiplos de três
+QtElJDa9ICM|6:37|Exercício - Tabuada v2.0
+rJaBLOW57Jg|8:09|Exercício - Soma dos pares
+-OnqSGh0u4g|8:38|Exercício - Progressão aritmética
+Er5Hyd4LyVw|11:16|Exercício - Números primos
+5VBWe6BXzRo|12:11|Exercício - Detector de palíndromo
+IL5iBWoKRIs|10:02|Exercício - Grupo da maioridade
+Kjpb_IAOKRQ|10:11|Exercício - Maior e menor da sequência
+fokDF4th0IY|13:47|Exercício - Analisador completo
+LH6OIn2lBaI|38:18|Estrutura de repetição while
+JGztEBLGj5E|9:44|Exercício - Validação de dados
+-QkOIHJ1Chw|11:26|Exercício - Jogo da adivinhação v2.0
+OBJL5vPj4-E|14:34|Exercício - Criando um menu de opções
+9dlBZlkvvxY|12:10|Exercício - Cálculo do fatorial
+vu5ehetQGe8|9:13|Exercício - Progressão aritmética v2.0
+BWAWq7n6PCk|9:37|Exercício - Super progressão aritmética v3.0
+w7yn1_Mfu0E|11:28|Exercício - Sequência de Fibonacci v1.0
+mYlbttiLHM0|12:02|Exercício - Tratando vários valores v1.0
+QNPuPlPM--0|11:54|Exercício - Maior e menor valores
+1OFp_-R2B2A|41:30|Interrompendo repetições while
+d2ug6quC1bk|13:25|Exercício - Vários números com flag
+X0a5aZg93Uc|8:48|Exercício - Tabuada v3.0
+EIzgKCCDdc0|12:55|Exercício - Jogo do par ou ímpar
+4Ca6iRJo3M0|13:04|Exercício - Análise de dados do grupo
+hS8QdW-1HTo|15:08|Exercício - Estatísticas em produtos
+_XGgwltYpYk|13:30|Exercício - Simulador de caixa eletrônico
+0LB3FSfjvao|53:41|Tuplas
+ei2Kr3ccfO0|10:57|Exercício - Número por extenso
+RexybLcGewA|13:42|Exercício - Tuplas com times de futebol
+mlwt2CRQkTQ|9:28|Exercício - Maior e menor valores em tupla
+1u7oA8ckjAc|10:47|Exercício - Análise de dados em uma tupla
+Qp2cXfCHk2I|8:58|Exercício - Lista de preços com tupla
+8BgSqrOpKvU|8:53|Exercício - Contando vogais em tupla
+N1hTsbW50eM|40:17|Listas (Parte 1)
+q8Z1cRdJnfk|15:33|Exercício - Maior e menor valores na lista
+LkAzRnc_GPk|10:14|Exercício - Valores únicos em uma lista
+QDpwjBYRcVE|13:19|Exercício - Lista ordenada sem repetições
+SXJKAVVlvGA|11:32|Exercício - Extraindo dados de uma lista
+uk0gDFQEo_I|8:56|Exercício - Dividindo valores em várias listas
+dvhP41Z7TLk|10:38|Exercício - Validando expressões matemáticas
+YV_JQmZNFsk|39:01|Listas (Parte 2)
+zPtvuLiEdKk|17:24|Exercício - Lista composta e análise de dados
+2-fy24bbMJ4|10:58|Exercício - Listas com pares e ímpares
+EGmlFdwD4C4|11:49|Exercício - Matriz em Python
+QhS829x6up4|11:58|Exercício - Mais sobre matriz em Python
+Hd7Ycaj61xE|15:03|Exercício - Palpites para a Mega Sena
+7xrCJnniqMw|15:00|Exercício - Boletim com listas compostas
+ZWj8o692qGY|45:17|Dicionários
+HipQYUk4koA|9:15|Exercício - Dicionário em Python
+cwrqIztaAwk|13:51|Exercício - Jogo de dados em Python
+Vsqemzdrj78|12:10|Exercício - Cadastro de trabalhador
+5yKiud-YNaE|12:55|Exercício - Cadastro de jogador de futebol
+ETnExBCFeps|18:18|Exercício - Unindo dicionários e listas
+mw1So0r317Y|20:14|Exercício - Aprimorando os dicionários
+ezfr9d7wd_k|52:07|Funções (Parte 1)
+oV1s53YGtvE|8:18|Exercício - Função que calcula área
+Q6basnSo7r0|7:52|Exercício - Um print especial
+DCBlt_z2UOE|16:36|Exercício - Função de contador
+vp9UX7wr92o|10:21|Exercício - Função que descobre o maior
+MEs-41JcuhM|12:01|Exercício - Funções para sortear e somar
+etjJ_4Eqrk8|50:04|Funções (Parte 2)
+czDcimdc3GU|9:20|Exercício - Funções para votação
+84jUX96cs7Q|7:48|Exercício - Função para fatorial
+FbOvilKfHMI|7:55|Exercício - Ficha do jogador
+VrQmMbPpbf0|8:19|Exercício - Validando entrada de dados
+Kbs97l38vVQ|10:05|Exercício - Analisando e gerando dicionários
+BMKYnZoxy88|13:59|Exercício - Sistema interativo de ajuda
+s3r8_Aug4y8|37:50|Módulos e pacotes
+y8pI8YBphQI|12:48|Exercício - Exercitando módulos
+KtRkGEeUdqE|12:15|Exercício - Formatando moedas (1)
+Y0zNYTHoGhQ|10:44|Exercício - Formatando moedas (2)
+1Ks218WINT8|10:54|Exercício - Reduzindo ainda mais seu programa
+uBQ0--sRFUI|9:13|Exercício - Transformando módulos em pacotes
+6vADeY5_pMs|13:39|Exercício - Entrada de dados monetários
+xz2B3bfNjEk|37:42|Tratamento de erros e exceções
+KowQ_UIMuI8|13:35|Exercício - Funções aprofundadas
+8jAykqxIeqw|9:43|Exercício - Site está acessível?
+pog8YmHkGMs|18:24|Exercício - Criando um menu
+bfTFe6bKLXk|15:12|Exercício - Arquivos com Python
+-WZ1ddZK7Tc|13:14|Exercício - Finalizando o projeto
+Mim6nnkdOto|28:21|POO: guia para iniciantes (onde está o Mundo 4)
+fjLL4dKqw6U|34:26|POO Aula 01 - Crise do software: o motivo da POO
+3mw-2iu4kIc|24:42|POO Aula 02 - As 6 vantagens da POO
+BQsv_BkoBCU|26:09|POO Aula 03 - Classes, objetos e atributos
+XND4VeMMzqg|18:18|PyCharm mudou: como treinar Python no PC, celular e tablet
+dJyZmwLpxnE|35:21|POO Aula 04 - Criando classes e objetos na prática
+Tuk7orbzNRg|46:36|POO Aula 05 - Melhorando classes: conta bancária
+djLwj8oDT_s|30:57|POO - Rich no Python: cores, tabelas e debug
+dKeazBVTNf8|22:00|POO Aula 06 - Desafios em Python
+B0DccRlwmS8|22:31|POO Desafio 16 - Classes, objetos e atributos
+c9W6E4Bxv5E|12:53|POO Desafio 17 - Sistema de produtos
+UVKRqqhR6l0|16:15|POO Desafio 18 - Análise de churrasco
+HBNjlFCxPgg|15:44|POO Desafio 19 - Livro com limite de páginas
+bdc95tpjlb8|13:59|POO Desafio 20 - Classe Gamer
+i0VEsMtv76U|13:36|POO Desafio 21 - Caneta colorida
+F7cQTFzvsfE|23:12|POO Desafio 22 - Controle remoto
+wZT-nuBMW7o|47:12|POO Aula 07 - Herança
+XNHNYO7Dt9Q|39:02|POO Aula 08 - Abstração
+Qcsftqx36d4|25:52|POO Aula 09 - Desafios de herança, abstração e classes
+KKbVPNvXEY8|16:19|POO Desafio 23 - Polígonos
+UylGgNB7YQc|13:29|POO Desafio 24 - Máquina de café
+13Z_LoNENOc|25:37|POO Desafio 25 - Sistema de frete
+6bzrztD_mkc|24:46|POO Desafio 26 - Cálculo de salário
+7rVsfsoapBs|29:39|POO Desafio 27 - Sistema de batalha RPG
+udn1Hl6bGWU|45:47|POO Aula 10 - Encapsulamento: público, protegido e privado
+GpCKLj0jt_k|30:27|POO Aula 11 - Encapsulamento: getters, setters e @property
+CTbdydT9nlQ|29:02|POO - Encapsulamento com 6 projetos reais
+BIE2eqW0peE|16:57|POO Desafio 28 - Termostato inteligente
+CkR9hlIOvR8|15:14|POO Desafio 29 - Diário secreto com senha
+tqFncRgUWko|22:12|POO Desafio 30 - Criptografia de senhas com SHA-256
+wHWYQZJlR-k|20:34|POO Desafio 31 - Classe Retângulo
+F83ZxykGGP8|22:33|POO Desafio 32 - Conta bancária com hash SHA-256
+ClbOeCnVOzA|18:55|POO Desafio 33 - Classes Aluno e Professor com herança
+#PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7
+UsHiWIgxj2M|18:53|Por que é importante aprender Linux
+JOgKA5UX0lA|6:37|Criar máquina virtual para Linux Debian
+u16ZDPcf8Rc|15:36|Instalação do Linux Debian
+vkito-MXcqc|13:38|Instalação do Linux CentOS 6.3
+BIksX9l1Hvo|12:55|Comando ls
+C-X_HmtGqPk|13:30|Permissões de acesso a arquivos e pastas
+nogVVjeeXLg|15:05|Comando chmod
+_jR8tOl0yqU|5:58|Comandos chgrp e chown
+d6xOB7hG7eo|17:16|APT: gerenciamento de pacotes no Debian
+TrEtfqdijPE|12:12|apt-cache
+1gzrq0q2X5w|14:27|Bibliotecas compartilhadas (ldd, ldconfig, ld.so)
+UOzTXvm8698|8:10|Variáveis de ambiente: echo, env e export
+aath0kOi-vg|7:46|Instalar novo kernel no Debian
+Yd2aRxqDvxA|14:11|Atualizar Debian 6 para 7.0 via terminal
+4bIhI3CYD8c|7:26|Instalação do MySQL no Debian
+f-rKBLgH4NY|12:12|Gerenciamento de pacotes com Aptitude
+KPkBnhIANxI|17:43|Inicialização: init, runlevels, init.d, inittab e telinit
+ufWrWK0I2o0|13:37|Comandos básicos 01: bash, ls, cd, pwd, clear
+kHQLll3uGIQ|11:56|Comandos básicos 02: touch, cut, timestamp
+GtWmaI_l3Y8|13:58|Comandos básicos 03: head, sort
+a_bdu6Bhyes|10:21|Comandos básicos 04: split e cat
+psugMHhj0sc|6:44|Comandos básicos 05: tail, tac e wc
+2lT92u5RR-c|5:59|Comandos básicos 06: uniq
+GsEqqsKuxgE|9:07|Comandos básicos 07: cp e rm
+zSpzNxO4OGo|9:23|Comandos básicos 08: mv, cp e rm
+DuJhZv8akYA|10:32|Comandos básicos 09: mkdir, rmdir, rm -r
+2xNMhXc4TAw|26:06|RAID por software: comando mdadm
+p1gbsZkKRNo|15:30|RAID por software 02: simular falhas e reparar
+sLrPWxff3QM|21:59|RAID 5: configuração e fstab
+qJ_7TEiFSbA|11:04|Monitoramento 01: top e uptime
+kh5irA8kiws|10:14|Monitoramento 02: vmstat e free
+w1CWW3s4T74|12:37|Monitoramento 03: iostat e dstat
+H9J_JG9oxl4|18:17|Redirecionamento e pipes 01: stdin, stdout, stderr
+29HdgVildSI|18:48|Redirecionamento e pipes 02: tee
+MSwley5dGMQ|14:11|Usuários e grupos 01: /etc/passwd
+gnalYGUoY7A|14:48|Usuários e grupos 02: group, gshadow, id e groups
+dQbtGaWPHqE|13:56|Usuários e grupos 03: shadow
+9sx1kQQAErw|14:07|Usuários e grupos 04: useradd e adduser
+8UkpvLmtLog|10:16|Usuários e grupos 05: passwd
+yKgKwZn_H9M|8:03|Usuários e grupos 06: gpasswd
+PX9xxXFtXiM|10:39|Usuários e grupos 07: usermod
+EuQFRX8jIx4|6:34|Usuários e grupos 08: alterar e excluir usuários
+hqS_EuQA6pQ|16:29|Servidor DHCP 01: instalação e configuração
+0hfJEnYk_6A|10:57|Servidor DHCP 02: ativando e testando
+13OrLZj3Z5c|13:04|Processos, sinais, kill e killall
+qmyo6F8yfbE|16:44|Controle de tarefas: bg, fg, jobs
+LSdBCy-n-8U|13:05|Prioridades de processos: nice e renice
+XtyrKtBciEE|11:13|Rede básica: ifconfig e dhclient
+-zBx19EZ5U0|13:16|Rede básica: interfaces, ifdown e ifup
+72H1Egwomsg|10:46|Rede básica: dig, ping e whois
+rUKSz_hxCjA|12:30|Rede básica: nsswitch, resolv.conf, hosts
+31FgxWsRRMw|14:00|Expressões regulares 01: metacaracteres
+WDvHnq85rfE|14:22|Expressões regulares 02: classes e conjuntos POSIX
+aK1KNCswem0|8:03|Expressões regulares 03: âncoras
+B5AVi28fyRI|13:13|Expressões regulares 04: repetição
+BvOIR4Eceks|11:56|Expressões regulares 05: repetição quantificada
+yD3ubWtkVUg|8:36|Expressões regulares 06: agrupamento e alternação
+t9Bsozz3Jmw|18:50|Comando grep
+D22bKpB87Ns|18:05|Utilitário sed
+bXdX5X3JoI8|9:55|Editor Vi 01
+16M82mDbg80|8:08|Editor Vi 02: movimentação e substituição
+Ksv3mBJ0quA|7:37|Editor Vi 03: início e fim de arquivo
+o6pVIuPJX8k|5:24|Editor Vi 04: numeração de linhas
+2bHUKlFcnW0|8:21|Editor Vi 05: criar linhas e anexar textos
+v6y0ZlNAihM|6:47|Editor Vi 06: apagar, desfazer e refazer
+3JcPRySHmXI|9:06|Editor Vi 07: ajuda, sair e salvar
+TntNl95kfkM|9:46|Editor Vi 08: copiar, recortar e colar
+_NXc5vZdR3E|7:00|Editor Vi 09: caracteres especiais
+fJ4a0GSWpa0|9:07|Editor Vi 10: GVim
+wmWfPdJKgZA|19:57|RPM e YUM 01: pacotes rpm
+ysH7jtYi00k|21:16|RPM e YUM 02: pacotes com yum
+lhA8wHQflBM|19:46|Estrutura do sistema de arquivos e comando tree
+R8u_EIls2VI|17:36|Particionamento, formatação e montagem de discos
+_d1dhhFKQwM|17:04|fstab: ponto de montagem permanente
+pVlOm712oo0|11:29|Comando dmesg
+amZNDJs3LVI|13:02|Consulta ao hardware: lsusb, hwinfo, lsdev, lsmod, lspci
+OU-T6o8HA-s|9:52|Comandos df e du
+N4M1-5VpJtc|7:06|Busca de arquivos: locate, updatedb, which, whereis
+HosCewBd8ec|14:04|Comando cpio
+yYKE17YuO1Q|18:03|Comando dd
+sFfPYD4kEuc|9:01|Blocos, superblocos e inodes
+9wcQEwyvVUE|10:49|Comando fsck
+L-lpnLVAKpI|11:18|Comando netstat
+LyXhMVFtFSo|21:44|Comando umask
+6lVGfTOSlaE|12:18|Comando at
+GGTbXq1FUI0|16:26|Comando cron
+WtwABskNIbQ|7:42|Comandos gzip e bzip2
+EDNZA9CKWYU|15:24|Comando tar
+Ff3bONQBNJU|15:25|Impressora via CUPS
+viVTL7i5M7I|11:20|Comando touch
+R3X1emF8VO0|19:58|Cotas de disco
+elNWyp_M_uI|15:41|Drivers 02: insmod, modprobe, depmod, modinfo
+vcwDzQpSi14|13:18|Drivers 01: descrição e diretórios sys e lib
+PSquM4-dLJI|13:48|GRUB 1: inicialização do sistema
+_W6UOmuAAfY|20:07|GRUB 2: configuração e scripts em grub.d
+ndHso04-AT4|13:16|GRUB 3: comandos no menu
+9e_jMCQkMv0|13:21|Links simbólicos, hard links e ln
+EOLPUc6oo-w|10:28|Shell Scripting 01: introdução
+zjS1wfpKEmQ|17:55|Shell Scripting 02: variáveis de ambiente
+VUyLS_gPGO4|11:22|Shell Scripting 03: arrays
+cru9166Gfss|15:28|Shell Scripting 04: aliases e funções
+aJFdIA5w3BY|20:20|Shell Scripting 05: arquivos de configuração
+6Uq3L9fj36Q|16:27|Shell Scripting 06: scripts simples com echo
+laFqtoKLhT0|11:46|Shell Scripting 07: variáveis nos scripts
+eTXJlgWEFyA|11:27|Shell Scripting 08: crase
+bAa0BNB-fcE|10:06|Shell Scripting 09: redirecionamento
+HubJgtEJ99k|9:33|Shell Scripting 10: cálculos aritméticos
+9yNh9XifAJQ|19:58|Shell Scripting 11: calculadora bc
+G8pAhoouBmk|9:53|Shell Scripting 12: status de saída e exit
+aJdJFdAeHq0|15:14|Shell Scripting 13: if then else
+oOFd0vfwTXU|9:25|Shell Scripting 14: elif
+AWtUhkHMtaA|17:11|Shell Scripting 15: comparações com test
+lUrovWevUYk|12:02|Shell Scripting 16: arquivos e diretórios com test
+yHjt-11itSU|8:28|Shell Scripting 17: AND e OR
+8fpQKnA129c|8:02|Shell Scripting 18: case
+m0XiSjbdqTo|12:57|Shell Scripting 19: for
+dL6n9tFrd00|8:01|Interface gráfica 01: conceitos gerais
+kCW7cTT2xYc|13:56|Interface gráfica 02: elementos básicos
+fEh6BEQIH2A|4:39|Interface gráfica 03: instalação do X Window System
+nnACrwPNDqQ|11:13|Interface gráfica 04: ambiente de desktop
+5Y_yHF5n000|8:53|Interface gráfica 05: gerenciador de sessão
+Pv3uz0W5cRY|17:04|Permissões especiais 01: SUID e SGID
+nNTN_rMIV30|14:53|Permissões especiais 02: sticky bit
+BfHIXNKFu2s|12:43|Comando traceroute
+nnX3rlWzobU|18:21|Comandos que podem danificar seu sistema
+LmUO75d9xLI|17:52|Red Hat Enterprise Linux 6.5: instalação
+ub1kdF-KdFo|22:23|Configuração do X11 e xorg.conf
+9h7pvHt4dDQ|18:31|Compilar e instalar a partir do código fonte
+s_ci30K7YxQ|17:57|Alterar o fuso horário
+CuupIBX-F_s|20:22|Protocolo NTP
+e7TdtHL6b0E|22:56|SSH 01: conceitos e conexão por senha
+k49z94w9xKU|23:53|SSH 02: chave pública e criptografia assimétrica
+HZmRXMrwu14|10:32|Comando od
+PqGbtyT7kmQ|11:41|Comando su
+ZdxqSSftosg|12:40|Pacotes com dpkg
+ZFnvnfInZyg|13:36|Atributos de arquivos: lsattr e chattr
+E_scdA206pk|13:21|O arquivo /etc/shadow
+4AnF4OebGE4|10:34|Comando chage
+gOt4UMVk0lY|5:22|Comando uname
+s6K0koLwflU|20:56|Comandos ps e pstree
+7FdSr0jSrw8|8:53|Comandos pinky e w
+22Ur6GIRLBA|13:24|Comando cut
+FzuAjHcKvzg|13:35|Comando sort
+jhwPaRgZfPQ|11:26|Comando hwclock
+lURYfDkBJ88|17:08|Comando history
+dfuCJJh7arA|18:47|sudo 01: privilégios elevados
+MjOXsHuvfFI|14:25|sudo 02: visudo
+bgasYzfP-20|13:51|sudo 03: aliases e grupos
+hIiiERRtnls|15:25|Comando fuser
+Dx3qL2TGfzs|17:08|Comando xargs
+rYmklC_hcAQ|9:30|Comando lscpu
+Gw_MHy6_0UU|11:57|Editor GNU nano
+VqRJhyZSEnQ|13:05|Comando date
+a5why0mxbPs|20:13|O que é uma distribuição Linux
+uZeMQz89pfw|12:12|20 comandos para iniciantes (1 a 10)
+1HapBf0cnmU|16:24|20 comandos para iniciantes (11 a 20)
+LnLC1WJgpuA|7:44|apt-show-versions
+NamRiURAbmc|6:46|Comando cat
+wV9dSf096Jk|8:57|Comandos head e tail
+cRZ9egj5GUo|4:26|Tornar um usuário administrador no Debian 11
+Iq_nTgILUAg|6:11|Instalar o OpenSSH no Debian 11
+Ft6y3Ei7tJQ|11:44|Instalar o MySQL Server 8.0 no Debian 11
+xdqTCDEpRHA|13:52|Comando wget
+8i4q28zJE6k|21:59|10 exemplos de awk com expressões regulares
+L9jC3Dl5q-w|8:08|which, whereis e whatis
+4IZhu8ULkrw|15:44|Processos com htop
+5HlOsLsVGwk|18:17|Ferramenta inxi
+MfuNPAOFmBc|18:24|12 comandos para exibir arquivos de texto
+glWCXwd7Eaw|29:49|Estrutura de diretórios e o FHS
+Xly1gMF46BI|17:04|Usuários: adduser, usermod e deluser
+Un83s9H6RLM|21:06|Serviços com systemctl
+V5xazbzzKCA|16:59|Grupos: addgroup, gpasswd, groupdel, usermod
+aEqoo9w8UsQ|16:11|chgrp e chown
+qKin6DATjQo|17:16|Senhas: passwd e chage
+fWM6R4EVSSo|10:40|Instalação do Fedora 41 em máquina virtual
+y-ZYqfElr5s|13:48|Instalação do Manjaro em máquina virtual
+yWHKSnB9FKA|18:12|Instalação do Linux Mint 22
+zDYH6qoG2dk|32:46|Permissões de acesso e chmod
+g00aa36_514|9:23|Comandos id, who, w, last
+fvKTwV4-oio|11:18|Instalar o Anki Desktop
+#PLZ8dBTV2_5HQpKzBt3nJex3Mbk7hmhFHl
+W_q_Cl-Qd5c|10:22|Ferramentas e instrumentos
+5DwVVir_kRc|18:36|Resistor e código de cores
+-NHel-zoaOQ|17:47|Montagem em protoboard
+KnMJEiz_YTU|16:09|Indutor e capacitor
+4hDtz2X88yA|10:22|Como soldar e dessoldar componentes
+UCqo8UU5Lck|11:34|LED e diodo
+d6LvS3XfxBU|11:13|Montagem em placa universal
+yyrw22qEMJc|13:20|Transistor
+pvokKfZZurQ|8:18|Pisca-pisca (astável)
+Oko6GYqaQRo|9:25|Circuito integrado
+H2BLvIcdKq0|9:39|Como fazer um timer
+PhSK_ciowH4|12:44|Sequencial de LEDs
+YeJi3mBTg0U|17:13|Sequencial com ajuste de velocidade
+1NPkxmYyul8|8:31|Solenoide
+X9SSt3dE5wM|13:03|Diagramas esquemáticos (parte 1)
+cttid_J53Sw|13:08|Diagramas esquemáticos (parte 2)
+cQJ-uxCU06U|13:46|Diagramas esquemáticos (parte 3)
+OtZDd7vrwts|11:49|Display de 7 segmentos
+QaYKLNEo-GE|11:42|Introdução aos números binários
+ZljSv4u6Ll0|8:22|Decodificador de display de 7 segmentos
+RiwKa-SHE28|11:51|CI contador
+t82ivJWdEFo|12:22|Módulo contador/decodificador
+yb8Qf0C0Ozc|9:12|Reduzindo o ruído em botões
+eKS4CG9jpvU|14:28|Porta lógica inversora
+KranqBsVKgg|12:57|Porta lógica AND
+hSDVinU1CuA|9:54|Porta lógica OR
+liXovyvze7E|12:00|Porta XOR
+EXFSEAeDGlQ|8:53|Todas as portas lógicas
+9NHj7VyRk7U|12:11|Cascata de portas lógicas
+U3yHlU-U7NY|15:38|Análise de circuitos combinacionais
+Hp28FjiX0zw|8:10|Tabela verdade de circuitos digitais
+pQaDMnYtF-M|15:45|Projeto de circuitos digitais por mintermos
+rwRTKX_d9E8|12:23|Simplificando circuitos com mapa de Karnaugh
+VOlGPlGiYG0|9:24|Projeto de multiplexador
+Qcl5F7zux4k|10:09|Monte um MUX 2x1
+9uf25atUXx0|9:59|Multiplexador 4x1
+tQDOQljgwZo|10:58|CI multiplexador prático
+0akaF8IthEE|8:24|Decodificador para expansão de saídas
+OJ5OZb78sbU|7:19|Projeto de decodificador para display (1/2)
+zf448KLDVz8|9:30|Projeto de decodificador para display (2/2)
+y2FRQBOVkXA|13:13|Flip-flop D na prática
+o40QVUNVNPQ|9:15|Chave de stand-by com flip-flop
+c_LMjVM7KAQ|9:45|Gerador de clock ajustável
+qkHnvvtpjgI|6:46|Aplicando clock em CI contador
+VjPIYC8XMqI|13:35|Retardo de propagação: análise prática
+uYuZ7oJeFj4|8:52|Tempo de transição: análise prática
+8mXS6NQbt7g|12:04|Efeito de carga: análise prática
+DAG85jznsGc|9:56|Ponte H para pequenos motores DC
+D7RYd9qnB44|8:35|Controle automático de motor DC
+-SvGifG7icU|8:58|Motor DC com chave de fim de curso
+unsMjuWUYqQ|14:06|O segredo da montagem em protoboard caprichada
+9KUKpf2tXC8|9:07|Ligando contadores em cascata
+vOPdD11yAlg|9:59|Oscilador de áudio simples
+GWcgqMZxTGE|9:28|Retificador em ponte de diodos
+3WIc03FRWYU|9:52|Fonte simétrica 12V 1A
+UL34gP1oax4|14:48|Amplificador básico com 741
+pOqIbUSbjQA|11:16|Ajuste de amplitude de um sinal com opamp
+AiN_D0BLDvQ|12:55|Ajuste de offset de um sinal com opamp
+Sn7FxUC6s34|12:12|Somador com 741
+7kiRljuMXjk|12:03|Subtrator com 741
+H_EviIwKQXo|13:14|Diferenciador com 741
+Z9dXqpRY9-Q|10:57|Integrador com 741
+T73UoK5HvSw|11:39|Buffer analógico com 741
+AQNceT93Dqw|6:21|Chave de dois cliques com 741
+_wl3SLrr7WI|6:25|Liga/desliga com 741
+xa0RlL618Zk|8:26|Conversor tensão-corrente com 741
+tMnnwsaZ8Lg|6:40|Oscilador senoidal com opamp
+n6xVMlsSErE|6:37|Gerador de onda quadrada
+iZUXOxH6KLY|6:56|Gerador de funções simples
+M5P7W5tJn-4|7:36|Gerador de PWM com 741
+63cMdIJRWsA|14:57|Filtro passa-baixas com 741
+61KK5ewZD8w|10:32|Ligando qualquer LED em AC
+rk5rynyamTw|13:31|Capacitor de acoplamento vs. desacoplamento
+T1cV-K5CRQ0|12:36|Fontes simples com diodo zener
+wDKkVvzME18|7:26|LEDs em série e paralelo
+hWYL6BVCoHc|9:35|A importância de fontes com limite de corrente
+T9EAIJvnV7k|8:42|Como dimensionar a bateria para um projeto
+Q5Dj9uvIEbc|9:13|MOSFET como chave
+0PCsef9llX8|9:17|A função do diodo em paralelo com relés e motores
+wZdBrafI20Y|8:28|Diodos comuns para regular tensão
+DIrMgfKIqbo|12:23|Circuito dobrador de tensão
+R2QySujt5Bc|14:15|Como funciona o regulador de tensão 7805
+yFWu8M_jKTQ|12:36|Capacitância parasita da protoboard
+cSIwGY5OTUE|10:17|Monte seu primeiro amplificador
+CpPJbnU4kNA|8:41|Dimensionando um dissipador de calor
+1GI8NAwQN-I|20:59|Mais dicas para ler diagramas esquemáticos
+_Xr2GsqkWGQ|8:54|Fonte acionada por sinal digital
+nB5N59GWMZY|13:56|Chave de seleção de baixo ruído
+XkWC5ZJyWyk|9:35|Jogo eletrônico do teste de velocidade
+h0m0Lb-C9dQ|13:07|LED flasher
+mc6IpMvfc3M|8:09|Gerador de tensão negativa
+XE-1vITCloU|7:46|Acopladores ópticos
+eow8apmAEIQ|9:35|LEDs infravermelhos
+HnSXkiZ8c-0|7:47|Fototransistores
+9oFncI15irc|10:35|Mais dicas com fototransistor
+69AnlIQcgMo|10:25|Modulação para fototransistor
+DL8h-YPYFuo|7:43|Fonte simétrica simples com diodo zener
+A2KMdnhliZE|5:09|Amplificador operacional com fonte simétrica zener
+kf-x8DKpIy4|11:39|Potência da fonte simétrica com zener
+izmrG1zzD6A|11:24|Potenciômetros e trimpots
+gikaminfhsw|8:35|Como medir TRIACs
+1QkG2TD6gR0|7:30|Poliéster vs. cerâmico: tipos de capacitores
+NcOdGtFwFew|8:00|Como medir MOSFETs
+HA9VJ8bhOq8|8:13|Como medir transistores TBJ
+0NUCJKtmzYQ|10:38|Buzzer contínuo
+6Hriptb0cZk|10:08|Como dimensionar um fusível
+7rY8hJMDSJo|8:17|Mapeando display com multímetro analógico
+nMW2ppbCx54|10:36|Potência RMS de um amplificador
+PJrnTHivzds|11:14|LEDs de alto brilho
+MBoLzgOa6rE|8:20|Dicas para projetar circuitos
+M10SSOMmZMo|10:42|Lista de componentes básicos
+qwG451uGxBk|9:36|Lista de componentes intermediários
+tChxnvtF41g|11:52|Iniciando seu estoque de componentes
+rj_J9Wx60jA|7:52|Tipos de ligações para potenciômetros
+DWDT-2p8QIc|7:35|Quando utilizar resistores de fio
+5W2uHGJD9Cg|8:37|Como montar cabos de áudio
+dp7yG0heGSI|9:37|Medindo resistor com multímetro analógico
+T7-aj3Qt3zc|12:47|Osciloscópio para iniciantes
+FChfinhmLkE|14:17|Associação de resistores
+VnstdVDfm3U|3:34|Errata do episódio 120
+6Bsl9CcPuyo|12:32|Evitando erros em montagens na protoboard
+PIYcOugNZsU|14:48|Casamento de impedância
+GlDdeY51BcA|9:25|Descobrindo a corrente de um motor DC
+sn1uWZkIpqI|10:58|Como tirar um circuito do papel
+VpUCwxW5RnE|10:44|O básico sobre fontes de bancada
+0v84WeMiuL4|8:42|O relé suportará a carga?
+OM9AFx1F8oY|16:18|O básico sobre geradores de função
+KwesIiZn1IA|7:24|Medindo o primário de transformadores
+rJNr_7VFKO8|5:47|Diferenças entre terra e neutro
+BfG9Q2y5nKs|5:59|Por que recebemos corrente alternada?
+sagtLriVat8|9:25|Varistor
+YvkNeQoxnDI|10:21|Termistores NTC e PTC
+nU7wGWfWIe8|10:55|Eficiência de fonte com 7805
+weaRJWO2ycE|14:36|Potenciômetros diferentes
+oCZ6i_Enm-g|9:37|On/off de cliques com relé
+AtnrtZAqgCM|13:12|O básico sobre PWM
+6krFFWp8Iic|11:25|O básico sobre valor RMS
+1_7X0SqcXy8|9:21|Fonte simétrica fácil com opamp
+sBDziCHUOuI|11:58|Conceito básico de tensão negativa
+zaZVafNMbuc|14:26|O uso de fonte simétrica
+uaWzym2wHmg|10:13|Fonte simétrica muito simples
+fZSP7SDKzqs|11:42|Configurando gerador de função
+wWs8FF4B_yM|10:45|Relé temporizado
+57HEd3KLT-w|14:45|Primeiros passos com simulador de circuitos
+tNwf6HFCu9A|17:07|Simulando um opamp ideal
+8cKOOpEZWmc|15:34|Simulando o 555
+ciArReViwlA|8:55|Análise DC e AC de amplificador
+F6GXDFQg1n8|11:34|Cálculo de divisores de tensão
+d2R1fxkhcw4|13:05|Como escolher componentes para projetos
+YWdIRArEq0k|10:56|Dica para o controle de LEDs
+Or3EEvEFCaE|17:56|Primeiros passos com MATLAB
+EpB2ZsTNEhc|14:30|Cálculo de amplificador no MATLAB/Octave
+VQvXfDke8dM|18:48|Calculando o 555 com MATLAB/Octave
+5SJqlSv5nWA|13:40|Equações de malhas no Octave/MATLAB
+2-5DiRVDIyw|12:25|Laços de condição no MATLAB/Octave
+ChzPvn7KOgw|11:31|Projeto de regulador de tensão no Octave
+hWLdAd9j5Ns|12:18|Geração de sinais no Octave
+cizQdVP-qrQ|14:57|Simulador online para iniciantes
+82-XYqlb6Qc|12:02|Circuito PWM
+3_OOxExO1NM|9:16|Controlando a velocidade de um motor DC
+qepLxT6dkng|12:59|PWM com MOSFET vs. PWM com TBJ
+_41HanHOjkc|15:59|Qual frequência utilizar no PWM?
+dI8Z7Znf1v0|13:35|Multiplexação
+3sBlFnFq4hI|9:37|Impedância de alto-falantes
+nUEhHmcawG4|6:33|Medindo impedância de saída
+3rpihg1FmAs|8:05|O trigger do osciloscópio
+tkAAcs4ndSY|9:30|Emissor comum vs. coletor comum vs. base comum
+zmrmkKdkP9s|6:52|Trigger externo no osciloscópio
+dy969PYXRHM|10:46|Como funciona um controle de tom
+ifn0Vy9OPk0|12:23|Como se tornar um mestre da eletrônica
+pF4Mh-o9lJA|12:14|Montagem em protoboard: o que ninguém conta
+xbSAeCd_7Mc|9:37|A verdade sobre a revista Saber Eletrônica
+uY7iVKs24tI|12:59|Excelência em projetos de eletrônica
+A4Mbza-WZCg|10:51|Amplificadores de áudio: comece por este
+iS-b6iRz40s|19:28|Por que seu projeto não funciona
+_gD2Bj9wJgU|15:53|Customizando guitarras
+hp0altuvLlA|10:53|Proteção contra curto-circuito para fontes
+Zxczb26Tu6s|9:32|Calculando os dígitos do CPF
+XkhVtUIN8DM|6:10|Um pisca LED diferente
+qeXqkjfIOvc|6:48|Como evoluir na eletrônica
+cmtezEIQdNk|7:27|Filtrando sinais com portas lógicas
+FizxhKZ9v_0|10:19|Provador lógico inteligente
+_A7D3RfN-mY|11:47|Projeto de luz de emergência
+MPQh380J6hQ|10:57|Circuito de lâmpada automática
+mgI7tVtf98o|16:06|Irrigação automática a cada 3 dias
+YMcLdfYU6Nw|9:24|Circuito para não esquecer a luz acesa
+wKaleM8Bp6k|13:25|Supercapacitor
+nIzbxKj0HQg|9:55|Gerador senoidal a cristal
+6SZESv42d0c|7:51|Triplicador de tensão na prática
+M3RzrWMLezU|14:31|Projetando uma fonte de corrente simples
+zqWmpho7Wd8|16:25|O básico sobre amplificador diferencial
+zmN2NxKFtfA|12:10|Matemática para eletrônica: resolvendo equações
+WW65ftOJktM|10:20|Matemática para eletrônica: equação do divisor de tensão
+sIQai-k95qo|6:38|Um segredo sobre projetos de eletrônica
+VY3BEf8RQwM|18:29|Diodo zener: a aula que a faculdade não mostra
+ozp1WyyC9_4|8:59|Ligando LEDs na rede AC através de capacitor
+4bdVimIL5-E|16:46|Quais componentes comprar primeiro
+l-qIaWON328|11:15|Divisor de tensão: projeto e outro ponto de vista
+-eLVQCsFIP4|8:02|Fusistor: para que serve
+GBX4zBAGiQo|7:46|Fator de potência
+uouwsfsIhRo|8:33|Helipot
+XCFRB_emvJ0|11:30|Qual porta lógica utilizar em um projeto
+GDzsrpSt5co|19:19|Selecionando componentes para o seu projeto
+VZn42TnihKQ|13:40|LED com resistor: a forma certa de ligar
+aVUcQtF4F5w|13:16|Um único resistor para vários LEDs?
+GCKxOvr79YY|13:35|Um detalhe sobre o transistor
+96_DgpZe2yY|8:42|Como encontrar diodos casados
+iuqJFtWFHW8|11:59|Transistor driver por cima ou por baixo
+ig0Vyu9qK4U|12:09|Disparo de TRIAC com sinal DC simples
+ytqLsavMkmw|10:31|Um artifício em placas de circuito impresso
+bgKVFb2mE6I|8:48|Um detalhe sobre a onda quadrada
+I2_43wnlq1Q|7:55|Como medir SCRs
+z_uuNdFXRqE|13:54|Seu primeiro pisca LED (passo a passo)
+Zb3glXG7gz4|13:51|Qual o melhor microcontrolador para começar
+K_2G3jtVhaY|14:25|Escolhendo um transistor para ligar um relé
+IivS9MxXyAc|11:54|Monte seu próprio módulo de relés
+ZnvIgIT0_gM|14:10|Por que usamos transistores para ligar relés
+5N5LQpS8Y7o|5:43|Chave hotel
+kMT22HW5SDg|15:04|Ligando vários LEDs juntos
+-Vx7uXvMFDU|11:07|Sinalizador para bicicleta
+vgOUAd1Lr6Y|11:43|Circuito de seta para bicicleta
+fhjd0zYSmZc|8:55|Fonte de 3,3V simples
+D1bcXFcjFyI|10:33|Ponte H para motores DC de baixa potência
+aoWRqUeen6s|11:05|Controle simples para motores DC
+798m7lzoN5o|6:59|Sensor eletrônico para portas e janelas
+En37BEB85II|16:30|Circuito para botões com ruído
+MNhnhiOrbTI|8:50|Alternativa para pisca LED
+18aIchEcUzI|12:25|Circuito eletrônico de sirene
+lMadpjOt_lo|11:40|Oscilador com relé
+JGFu9b3pSbY|7:39|Transmissor de áudio
+S98Nu36bxhk|13:36|Ligando vários LEDs com fonte de corrente
+-741VwuNmIk|10:14|Sensor infravermelho
+giwUC4ctI6g|9:57|Qual a utilidade de um buffer?
+nUUwt1DI5ww|8:22|Regulador com zener e transistor
+vEnqRzefHvc|10:32|Alimentação pela linha de sinal
+mdbD-R2aL5Q|11:26|Uma ponte H que não funciona
+yRDDOEfZYYE|12:13|Um regulador com um erro grave
+Edic-hiR674|13:48|Pré-amplificador: corrigindo defeitos
+XQIJnptwD7s|11:45|Erro comum em amplificadores de potência
+GSl0s1joyVE|13:43|Um circuito simples que pode enganar
+aYKeGUQGHsk|12:26|Projeto errado de divisor de tensão
+unzyPUMIXYM|12:58|Erro comum de iniciantes em microcontroladores
+BTjQmweStEI|12:28|Erro comum em circuitos com porta lógica
+wJBYvOG0q7w|11:13|Seu pisca LED não funciona?
+BlrzpcmWCFI|10:47|Pré-amplificadores de áudio: um erro fatal
+FOmHViCddCs|15:52|Oscilador digital: erro de iniciantes
+EhF49KkM7Ps|11:33|Meu zener não regula
+gYDSRn40mek|15:44|Ponte H com MOSFETs que não funciona
+Pi003SURulU|10:26|Opamp LM358: um erro comum
+Jy6B0noarBI|14:56|Seu circuito não funciona na prática?
+HVQ18LxLwrM|8:12|Chave liga/desliga com transistores
+2dQ7EPgb6JI|14:49|Divisor triplo de tensão
+tBmyxJCE64I|15:16|Microcontroladores: encontrando erros de lógica
+xcwb4PPBG5M|17:50|Programa para cálculo de circuito RC
+WMJFWa-vr0w|11:26|Dicas para começar a programar
+K14kzR-ibko|10:24|Defeito em circuito com 741 e fonte simples
+9wNywat2UkY|12:20|Aumentando a corrente de saída de microcontroladores
+yIcxqmbpiyk|10:17|ESP32: gerando PWM na ESP-IDF
+LClePEyFJF4|14:27|ESP32: controle de velocidade de motor por PWM
+_PKJTS38HM8|13:37|ESP32: FreeRTOS e tasks na prática
+ixwmMxB1W5g|10:57|Motor de passo com ESP32
+ggp-1XRMRPw|16:38|Hello world no XC8 (PIC)
+sYZX5EzTUkM|14:53|Botão e LED com PIC e XC8
+yP_55e3Z2SE|11:55|Projeto de circuito digital com portas NAND
+agc7B6c1Oh0|7:16|Como usar o variac
+BaakmYNdCrw|8:11|Acionamento de relé com NTC
+E4Mp22ypteA|17:15|Amplificador classe AB
+nZ1QbybE0ek|12:05|Para que optoacoplador se o relé já isola?
+7R50krN8RuA|10:24|CI driver ULN2003
+yqtng8B_pZ8|7:04|Copiando um microcontrolador PIC
+Ueb523eIJIs|12:09|Ponte H em circuito integrado
+3-rTqSNtsiw|12:05|Capacitor como sensor de temperatura
+PkRLMOqH-oI|14:54|C/C++: arrays de um jeito diferente
+njC1S7UKeUA|14:27|Resolvendo um amplificador em base comum
+GGvHhXXawwQ|13:35|Semáforo duplo com Arduino
+42Z74R0fsQ8|9:58|Hello world MSP430 (C)
+IiBo-HCi0iU|22:14|TK85: programando um computador com mais de 40 anos
+-GDqS4rW1UA|18:40|STM32: criando uma classe em C++
+w_RN3nEgbsg|14:38|Memórias em microcontroladores
+#V:WqHIFSYMHy0
+WqHIFSYMHy0|35:39|Curso de MQTT - Parte 1
+#V:9UJYaAt7v2o
+9UJYaAt7v2o|35:23|ESLint + Prettier + EditorConfig
+#V:yb2udL9GG2U
+yb2udL9GG2U|1:50:11|Docker e Docker Compose do zero ao deploy
+#V:HCHqtpipwu4
+HCHqtpipwu4|47:48|Conceitos básicos de criptografia (2/2)
+#V:5unI7VPnASM
+5unI7VPnASM|1:59:15|Intensivo Kubernetes: o mínimo que um dev precisa saber
+#V:7BEsfupYngE
+7BEsfupYngE|9:07|Configurando chave pública e privada no SSH
+#V:dJjVr6Ya7B8
+dJjVr6Ya7B8|41:06|Gitflow na prática
+#V:bUqu8fh7xUg
+bUqu8fh7xUg|7:40:58|Ethical Hacking: Command and Control
+#V:CcU5Kc_FN_4
+CcU5Kc_FN_4|41:11|Conceitos básicos de criptografia (1/2)

@@ -1,0 +1,1980 @@
+{
+ "specs": [
+  {
+   "id": "web",
+   "name": "Desenvolvimento Web",
+   "desc": "Desenvolvimento web é o termo utilizado para descrever o desenvolvimento de sites, na Internet ou na intranet. O profissional que trabalha desenvolvendo websites pode ser um web designer (desenvolvedor do layout) ou um web developer (desenvolvedor de sistemas). O desenvolvimento refere-se a um processo de construção e testes do software específico para a web, com a finalidade de se obter um conjunto de programas, que satisfazem as funções pretendidas, quer em termos de usabilidade dos usuários ou compatibilidade com outros programas existentes. O desenvolvimento web pode variar desde simples páginas estáticas a aplicações ricas, comércios eletrônicos ou redes sociais.",
+   "courses": [
+    {
+     "id": "web1",
+     "name": "HTML e CSS, Parte I",
+     "url": "https://www.cursoemvideo.com/curso/html5-css3-modulo1/",
+     "dur": "5 Semanas",
+     "ded": "8 horas/semana",
+     "topics": "Tags; Hierarquias; Semântica.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "web2",
+     "name": "HTML e CSS, Parte II",
+     "url": "https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/",
+     "dur": "5 Semanas",
+     "ded": "8 horas/semana",
+     "topics": "Elementos; IDs; Variáveis.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "web3",
+     "name": "JavaScript Básico",
+     "url": "https://www.cursoemvideo.com/curso/javascript/",
+     "dur": "5 Semanas",
+     "ded": "8 horas/semana",
+     "topics": "Sintaxe; DOM; Funções.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "web4",
+     "name": "Curso de JavaScript ES6",
+     "url": "https://www.youtube.com/playlist?list=PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI",
+     "dur": "4 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Módulos; Async/Await; Promises; Estrutura de Dados.",
+     "pl": "PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI",
+     "v": null
+    },
+    {
+     "id": "web5",
+     "name": "Debuggando JavaScript",
+     "url": "https://www.youtube.com/playlist?list=PLg2lQYZDBwORqALpRkVPXEdgOloQz8sux",
+     "dur": "-",
+     "ded": "30 minutos",
+     "topics": "Logs; DEV Tools.",
+     "pl": "PLg2lQYZDBwORqALpRkVPXEdgOloQz8sux",
+     "v": null
+    },
+    {
+     "id": "web6",
+     "name": "Curso de SASS",
+     "url": "https://www.youtube.com/watch?v=XwPSWKnZIg4&list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J",
+     "dur": "2 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Preprocessamento CSS; Mixin; Output.",
+     "pl": "PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J",
+     "v": "XwPSWKnZIg4"
+    },
+    {
+     "id": "web7",
+     "name": "Node.js (Express)",
+     "url": "https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B",
+     "dur": "4 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "Handlebars; Middlewares; Sequelize; MVC.",
+     "pl": "PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B",
+     "v": null
+    },
+    {
+     "id": "web8",
+     "name": "ESLint + Prettier + editorconfig",
+     "url": "https://www.youtube.com/watch?v=9UJYaAt7v2o",
+     "dur": "-",
+     "ded": "30 minutos",
+     "topics": "Formatação de Código; Padronização de Código; Linters.",
+     "pl": null,
+     "v": "9UJYaAt7v2o"
+    },
+    {
+     "id": "web9",
+     "name": "Curso Básico REST APIs",
+     "url": "https://www.youtube.com/playlist?list=PL3B-OV5dZTqbaLi1f2UmXEWbcx9WyYaTX",
+     "dur": "4 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "Modelos de Maturidade; Verbos e Status; Recursos; Modelagem.",
+     "pl": "PL3B-OV5dZTqbaLi1f2UmXEWbcx9WyYaTX",
+     "v": null
+    },
+    {
+     "id": "web10",
+     "name": "Curso de React",
+     "url": "https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC",
+     "dur": "4 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "Componentes; Estado; Hooks; API; Navegação.",
+     "pl": "PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC",
+     "v": null
+    },
+    {
+     "id": "web11",
+     "name": "Mini-curso de TypeScript",
+     "url": "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
+     "dur": "2 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Tipos; Compilador; Classes; Generics.",
+     "pl": "PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
+     "v": null
+    },
+    {
+     "id": "web12",
+     "name": "Node (Express) com TypeScript",
+     "url": "https://www.youtube.com/playlist?list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc",
+     "dur": "2 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Rotas; JWT; Tipos; Optionals.",
+     "pl": "PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc",
+     "v": null
+    }
+   ]
+  },
+  {
+   "id": "devops",
+   "name": "DevOps",
+   "desc": "A metodologia DevOps é uma abordagem de cultura, automação e design de plataforma que tem como objetivo agregar mais valor aos negócios e aumentar sua capacidade de resposta às mudanças por meio de entregas de serviços rápidas e de alta qualidade. Isso tudo é possível por meio da disponibilização de serviços de TI iterativa e rápida. Adotar o DevOps significa conectar aplicações legadas a uma infraestrutura e aplicações modernas e nativas em nuvem.",
+   "courses": [
+    {
+     "id": "devops1",
+     "name": "Curso de Linux",
+     "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7",
+     "dur": "6 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Curso Completo para LPIC-1 Linux, dando base para entendimento do sistema",
+     "pl": "PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7",
+     "v": null
+    },
+    {
+     "id": "devops2",
+     "name": "Linux Essentials",
+     "url": "https://4linux.com.br/cursos/treinamento/linux-essentials/",
+     "dur": "12 semanas",
+     "ded": "2 horas/semana",
+     "topics": "GNU/Linux; Conhecimentos para a Linux Essentials",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "devops3",
+     "name": "Curso Básico de Bash",
+     "url": "https://www.youtube.com/playlist?list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7",
+     "dur": "4 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Básico de Bash",
+     "pl": "PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7",
+     "v": null
+    },
+    {
+     "id": "devops4",
+     "name": "Curso de Shell Scripting",
+     "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs",
+     "dur": "2 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Shell Scripting",
+     "pl": "PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs",
+     "v": null
+    },
+    {
+     "id": "devops5",
+     "name": "DevOps Essentials",
+     "url": "https://4linux.com.br/cursos/treinamento/devops-essentials/",
+     "dur": "12 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Entender a cultura DevOps; Ferramentas; Pipeline",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "devops6",
+     "name": "Cloud Essentials",
+     "url": "https://4linux.com.br/cursos/treinamento/cloud-fundamentals/",
+     "dur": "12 semanas",
+     "ded": "2 horas/semana",
+     "topics": "IaaS, PaaS e SaaS; GCP/AWS/Azure; SSH",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "devops7",
+     "name": "Curso de Introdução ao Vagrant",
+     "url": "https://www.youtube.com/playlist?list=PLmSWX0ePcw4j6xaMvvTuYI0BgKadati5L",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Introdução ao Vagrant e seus conceitos",
+     "pl": "PLmSWX0ePcw4j6xaMvvTuYI0BgKadati5L",
+     "v": null
+    },
+    {
+     "id": "devops8",
+     "name": "Curso Docker Completo",
+     "url": "https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Docker Básico e CLI Docker",
+     "pl": "PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4",
+     "v": null
+    },
+    {
+     "id": "devops9",
+     "name": "Descomplicando o Docker",
+     "url": "https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR",
+     "dur": "4 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Docker; Containers; Docker Swarm; Docker Hub",
+     "pl": "PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR",
+     "v": null
+    },
+    {
+     "id": "devops10",
+     "name": "Docker e Docker Compose do zero ao Deploy",
+     "url": "https://www.youtube.com/watch?v=yb2udL9GG2U",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Docker em produção; Docker Compose; Conceitos de Deploy",
+     "pl": null,
+     "v": "yb2udL9GG2U"
+    },
+    {
+     "id": "devops11",
+     "name": "Curso de Introdução ao Kubernetes",
+     "url": "https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs",
+     "dur": "2 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Introdução ao Kubernetes e seus conceitos",
+     "pl": "PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs",
+     "v": null
+    },
+    {
+     "id": "devops12",
+     "name": "Intensivo Kubernetes: O mínimo que um dev precisa saber",
+     "url": "https://www.youtube.com/watch?v=5unI7VPnASM",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Kubernetes essencial para desenvolvimento",
+     "pl": null,
+     "v": "5unI7VPnASM"
+    },
+    {
+     "id": "devops13",
+     "name": "Intensivo Gitflow",
+     "url": "https://www.youtube.com/watch?v=dJjVr6Ya7B8",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Gitflow e seus conceitos",
+     "pl": null,
+     "v": "dJjVr6Ya7B8"
+    },
+    {
+     "id": "devops14",
+     "name": "Desbravando CI/CD",
+     "url": "https://www.youtube.com/playlist?list=PL7ScB28KYHhGTTHA2PFe0DmHmt3qU4YgM",
+     "dur": "2 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Conceitos práticos de CI/CD",
+     "pl": "PL7ScB28KYHhGTTHA2PFe0DmHmt3qU4YgM",
+     "v": null
+    }
+   ]
+  },
+  {
+   "id": "data",
+   "name": "Ciência de Dados",
+   "desc": "Ciência de dados (Data science) é uma área interdisciplinar voltada para o estudo e a análise de dados econômicos, financeiros e sociais, estruturados e não-estruturados, que visa a extração de conhecimento, detecção de padrões e/ou obtenção de insights para possíveis tomadas de decisão. Ciência de dados enquanto campo existe há 30 anos, porém ganhou mais destaque nos últimos anos devido a alguns fatores como o surgimento e popularização de grandes bancos de dados e o desenvolvimento de áreas como machine learning. Cientistas de Dados podem trabalhar no setor privado, por exemplo, transformando grande quantidade de dados brutos em insights de negócios, auxiliando empresas em tomadas de decisões para atingir melhores resultados ou na academia e terceiro setor como pesquisadores quantitativos interdisciplinares.",
+   "courses": [
+    {
+     "id": "data1",
+     "name": "The Data Scientist’s Toolbox",
+     "url": "https://www.coursera.org/learn/data-scientists-tools?specialization=data-science-foundations-r",
+     "dur": "4 semanas",
+     "ded": "4 horas / semana",
+     "topics": "Git; RMarkdown; Básico de R; Básico de Análise de Dados.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "data2",
+     "name": "Análise de Dados em Linguagem R",
+     "url": "https://www.escolavirtual.gov.br/curso/325",
+     "dur": "5 semanas",
+     "ded": "4 horas / semana",
+     "topics": "R; RStudio; ML; Análise de Dados.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "data3",
+     "name": "Estatística Descritiva Básica",
+     "url": "https://www.youtube.com/playlist?list=PLw9ZE443YE45QSRr576gk6ZfhbWVjiIbr",
+     "dur": "2 horas",
+     "ded": "1 semana",
+     "topics": "Associações; Tipos de Variáveis; Variância e Desvio; Tipos de Gráficos.",
+     "pl": "PLw9ZE443YE45QSRr576gk6ZfhbWVjiIbr",
+     "v": null
+    },
+    {
+     "id": "data4",
+     "name": "Essence of Linear Algebra",
+     "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+     "dur": "2 semanas",
+     "ded": "4 horas/semana",
+     "topics": "Vetores; Matrizes; Tensores; Espaços; Bases; Transformações.",
+     "pl": "PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+     "v": null
+    },
+    {
+     "id": "data5",
+     "name": "Getting and Cleaning Data",
+     "url": "https://www.coursera.org/learn/data-cleaning?specialization=data-science-foundations-r",
+     "dur": "4 semanas",
+     "ded": "8 horas / semana",
+     "topics": "Manipulação de Dados; Limpeza de Dados; Expressões Regulares; APIs.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "data6",
+     "name": "Exploratory Data Analysis",
+     "url": "https://www.coursera.org/learn/exploratory-data-analysis?specialization=data-science-foundations-r",
+     "dur": "4 semanas",
+     "ded": "15 horas / semana",
+     "topics": "Plotagem de Dados; Sistemas avançados; Padrões de Dados.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "data7",
+     "name": "Reproducible Research",
+     "url": "https://www.coursera.org/learn/reproducible-research?specialization=data-science-foundations-r",
+     "dur": "4 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Organização de Dados; Pesquisa.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "data8",
+     "name": "Estatística computacional",
+     "url": "https://www.youtube.com/playlist?list=PLUUx2DlFul6LjL3K9AZT2nTlyZ4o38tE7",
+     "dur": "5 semanas",
+     "ded": "4 horas / semana",
+     "topics": "Razão e Distribuição; Geração de Variáveis; Monte Carlo; Jacknife; AIC e BIC; DIC.",
+     "pl": "PLUUx2DlFul6LjL3K9AZT2nTlyZ4o38tE7",
+     "v": null
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "name": "CyberSecurity",
+   "desc": "A área da segurança da informação vem crescendo cada vez mais com a ascensão da Internet e dos negócios digitais. Além disso, a LGPD bateu a nossa porta e muitos profissionais precisaram se adaptar e adaptar seus softwares. Ou seja, a área de segurança da informação não é voltada somente para usuários finais, mas também para desenvolvedores escrevem códigos mais seguros.",
+   "courses": [
+    {
+     "id": "cyber1",
+     "name": "Introdução a CiberSegurança",
+     "url": "https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity",
+     "dur": "6 semanas",
+     "ded": "3 horas/semana",
+     "topics": "Segurança; Introdução",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber2",
+     "name": "Fundamentos CiberSegurança",
+     "url": "https://www.udemy.com/course/certified-secure-netizen/",
+     "dur": "2 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Nomenclaturas; Encriptação; Fundamentos",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber3",
+     "name": "Cybersecurity",
+     "url": "https://www.eucapacito.com.br/curso-ec/cybersecurity",
+     "dur": "6 semanas",
+     "ded": "3 horas/semana",
+     "topics": "Segurança; Introdução",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber4",
+     "name": "OWASP do início",
+     "url": "https://www.udemy.com/course/owasp-zap-from-scratch/",
+     "dur": "2 semanas",
+     "ded": "2 horas/semana",
+     "topics": "OWASP; Força bruta",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber5",
+     "name": "Introdução ao Hacking e Pentest",
+     "url": "https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/",
+     "dur": "4 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Pentest; Vulnerabilidades",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber6",
+     "name": "Forense Digital",
+     "url": "https://acaditi.com.br/essentials-series/#dfe",
+     "dur": "8 semanas",
+     "ded": "5 horas/semana",
+     "topics": "Essencial de Forense Digital",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber7",
+     "name": "Sistema de SIEM",
+     "url": "https://www.elastic.co/training/elastic-security-fundamentals-siem",
+     "dur": "1 dia",
+     "ded": "4 horas/dia",
+     "topics": "Exemplo e Introdução à SIEM",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber8",
+     "name": "O que é SAST?",
+     "url": "https://www.microfocus.com/pt-br/what-is/sast",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Estático; Análise",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber9",
+     "name": "O que é DAST?",
+     "url": "https://www.microfocus.com/pt-br/what-is/dast",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Dinâmico; Análise",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber10",
+     "name": "O que é IAST?",
+     "url": "https://www.nova8.com.br/2020/01/17/o-que-e-iast/",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "SAST; DAST; IAST",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber11",
+     "name": "O que é RASP?",
+     "url": "https://blog.convisoappsec.com/rasp-no-cenario-de-appsec/",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "RASP",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber12",
+     "name": "Introdução a LGPD",
+     "url": "https://www.escolavirtual.gov.br/curso/603",
+     "dur": "2 semanas",
+     "ded": "7 horas/semana",
+     "topics": "Fundamentos da Lei Geral de Proteção de Dados",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber13",
+     "name": "Criptografia Parte 1",
+     "url": "https://www.youtube.com/watch?v=CcU5Kc_FN_4",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Criptografia",
+     "pl": null,
+     "v": "CcU5Kc_FN_4"
+    },
+    {
+     "id": "cyber14",
+     "name": "Criptografia Parte 2",
+     "url": "https://www.youtube.com/watch?v=HCHqtpipwu4",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Criptografia",
+     "pl": null,
+     "v": "HCHqtpipwu4"
+    },
+    {
+     "id": "cyber15",
+     "name": "Configurar chaves públicas e privadas",
+     "url": "https://www.youtube.com/watch?v=7BEsfupYngE",
+     "dur": "1 semana",
+     "ded": "2 horas/semana",
+     "topics": "Chaves de autenticação",
+     "pl": null,
+     "v": "7BEsfupYngE"
+    },
+    {
+     "id": "cyber16",
+     "name": "Curso de Engenharia Reversa Online",
+     "url": "https://hackaflag.com.br/academy.html",
+     "dur": "6 semanas",
+     "ded": "2 horas/semana",
+     "topics": "Introdução Engenharia Reversa",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cyber17",
+     "name": "Teoria e Ferramentas de Comando e Controle",
+     "url": "https://www.youtube.com/watch?v=bUqu8fh7xUg",
+     "dur": "4 dias",
+     "ded": "2 horas/dia",
+     "topics": "Hacking - Ferramentas de Comando e Controle",
+     "pl": null,
+     "v": "bUqu8fh7xUg"
+    },
+    {
+     "id": "cyber18",
+     "name": "Curso Python para Pentesters",
+     "url": "https://www.youtube.com/watch?v=KsUTiurSGJM&list=PLY-Tw02f5SDIP3CRtcaenRQc8Yz52m6XZ",
+     "dur": "12 semanas",
+     "ded": "3 horas/semana",
+     "topics": "Python; Programação paralela e concorrente; Redes de computadores; Segurança ofensiva",
+     "pl": "PLY-Tw02f5SDIP3CRtcaenRQc8Yz52m6XZ",
+     "v": "KsUTiurSGJM"
+    }
+   ]
+  },
+  {
+   "id": "emb",
+   "name": "Embarcados",
+   "desc": "Um sistema embarcado (ou sistema embutido) é um sistema microprocessado no qual o computador é completamente encapsulado ou dedicado ao dispositivo ou sistema que ele controla. Diferentemente de computadores de propósito geral, como o computador pessoal, um sistema embarcado realiza um conjunto de tarefas predefinidas, geralmente com requisitos específicos. Sistemas embarcados são utilizados para o desenvolvimento de veículos, eletrodomésticos, hardware de dispositivos computacionais e muitas outras coisas que usamos no nosso dia-a-dia.",
+   "courses": [
+    {
+     "id": "emb1",
+     "name": "Microeletrônica",
+     "url": "https://integra.univesp.br/courses/2344",
+     "dur": "7 Semanas",
+     "ded": "4 horas / semana",
+     "topics": "Física; Fotolitografia; Oxidação; Deposição; Epitaxia; CMOS.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "emb2",
+     "name": "Curso de C moderno",
+     "url": "https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE",
+     "dur": "4 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "C; GDB; Tooling; Unix.",
+     "pl": "PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE",
+     "v": null
+    },
+    {
+     "id": "emb3",
+     "name": "Curso de Makefile",
+     "url": "https://www.youtube.com/playlist?list=PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP",
+     "dur": "4 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "Make; Makefile.",
+     "pl": "PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP",
+     "v": null
+    },
+    {
+     "id": "emb4",
+     "name": "Conceitos de Eletrônica",
+     "url": "https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8",
+     "dur": "4 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "Sinais; Circuitos; Energia; Polaridade.",
+     "pl": "PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8",
+     "v": null
+    },
+    {
+     "id": "emb5",
+     "name": "Eletrônica Embarcada",
+     "url": "https://integra.univesp.br/courses/2710",
+     "dur": "7 Semanas",
+     "ded": "4 horas / semana",
+     "topics": "Embarcados em Veículos; GNSS; Instrumentação; Implementação.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "emb6",
+     "name": "Eletrônica para Iniciantes",
+     "url": "https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQpKzBt3nJex3Mbk7hmhFHl",
+     "dur": "5 Semanas",
+     "ded": "8 horas/semana",
+     "topics": "Esquemáticos; Portas Lógicas; Circuitos; Carga.",
+     "pl": "PLZ8dBTV2_5HQpKzBt3nJex3Mbk7hmhFHl",
+     "v": null
+    },
+    {
+     "id": "emb7",
+     "name": "Curso de AVR-C",
+     "url": "https://www.youtube.com/playlist?list=PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R",
+     "dur": "2 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "C para Microcontroladores; Operações bit-a-bit; Datasheets.",
+     "pl": "PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R",
+     "v": null
+    },
+    {
+     "id": "emb8",
+     "name": "Curso de AVR Periféricos",
+     "url": "https://www.youtube.com/playlist?list=PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H",
+     "dur": "2 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "Displays; Timers; Conversores; Comunicação.",
+     "pl": "PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H",
+     "v": null
+    },
+    {
+     "id": "emb9",
+     "name": "Curso de Assembly para ATMega328",
+     "url": "https://www.youtube.com/watch?v=JEE9RvwEDuo&list=PLw-GnG0Kv5F7UM9y-FUmw7sI5sjdbaSpe",
+     "dur": "2 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "ASM; IO; Portas; Endereços.",
+     "pl": "PLw-GnG0Kv5F7UM9y-FUmw7sI5sjdbaSpe",
+     "v": "JEE9RvwEDuo"
+    },
+    {
+     "id": "emb10",
+     "name": "Curso de C++",
+     "url": "https://www.youtube.com/playlist?list=PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck",
+     "dur": "3 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "OOP; Smart Pointers; Biblioteca padrão.",
+     "pl": "PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck",
+     "v": null
+    },
+    {
+     "id": "emb11",
+     "name": "Curso de FreeRTOS",
+     "url": "https://www.youtube.com/playlist?list=PLU15eSNTfwrnlzgvMmb1NK7l0qNo8UMKr",
+     "dur": "2 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Filas; Tasks; Timers; Async.",
+     "pl": "PLU15eSNTfwrnlzgvMmb1NK7l0qNo8UMKr",
+     "v": null
+    },
+    {
+     "id": "emb12",
+     "name": "Curso de MQTT",
+     "url": "https://www.youtube.com/watch?v=WqHIFSYMHy0",
+     "dur": "2 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Broker; Publisher; QoS; Mensagens.",
+     "pl": null,
+     "v": "WqHIFSYMHy0"
+    },
+    {
+     "id": "emb13",
+     "name": "Curso de LoRaWan",
+     "url": "https://www.youtube.com/watch?v=iPGXyeHv5JQ&list=PLU15eSNTfwrnd1I835eFA124rd4CVGq3e",
+     "dur": "1 Semana",
+     "ded": "3 horas/semana",
+     "topics": "Protocolo; Camadas; ADR; AU915.",
+     "pl": "PLU15eSNTfwrnd1I835eFA124rd4CVGq3e",
+     "v": "iPGXyeHv5JQ"
+    },
+    {
+     "id": "emb14",
+     "name": "Curso de FPGA",
+     "url": "https://www.youtube.com/playlist?list=PLZ8dBTV2_5HS79fVexGTtCMDUp7kjnumS",
+     "dur": "4 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "VHDL; Verilog; ASIC.",
+     "pl": "PLZ8dBTV2_5HS79fVexGTtCMDUp7kjnumS",
+     "v": null
+    }
+   ]
+  },
+  {
+   "id": "cgx",
+   "name": "Computação Gráfica",
+   "desc": "A computação gráfica é a área da computação destinada à geração de imagens em geral — em forma de representação de dados e informação, ou em forma de recriação do mundo real. Ela pode possuir uma infinidade de aplicações para diversas áreas, desde a própria informática, ao produzir interfaces gráficas para software, sistemas operacionais e sites na Internet, quanto para produzir animações e jogos.",
+   "courses": [
+    {
+     "id": "cgx1",
+     "name": "Pixar in a Box",
+     "url": "https://pt.khanacademy.org/partner-content/pixar-latam",
+     "dur": "2 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "Renderização; Animação; Curvas; 3D.",
+     "pl": null,
+     "v": null
+    },
+    {
+     "id": "cgx2",
+     "name": "Essence of Linear Algebra",
+     "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+     "dur": "2 semanas",
+     "ded": "4 horas/semana",
+     "topics": "Vetores; Matrizes; Tensores; Espaços; Bases; Transformações.",
+     "pl": "PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+     "v": null
+    },
+    {
+     "id": "cgx3",
+     "name": "Programação em Julia",
+     "url": "https://www.youtube.com/playlist?list=PL5TJqBvpXQv4TO4Y_JZExBCBzNXDLYUCj",
+     "dur": "? Semanas",
+     "ded": "? horas/semana",
+     "topics": "Algoritmos; Julia; Algebra Linear.",
+     "pl": "PL5TJqBvpXQv4TO4Y_JZExBCBzNXDLYUCj",
+     "v": null
+    },
+    {
+     "id": "cgx4",
+     "name": "Tópicos de Computação Gráfica",
+     "url": "https://www.youtube.com/playlist?list=PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo",
+     "dur": "? Semanas",
+     "ded": "? horas/semana",
+     "topics": "Ray Tracing; Reflexos; Imagens; Reconstrução de Imagens.",
+     "pl": "PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo",
+     "v": null
+    },
+    {
+     "id": "cgx5",
+     "name": "Conceitos Básicos de Computação Gráfica",
+     "url": "https://www.youtube.com/playlist?list=PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA",
+     "dur": "4 Semanas",
+     "ded": "8 horas/semana",
+     "topics": "Objetos gráficos; Modelagem geométrica; Fundamentos de sistemas gráficos.",
+     "pl": "PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA",
+     "v": null
+    },
+    {
+     "id": "cgx6",
+     "name": "Processamento de Imagens",
+     "url": "https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj",
+     "dur": "4 Semanas",
+     "ded": "8 horas/semana",
+     "topics": "Imagem digital; Quantização; Operações com imagens; Dithering; warping de imagens; Aplicações",
+     "pl": "PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj",
+     "v": null
+    },
+    {
+     "id": "cgx7",
+     "name": "Processamento de Imagens em Python",
+     "url": "https://www.youtube.com/playlist?list=PL5TJqBvpXQv54i_HWjd7s70vbP4Is7sK_",
+     "dur": "? Semanas",
+     "ded": "? horas/semana",
+     "topics": "Redimensionamento; Efeitos; Animação; Detecção.",
+     "pl": "PL5TJqBvpXQv54i_HWjd7s70vbP4Is7sK_",
+     "v": null
+    },
+    {
+     "id": "cgx8",
+     "name": "Programação em C++",
+     "url": "https://www.youtube.com/playlist?list=PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck",
+     "dur": "3 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "OOP; Smart Pointers; Biblioteca padrão.",
+     "pl": "PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck",
+     "v": null
+    },
+    {
+     "id": "cgx9",
+     "name": "OpenGL C++ - Gráficos 3D",
+     "url": "https://www.youtube.com/playlist?list=PLVRDPs83ZhmcXYuktF3r2hfyoabg_EVPO",
+     "dur": "3 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "OpenGL; C++; Iluminação; Câmera; Modelagem de figuras geométricas; Prática",
+     "pl": "PLVRDPs83ZhmcXYuktF3r2hfyoabg_EVPO",
+     "v": null
+    }
+   ]
+  }
+ ],
+ "math": [
+  {
+   "name": "Introdução ao Cálculo e a Matemática",
+   "courses": [
+    {
+     "id": "m1",
+     "name": "Ingredientes básicos para o Cálculo",
+     "url": "https://www.youtube.com/playlist?list=PL2xox8ncv81W698VTHptmp7ZNvcKqlyHO",
+     "alt": null,
+     "dur": "7 Semanas",
+     "ded": "1/2 horas/semana",
+     "topics": "Funções, Contatos, Trigonometria, Exponencial e Logaritmo.",
+     "pl": "PL2xox8ncv81W698VTHptmp7ZNvcKqlyHO",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m2",
+     "name": "Teoria dos Conjuntos",
+     "url": "https://www.youtube.com/playlist?list=PL2xox8ncv81X2Cp3FClIjRE9sG_Vq6sZ_",
+     "alt": null,
+     "dur": "7 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "Conjuntos, Numéricos, Finitos, Enumeráveis e Operações.",
+     "pl": "PL2xox8ncv81X2Cp3FClIjRE9sG_Vq6sZ_",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m3",
+     "name": "Lógica e Matemática Discreta",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHf6oB0nf8FwLhqSOcBLqOxH",
+     "alt": "https://integra.univesp.br/courses/2658",
+     "dur": "8 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Teoria dos Conjuntos; assunto.",
+     "pl": "PLxI8Can9yAHf6oB0nf8FwLhqSOcBLqOxH",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m4",
+     "name": "Geometria Analítica",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHcSZv2BBUJAfGsXx0D0hn-2",
+     "alt": "https://integra.univesp.br/courses/2802",
+     "dur": "7 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "Retas; Plano Cartesiano; Coordenadas.",
+     "pl": "PLxI8Can9yAHcSZv2BBUJAfGsXx0D0hn-2",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m5",
+     "name": "Algoritmos e Programação em Python",
+     "url": "https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0",
+     "alt": null,
+     "dur": "8 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Python; Programação; Algoritmos.",
+     "pl": "PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0",
+     "v": null,
+     "pre": []
+    }
+   ]
+  },
+  {
+   "name": "Aprofundamento no Cálculo e Início da Física Geral",
+   "courses": [
+    {
+     "id": "m6",
+     "name": "Cálculo I",
+     "url": "https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B",
+     "alt": "https://integra.univesp.br/courses/2831",
+     "dur": "7 Semanas",
+     "ded": "4 horas/semana",
+     "topics": "Integrais; Limites; Derivadas.",
+     "pl": "PL2D9B691A704C6F7B",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m7",
+     "name": "Projeto e Análise de Algoritmos",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW",
+     "alt": null,
+     "dur": "8 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Ordenação; Busca; Inferência; Complexidade.",
+     "pl": "PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW",
+     "v": null,
+     "pre": [
+      "m5"
+     ]
+    },
+    {
+     "id": "m8",
+     "name": "Álgebra Linear",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr",
+     "alt": "https://integra.univesp.br/courses/668",
+     "dur": "6 Semanas",
+     "ded": "2 horas / semana",
+     "topics": "Vetores; Matrizes; Transformações; Equações.",
+     "pl": "PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m9",
+     "name": "Álgebra Linear (avançada)",
+     "url": "https://www.youtube.com/playlist?list=PL2xox8ncv81WXIutzWJDQ7E78riZqJClA",
+     "alt": null,
+     "dur": "8 Semanas",
+     "ded": "2 horas / semana",
+     "topics": "Matrizes Arbitrárias; Transformações Lineares; Dimensões; Sistemas Lineares.",
+     "pl": "PL2xox8ncv81WXIutzWJDQ7E78riZqJClA",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m10",
+     "name": "Teoria dos Números",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHcfxDjfTmU-t7XC1w2GVwc_",
+     "alt": "https://integra.univesp.br/courses/1003",
+     "dur": "7 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Inteiros; Primos; Relações.",
+     "pl": "PLxI8Can9yAHcfxDjfTmU-t7XC1w2GVwc_",
+     "v": null,
+     "pre": []
+    }
+   ]
+  },
+  {
+   "name": "Aprofundamento no Cálculo e Física",
+   "courses": [
+    {
+     "id": "m11",
+     "name": "Cálculo II",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER",
+     "alt": "https://integra.univesp.br/courses/2405",
+     "dur": "7 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Integrais Duplas; Curvas Parametrizadas; Derivadas Parciais.",
+     "pl": "PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER",
+     "v": null,
+     "pre": [
+      "m6"
+     ]
+    },
+    {
+     "id": "m12",
+     "name": "Estruturas Algébricas",
+     "url": "https://www.youtube.com/playlist?list=PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL",
+     "alt": null,
+     "dur": "? Semanas",
+     "ded": "? horas/semana",
+     "topics": "Grupos e Subgrupos; Anéis; Ideais.",
+     "pl": "PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL",
+     "v": null,
+     "pre": [
+      "m10"
+     ]
+    },
+    {
+     "id": "m13",
+     "name": "Equações Diferenciais Ordinárias",
+     "url": "https://www.youtube.com/playlist?list=PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP",
+     "alt": null,
+     "dur": "x Semanas",
+     "ded": "x horas/semana",
+     "topics": "assunto; assunto.",
+     "pl": "PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m14",
+     "name": "Física Geral I",
+     "url": "https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E",
+     "alt": null,
+     "dur": "7 Semanas",
+     "ded": "3 horas / semana",
+     "topics": "Movimento; Cinemática; Mecânica",
+     "pl": "PL7581C21F8ADD6C8E",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m15",
+     "name": "História da Matemática",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHdOIYVPQPS6oUPBk8mb1CVU",
+     "alt": null,
+     "dur": "7 Semanas",
+     "ded": "1 hora/semana",
+     "topics": "História, Sistemas numéricos da antiguidade, Evolução.",
+     "pl": "PLxI8Can9yAHdOIYVPQPS6oUPBk8mb1CVU",
+     "v": null,
+     "pre": []
+    }
+   ]
+  },
+  {
+   "name": "Cálculo e Física Avançado",
+   "courses": [
+    {
+     "id": "m16",
+     "name": "Cálculo III",
+     "url": "https://www.youtube.com/playlist?list=PLFBA21F349930F92F",
+     "alt": "https://cursos.univesp.br/courses/3002",
+     "dur": "8 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Integrais Triplas; Teorema Gauss e Stokes; Campos Conservativos; Green.",
+     "pl": "PLFBA21F349930F92F",
+     "v": null,
+     "pre": [
+      "m11"
+     ]
+    },
+    {
+     "id": "m17",
+     "name": "Física Geral II",
+     "url": "https://www.youtube.com/playlist?list=PL516F59E9AE8F5BF7",
+     "alt": null,
+     "dur": "7 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Gravitação; Ondas; Termodinâmica.",
+     "pl": "PL516F59E9AE8F5BF7",
+     "v": null,
+     "pre": [
+      "m14"
+     ]
+    },
+    {
+     "id": "m18",
+     "name": "Estatística e Probabilidade",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew",
+     "alt": "https://integra.univesp.br/courses/1624",
+     "dur": "7 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Tabelas; Gráficos; Aleatoriedade.",
+     "pl": "PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m19",
+     "name": "Programação Linear",
+     "url": "https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists",
+     "alt": null,
+     "dur": "3 semanas",
+     "ded": "8 horas/semana",
+     "topics": "Simplex; Ciclagem; Pós-otimização.",
+     "pl": null,
+     "v": null,
+     "pre": [
+      "m7"
+     ]
+    },
+    {
+     "id": "m20",
+     "name": "Análise na Reta",
+     "url": "https://www.youtube.com/playlist?list=PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z",
+     "alt": null,
+     "dur": "7 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Limites; Topologia; Sequências.",
+     "pl": "PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z",
+     "v": null,
+     "pre": []
+    }
+   ]
+  },
+  {
+   "name": "Tópicos Matemáticos",
+   "courses": [
+    {
+     "id": "m21",
+     "name": "Cálculo IV (Métodos Matemáticos)",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY",
+     "alt": "https://integra.univesp.br/courses/515",
+     "dur": "7 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Sequências; Convergências; Séries.",
+     "pl": "PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY",
+     "v": null,
+     "pre": [
+      "m16"
+     ]
+    },
+    {
+     "id": "m22",
+     "name": "Introdução a Topologia Geral",
+     "url": "https://www.youtube.com/playlist?list=PLhueTEPO9C1KEX8jTphPeb9kEF9it4b5x",
+     "alt": null,
+     "dur": "7 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Axiomas de Separação e Enumeração; Espaços Conexos; Caminhos.",
+     "pl": "PLhueTEPO9C1KEX8jTphPeb9kEF9it4b5x",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m23",
+     "name": "Cálculo com variável complexa",
+     "url": "https://www.youtube.com/playlist?list=PLpizEtrJatZEUjIgADKdbE6_jGhcXFxht",
+     "alt": null,
+     "dur": "8 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "Números Complexos; Funções Elementares; Derivação; Integração.",
+     "pl": "PLpizEtrJatZEUjIgADKdbE6_jGhcXFxht",
+     "v": null,
+     "pre": [
+      "m21"
+     ]
+    },
+    {
+     "id": "m24",
+     "name": "Teoria dos Grafos",
+     "url": "https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX",
+     "alt": null,
+     "dur": "4 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "Grafos; Representações; Isomorfismo; Decomposição.",
+     "pl": "PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m25",
+     "name": "Física Geral III",
+     "url": "https://www.youtube.com/playlist?list=PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL",
+     "alt": null,
+     "dur": "7 Semanas",
+     "ded": "2 horas/semana",
+     "topics": "Eletromagnetismo; Polaridade; Corrente.",
+     "pl": "PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL",
+     "v": null,
+     "pre": [
+      "m17"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Teoria Avançada",
+   "courses": [
+    {
+     "id": "m26",
+     "name": "Alfabetização em anéis",
+     "url": "https://www.youtube.com/playlist?list=PL2xox8ncv81XSiyT7czJX8q7I7kNmc8Bk",
+     "alt": null,
+     "dur": "10 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "Anéis; DFU; Domínios; Polinômios.",
+     "pl": "PL2xox8ncv81XSiyT7czJX8q7I7kNmc8Bk",
+     "v": null,
+     "pre": [
+      "m12"
+     ]
+    },
+    {
+     "id": "m27",
+     "name": "Física Moderna",
+     "url": "https://www.youtube.com/playlist?list=PLW5Hta-B_II5vB4Vn9wVWaJVHTo4XxB_i",
+     "alt": null,
+     "dur": "8 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "Relatividade; Estrutura Atômica; Bohr; Quântica.",
+     "pl": "PLW5Hta-B_II5vB4Vn9wVWaJVHTo4XxB_i",
+     "v": null,
+     "pre": [
+      "m25"
+     ]
+    },
+    {
+     "id": "m28",
+     "name": "Teoria de Corpos",
+     "url": "https://www.youtube.com/playlist?list=PL2xox8ncv81W0HbBtma7QQMeyVllJMk0m",
+     "alt": null,
+     "dur": "9 Semanas",
+     "ded": "3 horas/semana",
+     "topics": "Extensões Finitas; Compositum; Transcedência.",
+     "pl": "PL2xox8ncv81W0HbBtma7QQMeyVllJMk0m",
+     "v": null,
+     "pre": [
+      "m12"
+     ]
+    },
+    {
+     "id": "m29",
+     "name": "Análise Complexa",
+     "url": "https://www.youtube.com/playlist?list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn",
+     "alt": null,
+     "dur": "? Semanas",
+     "ded": "? horas/semana",
+     "topics": "Espaços; Banach; Convergência.",
+     "pl": "PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn",
+     "v": null,
+     "pre": []
+    },
+    {
+     "id": "m30",
+     "name": "Equações Diferenciais Parciais",
+     "url": "https://www.youtube.com/playlist?list=PLpB72X90N5xST4NmvjQicgfRgpt-9rgw-",
+     "alt": null,
+     "dur": "9 Semanas",
+     "ded": "8 horas/semana",
+     "topics": "Série de Fourier; Equação da Onda; Equação de Laplace; Transformada de Fourier.",
+     "pl": "PLpB72X90N5xST4NmvjQicgfRgpt-9rgw-",
+     "v": null,
+     "pre": [
+      "m21",
+      "m29"
+     ]
+    }
+   ]
+  }
+ ],
+ "bib": {
+  "01_digital_circuits": [
+   {
+    "t": "Sistemas Digitais: Princípios e Aplicações",
+    "a": "Ronald J. Tocci, Neal S. Widner, Gregory L. Moss.",
+    "y": "2019",
+    "e": "12.a edição.",
+    "isbn": "9788543025018",
+    "d": "Este livro promove um estudo abrangente dos princípios e técnicas de sistemas digitais modernos. Além de ensinar os fundamentos do tema, cobre em detalhes tanto métodos modernos quanto tradicionais de aplicação de projetos digitais e técnicas de desenvolvimento, inclusive como gerenciar um projeto em nível de sistema. Nesta 12ª edição tecnologias obsoletas foram substituídas ou abreviadas para oferecer somente conteúdo apropriado aos sistemas modernos. O Capítulo 1 foi extensivamente revisado e atualizado e novos problemas e exemplos foram adicionados em todo o livro. Sistemas digitais é leitura fundamental para cursos de engenharia, assim como para disciplinas ministradas nos cursos de automação, ciência da computação e eletrônica, entre outros."
+   },
+   {
+    "t": "Organização Estruturada de Computadores",
+    "a": "Tanenbaum, Andrews S.",
+    "y": "2013",
+    "e": "6.a edição.",
+    "isbn": "9788581435398",
+    "d": "Esta sexta edição traz o que há de mais moderno em termos de organização estruturada de computadores, apresentando as terminologias, tecnologias e tendências mais recentes em organização e arquitetura de computadores. Com novos exemplos e discussões sobre x86, microcontroladores AVR e arquitetura ARM, ''Organização estruturada de computadores'' é uma obra indispensável para estudantes de ciência da computação, engenharia da computação, análise e desenvolvimento de sistemas e sistemas de informação, bem como para profissionais da área."
+   },
+   {
+    "t": "Sistemas Digitais: Fundamentos e Aplicações",
+    "a": "Floyd, Thomas L.",
+    "y": "2007",
+    "e": "9.a edição.",
+    "isbn": "9788577801077",
+    "d": "Best-seller que, ao longo de 25 anos, vem proporcionando ao estudante o desenvolvimento de habilidades práticas. É uma obra completa e seu ponto forte são as inúmeras aplicações reais dos sistemas digitais nas indústrias. Conta também com material de apoio para os professores em português e em inglês. O livro inclui dois CD-ROMs."
+   }
+  ],
+  "02_discrete_mathematics": [
+   {
+    "t": "Matemática Concreta. Fundamentos Para Ciência Da Computação",
+    "a": "RGRAHAM, R.L.; KNUTH, D.E.; PATASHNIK, O.",
+    "y": "1995",
+    "e": "2.a edição.",
+    "isbn": "9788521610403",
+    "d": "Segunda edição revisada e atualizada. Introduz a matemática para suporte de programação e análise de algoritmos. Apresenta teoria para resolução de problemas complexos. O livro contém 500 exercícios divididos em seis categorias. Aborda, entre outros tópicos, funções dos números inteiros, teoria elementar dos números e probabilidade."
+   },
+   {
+    "t": "Fundamentos matemáticos para a ciência da computação: matemática discreta e suas aplicações",
+    "a": "GERSTING, Judith L.",
+    "y": "2016",
+    "e": "7.a edição.",
+    "isbn": "9788521632597",
+    "d": "Assim como a representação binária é o fundamento matemático do próprio computador, as ideias da matemática discreta são os fundamentos matemáticos da ciência da computação. Esta sétima edição continua a abordagem amigável das edições anteriores dirigida ao estudante, com explicações claras, muitos exemplos e auxílios para sua aprendizagem, como problemas práticos, lembretes, objetivos dos capítulos, revisões das seções e revisões dos capítulos. Foram adicionadas muitas características novas, e uma lista completa delas pode ser encontrada no prefácio deste livro. Uma inovação desta edição de Fundamentos Matemáticos para a Ciência da Computação – Matemática Discreta e Suas Aplicações é que, no final do livro, são dadas as respostas de todos os exercícios ímpares, em vez de apenas as respostas de alguns exercícios selecionados. Quando o exercício pede uma demonstração, é dada a demonstração completa. Em outros casos, é dada apenas uma resposta, não necessariamente a solução. O Guia de Estudos Online, disponível no site da LTC Editora – GEN | Grupo Editorial Nacional, mediante cadastro, contém amostras de problemas com soluções passo a passo que correspondem a muitas das técnicas nos finais das seções do livro. Cada técnica que tem uma página correspondente na internet está marcada com um ícone no texto."
+   },
+   {
+    "t": "Matemática Discreta: Uma Introdução",
+    "a": "SCHEINERMAN, E.R.",
+    "y": "2016",
+    "e": "3.a edição.",
+    "isbn": "9788522125340",
+    "d": "Dirigida a interessados em matemática discreta de maneira geral, esta obra apresenta uma visão geral de toda a matemática a partir da perspectiva da matemática discreta. O livro cobre desde a natureza da matemática (definições, teoremas, provas e contraexemplos), lógica, conjuntos e relações, até técnica avançadas de prova, probabilidades discretas, teoria dos números, teoria dos grafos e álgebra abstrata, incluindo aplicações em criptografia. Esta terceira edição conta com muitos problemas e exercícios que exploram as interligações entre os diversos temas tratados."
+   }
+  ],
+  "03_programming_languages": [
+   {
+    "t": "Concepts, Techniques, and Models of Computer Programming",
+    "a": "Peter Van Roy & Seif Haridi",
+    "y": "2004",
+    "e": "2.a edição.",
+    "isbn": "9780262220699",
+    "d": "\"This is a fascinating book. It's been almost 20 years since Abelson and Sussman revolutionized the teaching of computer science with their Structure and Interpretation of Computer Programs. In all that time, there have been several books (some of them quite good) following SICP's ideas pretty closely, and of course many books following the old pedagogy in which the details of a programming language are the focus, with few deep ideas. But this is the first book I've seen that focuses on big ideas and multiple paradigms, as SICP does, but chooses a very different core model (declarative programming) the first real intellectual competition to Abelson and Sussman. I wouldn't have made all the choices Van Roy and Haridi have made, but I learned a lot from reading this book, and I hope it gets a wide audience.\" --Brian Harvey, Lecturer, Computer Science Division, University of California, Berkeley"
+   },
+   {
+    "t": "Types and Programming Languages",
+    "a": "Benjamin Pierce",
+    "y": "2009",
+    "e": "3.a edição.",
+    "isbn": "9780123745149",
+    "d": "--Robin Milner, Computer Laboratory, University of Cambridge \" Types are the leaven of computer programming; they make it digestible. This excellent book uses types to navigate the rich variety of programming languages, bringing a new kind of unity to their usage, theory, and implementation. Its author writes with the authority of experience in all three of these aspects.\" --Robin Milner, Computer Laboratory, University of Cambridge \" Types are the leaven of computer programming; they make it digestible. This excellent book uses types to navigate the rich variety of programming languages, bringing a new kind of unity to their usage, theory, and implementation. Its author writes with the authority of experience in all three of these aspects. \" --Robin Milner, Computer Laboratory, University of Cambridge \"Types are the leaven of computer programming; they make it digestible. This excellent book uses types to navigate the rich variety of programming languages, bringing a new kind of unity to their usage, theory, and implementation. Its author writes with the authority of experience in all three of these aspects.\"--Robin Milner, Computer Laboratory, University of Cambridge"
+   },
+   {
+    "t": "Programming Language Pragmatics",
+    "a": "Michael L. Scott",
+    "y": "2015",
+    "e": "4.a edição.",
+    "isbn": "9788522125340",
+    "d": "Programming Language Pragmatics, Fourth Edition, is the most comprehensive programming language textbook available today. It is distinguished and acclaimed for its integrated treatment of language design and implementation, with an emphasis on the fundamental tradeoffs that continue to drive software development. The book provides readers with a solid foundation in the syntax, semantics, and pragmatics of the full range of programming languages, from traditional languages like C to the latest in functional, scripting, and object-oriented programming. This fourth edition has been heavily revised throughout, with expanded coverage of type systems and functional programming, a unified treatment of polymorphism, highlights of the newest language standards, and examples featuring the ARM and x86 64-bit architectures. Updated coverage of the latest developments in programming language design, including C & C++11, Java 8, C# 5, Scala, Go, Swift, Python 3, and HTML 5 Updated treatment of functional programming, with extensive coverage of OCaml New chapters devoted to type systems and composite types Unified and updated treatment of polymorphism in all its forms New examples featuring the ARM and x86 64-bit architectures"
+   }
+  ],
+  "04_intro_python": [
+   {
+    "t": "Pense em Python: Pense como um Cientista da Computação",
+    "a": "DOWNEY, B.A.",
+    "y": "2016",
+    "e": "2.a edição.",
+    "isbn": "9788575225080",
+    "d": "Disponível gratuitamente on-line em Português aqui Se você quer aprender como programar, usar Python é uma ótima forma de começar. Este guia prático apresenta a linguagem passo a passo, começando com conceitos de programação básicos antes de chegar a funções, recursividade, estruturas de dados e design orientado a objeto. Esta edição e seu código de apoio foram atualizados para o Python 3. Com os exercícios em cada capítulo, você testará conceitos de programação conforme os aprende. ''Pense em Python'' é ideal para estudantes de ensino médio e universitários ou para autodidatas, estudantes educados em casa e profissionais que precisam aprender fundamentos de programação. Os principiantes que queiram apenas ter uma noção básica, podem começar a usar Python em um navegador. Comece com o básico, incluindo sintaxe e semântica da linguagem. Tenha uma definição clara de cada conceito de programação. Aprenda sobre valores, variáveis, instruções, funções e estruturas de dados em uma progressão lógica. Descubra como trabalhar com arquivos e bancos de dados. Entenda objetos, métodos e programação orientada a objeto. Use técnicas de depuração para corrigir erros de sintaxe, tempo de execução e semânticos. Explore funções, estruturas de dados e algoritmos com uma série de estudos de caso. O código de exemplo deste livro é mantido em um repositório GitHub público, no qual os usuários podem "
+   },
+   {
+    "t": "Fundamentos da programação de computadores: algoritmos, Pascal, C/C++ e Java",
+    "a": "ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de.",
+    "y": "2012",
+    "e": "3.a edição.",
+    "isbn": "9788564574168",
+    "d": "Referência na área, Fundamentos da programação de computadores: algoritmos, PASCAL, C/C++ (padrão ANSI) e JAVA traz em sua nova edição muitas novidades. Mantendo a estrutura lógica que o consagrou, o livro revisa as classes JAVA e trata de vetores e matrizes dinâmicas, bem como aborda o padrão ANSI para as resoluções em C/C++. Além disso, apresenta dois capítulos inéditos: Introdução à programação orientada a objetos e Desafios. Tudo isso somado aos diversos exemplos, problemas e analogias apresentados fazem desta obra ideal para alunos de ciência da computação, engenharia da computação, sistemas de informação, análise de sistemas e desenvolvimento de sistemas."
+   },
+   {
+    "t": "Introdução a Estruturas de Dados: com técnicas de programação em C",
+    "a": "CELES, Waldemar; CERQUEIRA, Renato; RANGEL, José Lucas.",
+    "y": "2016",
+    "e": "2.a edição.",
+    "isbn": "9788535283457",
+    "d": "A primeira edição do livro introduz programação em C e apresenta as seguintes estruturas de dados: vetor, matriz, lista encadeada, pilha, fila, árvore binária, árvore binária de busca, árvore com número variável de filhos e tabela de dispersão (hash). A 2ª edição propõe-se a ideia de estender a obra, apresentando estruturas de dados mais avançadas, a saber: vetor dinâmico, vetor de bits, lista de prioridade (heap), árvore AVL, árvore B, união-busca e grafo. Apresentação das estruturas de dados de forma bem objetiva, pragmática, para a construção de soluções de problemas diversos; Introdução das estruturas de dados mais utilizadas para o desenvolvimento de programas."
+   }
+  ],
+  "05_analytic_geometry": [
+   {
+    "t": "Geometria Analítica: Um Tratamento Vetorial",
+    "a": "BOULOS, P., CAMARGO, I.",
+    "y": "2004",
+    "e": "3.a edição.",
+    "isbn": "9788587918918",
+    "d": "Nova edição de Geometria Analítica - Um Tratamento Vetorial confirma sua posição como um clássico das ciências exatas. Ampliado e completamente revisto pelos autores, o livro traz centenas de novos exemplos e exercícios, além de ilustrações totalmente refeitas. Possui novo layout que proporciona uma leitura mais agradável e facilita a compreensão e a localização de tópicos e exercícios, mas a estrutura didática bem-sucedida das edições anteriores foi cuidadosamente mantida. Escrita em linguagem clara e objetiva, este livro traz respostas para os exercícios e estratégias de solução, o que o torna um guia essencial para o estudo da Geometria."
+   },
+   {
+    "t": "Matrizes, vetores : Geometria analítica",
+    "a": "CAROLI, A., CALLIOLI, C.A, FEITOSA, M.O..",
+    "y": "1984",
+    "e": "17.a edição.",
+    "isbn": "9788521304067",
+    "d": "O presente trabalho destina-se principalmente aos alunos das Faculdades de Engenharia e Filosofia, e de outras Faculdades de cujo currículo constem cursos de Geometria Analítica e Cálculo Vetorial."
+   }
+  ],
+  "06_intro_calculus": [
+   {
+    "t": "Cálculo: Volume I",
+    "a": "STEWART, James.",
+    "y": "2021",
+    "e": "9.a edição.",
+    "isbn": "9786555584011",
+    "d": "Nesta 9ª edição, assim como em todas as anteriores, os autores mantêm a tradição de escrever um livro que auxilie os estudantes a descobrir o cálculo – tanto por sua utilidade prática, como por sua surpreendente beleza. O intuito é transmitir ao leitor uma ideia da utilidade do cálculo, assim como promover o desenvolvimento de sua habilidade técnica. Ao mesmo tempo, os autores empenharam-se em valorizar a beleza intrínseca do assunto. Não há dúvida de que Newton experimentou uma sensação de triunfo quando fez suas grandes descobertas. O objetivo desta obra é fazer que os estudantes compartilhem um pouco desse entusiasmo."
+   },
+   {
+    "t": "Um Curso de Cálculo - Vol. 1",
+    "a": "GUIDORIZZI, H.",
+    "y": "2018",
+    "e": "6.a edição.",
+    "isbn": "9788521635437",
+    "d": "Guidorizzi, o conteúdo integral para o seu diferencial! De Hamilton Luiz Guidorizzi, Um Curso de Cálculo apresenta recursos pedagógicos digitais que aprofundam e fixam a aprendizagem dos estudantes de Cálculo e auxiliam aulas de professores da disciplina. Este primeiro volume aborda temas como limite, derivada, integral de funções, entre outros. É indicado para alunos de graduação de Matemática, Engenharia e Ciências Exatas que cursam Cálculo Diferencial e Integral e disciplinas de Cálculo relacionadas"
+   },
+   {
+    "t": "Cálculo com Geometria Analítica",
+    "a": "SWOKOWSKI, E.",
+    "y": "1988",
+    "e": "2.a edição.",
+    "isbn": "‎9780074504116",
+    "d": "O objetivo desta obra é servir a todos os cursos superiores em qualquer nível. Foi projetado particularmente para o curso-padrão de três semestres para estudantes de Ciências, Engenharia ou Matemática. O pré-requisito requerido é Álgebra e Geometria do 2º grau."
+   }
+  ],
+  "07_intro_linear_algebra": [
+   {
+    "t": "Álgebra Linear",
+    "a": "BOLDRINI, José Luiz et al.",
+    "y": "1984",
+    "e": "3.a edição.",
+    "isbn": "9788529402024",
+    "d": "Visto que os alunos que cursam pela primeira vez esta disciplina freqüentemente a julgam muito abstrata e não vêem como podem utilizar os conceitos básicos, os autores do livro, experientes professores da UNICAMP, preocuparam-se em enfatizar o uso dos conceitos no decorrer de todo o texto. Por ser um curso introdutório, os pré-requisitos para a utilização deste livro são os tópicos de Matemática normalmente estudados no Ensino Médio."
+   },
+   {
+    "t": "Álgebra Linear",
+    "a": "LIPSCHUTZ, Seymour; LIPSON, Marc.",
+    "y": "2011",
+    "e": "4.a edição.",
+    "isbn": "9788577808335",
+    "d": "Este livro traz uma introdução à Álgebra Linear. Segue a didática da Coleção Schaum: cada capítulo inicia com definições, princípios e teoremas, e com material descritivo e ilustrativo, avança para um conjunto de exercícios graduais resolvidos e termina com problemas complementares para uma revisão completa. Inclui Apêndices com módulos e polinômios sobre um corpo, produtos tensorial e exterior de espaços vetoriais e ainda a inversa generalizada de Moore-Penrose."
+   },
+   {
+    "t": "Álgebra Linear",
+    "a": "LANG, S.",
+    "y": "2003",
+    "e": "1.a edição.",
+    "isbn": "‎9788573932539",
+    "d": "Àlgebra linear é direcionado a um curso de um único período ltivo em nível junior ou sênior. Inicia com uma exposição da teoria básica de espaços vetoriais e prossegue explicando os toremas fundamentais para aplicações lineares, incluindo autovetores e autovalores, formas hermitianas e quadráticas, diagonalização de matrizes e aplicações lineares unitárias, hermetianas e simátricas, triangulação e forma canônica de jordan. O livro inclui ainda um capitulo útil sobre conjuntos convexos e o teorema de dimensão finita de krein-milman. A apresentação é voltada ao estudante que já teve algum contato com a teoria elementar de matrizes, determinantes e aplicações lineares. Contudo, o livro é, obviamente, auto-suficiente. Nesta nova edição, vários trechos do livro foram reescritos, reorganizados e novos exercícios foram acrescentados."
+   }
+  ],
+  "08_data_structure": [
+   {
+    "t": "Algoritmos - Teoria e Prática",
+    "a": "CORMEN, T.; LEISERSON, C.; RIVEST, R.; STEIN, C.",
+    "y": "2024",
+    "e": "4.a edição.",
+    "isbn": "9788595159907",
+    "d": "Best-seller mundial sobre o tema, Algoritmos – Teoria e Prática chega à nova edição! Com o desenvolvimento tecnológico cada vez mais avançado, saber trabalhar com algoritmos tem se tornado um importante diferencial para estudantes e profissionais, isso porque, atualmente, os algoritmos são aplicáveis em diversas situações – nas áreas de tecnologia, engenharia, saúde, finanças, educação, entre outras –, das tarefas mais simples às mais complexas. Dessa forma, com sua didática e combinação única de rigor e abrangência, a proposta deste livro é tornar os algoritmos uma ferramenta acessível a leitores de todos os níveis de conhecimento. A obra combina teoria e prática para fornecer uma compreensão sólida dos princípios fundamentais dos algoritmos, ao mesmo tempo que fornece exemplos práticos e análises de complexidade. Além disso, abrange uma variedade de algoritmos, estruturas de dados e técnicas de design de algoritmos. Totalmente atualizada, esta quarta edição apresenta as seguintes novidades: Capítulos inéditos sobre correspondências em grafos bipartidos, algoritmos on-line e aprendizado de máquina (machine learning); Novo material sobre temas como resolução de equações de recorrência, tabelas de espalhamento (hash), funções potenciais e matrizes de sufixo; Dos quase 1.000 exercícios disponíveis, 140 são inéditos; e dos 162 problemas, 22 são novos; Notas e bibliografia atualiza"
+   },
+   {
+    "t": "Estruturas de Dados e Seus Algoritmos",
+    "a": "MARKENZON, L.; SZWARCFITER, J.",
+    "y": "2010",
+    "e": "3.a edição.",
+    "isbn": "9788521617501",
+    "d": "“Um algoritmo é um processo sistemático para a resolução de um problema.” Com essa frase clara e direta inicia-se este Estruturas de Dados e Seus Algoritmos, que chega à terceira edição com um texto expandido, revisado e acrescido de dois novos capítulos. O objetivo primeiro da dupla de autores, porém, permanece: de forma amigável, mostrar diferentes estruturas de dados, dando ênfase aos seus algoritmos de manipulação e a alguns de seus aspectos matemáticos. Tendo em vista que este livro destina-se não somente a cursos de graduação, mas também a profissionais da área de desenvolvimento de software, as estruturas de dados que aparecem aqui estão entre as mais empregadas atualmente. Os temas dos novos capítulos introduzidos são ordenação e listas de prioridades avançadas. O novo capítulo de listas de prioridades avançadas inclui o estudo de estruturas como os heaps binomiais e os heaps de Fibonacci, entre outros. As listas de prioridades descritas nesse novo capítulo requerem tratamento matemático um pouco mais avançado do que as tradicionais. Contudo, elas apresentam resultados bastante satisfatórios, razão pela qual foram selecionadas para inclusão no livro. Além disso, o conhecimento de tais estruturas é relevante no contexto de cursos de pós-graduação. Estrutura de Dados e Seus Algoritmos nasceu de notas de aulas ministradas em mais de trinta anos de docência dos autores, e é"
+   },
+   {
+    "t": "Algorithms",
+    "a": "SEDGEWICK, R.; WAYNE, K.",
+    "y": "2011",
+    "e": "4.a edição.",
+    "isbn": "9780321573513",
+    "d": "This fourth edition of Robert Sedgewick and Kevin Wayne’s Algorithms is the leading textbook on algorithms today and is widely used in colleges and universities worldwide. This book surveys the most important computer algorithms currently in use and provides a full treatment of data structures and algorithms for sorting, searching, graph processing, and string processing--including fifty algorithms every programmer should know. In this edition, new Java implementations are written in an accessible modular programming style, where all of the code is exposed to the reader and ready to use. The algorithms in this book represent a body of knowledge developed over the last 50 years that has become indispensable, not just for professional programmers and computer science students but for any student with interests in science, mathematics, and engineering, not to mention students who use computation in the liberal arts. The companion web site, algs4.cs.princeton.edu, contains An online synopsis Full Java implementations Test data Exercises and answers Dynamic visualizations Lecture slides Programming assignments with checklists Links to related material The MOOC related to this book is accessible via the \"Online Course\" link at algs4.cs.princeton.edu. The course offers more than 100 video lecture segments that are integrated with the text, extensive online assessments, and the large-s"
+   }
+  ],
+  "09_python": [
+   {
+    "t": "Programação Orientada a Objetos com Java: Uma Introdução Prática Usando o BlueJ",
+    "a": "KÖLLING, M.",
+    "y": "2008",
+    "e": "4.a edição.",
+    "isbn": "9788576051879",
+    "d": "Com uma abordagem baseada na apresentação e no aprofundamento contínuo dos conceitos, \"Programação orientada a objetos com Java\" permite a transição natural para a prática da programação com o uso do ambiente BlueJ. Assim, ao mesmo tempo em que apresenta os conceitos fundamentais aos programadores iniciantes e conduz seu avanço para a programação avançada, torna-se também um guia para programadores mais avançados que querem migrar para a orientação a objetos."
+   },
+   {
+    "t": "Python Fluente: Programação Clara, Concisa e Eficaz",
+    "a": "RAMALHO, L.",
+    "y": "2023",
+    "e": "2.a edição.",
+    "isbn": "9781492056355",
+    "d": "Disponível gratuitamente on-line em Português aqui A simplicidade de Python permite que você se torne produtivo rapidamente, porém isso muitas vezes significa que você não estará usando tudo que ela tem a oferecer. Com este guia prático, você aprenderá a escrever um código Python eficiente e idiomático aproveitando seus melhores recursos – alguns deles, pouco conhecidos. O autor Luciano Ramalho apresenta os recursos essenciais da linguagem e bibliotecas de Python mostrando como você pode tornar o seu código mais conciso, mais rápido e mais legível ao mesmo tempo. Muitos programadores experientes tentam dobrar o Python para que ele se enquadre em padrões aprendidos com outras linguagens e jamais descobrem os recursos do Python que estão além de sua experiência. Com este livro, esses programadores Python aprenderão a ser totalmente proficientes em Python 3."
+   },
+   {
+    "t": "Introduction to Computation and Programming Using Python, Third Edition: With Application to Computational Modeling and Understanding Data",
+    "a": "GUTTAG, J. V.",
+    "y": "2021",
+    "e": "3.a edição.",
+    "isbn": "9780262542364",
+    "d": "This book introduces students with little or no prior programming experience to the art of computational problem solving using Python and various Python libraries, including numpy, matplotlib, random, pandas, and sklearn. It provides students with skills that will enable them to make productive use of computational techniques, including some of the tools and techniques of data science for using computation to model and interpret data as well as substantial material on machine learning."
+   }
+  ],
+  "10_object_orientation": [
+   {
+    "t": "Java: como programar",
+    "a": "DEITEL, P; DEITEL, H.",
+    "y": "2016",
+    "e": "10.a edição.",
+    "isbn": "9788543004792",
+    "d": "Milhões de alunos e profissionais aprenderam programação e desenvolvimento de software com os livros Deitel®. Java: como programar, 10ª edição, fornece uma introdução clara, simples, envolvente e divertida à programação Java com ênfase inicial em objetos. Destaques incluem: rica cobertura dos fundamentos com exemplos reais; apresentação com ênfase inicial em classes e objetos; uso com Java™ SE 7, Java™ SE 8 ou ambos; Java™ SE 8 abordado em seções modulares opcionais; lambdas, fluxos e interfaces funcionais usando métodos padrão e estáticos do Java SE 8; Swing e GUI do JavaFX: elementos gráficos e multimídia; conjunto de exercícios ''Fazendo a diferença''; tratamento de exceções integrado; arquivos, fluxos e serialização de objetos; concorrência para melhor desempenho com multiprocessamento; o livro contém o conteúdo principal para cursos introdutórios; outros tópicos: recursão, pesquisa, classificação, coleções genéricas, estruturas de dados, multithreading, banco de dados (JDBC ™ e JPA)."
+   },
+   {
+    "t": "Princípios, Padrões e Práticas Ágeis em C#",
+    "a": "MARTIN, Robert C.",
+    "y": "2011",
+    "e": "1.a edição.",
+    "isbn": "9788577808410",
+    "d": "Destinado a programadores, gerentes de desenvolvimento de software e analistas de negócios, contém diversos estudos de caso que ilustram os fundamentos do desenvolvimento e do projeto ágil, e mostram a evolução de modelos UML em códigos C# reais. Esta obra fornece uma visão completa sobre os princípios ágeis e as práticas da Programação Extrema; o desenvolvimento baseado em testes; a refatoração com testes de unidade; a programação em pares; e muito mais."
+   }
+  ],
+  "11_graph_algorithms": [
+   {
+    "t": "Algoritmos - Teoria e Prática",
+    "a": "CORMEN, T.; LEISERSON, C.; RIVEST, R.; STEIN, C.",
+    "y": "2024",
+    "e": "4.a edição.",
+    "isbn": "9788595159907",
+    "d": "Best-seller mundial sobre o tema, Algoritmos – Teoria e Prática chega à nova edição! Com o desenvolvimento tecnológico cada vez mais avançado, saber trabalhar com algoritmos tem se tornado um importante diferencial para estudantes e profissionais, isso porque, atualmente, os algoritmos são aplicáveis em diversas situações – nas áreas de tecnologia, engenharia, saúde, finanças, educação, entre outras –, das tarefas mais simples às mais complexas. Dessa forma, com sua didática e combinação única de rigor e abrangência, a proposta deste livro é tornar os algoritmos uma ferramenta acessível a leitores de todos os níveis de conhecimento. A obra combina teoria e prática para fornecer uma compreensão sólida dos princípios fundamentais dos algoritmos, ao mesmo tempo que fornece exemplos práticos e análises de complexidade. Além disso, abrange uma variedade de algoritmos, estruturas de dados e técnicas de design de algoritmos. Totalmente atualizada, esta quarta edição apresenta as seguintes novidades: Capítulos inéditos sobre correspondências em grafos bipartidos, algoritmos on-line e aprendizado de máquina (machine learning); Novo material sobre temas como resolução de equações de recorrência, tabelas de espalhamento (hash), funções potenciais e matrizes de sufixo; Dos quase 1.000 exercícios disponíveis, 140 são inéditos; e dos 162 problemas, 22 são novos; Notas e bibliografia atualiza"
+   },
+   {
+    "t": "Algoritmos",
+    "a": "DASGUPTA, S.; PAPADIMITRIOU, C.; VAZIRANI, U.",
+    "y": "2010",
+    "e": "1.a edição.",
+    "isbn": "9788577260324",
+    "d": "Extensivamente testado por cerca de uma década em cursos universitários, e adaptado às necessidades dos estudantes, Algoritmos explica os fundamentos de algoritmos em uma linha histórical, de fácil leitura e assimilação. A ênfase está na compreensão da idéia matemática por trás de cada algoritmo, de uma forma intuitiva, rigorosa, sem ser formal."
+   },
+   {
+    "t": "Grafos: Conceitos, algoritmos e aplicações",
+    "a": "GOLDBARG, E.; GOLDBARG, M.",
+    "y": "2012",
+    "e": "1.a edição.",
+    "isbn": "9788535257168",
+    "d": "Este livro busca auxiliar o ensino e o estudo de grafos e algoritmos, especialmente visando equilibrar três focos de ensino: Conceitos básicos, o estudo de algoritmos em grafos e o desenvolvimento de aplicações reais. O texto pretende suportar principalmente o ensino de ciência da computação, das engenharias e de outras áreas em que a modelagem via grafos pode ser bastante útil como administração, economia, ciências contábeis etc.Visando os alunos de graduação, são propostos exemplos, ilustrações e mais de quatrocentos exercícios, dos quais cerca de cem são solucionados. Atendendo aos alunos com interesses pesquisa, são relatadas, em temas específicos, diversas revisões sumárias da literatura de forma a disponibilizar citações bibliográficas para um eventual aprofundamento nos temas abordados."
+   }
+  ],
+  "12_computer_architecture": [
+   {
+    "t": "Arquitetura e Organização de Computadores",
+    "a": "W. Stallings",
+    "y": "2024",
+    "e": "11.a edição.",
+    "isbn": "9788582606360",
+    "d": "Desde a última edição deste livro, a área de arquitetura e organização de computadores passou por inovações e melhorias contínuas. Esta nova edição dedica-se a capturar esse movimento sem perder a visão da área como um todo.Apesar da variedade e do ritmo de mudança no campo da computação, certos conceitos fundamentais se aplicam a toda a área de modo consistente. A aplicação desses conceitos depende do estado atual da tecnologia e dos objetivos de preço/desempenho do projetista. Esta nova edição discute de modo aprofundado os fundamentos da arquitetura e organização de computadores, relacionando-os a questões de projeto contemporâneas.Sempre foi importante projetar sistemas computacionais para que alcancem alto desempenho, mas nunca esse requisito foi tão relevante ou difícil de satisfazer quanto hoje. Arquitetura e organização de computadores auxiliará acadêmicos e profissionais na busca pelos melhores resultados."
+   },
+   {
+    "t": "Organização e Projeto de Computadores: a Interface Hardware/Software",
+    "a": "D. Patterson; J. Hennessy.",
+    "y": "2017",
+    "e": "5.a edição.",
+    "isbn": "9788535287936",
+    "d": "A quinta edição da Organização de Computadores traz novos exemplos, exercícios e materiais destacando o surgimento da computação móvel e a nuvem. Esta mudança geracional é enfatizada e explorou com computadores conteúdo atualizado caracterizam tablet, infra-estrutura de nuvem, ea (computação em nuvem) arquiteturas ARM (dispositivos de computação móvel) e x86. A compreensão de hardware moderno é essencial para alcançar um bom desempenho e eficiência energética, esta edição inclui um novo exemplo concreto indo mais rápido, usado em todo o texto para demonstrar técnicas de otimização extremamente eficazes. Outra novidade para esta edição é a discussão dos Oito Grandes Ideias de arquitetura de computadores. Como nas edições anteriores, um processador MIPS é o núcleo usado para apresentar os fundamentos de tecnologias de hardware, a linguagem assembly, aritméticas computador, canalização, hierarquias de memória e I/O."
+   },
+   {
+    "t": "Organização Estruturada de Computadores",
+    "a": "A. S. Tanenbaum.",
+    "y": "2013",
+    "e": "6.a edição.",
+    "isbn": "9788581435398",
+    "d": "Esta sexta edição traz o que há de mais moderno em termos de organização estruturada de computadores, apresentando as terminologias, tecnologias e tendências mais recentes em organização e arquitetura de computadores. Com novos exemplos e discussões sobre x86, microcontroladores AVR e arquitetura ARM, \"\"Organização estruturada de computadores\"\" é uma obra indispensável para estudantes de ciência da computação, engenharia da computação, análise e desenvolvimento de sistemas e sistemas de informação, bem como para profissionais da área."
+   }
+  ],
+  "13_statistics_probability": [
+   {
+    "t": "Estatística Aplicada e Probabilidade para Engenheiros",
+    "a": "MONTGOMERY, Douglas C.; RUNGER, George C.",
+    "y": "2021",
+    "e": "7.a edição.",
+    "isbn": "9788521637332",
+    "d": "Escrita pelos renomados professores Douglas C. Montgomery e George C. Runger, esta sétima edição de Estatística Aplicada e Probabilidade para Engenheiros inclui o conteúdo essencial da disciplina, comum às diversas habilitações em Engenharia. Os autores tiveram como premissa realizar uma ampla pesquisa junto a professores para que que o livro englobasse a teoria necessária para atender às demandas de sala de aula. Com isso, houve a inclusão da técnica bootstrap, além dos métodos descritivos e analíticos, necessários para quem lida com a variabilidade na observação de dados.Esta sétima edição inclui exercícios inéditos, criados a partir de situações reais e cotidianas dos engenheiros, que estão disponíveis online, bem como novos capítulos, exemplos, gráficos, interpretações práticas e métodos computacionais intensivos.Como destaque, no início de todos os capítulos, Montgomery e Runger criaram o tópico “Objetivos da aprendizagem”, explicando ao leitor o que ele deve esperar do capítulo e o que ele estará apto a compreender e realizar ao fi nal do estudo. Embora a matemática seja fundamental em Estatística e Probabilidade, os autores não pretendem apenas fornecer a teoria, mas ampliar a metodologia e mostrar como aplicá-la."
+   },
+   {
+    "t": "Estatística Básica",
+    "a": "MORETTIN, Pedro Alberto; BUSSAB, Wilton de Oliveira.",
+    "y": "2024",
+    "e": "10.a edição.",
+    "isbn": "9786587958491",
+    "d": "Livro mais vendido da área, a 10ª edição de Estatística Básica confirma seu grande sucesso com extenso trabalho de revisão, atualização e ampliação, que contou com sugestões enriquecedoras de professores e leitores. Novidades desta edição: Novo capítulo sobre diversos tópicos de séries temporais. Introdução à regressão linear múltipla no Capítulo 16. Modificações pontuais ao decorrer da obra.O livro é dividido em três partes. A primeira trata da análise de dados unidimensionais e bidimensionais, com atenção especial para métodos gráficos. A segunda parte traz os conceitos básicos de probabilidades e variáveis aleatórias. Por fim, a terceira parte estuda os tópicos principais da inferência estatística, além de alguns temas especiais, como modelos de regressão.Completo e didático, Estatística Básica é o livro mais adequado para alunos e profissionais de diversas áreas do conhecimento e se destaca por ser a única obra com uma seção em todos os capítulos que ensina a aplicar a teoria por meio dos pacotes computacionais Minitab®, Excel®, Splus® e pacotes do Repositório livre R®.No final do livro, os autores disponibilizam vários conjuntos de dados para download na plataforma Saraiva Conecta."
+   },
+   {
+    "t": "Introdução à Estatística",
+    "a": "TRIOLA, Mario F.",
+    "y": "2017",
+    "e": "12.a edição.",
+    "isbn": "9788521633747",
+    "d": "A nova e atualizada edição de Introdução à Estatística tem o objetivo de fornecer o melhor e mais amplo conteúdo para o ensino e a aprendizagem do tema. Obra clássica na área, traz desde aspectos conceituais até exercícios práticos, incluindo dicas de métodos de procura de emprego e de como evitar equívocos na elaboraçãode currículos.Cada capítulo começa com uma lista das seções que o compõem - incluindo uma breve revisão do conteúdo apresentado no capítulo anterior - e um problema proposto. Ao final, há uma revisão e um teste rápido sobre os temas abordados, além de exercícios e propostas de atividades."
+   }
+  ],
+  "14_advanced_calculus": [
+   {
+    "t": "Cálculo: Volume II",
+    "a": "STEWART, James.",
+    "y": "2022",
+    "e": "9.a edição.",
+    "isbn": "9786555584028",
+    "d": "Nesta 9ª edição, assim como em todas as anteriores, os autores mantêm a tradição de escrever um livro que auxilie os estudantes a descobrir o cálculo – tanto por sua utilidade prática, como por sua surpreendente beleza. O intuito é transmitir ao leitor uma ideia da utilidade do cálculo, assim como promover o desenvolvimento de sua habilidade técnica. Ao mesmo tempo, os autores empenharam-se em valorizar a beleza intrínseca do assunto. Não há dúvida de que Newton experimentou uma sensação de triunfo quando fez suas grandes descobertas. O objetivo desta obra é fazer que os estudantes compartilhem um pouco desse entusiasmo."
+   },
+   {
+    "t": "Um Curso de Cálculo - Vol. 2",
+    "a": "GUIDORIZZI, H.",
+    "y": "2018",
+    "e": "6.a edição.",
+    "isbn": "9788521635444",
+    "d": "Guidorizzi, o conteúdo integral para o seu diferencial! De Hamilton Luiz Guidorizzi, Um Curso de Cálculo apresenta recursos pedagógicos digitais que aprofundam e fixam a aprendizagem dos estudantes de Cálculo e auxiliam aulas de professores da disciplina. Este primeiro volume aborda temas como limite, derivada, integral de funções, entre outros. É indicado para alunos de graduação de Matemática, Engenharia e Ciências Exatas que cursam Cálculo Diferencial e Integral e disciplinas de Cálculo relacionadas"
+   }
+  ],
+  "15_haskell": [
+   {
+    "t": "Aprender Haskell será um Grande Bem para Você",
+    "a": "Miran Lipovača",
+    "y": "2011",
+    "e": "1.a edição.",
+    "isbn": "9781593272838",
+    "d": "Bem-vindo ao Aprender Haskell será um grande bem para você! Se você já está lendo isto, existem boas chances de você querer aprender Haskell. Muito bem, você já esta no lugar certo, mas antes vamos conversar um pouco sobre este tutorial. Este tutorial é destinado a pessoas que tenham experiência em linguagens de programação imperativa (C, C++, Java, Python …) sem terem programado antes em uma linguagem funcional (Haskell, ML, OCaml …). Apesar de que eu aposto que se você não tiver uma larga experiência em programação, um rápido capítulo como o que você irá acompanhar vai habilitá-lo a aprender Haskell."
+   },
+   {
+    "t": "An Introduction to Functional Programming Through Lambda Calculus",
+    "a": "MICHAELSON, Greg.",
+    "y": "2011",
+    "e": "9.a edição.",
+    "isbn": "9780486478838",
+    "d": "Functional programming is rooted in lambda calculus, which constitutes the world's smallest programming language. This well-respected text offers an accessible introduction to functional programming concepts and techniques for students of mathematics and computer science. The treatment is as nontechnical as possible, and it assumes no prior knowledge of mathematics or functional programming. Cogent examples illuminate the central ideas, and numerous exercises appear throughout the text, offering reinforcement of key concepts. All problems feature complete solutions."
+   },
+   {
+    "t": "Structure and Interpretation of Computer Programs",
+    "a": "Harold Abelson, Gerald Jay Sussman.",
+    "y": "1996",
+    "e": "2.a edição.",
+    "isbn": "9780262510875",
+    "d": "Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past decade. This long-awaited revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect their experience teaching the course at MIT since the first edition was published. A new theme has been introduced that emphasizes the central role played by different approaches to dealing with time in computational models: objects with state, concurrent programming, functional programming and lazy evaluation, and nondeterministic programming. There are new example sections on higher-order procedures in graphics and on applications of stream processing in numerical programming, and many new exercises. In addition, all the programs have been reworked to run in any Scheme implementation that adheres to the IEEE standard."
+   }
+  ],
+  "16_analysis_of_algorithms": [
+   {
+    "t": "Algoritmos",
+    "a": "DASGUPTA, S.; PAPADIMITRIOU, C.; VAZIRANI, U.",
+    "y": "2010",
+    "e": "1.a edição.",
+    "isbn": "9788577260324",
+    "d": "Extensivamente testado por cerca de uma década em cursos universitários, e adaptado às necessidades dos estudantes, Algoritmos explica os fundamentos de algoritmos em uma linha histórical, de fácil leitura e assimilação. A ênfase está na compreensão da idéia matemática por trás de cada algoritmo, de uma forma intuitiva, rigorosa, sem ser formal."
+   },
+   {
+    "t": "Algoritmos - Teoria e Prática",
+    "a": "CORMEN, T.; LEISERSON, C.; RIVEST, R.; STEIN, C.",
+    "y": "2024",
+    "e": "4.a edição.",
+    "isbn": "9788595159907",
+    "d": "Best-seller mundial sobre o tema, Algoritmos – Teoria e Prática chega à nova edição! Com o desenvolvimento tecnológico cada vez mais avançado, saber trabalhar com algoritmos tem se tornado um importante diferencial para estudantes e profissionais, isso porque, atualmente, os algoritmos são aplicáveis em diversas situações – nas áreas de tecnologia, engenharia, saúde, finanças, educação, entre outras –, das tarefas mais simples às mais complexas. Dessa forma, com sua didática e combinação única de rigor e abrangência, a proposta deste livro é tornar os algoritmos uma ferramenta acessível a leitores de todos os níveis de conhecimento. A obra combina teoria e prática para fornecer uma compreensão sólida dos princípios fundamentais dos algoritmos, ao mesmo tempo que fornece exemplos práticos e análises de complexidade. Além disso, abrange uma variedade de algoritmos, estruturas de dados e técnicas de design de algoritmos. Totalmente atualizada, esta quarta edição apresenta as seguintes novidades: Capítulos inéditos sobre correspondências em grafos bipartidos, algoritmos on-line e aprendizado de máquina (machine learning); Novo material sobre temas como resolução de equações de recorrência, tabelas de espalhamento (hash), funções potenciais e matrizes de sufixo; Dos quase 1.000 exercícios disponíveis, 140 são inéditos; e dos 162 problemas, 22 são novos; Notas e bibliografia atualiza"
+   },
+   {
+    "t": "Como Pensar Sobre Algoritmos",
+    "a": "Jeff Edmonds",
+    "y": "2010",
+    "e": "1.a edição.",
+    "isbn": "9788521617310",
+    "d": "O objetivo nesta obra não é apresentar o pacote completo, bem embrulhadinho e limpo, mas percorrer vagarosamente e com profundidade cada etapa do desenvolvimento dos algoritmos. Foram adicionados muitos inícios falsos, na esperança de que isso ajudará os estudantes a desenvolverem algoritmos por conta própria. As pessoas que desenvolvem algoritmos têm diferentes maneiras de pensar, além de uma intuição que, de modo geral, não é ensinada. A premissa básica de Como Pensar sobre Algoritmos é que isso não pode ser ensinado, mas tem que ser descoberto individualmente. Este livro tenta ensinar os estudantes a pensar como quem projeta algoritmos. Jeff Edmonds escreveu um livro divertido, organizado em blocos, cada um contendo um título e um único pensamento. O autor concentra-se na estrutura e na demonstração de correção de meta-algoritmos iterativos e recursivos e, dentro desses, de meta-algoritmos gulosos e de programação dinâmica. Ao aprender esses e suas demonstrações de correção, pode-se compreender facilmente a maioria dos algoritmos. O desafio é que pensar sobre meta-algoritmos exige bastante abstração. São apresentados analogias, paradigmas e diferentes notações, dentro dos quais é possível desenvolver e pensar sobre algoritmos."
+   }
+  ],
+  "17_numeric_methods": [
+   {
+    "t": "Métodos Numéricos para Engenharia",
+    "a": "Steven C. Chapra (Autor) e Raymond P. Canale",
+    "y": "2016",
+    "e": "7.a edição.",
+    "isbn": "9788580555684",
+    "d": "Escrito por autores renomados, Métodos Numéricos para Engenharia apresenta uma extensa gama de métodos numéricos, como o tratamento de otimização e de equações diferenciais. Com explicações simples e voltadas para a prática, conta com exemplos, estudos de caso e problemas elaborados de acordo com a prática da engenharia, incluindo áreas emergentes como bioengenharia.Esta edição mantém seu foco no uso apropridado de ferramentas computacionais, trazendo discussões meticulosas sobre seus alicerces matemáticos. Também fornece pseudocódigos para os algoritmos dos métodos numéricos e uma visão geral de pacotes de software populares, como MATLAB, Excel e MathCAD.Ganhador do prêmio de melhor livro-texto da American Society for Engineering Education, este é um recurso indispensável para os cursos de Engenharia e outros da área de Ciências Exatas, como Química, Física, Matemática e Computação."
+   },
+   {
+    "t": "Cálculo Numérico",
+    "a": "Décio Sperandio, João Teixeira Mendes e Luiz Henry Monken",
+    "y": "2014",
+    "e": "2.a edição.",
+    "isbn": "9788543006536",
+    "d": "Com os atuais recursos computacionais, os métodos numéricos tornaram-se imprescindíveis na formação de cientistas e engenheiros. Atendendo a essa necessidade, Cálculo numérico apresenta os procedimentos matemáticos mais importantes para a análise de complexos modelos matemáticos, provenientes das mais variadas áreas de conhecimento. Na obra, os assuntos são descritos de maneira a terem sempre uma clara base matemática. A disposição dos tópicos facilita um entendimento crescente das abordagens mais frequentes em problemas numéricos, e muitos exemplos resolvidos passo a passo auxiliam o aprendizado dos esquemas numéricos. Para completar, exercícios ao final de cada capítulo permitem ao leitor testar seus conhecimentos e explorar o conteúdo teórico desenvolvido."
+   },
+   {
+    "t": "Cálculo Numérico: Aspectos Teóricos e Computacionais",
+    "a": "Ruggiero, M.A.G. e Lopes, V.L.R.",
+    "y": "2000",
+    "e": "2.a edição.",
+    "isbn": "9788534602044",
+    "d": "O objetivo principal do texto é a apresentação de métodos numéricos com sua fundamentação teórica, suas vantagens e dificuldades computacionais. Em todos os capítulos - lista de exercícios, com respostas no apêndice. Na maioria dos capítulos, proposta de projetos."
+   }
+  ],
+  "18_database": [
+   {
+    "t": "Sistema de Banco de Dados",
+    "a": "Silberschatz, A., Korth, H., Sudarshan, S.",
+    "y": "2020",
+    "e": "7.a edição.",
+    "isbn": "9788595157330",
+    "d": "Tudo sobre sistema de banco de dados: dos fundamentos aos novos conceitos. Com questões práticas e teóricas, este livro apresenta aplicação, gerenciamento e implementação de banco de dados e inclui os assuntos recentes da área, como Big Data e blockchain. Como diferencial, Sistema de Banco de Dados apresenta conceitos e algoritmos em um ambiente geral, não ligados a um sistema de dados específico, o que flexibiliza a aplicação da teoria a cenários diversos. Além disso, oferece variedade de exercícios em diferentes níveis de complexidade e ferramentas de suporte ao aprendizado.Esta edição de Sistema de Banco de Dados é necessária porque traz:Extensa cobertura dos sistemas Big Data, do ponto de vista do usuário, além de uma perspectiva interna;Atualizações (em todos os capítulos) sobre aspectos internos do banco de dados, para refletir a tecnologia de última geração, como discos em estado sólido (SSD), bancos de dados na memória principal, sistemas de múltiplos núcleos e bancos de dados paralelos e distribuídos;Cobertura avançada do gerenciamento de dados semiestruturados usando JSON, RDF e SPARQL;Cobertura atualizada de dados temporais, análise de dados e técnicas de indexação avançadas, como índices otimizados para escrita;Reorganização e atualização dos capítulos para dar melhor suporte aos cursos, com um componente prático significativo, incluindo o uso de ferramentas de últi"
+   },
+   {
+    "t": "Sistemas de Banco de Dados",
+    "a": "Elsmari, R., Navathe, Shamkant B.",
+    "y": "2019",
+    "e": "7.a edição.",
+    "isbn": "9788543025001",
+    "d": "Sistemas de banco de dados apresenta de forma profunda e atualizada os aspectos mais importantes dos sistemas e aplicações de banco de dados, bem como das tecnologias relacionadas. Esta obra de referência introduz os conceitos fundamentais necessários para projetar, usar e implementar sistemas de banco de dados, enfatizando fundamentos de modelagem, projeto, linguagens e modelos fornecidos pelos sistemas de gerenciamento e técnicas de implementação. Nesta edição, foram introduzidos capítulos novos sobre os avanços recentes em sistemas de banco de dados e processamento Big Data, introdução a bancos de dados NOSQL e tecnologias para processamento de big data. Além disso, foram incluídos novos exemplos e o conteúdo sobre processamento e otimização de consulta e suas técnicas, estratégias e algoritmos para processamento foi expandido, e foram acrescentadas novas construções SQL. Com conteúdo atualizado, esta obra é ideal para estudantes de análise de redes, análise de sistemas processamento de dados e engenharia da computação que queiram dominar o assunto e destacar-se na área."
+   },
+   {
+    "t": "Sistemas de Gerenciamento de Bancos de Dados",
+    "a": "Ramakrishnan, R.",
+    "y": "2008",
+    "e": "3.a edição.",
+    "isbn": "9788577260270",
+    "d": "Este livro apresenta uma abordagem clara e atualizada dos fundamentos dos sistemas de banco de dados. Os professores podem optar por dar ênfase a aplicações de bancos de dados ou a sistemas. O livro traz muitos exemplos e aplicações, incluindo SQL e Oracle, e aplicações para a Internet. Além disso, são introduzidos padrões atuais, como JDBC e XML, e desenvolvimento de aplicações em três camadas."
+   }
+  ],
+  "19_computer_architecture_II": [
+   {
+    "t": "Arquitetura e Organização de Computadores",
+    "a": "W. Stallings",
+    "y": "2024",
+    "e": "11.a edição.",
+    "isbn": "9788582606360",
+    "d": "Desde a última edição deste livro, a área de arquitetura e organização de computadores passou por inovações e melhorias contínuas. Esta nova edição dedica-se a capturar esse movimento sem perder a visão da área como um todo.Apesar da variedade e do ritmo de mudança no campo da computação, certos conceitos fundamentais se aplicam a toda a área de modo consistente. A aplicação desses conceitos depende do estado atual da tecnologia e dos objetivos de preço/desempenho do projetista. Esta nova edição discute de modo aprofundado os fundamentos da arquitetura e organização de computadores, relacionando-os a questões de projeto contemporâneas.Sempre foi importante projetar sistemas computacionais para que alcancem alto desempenho, mas nunca esse requisito foi tão relevante ou difícil de satisfazer quanto hoje. Arquitetura e organização de computadores auxiliará acadêmicos e profissionais na busca pelos melhores resultados."
+   },
+   {
+    "t": "Organização e Projeto de Computadores: a Interface Hardware/Software",
+    "a": "D. Patterson; J. Hennessy.",
+    "y": "2017",
+    "e": "5.a edição.",
+    "isbn": "9788535287936",
+    "d": "A quinta edição da Organização de Computadores traz novos exemplos, exercícios e materiais destacando o surgimento da computação móvel e a nuvem. Esta mudança geracional é enfatizada e explorou com computadores conteúdo atualizado caracterizam tablet, infra-estrutura de nuvem, ea (computação em nuvem) arquiteturas ARM (dispositivos de computação móvel) e x86. A compreensão de hardware moderno é essencial para alcançar um bom desempenho e eficiência energética, esta edição inclui um novo exemplo concreto indo mais rápido, usado em todo o texto para demonstrar técnicas de otimização extremamente eficazes. Outra novidade para esta edição é a discussão dos Oito Grandes Ideias de arquitetura de computadores. Como nas edições anteriores, um processador MIPS é o núcleo usado para apresentar os fundamentos de tecnologias de hardware, a linguagem assembly, aritméticas computador, canalização, hierarquias de memória e I/O."
+   },
+   {
+    "t": "Organização Estruturada de Computadores",
+    "a": "A. S. Tanenbaum.",
+    "y": "2013",
+    "e": "6.a edição.",
+    "isbn": "9788581435398",
+    "d": "Esta sexta edição traz o que há de mais moderno em termos de organização estruturada de computadores, apresentando as terminologias, tecnologias e tendências mais recentes em organização e arquitetura de computadores. Com novos exemplos e discussões sobre x86, microcontroladores AVR e arquitetura ARM, \"\"Organização estruturada de computadores\"\" é uma obra indispensável para estudantes de ciência da computação, engenharia da computação, análise e desenvolvimento de sistemas e sistemas de informação, bem como para profissionais da área."
+   }
+  ],
+  "20_logical_programming": [
+   {
+    "t": "Aprenda PROLOG Já!",
+    "a": "BLACKBURN, P; BOSS, J; STRIEGNITZ, K.",
+    "y": "2014",
+    "e": "1.a edição.",
+    "isbn": "9781848901551",
+    "d": "A Série Apontamentos tem por objetivo explorar preferencialmente textos de apoio didático a cursos de graduação ou pós-graduação. Sinopse Apresenta a linguagem de programação lógica Prolog, adequada para resolver problemas que envolvem objetos e relações entre objetos. Apresenta e discute um vasto conjunto de predicados Prolog para o tratamento de listas, árvores e grafos."
+   },
+   {
+    "t": "A cartilha PROLOG",
+    "a": "Maria do Carmo Nicoletti",
+    "y": "2021",
+    "e": "1.a edição.",
+    "isbn": "9788576000112",
+    "d": "A Série Apontamentos tem por objetivo explorar preferencialmente textos de apoio didático a cursos de graduação ou pós-graduação. Sinopse Apresenta a linguagem de programação lógica Prolog, adequada para resolver problemas que envolvem objetos e relações entre objetos. Apresenta e discute um vasto conjunto de predicados Prolog para o tratamento de listas, árvores e grafos."
+   }
+  ],
+  "21_computer_network": [
+   {
+    "t": "Redes de Computadores e a Internet: Uma Abordagem Top-Down",
+    "a": "KUROSE, J. F.; ROSS, K. W.",
+    "y": "2021",
+    "e": "8.a edição.",
+    "isbn": "9788582605585",
+    "d": "Seguindo o sucesso da abordagem top-down de suas edições anteriores, \"Redes de computadores e a Internet\" tem como foco camadas de aplicação e interfaces de programação, propondo ao leitor uma experiência prática com os conceitos de protocolo e redes de computadores antes de trabalhar com mecanismos de transmissão de informação das camadas inferiores das pilhas de protocolos."
+   },
+   {
+    "t": "Redes de Computadores",
+    "a": "TANENBAUM, A. S.",
+    "y": "2021",
+    "e": "6.a edição.",
+    "isbn": "9788582605608",
+    "d": "Nesta que é a bíblia de redes de computadores, Tanenbaum, Feamster & Wetherall explicam o funcionamento das redes de dentro para fora. Isto é, começam com a camada física das redes, dos computadores e dos sistemas de transmissão e vão até às aplicações. Os capítulos apresentam os conceitos-chave e são ilustrados por exemplos de redes reais: Internet, redes sem fio, incluindo LANs sem fio; banda larga sem fio e Bluetooth. Esta 6ª edição de Redes de computadores traz muitas mudanças. Todos os capítulos foram atualizados e o Capítulo 8, que trata de segurança, foi completamente reformulado, priorizando a segurança de redes."
+   }
+  ],
+  "22_software_engineering": [
+   {
+    "t": "Engenharia de Software",
+    "a": "SOMMERVILLE, I.",
+    "y": "2019",
+    "e": "10.a edição.",
+    "isbn": "9788543024974",
+    "d": "A 10ª edição de Engenharia de software foi extensivamente atualizada para refletir a adoção crescente de métodos ágeis na engenharia de software. Um dos destaques da nova edição é o acréscimo de conteúdo sobre a metodologia do Scrum. A divisão em quatro partes do livro foi significativamente reformulada para acomodar novos capítulos sobre engenharia de resiliência, engenharia de sistemas e sistemas de sistemas. Além disso, capítulos sobre tópicos como confiança, segurança e proteção foram completamente reorganizados.Todas essas mudanças se justificam por compreenderem questões essenciais para a engenharia de software moderna ― gerenciamento da complexidade, integração da agilidade a outros métodos e garantia de que os sistemas sejam seguros e resilientes. Obra de referência para estudantes de ciência da computação, engenharia da computação e sistemas de informação, e para qualquer profissional que deseje atualizar seus conhecimentos sobre reúso de software, arquitetura de projetos, confiabilidade e segurança e engenharia de sistemas."
+   },
+   {
+    "t": "Engenharia de Software: Uma abordagem profissional",
+    "a": "PRESSMAN, Roger S..",
+    "y": "2021",
+    "e": "9.a edição.",
+    "isbn": "9786558040101",
+    "d": "A nova edição do livro-texto líder de mercado em engenharia de software traz uma série de novidades. O livro foi totalmente revisado e reestruturado para melhorar seu fluxo pedagógico.Traz novos e importantes processos e práticas da área, dentre eles o uso de inteligência artificial e machine learning para garantir velocidade e qualidade nas entregas. O autor enfatiza aspectos de qualidade de software, principalmente no uso de métodos ágeis. Segurança é outro item que ganhou destaque."
+   },
+   {
+    "t": "Engenharia de Software - Produtos - Vol.1 e 2",
+    "a": "PÁDUA FILHO, W.",
+    "y": "2019",
+    "e": "4.a edição.",
+    "isbn": "9788521636687 e 9788521636694",
+    "d": "Referência para cursos de Computação e afins. De Wilson de Pádua Paula Filho, o livro Engenharia de Software – Produtos é uma ferramenta para estudantes e profissionais por apresentar conteúdos relevantes sobre a manutenção e desenvolvimento de software. Agora em dois volumes, esta primeira parte está ligada à área de Produtos e traz uma introdução ao assunto, mantendo um perfil mais técnico. Concentra capítulos de embasamento, apresentando temas como UML básica, requisitos, análise, desenho, testes e implementação, além dos padrões mais relevantes e detalhados dos métodos técnicos do processo Praxis “clássico” (SPraxis) e da respectiva versão “ágil” (XPraxis). O tratamento tem por base a tecnologia orientada a objetos. Sua notação de análise e desenho é a UML 2.0 e os padrões seguem os estabelecidos pela Engenharia de Software do Instituto de Engenheiros Eletricistas e Eletrônicos (IEEE), acompanhando todas as atualizações realizadas. Com material suplementar para professores, Engenharia de Software abrange tópicos requeridos por cursos de graduação diversos, como Informática, Engenharia da Computação, Ciência da Computação, Análise de Sistemas, Processamento de Dados, entre outros. Por que ler Engenharia de Software? Os sistemas informatizados têm enorme potencial de trazer benefícios, bem como prejuízos quando elaborados de maneira errada. Uma vez que o software é a alma dos"
+   }
+  ],
+  "23_operating_system": [
+   {
+    "t": "Sistemas Operacionais Modernos",
+    "a": "Tanenbaum, Andrew S.",
+    "y": "2024",
+    "e": "5.a edição.",
+    "isbn": "9788582606162",
+    "d": "Esta nova edição aborda os mais recentes desenvolvimentos em tecnologias de sistemas operacionais. Os estudos de caso exploram sistemas operacionais populares, sempre contextualizados à nossa realidade.De forma clara e divertida, os autores descrevem os conceitos que designers de sistema operacional precisam dominar, tais como processos, threads, gerenciamento de memória, sistemas de arquivos, E/S (entrada/saída), impasses, design de interface, multimídia, compensações de desempenho e tendências em design de sistema operacional. Vale destacar, ainda, um novo capítulo, sobre o Windows 11, a atualização do capítulo sobre segurança, com mais foco em tópicos que são diretamente relevantes aos sistemas operacionais e a ênfase dos solid state drives (SSDs) baseados em memória flash."
+   },
+   {
+    "t": "Fundamentos de Sistemas Operacionais",
+    "a": "Abraham Silberschatz",
+    "y": "2015",
+    "e": "9.a edição.",
+    "isbn": "9788521629399",
+    "d": "Fundamentos de Sistemas Operacionais, já em sua 9a edição, está dividido em 20 capítulos, compostos por registros de experiências vivenciadas pelos autores em um universo em transformação constante. Neste livro, é possível ter uma abordagem aprofundada de assuntos como os sistemas móveis e a computação em nuvem.O sucesso da obra acontece já em sua concepção, quando os autores entendem que os sistemas operacionais são parte essencial de qualquer sistema de computação. Assim, o conteúdo foi pensado para oferecer uma ampla base teórica a estudantes e profissionais da área.O fato de os autores trabalharem detalhadamente com Linux e Windows – sistemas nos quais parte dos usuários ainda tem muitas dúvidas –, torna a obra ainda mais peculiar, única e interessante. Ela também faz uma análise apurada dos sistemas utilizados em smartphones, que são o grande destaque do momento no setor.Os conteúdos são abordados de maneira singular. Além da conceituação concreta, ainda há dezenas de exercícios e mais 20 novos problemas e projetos de programação. Quem deseja ampliar os conhecimentos nessa área irá encontrar em Fundamentos de Sistemas Operacionais uma excelente ferramenta."
+   },
+   {
+    "t": "Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE",
+    "a": "Machado, Francis Berenger; Maia, Luiz Paulo.",
+    "y": "2013",
+    "e": "5.a edição.",
+    "isbn": "9788521622109",
+    "d": "O estudo de sistemas operacionais ganha importância à medida que diversos profissionais da área de computação necessitam deste conhecimento para exercer suas atividades, como administradores de sistemas, programadores de aplicações concorrentes e gerentes de segurança. Outro fator importante é o relacionamento dos sistemas operacionais nas redes de comunicação de dados, o que faz seu estudo necessário para os administradores de rede. Arquitetura de Sistemas Operacionais aborda a arquitetura e funcionamento dos sistemas operacionais multiprogramáveis, de forma atual, abrangente e didática. Seu conteúdo é direcionado a estudantes e a profissionais de informática de todas as áreas. Como pré-requisito básico para sua leitura, é necessário apena s algum conhecimento de organização de computadores e estrutura de dados. Sempre que for necessário o uso de programas será utilizada a linguagem de programação Pascal, por sua clareza e fluência no meio acadêmico, assim como a linguagem Java, por sua ampla aceitação no mercado."
+   }
+  ],
+  "24_math_optimization": [
+   {
+    "t": "Introdução à Pesquisa Operacional",
+    "a": "HILLIER, F.S.; LIEBERMAN, G.J.",
+    "y": "2013",
+    "e": "9.a edição.",
+    "isbn": "9788580551181",
+    "d": "Por mais de quatro décadas, Introdução à Pesquisa Operacional tem sido um clássico na investigação de operações. Com os fundamentos mais atuais da área e maior cobertura de aplicativos de negócios, essa nova edição mantém a tradição de um texto com conceitos claros e abrangentes, extenso conjunto de problemas interessantes e casos para análise e prática, com uso de softwares de pesquisa operacional. Um extenso material de apoio encontra-se disponível no site do livro. O ponto forte da 9ª edição é a nova parceria entre a Introdução à Pesquisa Operacional (PO) e o Institute of Operations Research and the Management Sciences (INFORMS). Esses dois pilares da PO se uniram para demonstrar algumas aplicações de pesquisa de operações."
+   },
+   {
+    "t": "Pesquisa Operacional",
+    "a": "ARENALES, M; ARMENTANO, V; MORABITO, R.; YANASSE, H.",
+    "y": "2007",
+    "e": "1.a edição.",
+    "isbn": "9788535214543",
+    "d": "Livro-texto base para disciplinas de introdução à Pesquisa Operacional e suas aplicações na graduação em Engenharia de Produção. O material é suficiente para dois cursos semestrais, ou um curso anual, e pretende ilustrar o uso das modelagens e as aplicações dos algoritmos em problemas da realidade brasileira, em particular, nos sistemas de produção e logística."
+   },
+   {
+    "t": "Otimização Combinatória e Programação Linear",
+    "a": "GOLDBARG, M.C. e LUNA, H.P.L",
+    "y": "2005",
+    "e": "2.a edição.",
+    "isbn": "9788535215205",
+    "d": "Esta obra tem por objetivo propiciar subsídios técnicos, descrever modelos matemáticos, debater algoritmos de solução e sugerir temas de aplicação, dentro da visão quantitativa de análise do fenômeno de tomada de decisão, principalmente aos alunos de graduação das engenharias, cursos de administração e de ciência da computação. O conteúdo programático coberto pelos capítulos 1 a 5 engloba o que é exigido em disciplinas como “Pesquisa Operacional”, “Otimização de Sistemas de Engenharia”, “Programação Linear” e outras. O conteúdo dos capítulos 6 a 10 aborda temas que são objeto de disciplinas como “Otimização Combinatória”, “Algoritmos em Grafos”, “Fluxos em Redes”, entre outras. Essa segunda parte do livro contém material um pouco mais avançado, servindo a disciplinas optativas de nossos cursos de graduação ou a disciplinas de pós-graduação. Uma outra característica marcante deste trabalho são as várias aplicações práticas retiradas da realidade brasileira, o que permite aproximar a disciplina ao dia-a-dia do estudante, aumentando o incentivo à motivação. No âmbito da programação linear, o livro é caracterizado pelo uso intensivo de interpretação econômica do método simplex e das relações de dualidade e sensibilidade. A ideia é lembrar que as ferramentas de otimização indicam as atividades de maior produtividade nas empresas e que o uso dessas ferramentas também indica os preços"
+   }
+  ],
+  "25_fundamentals_computer_graphics": [
+   {
+    "t": "Introdução à Pesquisa Operacional",
+    "a": "Luiz Velho e Jonas Gomes",
+    "y": "2015",
+    "e": "1.a edição.",
+    "isbn": "9788524402005",
+    "d": "Este livro se originou das notas de aula de um curso introdutório de Computação Gráfica, lecionado no IMPA há 10 anos como parte do programa de Computação Gráfica IMPA/PUC-Rio. O livro enfoca aspectos conceituais da área de Computação Gráfica, estudando os diversos modelos matemáticos utilizados, bem como os problemas inerentes à discretização desses modelos. A abordagem do livro é feita de forma elementar, abrangendo todo o programa de um curso introdutório, exigindo como pré-requisitos apenas conhecimentos de Cálculo Diferencial, Álgebra Linear e noções de algoritmos."
+   },
+   {
+    "t": "Computer Graphics: Principles and Practice",
+    "a": "Hughes, J. F., Van Dam, A., Mcguire, M., Sklar, D. F., Foley, J. D., Feiner, S. K., Akeley, K.",
+    "y": "2013",
+    "e": "3.a edição.",
+    "isbn": "9780321399526",
+    "d": "Computer Graphics: Principles and Practice, Third Edition, remains the most authoritative introduction to the field. The first edition, the original “Foley and van Dam,” helped to define computer graphics and how it could be taught. The second edition became an even more comprehensive resource for practitioners and students alike. This third edition has been completely rewritten to provide detailed and up-to-date coverage of key concepts, algorithms, technologies, and applications. The authors explain the principles, as well as the mathematics, underlying computer graphics–knowledge that is essential for successful work both now and in the future. Early chapters show how to create 2D and 3D pictures right away, supporting experimentation. Later chapters, covering a broad range of topics, demonstrate more sophisticated approaches. Sections on current computer graphics practice show how to apply given principles in common situations, such as how to approximate an ideal solution on available hardware, or how to represent a data structure more efficiently. Topics are reinforced by exercises, program­ming problems, and hands-on projects."
+   }
+  ],
+  "26_automata_theory": [
+   {
+    "t": "Linguagens Formais e Autômatos",
+    "a": "MENEZES, P. B.",
+    "y": "2010",
+    "e": "6.a edição.",
+    "isbn": "9788577807659",
+    "d": "A Teoria das Linguagens Formais foi originalmente desenvolvida na década de 1950 com o objetivo de desenvolver teorias relacionadas com as linguagens naturais. Entretanto, logo foi verificado que esta teoria era importante para o estudo das linguagens artificiais e, em especial, para as linguagens originárias na Ciência da Computação. Desde então, o estudo das Linguagens Formais desenvolveu-se significativamente e com diversos enfoques, com destaque para aplicações em análise léxica e sintática de linguagens de programação, modelos de sistemas biológicos, desenho de hardware e relacionamentos com linguagens naturais. Recentemente, inclui-se a ênfase no tratamento de linguagens não-lineares, como planares, espaciais e n-dimensionais. Linguagens Formais e Autômatos visa apresentar os conceitos básicos da Teoria das Linguagens Formais. É baseado em experiências letivas no Curso de Bacharelado em Ciência da Computação da UFRGS. É delineado, principalmente, como um primeiro curso de Linguagens Formais, sendo auto-contido e podendo ser adotado como bibliografia básica. Possui um texto simples, exemplos detalhados e exercícios em níveis crescentes de raciocínio."
+   },
+   {
+    "t": "Linguagens Formais: Teorias e Conceitos",
+    "a": "RAMOS, M.; NETO, J. J; VEGA, I.",
+    "y": "2023",
+    "e": "1.a edição.",
+    "isbn": "9786555067163",
+    "d": "Concebido como referência para cursos superiores da área de computação, este livro explora tópicos sobre as linguagens definidas pela Hierarquia de Chomsky. Contudo, seu alcance foi expressivamente ampliado pela inclusão de introduções à matemática discreta, aos conceitos básicos de linguagens, à classe das linguagens recursivas, à análise sintática descendente, à decidibilidade e à complexidade.Fruto de diversos anos da experiência docente e dedicação dos autores, em diversas instituições de ensino, à disciplina Linguagens Formais e Autômatos, esta obra, repleta de exemplos e exercícios, mitiga a aridez intrínseca dos muitos assuntos estudados, tornando-os mais acessíveis a um público-alvo amplo e diversificado."
+   },
+   {
+    "t": "Linguagens Formais: Exercícios e Soluçõess",
+    "a": "RAMOS, M.",
+    "y": "2021",
+    "e": "1.a edição.",
+    "isbn": "9786586057591",
+    "d": "Fazer exercícios é a maneira mais eficaz de aprender linguagens formais e autômatos. É importante estudar exercícios resolvidos para melhorar o entendimento acerca das estratégias mais usadas e reduzir o tempo de resolução de problemas novos. Ainda assim, é raro que a solução de problemas novos não faça uso, pelo menos em parte, de estratégias consagradas utilizadas em problemas conhecidos. Em vez de teoria e conceitos abstratos, este livro é composto de 601 exercícios resolvidos sobre as temáticas dos capítulos. A ideia é que, a partir do enunciado, da solução e também das explicações que fundamentam as estratégias apresentadas, o leitor entenda como certas soluções são obtidas e se capacite mais rapidamente na resolução de novos problemas. Esta obra é uma grande coletânea, devidamente revisada e estendida, do material que foi sendo acumulado ao longo de mais de uma década de dedicação ao ensino da disciplina Linguagens Formais e Autômatos na Universidade Federal do Vale do São Francisco. Em cada capítulo, uma pequena introdução traz um resumo das principais definições e resultados relevantes para o estudo do assunto, o que não dispensa o uso de uma boa referência teórica complementar sobre essa importante matéria."
+   }
+  ],
+  "27_artificial_intelligence": [
+   {
+    "t": "Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina",
+    "a": "André Carlos Ponce de Leon Ferreira et al.",
+    "y": "2021",
+    "e": "2.a edição.",
+    "isbn": "9788521637349",
+    "d": "Inteligência Artificial sob novos olhares. Com abordagem equilibrada de tópicos básicos e avançados desenvolvidos por renomados pesquisadores da área, esta nova edição traz exemplos de implemen­tações dos métodos abordados e exercícios teóricos e práticos.Vencedor do Prêmio Jabuti 2012 (Categoria Tecnologia e Informática) quando foi lançado, Inteligência Artificial – Uma Abordagem de Aprendizado de Máquina aborda os principais conceitos e algoritmos de aprendizado de máquina e aponta caminhos para transformar esse conhecimento em aplicações práticas, como:auxílio ao diagnóstico de doenças e descoberta de tratamentos mais eficazes;monitoramento da qualidade da água;prevenção de incêndios florestais;detecção e localização de falhas em linhas de transmissão de energia;reconhecimento de imagens para prover segurança em eventos;bloqueio de mensagens fraudulentas que impõem riscos aos usuários, entre outras.Por que ter Inteligência Artificial?Há algum tempo, a área de inteligência artificial deixou de ser vista apenas como teórica – destinada à aplicação em pequenos problemas “curiosos” – para se tornar um campo de pesquisa crescente, em busca de soluções de problemas reais da sociedade.Katti Faceli, Ana Carolina Lorena, João Gama, Tiago Agostinho Almeida e André Carlos Ponce Carvalho preenchem, com sucesso, a lacuna de livros abrangentes e atualizados voltados ao público nacional."
+   },
+   {
+    "t": "Inteligência Artificial",
+    "a": "LUGGER, G.",
+    "y": "2015",
+    "e": "2.a edição.",
+    "isbn": "9788581435503",
+    "d": "Com uma abordagem clara e objetiva, George F. Luger reúne nesta sexta edição as práticas mais recentes do mercado e os tópicos importantes relacionados à inteligência artificial, como computação emergente, representação da incerteza e processamento probabilístico de linguagem natural, entre outros. Muito rica em exemplos práticos, esta obra é ideal para estudantes de ciência da computação, engenharia da computação e sistemas de informação, pois apresenta equilíbrio entre teoria e prática e os conceitos fundamentais da área, com detalhes e informações necessárias para a implementação dos algoritmos e estratégias discutidos no livro."
+   },
+   {
+    "t": "Inteligência Artificial",
+    "a": "COPPIN, B.",
+    "y": "2010",
+    "e": "1.a edição.",
+    "isbn": "9788521617297",
+    "d": "O livro cobre uma variedade de técnicas de Inteligência Artificial, algoritmos e metodologias, incluindo playing game, agentes inteligentes, aprendizado de máquinas, algoritmos genéticos e vida artificial. Com texto descomplicado e acessível, o autor concentra-se em explicar como técnicas de Inteligência Artificial se relacionam e são derivadas de sistemas naturais, tais como o cérebro humano e a própria evolução das espécies, explicando como os equivalentes artificiais são utilizados no mundo real. Cada capítulo inclui uma introdução, explicando o que será abordado, um resumo do capítulo, alguns exercícios e questões para revisão, bem como sugestões para leitura adicional. Há uma bibliografia completa no final do livro, além de um glossário incluindo breves definições da maioria dos termos importantes."
+   }
+  ],
+  "28_distributed_computing": [
+   {
+    "t": "Sistemas Distribuídos: Conceitos e Projeto",
+    "a": "COULOURIS, G; DOLLIMORE, J; KINDBERG, T; BLAIR, G.",
+    "y": "2013",
+    "e": "5.a edição.",
+    "isbn": "",
+    "d": "A Internet e a Web não param de crescer e têm impacto cada vez maior em diversos aspectos da nossa sociedade. Do ponto de vista do desenvolvimento de sistemas distribuídos, que interligam computadores e outros dispositivos, esse crescimento impõe novas demandas em termos de arquitetura, algoritmos, requisitos de projeto, variedade de aplicações e de cargas de trabalho. A 5ª edição deste best-seller continua a ser uma fonte de conhecimento abrangente sobre os princípios e a prática de sistemas distribuídos, com estudos de caso modernos que ilustram seu projeto e desenvolvimento e exercícios ao final de cada capítulo que ajudam a fixar o conteúdo abordado.Destaques da 5ª edição:• Novos capítulos: comunicação indireta, objetos e componentes distribuídos e projeto de sistemas distribuídos.• Novos tópicos: computação em nuvem, virtualização de rede e de sistemas operacionais, sistemas peer-to-peer não estruturados, espaços de tupla, baixo acoplamento em serviços Web e computação móvel e ubíqua.• Novos estudos de caso: JavaSpaces, JMS, WebSphere, Messa Queues, Entreprise JavaBeans,Skype, Gnutella, TOTA, L2imbo, BitTorrent, End System Multicast, infraestrutura Google."
+   },
+   {
+    "t": "Sistemas Distribuídos: Princípios e Paradigmas",
+    "a": "Andrew S. Tanenbaum, Maarten Van Steen.",
+    "y": "2007",
+    "e": "2.a edição.",
+    "isbn": "9788576051428",
+    "d": "Nesta segunda edição, melhorada e atualizada, Tanenbaum e Van Steen apresentam os detalhes de funcionamento dos sistemas distribuídos, bem como as tecnologias subjacentes. Ao separar princípios de paradigmas, os autores mostram como os princípios se relacionam uns com os outros, discutindo quatro classes diferentes de sistemas distribuídos, o que permite uma percepção ainda mais abrangente do conteúdo apresentado."
+   }
+  ],
+  "29_graphs": [
+   {
+    "t": "Introduction to Graph Theory",
+    "a": "",
+    "y": "2000",
+    "e": "2.a edição.",
+    "isbn": "9780130144003",
+    "d": "This book fills a need for a thorough introduction to graph theory that features both the understanding and writing of proofs about graphs. Verification that algorithms work is emphasized more than their complexity. An effective use of examples, and huge number of interesting exercises, demonstrate the topics of trees and distance, matchings and factors, connectivity and paths, graph coloring, edges and cycles, and planar graphs. For those who need to learn to make coherent arguments in the fields of mathematics and computer science."
+   },
+   {
+    "t": "Graph Theory",
+    "a": "",
+    "y": "2025",
+    "e": "6.a edição.",
+    "isbn": "9783662701065",
+    "d": "This standard textbook on modern graph theory combines the authority of a classic with the engaging freshness of style that is the hallmark of active mathematics. It covers the core material of the subject, with concise yet complete proofs, while offering glimpses of more advanced methods in each field via one or two deeper results. This is a major new edition. Among many other improvements, it offers additional tools for applying the regularity lemma, brings the tangle theory of graph minors up to the cutting edge of current research, and addresses new topics such as chi-boundedness in perfect graph theory. The book can be used as a reliable text for an introductory graduate course and is also suitable for self-study."
+   },
+   {
+    "t": "Graph Theory",
+    "a": "Adrian Bondy e U.S.R. Murty",
+    "y": "2008",
+    "e": "1.a edição.",
+    "isbn": "9781846289699",
+    "d": "Graph theory is a flourishing discipline containing a body of beautiful and powerful theorems of wide applicability. Its explosive growth in recent years is mainly due to its role as an essential structure underpinning modern applied mathematics – computer science, combinatorial optimization, and operations research in particular – but also to its increasing application in the more applied sciences. The versatility of graphs makes them indispensable tools in the design and analysis of communication networks, for instance. The primary aim of this book is to present a coherent introduction to the subject, suitable as a textbook for advanced undergraduate and beginning graduate students in mathematics and computer science. It provides a systematic treatment of the theory of graphs without sacrificing its intuitive and aesthetic appeal. Commonly used proof techniques are described and illustrated, and a wealth of exercises - of varying levels of difficulty - are provided tohelp the reader master the techniques and reinforce their grasp of the material. A second objective is to serve as an introduction to research in graph theory. To this end, sections on more advanced topics are included, and a number of interesting and challenging open problems are highlighted and discussed in some detail. Despite this more advanced material, the book has been organized in such a way that an intro"
+   }
+  ],
+  "30_multivariable_calculus": [
+   {
+    "t": "Um Curso de Cálculo - Vol. 3",
+    "a": "GUIDORIZZI, H.",
+    "y": "2022",
+    "e": "6.a edição.",
+    "isbn": "9788521635451",
+    "d": "Guidorizzi, o conteúdo integral para o seu diferencial! De Hamilton Luiz Guidorizzi, Um Curso de Cálculo apresenta recursos pedagógicos digitais que aprofundam e fixam a aprendizagem dos estudantes de Cálculo e auxiliam aulas de professores da disciplina. Este terceiro volume aborda temas como integrais duplas, integrais triplas, integrais de linha, entre outros. É indicado para alunos de graduação de Matemática, Engenharia e Ciências Exatas que cursam Cálculo Diferencial e Integral e disciplinas de Cálculo relacionadas."
+   },
+   {
+    "t": "Cálculo III",
+    "a": "CARVALHO, A.N.; NUNES, W.V.L.; ZANI, S.L.",
+    "y": "2001",
+    "e": "",
+    "isbn": "",
+    "d": "Notas de Aula do ICMC - USP. Disponível aqui."
+   }
+  ],
+  "31_theory_of_computation": [
+   {
+    "t": "Computability, Complexity, and Languages: Fundamentals of Theoretical Computer Science (Computer Science and Scientific Computing)",
+    "a": "Martin Davis; Ron Sigal; Elaine J. Weyuker",
+    "y": "1994",
+    "e": "2.a edição.",
+    "isbn": "",
+    "d": "Computability, Complexity, and Languages is an introductory text that covers the key areas of computer science, including recursive function theory, formal languages, and automata. It assumes a minimal background in formal mathematics. The book is divided into five parts: Computability, Grammars and Automata, Logic, Complexity, and Unsolvability. Computability theory is introduced in a manner that makes maximum use of previous programming experience, including a \"universal\" program that takes up less than a page. The number of exercises included has more than tripled. Automata theory, computational logic, and complexity theory are presented in a flexible manner, and can be covered in a variety of different arrangements."
+   },
+   {
+    "t": "Introdução á Teoria da Computação",
+    "a": "",
+    "y": "2005",
+    "e": "2.a edição.",
+    "isbn": "",
+    "d": "Esta obra apresenta a teoria da computação por meio de teoremas e provas, sempre com a preocupação do autor em mostrar a intuição por trás de cada resultado e em amenizar a leitura destas últimas, apresentando, para cada teorema, uma ideia da prova. Com este livro, através da prática de resolução de problemas, os alunos, nos exercícios, revisarão definições e conceitos da área e, nos problemas, irão se deparar com atividades que exigem maior engenhosidade. Os três últimos capítulos são novos, e esta 2ª edição incorpora as sugestões de professores e alunos enviadas ao autor ao longo dos anos. Contém material para mais de um semestre de curso, propiciando flexibilidade para escolha de tópicos a serem mais ou menos explorados."
+   },
+   {
+    "t": "Introduction to the Theory of Computation",
+    "a": "",
+    "y": "2012",
+    "e": "3.a edição.",
+    "isbn": "",
+    "d": "Gain a clear understanding of even the most complex, highly theoretical computational theory topics in the approachable presentation found only in the market-leading INTRODUCTION TO THE THEORY OF COMPUTATION, 3E. The number one choice for today's computational theory course, this revision continues the book's well-know, approachable style with timely revisions, additional practice, and more memorable examples in key areas. A new first-of-its-kind theoretical treatment of deterministic context-free languages is ideal for a better understanding of parsing and LR(k) grammars. You gain a solid understanding of the fundamental mathematical properties of computer hardware, software, and applications with a blend of practical and philosophical coverage and mathematical treatments, including advanced theorems and proofs. INTRODUCTION TO THE THEORY OF COMPUTATION, 3E's comprehensive coverage makes this a valuable reference for your continued studies in theoretical computing."
+   },
+   {
+    "t": "Introduction to Languages and the Theory of Computation",
+    "a": "",
+    "y": "2010",
+    "e": "4.a edição.",
+    "isbn": "",
+    "d": "Introduction to Languages and the Theory of Computation helps students make the connection between the practice of computing and an understanding of the profound ideas that defines it. The book's organization and the author's ability to explain complex topics clearly make this introduction to the theory of computation an excellent resource for a broad range of upper level students. The author has learned through many years of teaching that the best way to present theoretical concepts is to take advantage of the precision and clarity of mathematical language. In a way that is accessible to students still learning this language, he presents the necessary mathematical tools gently and gradually which provides discussion and examples that make the language intelligible."
+   }
+  ],
+  "32_deep_learning": [],
+  "33_compilers": [
+   {
+    "t": "Compiladores: Princípios, Técnias, e Ferramentas",
+    "a": "Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman",
+    "y": "2007",
+    "e": "2.a edição.",
+    "isbn": "9788588639249",
+    "d": "Abrangendo desde análise léxica e sintática (com técnicas como parsing LL e LR) até otimização e geração de código, o livro integra teoria (autômatos, gramáticas) e prática (exemplos implementáveis e estudos de caso), além de explorar tópicos modernos como compilação just-in-time e paralelismo. Sua abordagem equilibra rigor técnico e clareza, ensinando não só sobre compiladores, mas também desenvolvendo habilidades em algoritmos e design de sistemas, sendo relevante para estudantes, engenheiros e entusiastas de linguagens de programação."
+   }
+  ],
+  "34_quantum_computing": [],
+  "35_methodology": []
+ }
+}

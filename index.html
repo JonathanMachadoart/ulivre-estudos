@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ULivre Estudos</title>
+<meta name="description" content="Plataforma de estudos para os currículos da Universidade Brasileira Livre: Ciência da Computação, Matemática e especializações, com aulas, plano de estudos, revisões, anotações e livros.">
+<meta name="theme-color" content="#6C47FF">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <aside class="side" id="side" aria-label="Navegação">
+    <div class="brand"><div class="logo" aria-hidden="true">UL</div><div><b>ULivre Estudos</b><small>Universidade Brasileira Livre</small></div></div>
+    <nav class="nav" id="nav"></nav>
+    <div class="side-foot">
+      <span>Progresso salvo neste navegador.</span>
+      <span><a href="https://t.me/universidadebrasileiralivre" target="_blank" rel="noopener">Comunidade no Telegram</a></span>
+    </div>
+  </aside>
+  <div class="main">
+    <header class="top">
+      <button class="menu-btn" id="menuBtn" aria-label="Abrir menu"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+      <div class="crumb" id="crumb"></div>
+      <div class="top-search">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="gsearch" type="search" placeholder="Buscar cursos e aulas…" aria-label="Buscar cursos e aulas" autocomplete="off">
+        <div class="results" id="results" hidden></div>
+      </div>
+    </header>
+    <main class="content" id="content"></main>
+  </div>
+</div>
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-label="Detalhes do curso"></aside>
+<div class="pop" id="pop" hidden></div>
+<div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="mTitle"></div>
+<div class="toast" id="toast" role="status"></div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

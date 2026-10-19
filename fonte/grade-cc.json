@@ -1,0 +1,282 @@
+[
+[
+"circ",
+"Circuitos Digitais",
+"1",
+"https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf",
+"",
+"01_digital_circuits"
+],
+[
+"disc",
+"Matemática Discreta",
+"1",
+"https://www.youtube.com/watch?v=KGoSTh1sgyM&list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS",
+"",
+"02_discrete_mathematics"
+],
+[
+"lp",
+"Linguagens de Programação",
+"1",
+"https://www.youtube.com/watch?v=xfDdxqbkiSQ&list=PLnzT8EWpmbka4KukGR184tifzqcuq_ZDv",
+"",
+"03_programming_languages"
+],
+[
+"py1",
+"Introdução à Ciência da Computação com Python I",
+"1",
+"https://youtube.com/playlist?list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn",
+"",
+"04_intro_python"
+],
+[
+"ga",
+"Geometria Analítica",
+"1",
+"https://www.youtube.com/watch?v=ijkDjQT7UPM&list=PL82Svt6JAgOH3M6TCELx8oegTVCriUg3L",
+"",
+"05_analytic_geometry"
+],
+[
+"calc1",
+"Cálculo I",
+"2",
+"https://www.youtube.com/watch?v=WgHUHPlJETs&list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx",
+"\"ga\"",
+"06_intro_calculus"
+],
+[
+"al1",
+"Álgebra Linear I",
+"2",
+"https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI",
+"\"ga\"",
+"07_intro_linear_algebra"
+],
+[
+"ed",
+"Estruturas de Dados",
+"2",
+"https://www.youtube.com/watch?v=0hT3EKGhbpI&list=PLndfcZyvAqbofQl2kLLdeWWjCcPlOPnrW",
+"\"disc\",\"py1\"",
+"08_data_structure"
+],
+[
+"py2",
+"Introdução à Ciência da Computação com Python II",
+"2",
+"https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2",
+"\"py1\"",
+"09_python"
+],
+[
+"poo",
+"Laboratório de Programação Orientada a Objetos I",
+"2",
+"https://www.youtube.com/playlist?list=PLTeQ2u81sjqfsFNWrUCIoqJZBSJrai8M7",
+"\"py1\"",
+"10_object_orientation"
+],
+[
+"grafos",
+"Algoritmos em Grafos",
+"3",
+"https://www.youtube.com/watch?v=fjOiu6CD5pc&list=PLrPn-zKAOzUzKdPqFNF52g-i9p1f-vmsk",
+"\"ed\"",
+"11_graph_algorithms"
+],
+[
+"arq1",
+"Arquitetura de Computadores I",
+"3",
+"https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6",
+"\"circ\"",
+"12_computer_architecture"
+],
+[
+"prob",
+"Probabilidade e Estatística",
+"3",
+"https://www.youtube.com/watch?v=snXf8YT7L3U&list=PLrOyM49ctTx8HWnxWRBtKrfcuf7ew_3nm",
+"\"calc1\"",
+"13_statistics_probability"
+],
+[
+"calc2",
+"Cálculo II",
+"3",
+"https://www.youtube.com/watch?v=lQdzRBRL9Tw&list=PLAudUnJeNg4sd0TEJ9EG6hr-3d3jqrddN",
+"\"calc1\"",
+"14_advanced_calculus"
+],
+[
+"hask",
+"Programação Funcional em Haskell",
+"3",
+"https://www.youtube.com/watch?v=eTisiy5FB7k&list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ&index=1",
+"",
+"15_haskell"
+],
+[
+"aa",
+"Análise de Algoritmos",
+"4",
+"https://www.youtube.com/watch?v=_HBTCUNPxOg&list=PLncEdvQ20-mgGanwuFczm-4IwIdIcIiha",
+"\"grafos\"",
+"16_analysis_of_algorithms"
+],
+[
+"mn",
+"Métodos Numéricos I",
+"4",
+"https://www.youtube.com/watch?v=a6nNQ6qKgiY&list=PLI9WiBCz67cPTTRER4CrsN0wpRN-NmjGA",
+"\"py1\",\"calc1\"",
+"17_numeric_methods"
+],
+[
+"bd",
+"Banco de Dados",
+"4",
+"https://www.youtube.com/watch?v=pmAxIs5U1KI&list=PLxI8Can9yAHeHQr2McJ01e-ANyh3K0Lfq",
+"",
+"18_database"
+],
+[
+"arq2",
+"Arquitetura de Computadores II",
+"4",
+"https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ",
+"\"py2\",\"arq1\"",
+"19_computer_architecture_II"
+],
+[
+"plog",
+"Programação Lógica",
+"4",
+"https://youtube.com/playlist?list=PLZ-Bk6jzsb-OScKa7vhpcQXoU2uxYGaFx",
+"",
+"20_logical_programming"
+],
+[
+"redes",
+"Redes de Computadores",
+"5",
+"https://www.youtube.com/playlist?list=PLvHXLbw-JSPfKp65psX5C9tyNLHHC4uoR",
+"",
+"21_computer_network"
+],
+[
+"es",
+"Introdução à Engenharia de Software",
+"5",
+"https://www.youtube.com/watch?v=h_hEI1Kfm2U&list=PLhBaeEzs3d7lsn_Mq2n3R4_api16Wkp1Q",
+"\"py2\"",
+"22_software_engineering"
+],
+[
+"so",
+"Sistemas Operacionais",
+"5",
+"https://www.youtube.com/watch?v=EGn8fOf7zE0&list=PLSmh8AKk_aUn9HxFs5FnjQupdQnV56MXV",
+"\"arq2\"",
+"23_operating_system"
+],
+[
+"pm",
+"Programação Matemática",
+"5",
+"https://www.youtube.com/watch?v=8rrgnFCL9LM&list=PL2peXovwG2kuqXC6sECjFSiG-MT1yXMQ-",
+"\"al1\"",
+"24_math_optimization"
+],
+[
+"cg",
+"Fundamentos de Computação Gráfica",
+"5",
+"https://www.youtube.com/watch?v=AVSAesOiKYY&list=PLE51fUFkeIwLXwe4rvG4EMgw7zgjP-tDx",
+"\"ga\"",
+"25_fundamentals_computer_graphics"
+],
+[
+"lfa",
+"Linguagens Formais e Autômatos",
+"6",
+"https://www.youtube.com/watch?v=4zMwOozUt9U&list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4",
+"\"disc\"",
+"26_automata_theory"
+],
+[
+"ia",
+"Inteligência Artificial",
+"6",
+"https://www.youtube.com/watch?v=-T3zDFxngf4&list=PLeejGOroKw_txh7j7S3etF5eudI2WvMx0",
+"\"ed\",\"prob\"",
+"27_artificial_intelligence"
+],
+[
+"sd",
+"Sistemas Distribuídos",
+"6",
+"https://www.youtube.com/watch?v=TEEy5f46h_Q&list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8&index=1",
+"\"redes\"",
+"28_distributed_computing"
+],
+[
+"tg",
+"Teoria dos Grafos",
+"6",
+"https://www.youtube.com/watch?v=kfHqZLYHfHU&list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX",
+"\"disc\"",
+"29_graphs"
+],
+[
+"calc3",
+"Cálculo III",
+"6",
+"https://www.youtube.com/watch?v=8mBTfk7s63s&list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W",
+"\"calc2\"",
+"30_multivariable_calculus"
+],
+[
+"tc",
+"Teoria da Computação",
+"7",
+"https://www.youtube.com/watch?v=dWRxL30aoes&list=PLYLYA7XrlskNgCeSpJf9PQHHb8Z4WpRm4",
+"\"lfa\"",
+"31_theory_of_computation"
+],
+[
+"dl",
+"Deep Learning",
+"7",
+"https://www.youtube.com/watch?v=0VD_2t6EdS4&list=PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2-",
+"\"ia\"",
+"32_deep_learning"
+],
+[
+"comp",
+"Compiladores",
+"7",
+"https://youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV",
+"\"ed\",\"tg\"",
+"33_compilers"
+],
+[
+"cq",
+"Computação Quântica",
+"7",
+"https://youtube.com/playlist?list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R",
+"\"calc3\",\"arq2\"",
+"34_quantum_computing"
+],
+[
+"mp",
+"Metodologia da Pesquisa",
+"7",
+"https://youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__",
+"",
+"35_methodology"
+]
+]
