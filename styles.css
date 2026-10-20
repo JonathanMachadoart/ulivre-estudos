@@ -245,7 +245,7 @@ table.tbl{width:100%;border-collapse:collapse;min-width:720px}
 .props{display:grid;grid-template-columns:110px minmax(0,1fr);gap:8px 12px;font-size:13px;align-items:center}
 .props .k{color:var(--muted);font-weight:500;display:flex;align-items:center;gap:6px}
 .props .rel{display:flex;flex-wrap:wrap;gap:5px}
-.props .rel button{border:1px solid var(--line);background:var(--raised);border-radius:6px;padding:2px 8px;font-size:12px;display:flex;align-items:center;gap:5px}
+.props .rel button{text-align:left;border:1px solid var(--line);background:var(--raised);border-radius:6px;padding:2px 8px;font-size:12px;display:flex;align-items:center;gap:5px}
 .props .rel button i{width:7px;height:7px;border-radius:50%;background:var(--locked)}
 .props .rel button i.done{background:var(--done)} .props .rel button i.doing{background:var(--doing)} .props .rel button i.avail{background:var(--avail)}
 .tabs{display:flex;gap:2px;padding:0 16px;border-bottom:1px solid var(--line)}
@@ -415,4 +415,42 @@ ol.ll>li:first-child{border-top:0}
   .toolbar .chips{margin-left:0}
 }
 @media (max-width:520px){.stats{grid-template-columns:1fr 1fr}.stat .v{font-size:21px}.onb-card{grid-template-columns:auto minmax(0,1fr)}.onb-card .btn{grid-column:1/-1;justify-content:center}.crumb{font-size:14px}.top-search{max-width:none}}
+@media (max-width:640px){
+  table.tbl{min-width:0}
+  .tbl thead{display:none}
+  .tbl,.tbl tbody{display:block}
+  .tbl tbody tr{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 10px;padding:12px 14px;border-bottom:1px solid var(--line2)}
+  .tbl tbody tr:last-child{border-bottom:0}
+  .tbl td{display:block;padding:0;border:0;background:transparent!important}
+  .tbl tbody tr:hover,.tbl tbody tr.sel{background:var(--hover)}
+  .tbl td:nth-child(1){grid-column:1;grid-row:1}
+  .tbl td:nth-child(2){grid-column:2;grid-row:1;align-self:start}
+  .tbl td:nth-child(3){grid-column:1;grid-row:2}
+  .tbl td:nth-child(4){grid-column:2;grid-row:2;text-align:right;align-self:center}
+  .tbl td:nth-child(5){grid-column:1/-1;grid-row:3}
+  .tbl td:nth-child(5):has(.muted:only-child){display:none}
+  .tbl .pr .bar{flex:1;max-width:none}
+  .tbl .pr{width:100%}
+  .tbl .nm{flex-wrap:wrap}
+  .pre-chips{max-width:none}
+  .grp-h .bar{width:60px}
+  .tbl-wrap{overflow:visible}
+}
+@media (pointer:coarse){
+  .lr{padding:10px 10px;gap:10px}
+  .lr input[type=checkbox]{width:22px;height:22px}
+  .lr .nb{width:38px;height:38px}
+  .lr .nb svg{width:18px;height:18px}
+  .bseg button{padding:7px 12px;font-size:12.5px}
+  button.pill{padding:7px 11px}
+  .chip{padding:8px 14px}
+  .views button{padding:8px 12px}
+  .btn.sm{padding:8px 12px}
+  .props .rel button{padding:6px 10px}
+  .rv-item .acts .btn{padding:9px 12px}
+  .pop button{padding:11px 12px}
+  .trk-pick label{padding:10px}
+  .ln button{padding:6px 8px}
+  .dr-top .x,.mbox .x{width:40px;height:40px}
+}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}

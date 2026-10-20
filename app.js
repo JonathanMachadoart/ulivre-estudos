@@ -160,7 +160,7 @@ function pHome(){
     <div class="card stat"><span class="k">Aulas assistidas</span><span class="v">${lw.toLocaleString("pt-BR")}<small>de ${VIDS.size.toLocaleString("pt-BR")}</small></span><span class="d">${Math.round(lw/VIDS.size*1000)/10}% de todo o conteúdo</span></div>
     <div class="card stat"><span class="k">Horas de aula</span><span class="v">${fmtHours(secW)}<small>h</small></span><span class="d">tempo de vídeo concluído</span></div>
     <div class="card stat"><span class="k">Revisões para hoje</span><span class="v">${due.length}</span><span class="d">${S.mastered?`${S.mastered} aulas fixadas`:"revisão espaçada: 1, 3, 7, 21 e 60 dias"}</span></div>
-    <div class="card stat"><span class="k">Sequência</span><span class="v">${streak()}<small>dias</small></span><span class="d">dias seguidos com aula marcada</span></div></div>`;
+    <div class="card stat"><span class="k">Sequência</span><span class="v">${streak()}<small>${streak()===1?"dia":"dias"}</small></span><span class="d">dias seguidos com aula marcada</span></div></div>`;
   h+=`<div class="grid2"><div style="display:flex;flex-direction:column;gap:16px">
     <div class="card"><div class="card-h"><h2>Continuar de onde parou</h2></div><div class="card-b">`;
   if(doing.length){h+=`<div class="cont-list">`+doing.map(c=>{const st=lstats(c);const nx=st.next>=0?c.L[st.next]:null;
@@ -433,6 +433,10 @@ function pPlan(){
   const next=plan.miles.find(m=>!m.done);
   const lastDate=plan.endDay>=0?addDays(plan.start,plan.endDay):null;
   let h=`<div><h1 class="ph">Plano de estudos</h1><p class="sub">Diga quanto tempo você tem por semana e a plataforma monta o cronograma com a duração real das aulas que faltam, respeitando os pré-requisitos.</p></div>
+`+`
+  <div class="card headline">${P.tracks.length?
+      (next&&next.date?`<span class="big">Você termina <em>${esc(next.label)}</em> em <em>${fmtMonth(next.date)}</em>.</span>`:next?`<span class="big">Escolha mais horas ou trilhas para estimar.</span>`:`<span class="big">Tudo concluído nas trilhas escolhidas. 🎉</span>`)
+      +`<span class="hint">${lastDate?`Plano completo até ${fmtD(lastDate)} · ${fmtHours(plan.total)} horas de estudo restantes`:""}</span>`:`<span class="big">Escolha ao menos uma trilha.</span>`}</div>
   <div class="plan-grid"><div class="card"><div class="card-b form" style="padding-top:16px">
     <div><label class="lb" for="ph">Horas por semana</label><div class="range-row"><input type="range" id="ph" min="2" max="40" step="1" value="${P.hours}"><output class="num">${P.hours}h</output></div></div>
     <div><label class="lb" for="pf">Tempo de estudo por hora de vídeo</label><div class="range-row"><input type="range" id="pf" min="1" max="3" step="0.25" value="${P.factor}"><output class="num">${P.factor.toLocaleString("pt-BR")}×</output></div><span class="hint">Inclui pausas, exercícios e leitura. 1,5× é um bom começo.</span></div>
@@ -441,9 +445,6 @@ function pPlan(){
     <div><span class="lb">Trilhas no plano</span><div class="trk-pick">${TRACKS.map(t=>`<label style="--tc:${tcolor(t.id)}"><input type="checkbox" data-ptrack="${t.id}" ${P.tracks.includes(t.id)?"checked":""}><span class="dot"></span>${esc(t.name)}</label>`).join("")}</div><span class="hint">A ordem é: currículos primeiro, depois especializações.</span></div>
   </div></div>
   <div style="display:flex;flex-direction:column;gap:16px;min-width:0">
-    <div class="card headline">${P.tracks.length?
-      (next&&next.date?`<span class="big">Você termina <em>${esc(next.label)}</em> em <em>${fmtMonth(next.date)}</em>.</span>`:next?`<span class="big">Escolha mais horas ou trilhas para estimar.</span>`:`<span class="big">Tudo concluído nas trilhas escolhidas. 🎉</span>`)
-      +`<span class="hint">${lastDate?`Plano completo até ${fmtD(lastDate)} · ${fmtHours(plan.total)} horas de estudo restantes`:""}</span>`:`<span class="big">Escolha ao menos uma trilha.</span>`}</div>
     <div class="card"><div class="card-h"><h2>Marcos</h2></div><div class="card-b"><div class="mile-list">${plan.miles.map(m=>`<div class="mile ${m.done?"done":""}" style="--tc:${tcolor(m.track)}"><small>${esc(m.label)}</small><b>${m.done?"Concluído":m.date?fmtD(m.date):"—"}</b></div>`).join("")||'<div class="empty">Sem trilhas no plano.</div>'}</div></div></div>
     <div class="card"><div class="card-h"><h2>Esta semana</h2><span class="hint" style="margin-left:auto">${P.hours}h · próximas aulas na ordem do plano</span></div><div class="card-b"><div class="week">${weekList(plan)}</div></div></div>
     <div><div style="display:flex;align-items:center;gap:10px;margin-bottom:8px"><b>Linha do tempo</b><span class="hint">a linha vermelha é hoje</span></div>${gantt(plan)}</div>
