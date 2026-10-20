@@ -1,0 +1,24 @@
+yZRd_EWUs1g|502|SOLID, Clean Code e Design Patterns: Pare de Buscar o Código Perfeito!
+EWHTE1dQM4U|1078|SOLID: O Que Ninguém Te Explicou Sobre Responsabilidade Única!
+T6pF7BfAPIo|1059|SOLID: Open Closed Principle + Strategy Pattern - O Segredo da Orientação a Objetos do Jeito Certo!
+f6-5ANuTkys|1292|O Princípio SOLID mais CRÍTICO de TODOS! | Princípio de Substituição de LISKOV
+jHbI9ej5O1Y|1364|PARE de Sabotar Seu Código com ABSTRAÇÕES ERRADAS! Domine o Interface Segregation Principle | SOLID
+s8g32ePcPps|1334|SOLID: Inversão de Dependências + Padrão de Projeto ADAPTER – O SEGREDO das Arquiteturas em Camadas!
+pW9Bb4PteWU|1502|Object Calisthenics: Técnicas Para Eliminar o ELSE do Seu Código | Boas Práticas de Programação
+YGNH71KPIes|1709|Object Calisthenics: A ARMADILHA dos TIPOS PRIMITIVOS! Seu código está FRÁGIL por causa disso!
+KXaPJhG9yCk|1015|Object Calisthenics: LEI DE DEMETER - A Técnica Para Eliminar DEPENDÊNCIAS Ocultas no seu Código!
+_OKbQKjiKR8|1621|Object Calisthenics: Aumente a COESÃO das suas CLASSES com essas Duas Regras! | Orientação a Objetos
+PXHqooNlkVM|1284|Object Calisthenics: Pare de Usar Getters e Setters | Boas Práticas e Orientação a Objetos!
+wjtfJ9c4KdM|506|O maior erro que Programadores cometem e como o YAGNI pode salvar seu código
+3-ESljj0jgI|812|Padrão de Projeto Simple Factory: O Design Pattern Mais Fácil Explicado!
+Fg1kEjaaBrs|1110|Padrão de Projeto Adapter: Melhore sua Orientação a Objetos e Testes Unitários! Design Pattern (GOF)
+OrCgWzpNszk|1557|Padrão de Projeto State: Domine o Design Pattern de Transições de Estado com Orientação a Objetos!
+4Aq9UHQ5f5Y|703|Padrão de Projeto Facade: O Design Pattern Que Simplifica Código Complexo com Orientação a Objetos!
+mv9JxI85Ac8|1253|Padrão de Projeto Observer: Como Criar Código Reativo e Escalável Usando Orientação a Objetos!
+j5fGTi8ObK4|1012|Padrão de Projeto Template Method: Como Eliminar Códigos Duplicados Usando Orientação a Objetos!
+7B60j9EGrrU|1504|Padrão de Projeto Decorator: O Design Pattern que Flexibiliza seu Código com Orientação a Objetos!
+DzlXwgsc_AU|1332|Padrão de Projeto Strategy: Tudo o Que Você Precisa Saber Sobre Esse Design Pattern (GOF)
+el1MtIPXTqo|1154|Padrão de Projeto Proxy: Melhore a Arquitetura do Seu Código Usando Orientação a Objetos!
+E8ey3HjSthg|1312|Padrão de Projeto Singleton: Multithreading & Testes Unitários Expõem os Riscos deste Design Pattern
+JXeJUfBCg4U|1073|Microsserviços: A Maior Armadilha da Arquitetura Moderna | E o Que Domain Driven Design Tem a Ver?
+vRO0UfvsbDw|1825|CACHE-ASIDE: Escalabilidade, Performance e Arquitetura de Software pra Mandar Bem na Entrevista!

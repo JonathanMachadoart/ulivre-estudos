@@ -1,0 +1,79 @@
+#PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR 52fba7e8
+Wm99C_f7Kxw|499|O TREINAMENTO DESCOMPLICANDO O DOCKER ESTÁ GRATUITO! | Não é bait!
+qZevFPMtQho|842|Day-01 - 01 - O que são containers | Descomplicando o Docker
+Hbb5zP-2vTU|652|Day-01 - 02 - O que é o copy on write | Descomplicando o Docker
+V3ILFaE7q0o|446|Day-01 - 03 - Namespace, cgroups e Netfilter | Descomplicando o Docker
+r59eodKRwzk|66|Day-01 - 04 - Um pouco de prática | Descomplicando o Docker
+4XwzR9vXT5s|410|Day-01 - 05 - Instalando o Docker | Descomplicando o Docker
+ms04rvuRyyI|1057|Day-01 - 06 - Primeiros passos 01 | Descomplicando o Docker
+HkFy7HRFkGo|738|Day-01 - 07 - Primeiros passos 02 | Descomplicando o Docker
+4vPmK9aEHug|1083|Day-01 - 08 - Primeiros passos 03 | Descomplicando o Docker
+eXRlBgyQu6g|711|Day-01 - 09 - Primeiros passos 04 | Descomplicando o Docker
+HqLvKPozd0o|172|Day-01 - 10 - Primeiros passos 05 | Descomplicando o Docker
+t6n6sDuH3Rw|224|Day-02 - 01 - Introdução ao Day-2 | Descomplicando o Docker
+5WPekl4XH2M|548|Day-02 - 02 - Volumes do tip bind | Descomplicando o Docker
+TQmUeka6xzA|578|Day-02 - 03 - Volumes do tipo volume | Descomplicando o Docker
+O3fZbot5rtw|908|Day-02 - 04 - Data only e prune | Descomplicando o Docker
+SJtpsE095LI|76|Day-02 - 05 - Desafio sobre Volumes  | Descomplicando o Docker
+8sLRU6cVM3Q|161|Day-02 - 06 - Resposta Desafio | Descomplicando o Docker
+OhgQLTaI4es|361|Day-02 - 07 - Volumes e backup    | Descomplicando o Docker
+bJUccjvkPg4|758|Day-02 - 08 - Dockerfile parte 1  | Descomplicando o Docker
+CSqY_Ofroxc|692|Day-02 - 09 - Dockerfile parte 2  | Descomplicando o Docker
+RE6KoZlLvsI|171|Day-02 - 10 - Dockerfile parte 3  | Descomplicando o Docker
+rlZzKlXRhOE|714|Day-02 - 11 - Dockerfile parte 4  | Descomplicando o Docker
+h3pTSW4p3OU|376|Day-02 - 13 - Dockerfile multistage  | Descomplicando o Docker
+omptRNbu7cg|493|Day-02 - 14 - Dockerfile multistage pt 2  | Descomplicando o Docker
+DX8p6KZdorc|1647|Day-02 - 15 - Images e o commit  | Descomplicando o Docker
+Uj9AgpxNS64|184|Day-02 - 16 - Dockerhub parte 1  | Descomplicando o Docker
+D6rLGiR-luY|405|Day-02 - 17 - Dockerhub parte 2  | Descomplicando o Docker
+kyIDFEqf40o|499|Day-02 - 18 - Registry | Descomplicando o Docker
+0gzkfvjShJA|230|Day-02 - 19 - Registry e banho de cerveja | Descomplicando o Docker
+lSVsez3DJkI|262|Day-03 - 01 - Intro Day-3 | Descomplicando o Docker
+agpu1gtl7wk|685|Day-03 - 02 - Docker Machine - obsoleto | Descomplicando o Docker
+JcgJf6OFLvk|919|Day-03 - 03 - Docker Machine pt2 - obsoleto | Descomplicando o Docker
+ojQUXXea2Bk|761|Day-03 - 04 - Docker Swarm Parte 1 | Descomplicando o Docker
+aGif8R0BWHg|279|Day-03 - 05 - Docker Swarm Parte 2 | Descomplicando o Docker
+9aIYlRSC2Zs|518|Day-03 - 06 - Docker Nodes | Descomplicando o Docker
+oXvXwuAxa4I|715|Day-03 - 07 - Docker Services | Descomplicando o Docker
+p-JGKuFThcA|1191|Day-03 - 08 - Docker Service Volumes | Descomplicando o Docker
+Vwi6w4fKuyU|312|Day-03 - 09 - Desenho Service Volumes | Descomplicando o Docker
+RX_3-aJAa0M|1276|Day-03 - 10 - Docker Service Network | Descomplicando o Docker
+BMSf-qdhaTA|533|Day-03 - 11 - Final Day-3 | Descomplicando o Docker
+mLTqwAXnYg8|2314|Day-04 - 01 - Intro Day-04 | Descomplicando o Docker
+PDiNdjSa1KE|641|Day-04 - 02 - Docker Secrets | Descomplicando o Docker
+aG9H9L6Hbcg|298|Day-04 - 03 - Docker Secrets parte 2 | Descomplicando o Docker
+uHoTBOfgiME|5923|Day-04 - Aula ao Vivo - Traefik | Descomplicando o Docker
+IhoNwQQnePk|1187|Day-04 - 04 - Docker Compose parte 1 | Descomplicando o Docker
+vz5oYhdA0EE|919|Day-04 - 05 - Docker Compose parte 2 | Descomplicando o Docker
+h6uvOofo0Kg|965|Day-04 - 06 - Docker Compose parte 3 | Descomplicando o Docker
+6X99ZZDXt5s|1465|Day-04 - 07 - Docker Compose parte 4 | Descomplicando o Docker
+QFHWJBdOgrE|931|Day-04 - 08 - Docker Compose parte 5 | Descomplicando o Docker
+dtPKx7ncxGg|3058|Day-04 - 09 - Aula ao vivo Docker Compose | Descomplicando o Docker
+#PLfvOpw8k80WpKTtloa7fMbfPWL7D6X5cC 7c853ea6
+ykucnHrhLUU|39|Aprenda como trabalhar com o banco de dados não relacional MongoDB
+T5WsgB-qz1w|497|MongoDB - 01 Como Instalar o Mongo DB
+vbVr1rsPHCU|791|MongoDB - 02 Criando meu primeiro banco de dados
+QBid4n89xCQ|597|MongoDB - 03 Excluindo Bancos e coleções
+dKhr8MVkZr4|815|MongoDB - 04 Inserindo dados em uma coleção
+iyD_5zVV_Wg|572|MongoDB - 05 Inserindo dados em uma coleção via Shell
+Tzutr9-GAV4|1173|MongoDB - 06 Executando consultas no mongoDB Compass
+ja3oGLjigyc|938|MongoDB - 07 Executando consultas no mongoDB Shell
+5Xdc22CsYuA|977|MongoDB - 08 Utilizando operadores nas Consultas
+gzS2R3fFV6o|385|MongoDB - 09 Importando e exportando dados
+ht9rxVYFb-8|1181|MongoDB - 10 Atualizando dados/documentos de uma coleção
+QrJo2S-BK0w|398|MongoDB - 11 Excluindo dados/documentos de uma coleção
+iHA0mr4Dw38|364|MongoDB - 12 Backup de dados: Importando e Exportando coleções
+kG6oAvhYe8I|514|MongoDB - 13 Como Instalar o Mongo Tools
+ipWfBHFen-s|578|MongoDB - 14 Efetuando backup por meio do mongodump e restore por meio do mongorestore
+Racp6BNoECY|453|MongoDB -15 Armazenamento de arquivos
+qW_NxiWKQak|1343|MongoDB - Construindo meu primeiro cluster e banco de dados no MongoDB Atlas
+dFdoXQAFNus|1406|MongoDB - 16 Como utilizar operadores ao efetuar consultas (Find)
+X6syu_o_xcU|1259|MongoDB - 17 Como trabalhar com índices
+PeUYgAzvOgE|2277|MongoDB - Como criar uma CRUD básica em Node.js e JavaScript
+oQgdKC5wCLo|442|CRUD com MongoDB e Node.j: Implementando um Sistema Completo - 1 Estruturando o Sistema
+ioQ8XvPP-4Q|717|CRUD com MongoDB e Node.j: Implementando um Sistema Completo - 2 Variáveis e recursos do MongoDB
+jK8hFAY6LsU|755|CRUD com MongoDB e Node.j: Implementando um Sistema Completo - 3 Conexão com o MongoDB
+fpJbSaWeuf4|849|CRUD com MongoDB e Node.j: Implementando um Sistema Completo - 4 Menu e funcionalidade de listar
+iwRMvbwpIhg|892|CRUD com MongoDB e Node.j: Implementando um Sistema Completo - 5 Parte
+ypml5VcNniA|740|CRUD com MongoDB e Node.j: Implementando um Sistema Completo - 6 Localizar e Aterar Sites
+TXEZudz0s1E|4110|MongoDB: Construindo uma CRUD em PHP

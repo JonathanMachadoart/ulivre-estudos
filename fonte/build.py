@@ -66,6 +66,27 @@ for gi,g in enumerate(C['math']):
 tracks.append(dict(id='mat',name='Matemática',short='MAT',kind='Currículo',color='teal',map=True,
   desc='Uma educação completa em Matemática com materiais abertos, organizada em 6 blocos com pré-requisitos.',
   link='https://github.com/Universidade-Livre/matematica',groups=mg))
+import sys; sys.path.insert(0,D)
+# Full Stack Development (roadmap do Miro, 4 níveis)
+import fs_def
+FPL,FV=fs_def.load(); fg=[{'name':n,'items':[]} for n in fs_def.LEVELS]
+for cid,name,lv,pl,alt,pre,topics,srcs,links in fs_def.COURSES:
+    L=[];seen=set()
+    for kind,ref in srcs:
+        rows=FPL[ref] if kind in('pl','pl-') else [FV[v] for v in ref]
+        if kind=='pl-': rows=rows[::-1]
+        for r in rows:
+            if r[0] in fs_def.SKIP or r[0] in seen: continue
+            seen.add(r[0]); x=int(r[1]); L.append([r[0],(f'{x//3600}:{x%3600//60:02d}:{x%60:02d}' if x>=3600 else f'{x//60}:{x%60:02d}'),r[2]])
+    c=dict(id=cid,name=name,track='fs',g=lv,url='https://www.youtube.com/playlist?list='+pl,pre=pre,L=L,topics=topics,bk=[])
+    if alt: c['alt']=alt
+    if links: c['links']=links
+    courses[cid]=c; fg[lv]['items'].append(cid)
+for cid,t,a,e,d in fs_def.BOOKS:
+    books.append(dict(t=t,a=a,e=e,d=d,isbn='',c=cid)); courses[cid]['bk'].append(len(books)-1)
+tracks.append(dict(id='fs',name='Full Stack Development',short='FS',kind='Currículo',color='gold',map=True,
+  desc='Roadmap de Full Stack em 4 níveis, seguindo o board do Miro: Programador Júnior, Programador Pleno/Sênior, Arquiteto de Software e Arquiteto de Soluções. Cada tópico do board virou um curso com aulas gratuitas no YouTube.',
+  link='https://miro.com/app/board/uXjVG_pQnTE=/',groups=fg))
 colors={'web':'pink','devops':'sky','data':'orange','cyber':'red','emb':'lime','cgx':'purple'}
 shorts={'web':'WEB','devops':'OPS','data':'DADOS','cyber':'SEC','emb':'EMB','cgx':'CG'}
 for s in C['specs']:

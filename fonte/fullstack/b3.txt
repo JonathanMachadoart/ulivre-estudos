@@ -1,0 +1,41 @@
+#PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r 12b5fa50
+Ofktsne-utM|1348|Curso MySQL #01 - O que é um Banco de Dados?
+5JbAOWJbgIA|1426|Curso MySQL #02a - Instalando o MySQL com WAMP
+R2HrwSQ6EPM|671|Curso MySQL #02b - Instalando o XAMPP
+m9YPlX0fcJk|1675|Curso MySQL #03 - Criando o primeiro Banco de Dados
+cHLKtALWDos|1629|Curso MySQL #04 - Melhorando a Estrutura do Banco de Dados
+U_A2kwUfmlw|295|Seja APOIADOR e receba RECOMPENSAS
+NCG9niOlm40|1543|Curso MySQL #05 - Inserindo Dados na Tabela (INSERT INTO)
+To9qUcEMuY0|1859|Curso MySQL #06 - Alterando a Estrutura da Tabela (ALTER TABLE e DROP TABLE)
+wXViczeTr6Q|1621|Curso MySQL #07 - Manipulando Linhas (UPDATE, DELETE e TRUNCATE)
+w6OYS_M7hTM|1058|Curso MySQL #08 - Gerenciando Cópias de Segurança MySQL
+OaPMvrA0cA4|1019|Curso MySQL #09 - PHPMyAdmin (Parte 1)
+EC_1ZtXsUtA|1763|Curso MySQL #10 - PHPMyAdmin (Parte 2)
+GaOlyL3Uv9M|2071|Curso MySQL #11 - SELECT (Parte 1)
+q4hPo83-Buo|2294|Curso MySQL #12 - SELECT (Parte 2)
+ocyVJ9gRUaE|1751|Curso MySQL #13 - SELECT (Parte 3)
+8fxKJWJcRTw|2425|Curso MySQL #14 - Modelo Relacional
+paZNDJAPT4E|2444|Curso MySQL #15 - Chaves Estrangeiras e JOIN
+jx2ne8iZMOA|1684|Curso MySQL #16 - INNER JOIN com várias tabelas
+uZImRLpJunA|2005|Dia do Programador: alguns GRANDES Programadores da História
+#PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA cdef8289
+xEKo29OWILE|1826|O que é Git? O que é versionamento? - Curso de Git e GitHub
+hcZ0qtwvN1w|2260|O que é GitHub? Pra que ele serve? - Curso de Git e GitHub
+CJtrNuTTs4Q|2607|A Evolução do Git e GitHub - Curso de Git e GitHub
+gMh6lrXibWY|2017|Instalações e configurações importantes - Curso de Git e GitHub
+5BYm7UdCrX0|2062|Criando o primeiro Repositório - Curso de Git e GitHub
+CSyEYiG8sFI|2618|Instalando GitHub Desktop no Linux - Curso de Git e GitHub
+OlArEishhQg|1655|Clonando um Repositório - Curso de Git e GitHub
+065NQCDSMb0|1636|Versionando seus projetos antigos - Curso de Git e GitHub
+mUZOySyVcuQ|2448|Você sabe usar Issues? - Curso de Git e GitHub
+LntSB-gl-ZI|3092|Guia da Linguagem Markdown - Curso de Git e GitHub
+bsI6P_IM_hg|1945|Seu GitHub muito mais seguro - Curso de Git e GitHub
+xAOBQtSVI_k|2977|Git Branches de forma fácil e com exemplo - Curso de Git e GitHub
+2Y0HXnYpn9E|2155|Hospedagem Grátis no GitHub Pages - Curso de Git e GitHub
+#PLx6gdu4s3nkceYGr8i4H0necTuN_gx8H_ 3ad6e78d
+e5OS6EPnN3w|855|Protocolo HTTP: Conheça o que é e o como é o seu funcionamento
+udca-FJma4g|581|HTTPie Tutorial: Guia básico para Usar essa Ferramenta HTTP
+CVq0TN1DqU0|957|HTTP Tutorial:  Como o método GET funciona com HTTPie
+-50uDb_hExw|587|Idempotência no HTTP: Conceito e Aplicação aos Métodos do Protocolo
+v2yXdMnRORQ|703|Método POST: Descubra como usar esse método do protocolo HTTP
+dagGES1XBfg|672|Http Tutorial: como usar os métodos DELETE e PUT com o HTTPie

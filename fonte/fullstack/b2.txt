@@ -1,0 +1,89 @@
+#PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi 93d445ab
+N3K8PjFOhy4|703|Estrutura de Dados e Algoritmos com Java #01: Introdução
+K5kaYF4ePS0|817|Estrutura de Dados e Algoritmos com Java #02: Vetores e Arrays: Introdução
+LeqFa8Gmf0c|909|Estrutura de Dados e Algoritmos com Java #03: Vetores e Arrays: Adicionar elemento no final do vetor
+VyOihAHcigY|511|Estrutura de Dados e Algoritmos com Java #04: Vetores e Arrays: tamanho e imprimir elementos
+SiIhY6mj2xk|414|Estrutura de Dados e Algoritmos com Java #05: Vetores e Arrays: Obter elemento de uma posição
+oWP0UBepjVI|389|Estrutura de Dados e Algoritmos com Java #06: Vetores e Arrays: Verificar se elemento existe
+HwWrry48GII|1091|Estrutura de Dados e Algoritmos com Java #07: Vetores e Arrays: Add elemento em qualquer posição
+LfeHU9Z09sA|587|Estrutura de Dados e Algoritmos com Java #08: Vetores e Arrays: Aumentar capacidade do vetor
+_nZvr7-njEU|932|Estrutura de Dados e Algoritmos com Java #09: Vetores e Arrays: Remover elemento
+SgPkuX4_IEo|725|Estrutura de Dados e Algoritmos com Java #10: Vetores e Arrays: Generalizar o tipo do vetor
+9CEnlGWAyFU|846|Estrutura de Dados e Algoritmos com Java #11: Vetores e Arrays: Configurar tipo dinamicamente
+8gAyHJKugGw|827|Estrutura de Dados e Algoritmos com Java #12: Vetores e Arrays: API Java: ArrayList
+J3XJoCUeImg|303|Estrutura de Dados e Algoritmos com Java: Vetores e Arrays: Exer 01 método contém
+7xr6HyFg1GA|430|Estrutura de Dados e Algoritmos com Java: Vetores e Arrays: Exer 02 método último Indice
+a9SiXAS0fFE|280|Estrutura de Dados e Algoritmos com Java: Vetores e Arrays: Exer 03 método remove elemento
+pn8qGR3_D-8|216|Estrutura de Dados e Algoritmos com Java: Vetores e Arrays: Exer 04 método obtém (get)
+txIDfJIDQeY|396|Estrutura de Dados e Algoritmos com Java: Vetores e Arrays: Exer 05 remover todos elementos (clear)
+eUKloM_EUyg|2435|Estrutura de Dados e Algoritmos com Java: Vetores e Arrays: Exer 06 Contatos - Lista
+Uc5VO2s8XRs|525|Estrutura de Dados e Algoritmos com Java: Vetores e Arrays: Exer 07 Contatos - ArrayList
+ZdU4wMyiTSs|965|Estrutura de Dados e Algoritmos com Java #13: Pilhas: Introdução
+W1ii9DHFvrw|559|Estrutura de Dados e Algoritmos com Java #14: Pilhas: Empilhar elemento (push)
+LoNLVQegbC4|185|Estrutura de Dados e Algoritmos com Java #15: Pilhas: Verificar se pilha está vazia
+1G0T4jYgz9A|287|Estrutura de Dados e Algoritmos com Java #16: Pilhas: Espiar/Verificar elemento do topo (peek)
+Oo_Wq8vxMNc|452|Estrutura de Dados e Algoritmos com Java #17: Pilhas: Desempilhar elemento (pop)
+nATNxIgrEM4|313|Estrutura de Dados e Algoritmos com Java #18: Pilhas: API Java: Stack
+WOcJ-j6lYsA|496|Estrutura de Dados e Algoritmos com Java: Pilhas: Exer 01 Empilha e desempilha
+zixUy2d1UWk|534|Estrutura de Dados e Algoritmos com Java: Pilhas: Exer 02 Pilhas par ou ímpar
+hCmdq00Liak|563|Estrutura de Dados e Algoritmos com Java: Pilhas: Exer 03 Pilha de Livros
+4of7e4VmXfA|273|Estrutura de Dados e Algoritmos com Java: Pilhas: Exer 04 Stack de Livros
+bOZaXWrycPE|609|Estrutura de Dados e Algoritmos com Java: Pilhas: Exer 05 Desafio do Palíndromo
+48cA5eoPLVE|885|Estrutura de Dados e Algoritmos com Java: Pilhas: Exer 06 Desafio dos símbolos balanceados
+92dntzvTxbc|701|Estrutura de Dados e Algoritmos com Java: Pilhas: Exer 07 Desafio conversão decimal-binário
+nx_Gf8OPrac|584|Estrutura de Dados e Algoritmos com Java: Pilhas: Exer 08 Desafio Torre de Hanoi
+RdoLTgJSV_c|555|Estrutura de Dados e Algoritmos com Java #19: Filas: Introdução
+O9G327kdtWg|449|Estrutura de Dados e Algoritmos com Java #20: Filas: Enfileirar (adicionar) elemento (enqueue)
+BPwgfC61ajM|198|Estrutura de Dados e Algoritmos com Java #21: Filas: Espiar/Verificar elemento início da fila (peek)
+CCtozhD2fKQ|370|Estrutura de Dados e Algoritmos com Java #22: Filas: Desenfileirar (remover) elemento (dequeue)
+gtSoQs7TSnQ|420|Estrutura de Dados e Algoritmos com Java #23: Filas: API Java: Queue
+KNhC4Bo2rIw|852|Estrutura de Dados e Algoritmos com Java #24: Filas com Prioridade
+tAnXS9YyHAU|593|Estrutura de Dados e Algoritmos com Java #25: Filas: API Java: PriorityQueue
+_lq2X9VjOYs|334|Estrutura de Dados e Algoritmos com Java: Filas: Exer 01 Impressão de Documentos
+uji39b1H2ps|428|Estrutura de Dados e Algoritmos com Java: Filas: Exer 02 Fila de Atendimento
+siOM8RXimEA|1010|Estrutura de Dados e Algoritmos com Java: Filas: Exer 03 Simulação de Pronto Socorro
+-TP_VR49QxU|422|Estrutura de Dados e Algoritmos com Java: Filas: Exer 04 Brincadeira Batata Quente
+RW0oD2L_tSg|1153|Estrutura de Dados com Java | Lista Encadeada | Introdução
+uMjvpoeKp70|202|Estrutura de Dados com Java | Lista Encadeada | 02: Tamanho da Lista
+Laa5jctwTm8|774|Estrutura de Dados com Java | Lista Encadeada | 03: Inserir no Final
+_mXICwoZGf8|803|Estrutura de Dados com Java | Lista Encadeada | 04: Percorrer a Lista
+a4PxWvFppmM|615|Estrutura de Dados com Java | Lista Encadeada | 05: Limpar a Lista
+YnXOOgogYb0|1368|Estrutura de Dados com Java | Lista Encadeada | 06: Buscar por Elemento ou Posição na Lista
+9rF_3CnSDoM|1022|Estrutura de Dados com Java | Lista Encadeada | 07: Adicionar Elemento em qualquer posição da lista
+QKNejhGhse0|470|Estrutura de Dados com Java | Lista Encadeada | 08: Remover Elemento do Início da Lista
+XrGifTawp8Y|644|Estrutura de Dados com Java | Lista Encadeada | 09: Remover Elemento do Final da Lista
+qwVfi1GUIXY|833|Estrutura de Dados com Java | Lista Encadeada | 10: Remover Elemento de qualquer posição
+zIdnzNP3XT4|293|Estrutura de Dados com Java | Lista Encadeada | 11: API LinkedList e Conclusão do Curso
+#PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY 81558910
+KlIL63MeyMY|2279|Curso POO Teoria #01a - O que é Programação Orientada a Objetos
+Ucyx_QPfDng|559|Curso POO Java #01b - Instalando o JDK e NetBeans
+aR7CKNFECx0|1800|Curso POO Teoria #02a - O que é um Objeto?
+wNaoX6VOj54|1238|Curso POO Java #02b - Criando Classes e Objetos em Java
+U_A2kwUfmlw|295|Seja APOIADOR e receba RECOMPENSAS
+jFI-qqitzwk|1121|Curso POO Teoria #03a - O que é Visibilidade em um Objeto?
+LV2243j4RTQ|915|Curso POO Java #03b - Configurando Visibilidade de Atributos e Métodos
+g2x9oyBFSco|1485|Curso POO Teoria #04a - Métodos Especiais
+6i-_R5cAcEc|1131|Curso POO Java #04b - Métodos Getter, Setter e Construtor
+ull_DVFFOq0|2124|Curso POO Teoria #05a - Exemplo Prático com Objetos
+hOC461osYgk|1767|Curso POO Java #05b - Exemplo Prático em Java
+1wYRGFXpVlg|2257|Curso POO Teoria #06a - Pilares da POO: Encapsulamento
+x4JfzV0Wb5w|1506|Curso POO Java #06b - Encapsulamento
+GLHbxDU9iBA|2125|Curso POO Teoria #07a - Relacionamento entre Classes
+BfrbCQ3XcrA|1648|Curso POO Java #07b - Objetos Compostos em Java
+ERdvijGtrq0|1649|Curso POO teoria #08a - Relacionamento de Agregação
+8R9RpqpXI_c|1246|Curso POO Java #08b - Agregação entre Objetos com Java
+TaqBuubOBgI|1488|Curso POO Teoria #09 - Exercícios de POO
+xgqrkCcH6Ko|1238|Curso POO Java #09b - Exercício prático POO em Java
+_PZldwo0vVo|1108|Curso POO Teoria #10a - Herança (Parte 1)
+19IGAeoFKlU|897|Curso POO Java #10b - Herança (Parte 1)
+He887D2WGVw|1488|Curso POO Teoria #11a - Herança (Parte 2)
+5pwV2WdD-_Y|1124|Curso POO Java #11b - Herança (Parte 2)
+9-3-RMEMcq4|1723|Curso POO Teoria #12a - Conceito Polimorfismo (Parte 1)
+NctjqlfKC0U|1097|Curso POO Java #12b - Polimorfismo em Java (Parte 1)
+hYek1xqWzgs|1215|Curso POO Teoria #13a - Conceito Polimorfismo (Parte 2)
+b7xGYh3NHZU|1125|Curso POO Java #13b - Polimorfismo Sobrecarga (Parte 2)
+SgubvKWfHKo|1431|Curso POO conceito #14a - Exercícios de POO (Parte 2)
+_5ZUatkzRsM|1154|Curso POO Java #14b - Projeto Final em Java (Parte 1)
+h2T5cktV79w|1280|Curso POO conceito #15a - Exercícios de POO (Parte 3)
+LSEz2GQtP0E|932|Curso POO Java #15b - Projeto Final em Java (Parte 2)
+-zY6eTiKF0I|523|Acabou POO, vem aí CURSO DE PYTHON!

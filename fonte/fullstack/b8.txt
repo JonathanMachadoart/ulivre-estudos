@@ -1,0 +1,36 @@
+#PLNCSWIsR6ADKdmgkzm4qluf5psqJ6i3JQ b8fd2ecb
+5qUvI58eFr8|2777|A REAL DIFERENÇA entre VERCEL x HOSTINGER x AWS x ORACLE
+pOFToA0Upek|566|O que é uma CDN? Para que serve a CDN?
+df_WMXk7JxE|5493|TUTORIAL PIPELINE DE CI/CD com GITHUB ACTIONS | Automatize seus deploys
+DdoncfOdru8|2655|APRENDA DOCKER DO ZERO | TUTORIAL COMPLETO COM DEPLOY
+ZWor5luY_Q4|478|A REAL diferença entre DOCKER e MÁQUINAS VIRTUAIS
+D_ha0g9yS2E|854|Aprenda Docker Compose em 15 minutos | Tutorial Docker Compose
+gd_cUmwzgEM|3067|APRENDA NGINX DO ZERO | Curso de NGINX em 1 HORA
+BslJdgv_I2c|2203|Criando Infra na AWS com Terraform (IaC)
+RCacN_-MKPc|2223|Criando aplicação Serverless com AWS Lambda - Tutorial COMPLETO
+#PL9zNGy7HsKm6t2Nlcwrv3wOV6yU_8W8s4 77cb8b92
+Gn4WgS4jd1U|229|Parte 1 - Evolução da tecnologia até a Cloud Computing | EM 3 MINUTOS
+j2phsVPT6eI|121|Parte 2 - O que é a Cloud  Computing | Por que ela mudou tudo | EM 2 MINUTOS
+URGgqEHZc8o|267|Parte 3 - Diferença entre SaaS, PaaS e IaaS | Entenda os modelos de nuvem com pizza| EM 4 MINUTOS
+bcYmXVpbDT4|353|Parte 4 - Por que usar Cloud? 6 Benefícios da AWS | EM 5 MINUTOS
+ukdZ794Qu8I|400|Parte 5 - Zonas de disponibilidade (AZs) | Como a AWS funciona mesmo quando falha | EM 6 MINUTOS
+hf4w9WfJkDA|382|Parte 6 - Serverless | O que é e como funciona na prática (com exemplos simples)
+xeMPnPktspQ|437|Parte 7 - Redes na AWS | VPC, Subnet, IGW, NAT, PrivateLink, Direct Connect
+#PLNHxHgB-_LTusKqdWaZJtRbcqEMXPZXtw 6a9371c0
+8Z8JAtEEan0|1817|CQRS: O PADRÃO ARQUITETURAL QUE TODO PROGRAMADOR PRECISA CONHECER!
+voeWcHeYzLI|1493|DUAL WRITE | O PROBLEMA QUE MAIS REPROVA PROGRAMADORES NAS ENTREVISTAS!
+uiT4oK19hu4|2225|SERVER-SENT EVENTS: Aprenda a Construir Sistemas que se Comunicam em Tempo Real
+GwK9hxNS7l4|2936|ARQUITETANDO O PLACAR AO VIVO DA COPA DO MUNDO | System Design
+hhy6EDDjy-o|2334|LOAD BALANCING NA PRÁTICA: Tudo que Você Precisa pra Escalar Sistemas na Vida Real!
+i98cIh6x_CI|1288|O LIVRO QUE TODO PROGRAMADOR PRECISA LER!
+qMPfjCH3qQU|2699|ARQUITETANDO O GOOGLE DRIVE NA PRÁTICA | SYSTEM DESIGN
+3XSijmIZxXU|2992|ARQUITETANDO O TICKETMASTER NA PRÁTICA | SYSTEM DESIGN
+VW2mywTTz80|2313|O QUE NINGUÉM TE ENSINOU SOBRE ARMAZENAR SENHAS NO BANCO DE DADOS!
+JBivKeZVex0|2998|ARQUITETANDO O YOUTUBE NA PRÁTICA | SYSTEM DESIGN
+8xFBQc1A4B8|2509|Arquitetura Orientada a Eventos | O Guia Completo para ESCALAR MICROSSERVIÇOS do Jeito Certo!
+xJllDyCIyws|2625|Aprenda a Escalar Bancos de Dados Usando SHARDING | System Design & Arquitetura de Software
+m_anIoKW7Jg|2877|Arquitetando um Encurtador de URL: O Maior Desafio dos Programadores em Entrevistas de System Design
+bhw4-Kq_RPs|2693|Como Escolher o Banco de Dados Correto pra sua Aplicação | System Design & Arquitetura de Software
+9g7twJrXqoY|2357|System Design: Escalando uma Arquitetura do Zero a Um Milhão de Usuários | Arquitetura de Software
+vRO0UfvsbDw|1825|CACHE-ASIDE: Escalabilidade, Performance e Arquitetura de Software pra Mandar Bem na Entrevista!
+JXeJUfBCg4U|1073|Microsserviços: A Maior Armadilha da Arquitetura Moderna | E o Que Domain Driven Design Tem a Ver?

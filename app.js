@@ -195,7 +195,7 @@ function pTrack(){
   const counts={all:st.n,avail:0,doing:0,done:0,locked:0};t.groups.forEach(g=>g.items.forEach(id=>counts[status(id)]++));
   const VL={list:["list","Lista"],board:["board","Quadro"],map:["map","Mapa"]};
   let h=`<div class="th" style="--tc:${tcolor(t.id)}"><div class="th-l"><span class="trk-ic">${t.short}</span><div style="min-width:0"><h1 class="ph">${esc(t.name)}</h1><p class="sub desc">${esc(t.desc)}</p></div></div>
-    <div class="th-r"><span class="k"><b class="num" style="color:var(--ink)">${st.done}/${st.n}</b> cursos · <span class="num">${st.lw}/${st.ln}</span> aulas</span><span class="bar"><i style="width:${st.pct*100}%;background:var(--tc)"></i></span><a class="hint" href="${t.link}" target="_blank" rel="noopener">Fonte no GitHub ↗</a></div></div>
+    <div class="th-r"><span class="k"><b class="num" style="color:var(--ink)">${st.done}/${st.n}</b> cursos · <span class="num">${st.lw}/${st.ln}</span> aulas</span><span class="bar"><i style="width:${st.pct*100}%;background:var(--tc)"></i></span><a class="hint" href="${t.link}" target="_blank" rel="noopener">Fonte no ${t.link.includes("miro.com")?"Miro":"GitHub"} ↗</a></div></div>
     <div class="toolbar"><div class="views" role="group" aria-label="Visualização">${views.map(x=>`<button data-view="${x}" aria-pressed="${x===v}">${ico(VL[x][0])}${VL[x][1]}</button>`).join("")}</div>
     ${v!=="board"?`<div class="chips" role="group" aria-label="Filtrar">${[["all","Todos"],["avail","Disponíveis"],["doing","Cursando"],["done","Concluídos"],["locked","Bloqueados"]].filter(([k])=>k==="all"||counts[k]||k===filt).map(([k,l])=>`<button class="chip" data-filt="${k}" aria-pressed="${filt===k}">${l}<span class="n">${counts[k]}</span></button>`).join("")}</div>`:""}</div>`;
   h+= v==="list"?listView(t):v==="board"?boardView(t):mapView(t);
@@ -265,9 +265,9 @@ function renderDrawer(){
   <div class="dr-head"><h2>${esc(c.name)}</h2><div class="props">
     <span class="k">Status</span><span><button class="pill" data-s="${s}" data-stat="${sel}">${LABEL[s]}</button></span>
     <span class="k">Progresso</span><span style="display:flex;align-items:center;gap:8px"><span class="bar" style="width:140px"><i style="width:${st.pct*100}%"></i></span><span class="num hint">${c.L.length?`${st.w}/${st.n} aulas${st.left?` · ${fmtH(st.left)} restantes`:""}`:c.ext?"curso externo":"sem aulas listadas"}</span></span>
-    ${t.map?`<span class="k">Pré-requisitos</span><span class="rel">${relBtns(c.pre)}</span><span class="k">Libera</span><span class="rel">${relBtns(c.deps)}</span>`:`<span class="k">Conteúdos</span><span>${esc(c.topics||"—")}</span>`}
+    ${t.map?`<span class="k">Pré-requisitos</span><span class="rel">${relBtns(c.pre)}</span><span class="k">Libera</span><span class="rel">${relBtns(c.deps)}</span>${c.topics?`<span class="k">Conteúdos</span><span>${esc(c.topics)}</span>`:""}`:`<span class="k">Conteúdos</span><span>${esc(c.topics||"—")}</span>`}
     ${c.dur||c.ded?`<span class="k">Carga sugerida</span><span>${esc([c.dur,c.ded].filter(Boolean).join(" · "))}</span>`:""}
-    <span class="k">Links</span><span class="rel"><a class="btn sm" href="${c.url}" target="_blank" rel="noopener">${c.ext?"Abrir curso":"Playlist"} ↗</a>${c.alt?`<a class="btn sm" href="${c.alt}" target="_blank" rel="noopener">Alternativa ↗</a>`:""}</span>
+    <span class="k">Links</span><span class="rel"><a class="btn sm" href="${c.url}" target="_blank" rel="noopener">${c.ext?"Abrir curso":"Playlist"} ↗</a>${c.alt?`<a class="btn sm" href="${c.alt}" target="_blank" rel="noopener">Alternativa ↗</a>`:""}${(c.links||[]).map(([l,u])=>`<a class="btn sm" href="${u}" target="_blank" rel="noopener">${esc(l)} ↗</a>`).join("")}</span>
   </div></div>
   <div class="tabs" role="tablist">${tabs.map(([k,l,n])=>`<button role="tab" data-tab="${k}" aria-selected="${dtab===k}">${l}${n?`<span class="n">${n}</span>`:""}</button>`).join("")}</div>
   <div class="dr-body" id="drBody">${drawerBody(c)}</div>`;
@@ -535,7 +535,7 @@ function pShelf(){
   const q=norm(bq);const byC={};
   BOOKS.forEach((b,i)=>{const s=S.books["b"+i];if(bf==="free"?!b.free:bf!=="all"&&s!==bf)return;if(q&&!norm(b.t+" "+b.a+" "+C[b.c].name).includes(q))return;(byC[b.c]=byC[b.c]||[]).push(i);});
   const ids=Object.keys(byC);
-  return `<div><h1 class="ph">Estante</h1><p class="sub">Os ${BOOKS.length} livros recomendados pela ULivre para as cadeiras de Ciência da Computação. Clique num livro para ver onde ler: ${BOOKS.filter(b=>b.free).length} têm versão gratuita oficial e os demais podem ser encontrados em prévia, empréstimo, bibliotecas ou sebos.</p></div>
+  return `<div><h1 class="ph">Estante</h1><p class="sub">Os ${BOOKS.length} livros recomendados nos currículos (Ciência da Computação e Full Stack). Clique num livro para ver onde ler: ${BOOKS.filter(b=>b.free).length} têm versão gratuita oficial e os demais podem ser encontrados em prévia, empréstimo, bibliotecas ou sebos.</p></div>
     <div class="toolbar"><div class="chips">${[["all","Todos"],["free","Grátis"],["want","Quero ler"],["reading","Lendo"],["read","Lidos"]].map(([k,l])=>`<button class="chip" data-bf="${k}" aria-pressed="${bf===k}">${l}<span class="n">${cnt[k]}</span></button>`).join("")}</div><input class="field" id="bq" type="search" placeholder="Buscar título, autor ou cadeira…" value="${esc(bq)}" style="max-width:320px;margin-left:auto" aria-label="Buscar livros"></div>
     ${ids.map(cid=>`<div class="shelf-g"><h3><a href="#" data-open="${cid}" style="color:var(--ink);text-decoration:none">${esc(C[cid].name)}</a><span class="hint">${esc(TR[C[cid].track].groups[C[cid].g].name)}</span></h3><div class="shelf">${byC[cid].map(bookCard).join("")}</div></div>`).join("")||`<div class="card"><div class="empty">Nenhum livro nesta seleção.</div></div>`}`;
 }
@@ -579,7 +579,7 @@ function onbSteps(){
       links:[["Aprendendo a aprender (Coursera)","https://pt.coursera.org/learn/aprender"],["Como estudar do jeito certo","https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s"]],done:!!d.aprender},
     {k:"git",t:"Configure o Git e o GitHub",p:"Use o Git para organizar seus projetos de estudo e o GitHub como portfólio. Publique só o que os cursos permitem, e nunca plagie.",
       links:[["Git e GitHub para iniciantes","https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A"],["Git e GitHub (Curso em Vídeo)","https://www.cursoemvideo.com/curso/curso-de-git-e-github/"]],done:!!d.git},
-    {k:"trilha",t:"Escolha suas trilhas",p:"Ciência da Computação e Matemática são os currículos completos. As especializações aprofundam uma área depois da formação geral.",trilha:true,done:S.plan.tracks.length>0&&!!d.trilha},
+    {k:"trilha",t:"Escolha suas trilhas",p:"Ciência da Computação, Matemática e Full Stack Development são os currículos completos. As especializações aprofundam uma área depois da formação geral.",trilha:true,done:S.plan.tracks.length>0&&!!d.trilha},
     {k:"plano",t:"Monte seu plano",p:"Diga quantas horas por semana você tem e veja quando cada etapa termina.",go:"plano",done:!!d.plano},
     {k:"comunidade",t:"Entre na comunidade",p:"Estudar sozinho não é estudar isolado. Apresente-se no Telegram, tire dúvidas e encontre grupos de estudo.",
       links:[["Telegram da ULivre","https://t.me/universidadebrasileiralivre"],["Issues do currículo","https://github.com/Universidade-Livre/ciencia-da-computacao/issues"]],done:!!d.comunidade},

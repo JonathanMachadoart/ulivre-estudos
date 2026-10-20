@@ -1,0 +1,88 @@
+#PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W 2933b69e
+8G80nuEyDN4|4708|O Guia +Hardcore de Introdução à COMPUTAÇÃO
+hYJ3dvHjeOE|5241|Aprendendo sobre Computadores com Super Mario (do jeito Hardcore++)
+G4MvFT8TGII|2743|O Computador de Turing e Von Neumann | Por que calculadoras não são computadores?
+vUqLLpUJ47s|2227|Introdução a Videogames e Emuladores
+oSCVb4Ts-G4|1857|Qual a REAL diferença entre Arquivos Binário e Texto?? 🤔
+Gp2m8ZuXoPg|4162|Hello World Como Você Nunca Viu! | Entendendo C
+YyWMN_0g3BQ|3545|O que vem DEPOIS do Hello World | Consertando meu C
+9GdesxWtOgs|3461|Árvores: O Começo de TUDO | Estruturas de Dados e Algoritmos
+cTVXKfYOYxo|2952|Só Precisamos de 640 kB de Memória? | 16-bits até 64-bits!
+JEp7ozWqIps|4525|A Longa História de CPUs e GPUs | Jogos de Windows em Linux??
+SNyh-cubxaU|4305|Linguagem Compilada vs Interpretada | Qual é melhor?
+_7nISfpofec|4482|Fiz um servidor de "SQL"?? | Entendendo Banco de Dados
+#PLdsnXVqbHDUd17xLINVEXhJ32RxbzCEWV ebf8bd49
+suSvMnNwV-8|2627|Entendendo Apple, GPL e Compiladores
+brIQSA8FtDo|3224|Falando um pouco de MAC, LINUX e WINDOWS | Qual eu devo escolher?
+epiyExCyb2s|4818|O Guia DEFINITIVO de UBUNTU para Devs Iniciantes
+28jHuWBi72w|4439|Entendendo WSL 2 | E uma curta história sobre Windows NT
+sjrW74Hx5Po|4424|O Melhor Setup Dev com Arch e WSL2
+kz3649U2sJY|1422|Turing Complete, Emuladores e o Chip ARM M1
+unpJgmjTLEg|1102|Top 3 Distros Linux | Qual Recomendo?
+#PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV 31c92cf6
+6nN2EglOqCM|287|Curso de Linux - Primeiros Passos - Trailer
+R_8l3xj3QEg|1911|Onde o Linux pode ser usado? - Curso Linux #01
+qs_NZXmVUr0|2502|De onde veio o Linux? O que é software livre? - Curso Linux #02
+-cR-0Ggi3B4|2027|Licenças e Liberdades: é importante saber - Curso Linux #03
+ZhLjvy23rrs|1884|Instalando Linux Mint - Curso Linux #04
+EgPxsHGxspA|1489|Pendrive Linux com Etcher - Curso Linux #04.2
+7KsdRHwO2Sk|2015|Conhecendo o Ambiente do Linux Mint - Curso Linux #05
+L79u8csXwBU|1469|Instalação básica de programas no Linux - Curso Linux #06.1
+HlbrYQqyXpg|1473|Instalação avançada de programas no Linux - Curso Linux #06.2
+mgs92GtkQCE|1942|Terminal no Linux - Introdução - Curso Linux #07.1
+kK6eBHSxAgA|1820|Terminal no Linux - Manipulando diretórios - Curso Linux #07.2
+7XQ3Qt7EuWg|1829|Terminal Linux - Referência Global - Curso Linux #08
+GEU0tmpjVfM|1992|Manipulação de Arquivos com Linux - Curso Linux #09
+Ntg1JfjEAd4|1667|Uso de pendrives e HDs externos no Linux - Curso Linux #10
+#PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV 6a000fcf
+8mei6uVttho|848|Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara
+M2Af7gkbbro|2147|Primeiro Algoritmo - Curso de Algoritmos #02 - Gustavo Guanabara
+RDrfZ-7WE8c|1908|Comando de Entrada e Operadores - Curso de Algoritmos #03 - Gustavo Guanabara
+U_A2kwUfmlw|295|Seja APOIADOR e receba RECOMPENSAS
+Ig4QZNpVZYs|1601|Operadores Lógicos e Relacionais - Curso de Algoritmos #04 - Gustavo Guanabara
+GrPkuk1ezyo|1497|Introdução ao Scratch - Curso de Algoritmos #05 - Gustavo Guanabara
+v2nCgGSVCeE|1590|Exercícios de Algoritmo Resolvidos - Curso de Algoritmos #06 - Gustavo Guanabara
+_g05aHdBAEY|1655|Estruturas Condicionais 1 - Curso de Algoritmos #07 - Gustavo Guanabara
+7gGFHzqh4d8|1462|Estruturas Condicionais 2 - Curso de Algoritmos #08 - Gustavo Guanabara
+U5PnCt58Q68|1871|Estruturas de Repetição 1 - Curso de Algoritmos #09 - Gustavo Guanabara
+fP49L1i_-HU|1799|Estruturas de Repetição 2 - Curso de Algoritmos #10 - Gustavo Guanabara
+WJQz20i7CyI|1553|Estruturas de Repetição 3 - Curso de Algoritmos #11 - Gustavo Guanabara
+KoNehy7rn8U|2068|Procedimentos - Curso de Algoritmos #12 - Gustavo Guanabara
+-nNx7e8GzHQ|2169|Funções - Curso de Algoritmos #13 - by Gustavo Guanabara
+j9473xQ39vY|2549|Vetores - Curso de Algoritmos #14 - Gustavo Guanabara
+hkE9WrjpAAk|2329|Matrizes - Curso de Algoritmos #15 - Gustavo Guanabara
+uZImRLpJunA|2005|Dia do Programador: alguns GRANDES Programadores da História
+#PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1 b68c92a3
+1-w1RfGIov4|71|Curso de JavaScript - Teaser
+BXqUH86F-kA|198|Curso Grátis de JavaScript Moderno
+uzEhd3Lugik|380|Módulo A - Conhecendo o JavaScript
+Ptbk2af68e8|1730|O que o JavaScript é capaz de fazer? - Curso JavaScript #01
+rUTKomc2gG8|1487|JavaScript: como chegamos até aqui? - Curso JavaScript #02
+FdePtO5JSd0|1972|Dando os primeiros passos - Curso JavaScript #03
+OmmJBfcMJA8|1455|Criando o seu primeiro script - Curso JavaScript #04
+FjT97HVT5g8|140|Módulo B - Comandos Básicos do JavaScript
+Vbabsye7mWo|1901|Variáveis e Tipos Primitivos - Curso JavaScript #05
+OJgu_KCCUSY|2356|Tratamento de dados - Curso JavaScript #06
+hZG9ODUdxHo|1531|Operadores (Parte1) - Curso JavaScript #07
+BP63NhITvao|1466|Operadores (Parte 2) - Curso JavaScript #08
+H80nCKs9c2k|122|Módulo C - Entendendo o DOM
+WWZX8RWLxIk|1685|Introdução ao DOM - Curso JavaScript #09
+wWnBB-mZIvY|1734|Eventos DOM - Curso JavaScript #10
+uPFasdmZHJc|138|Módulo D - Condições em JavaScript
+cOdG4eACN2A|1650|Condições (Parte 1) - Curso JavaScript #11
+EEStcIe8rAM|1760|Condições (Parte 2) - Curso JavaScript #12
+b2K7eo5Jdj8|883|Exercícios JavaScript (Parte 1) - Curso JavaScript
+UXSWgnbSHxs|1058|Exercícios JavaScript (Parte 2) - Curso JavaScript
+f5es-PpaUI8|1368|Exercícios JavaScript (Parte 3) - Curso JavaScript
+3emz6rpcJyA|152|Módulo E - Repetições em JavaScript
+5rZqYPKIwkY|1206|Repetições (Parte 1) - Curso JavaScript #13
+eX-lkN_Zahc|1197|Repetições (Parte 2) - Curso JavaScript #14
+6tyHypeY4-8|657|Exercícios JavaScript (Parte 4) - Curso JavaScript
+oMNbc_LFz8w|1136|Exercícios JavaScript (Parte 5) - Curso JavaScript
+mfHAQ-4Rspw|767|Exercícios JavaScript (Parte 6) - Curso JavaScript
+5m4UhZd-Les|160|Módulo F - Avançando os estudos em JavaScript
+XdkW62tkAgU|1989|Variáveis Compostas - Curso JavaScript #15
+mc3TKp2XzhI|1584|Funções - Curso JavaScript #16
+vEOEZ03ZyiE|1004|Exercícios JavaScript (Parte 7) - Curso JavaScript
+slLoLLCd-k0|943|Exercícios JavaScript (Parte 8) - Curso JavaScript
+roP93FA-NgU|1259|Próximos Passos - Curso JavaScript #17

@@ -1,0 +1,131 @@
+#PLeKXYyZCJHxeEeta6ddgqUagLp_Oo_kAx e3c8aa12
+YvbREfT1YeI|604|#01 - A postura correta para encarar um código legado
+zi-TEhaxWk8|671|#02 - Como investigar um código legado
+NW9VlojTl6k|577|#03 - Como delimitar as fronteiras de um sistema legado
+UvmZBBafELY|461|#04 - Desatando os nós do sistema legado
+qgjnVwD7FaU|1050|#05 - Como usar testes automatizados para quebrar o código que funciona
+TUcujjrODwo|448|#06 - Como implantar um código novo em um sistema legado
+vruZt-uX2ZU|509|#07 - Criando novas features para um projeto legado com segurança
+5Fo7DslEZTg|464|#08 - Como ampliar a capacidade do projeto legado sem quebrar nada
+lNTog38daKQ|633|#09 - Como reduzir o débito técnico para garantir a saúde do seu projeto
+#PL1gdHPtv45Mfv77D--fy1BdoGLpR3x9YR aebf566e
+maCBRTP060E|294|CI/CD na Prática 🚀 Começando do ZERO com GitHub Actions e AWS
+CyoZA9zra5Q|611|CI/CD: Continuous Integration vs Continuous Delivery vs Deployment
+fBkGb8vsPSU|1752|GitHub Actions na prática 🚀 Crie seu primeiro workflow
+UXI7L6TyokU|433|Crie um ambiente na AWS em MINUTOS 🚀 | Elastic Beanstalk na prática
+Ukof5-Uo3tY|318|Deploy MANUAL na AWS com GitHub Actions
+4o-NbxaTCnw|1296|Deploy AUTOMÁTICO na AWS com GitHub Actions
+#PLAcZIBgjW3CRe_9cvwbBWkEp37-SEoOMR e8eaa211
+cqozRCSdTN0|1762|Arquitetura de Software com DDD e  NET
+vUVSrjVtiOo|3107|Introdução ao DDD
+KTqOAUxm6QI|1457|001 Agenda do Curso de DDD
+7Evz4T7H5BI|1488|002 Introdução do Curso de DDD
+UyUyeJ7AyTA|275|003  DDD - Visão Estratégica
+SIpfS2NJWok|346|004  DDD - Visão Estratégica - SubDomain
+yFAK_vE8kfU|407|005 DDD - Visão Estratégica - Core Domain
+jZV91mYH2d0|734|006 DDD - Visão Estratégica - Bounded Context
+1L70GqUblXE|553|007 DDD - Visão Estratégica - Context Map
+ED_Q6KAoH8w|226|008 DDD - Visão Estratégica - Shared Kernel
+9sfBLgPebQU|902|009 DDD - Visão Estratégica - Ubiquotous Language
+Njv_nUlhEqk|382|010 DDD - Visão Tática
+1-O7rgUN-5Q|2033|011 DDD - Visão Tática - Arquitetura em Camadas
+pVu7Ec5QAmw|458|012 DDD - Visão Tática - Shared Kernel
+S_M38Uh6w2U|602|013 DDD - Visão Tática - Foco no Domínio
+93YX4F2wOB4|1686|014 DDD - Visão Tática - Entities
+ADLGLWN0D8k|1474|015 DDD - Visão Tática - Associações
+GCDuU8bYyJ4|1274|016 DDD - Visão Tática - Objetos de Valor
+Veqc_jVr2aQ|602|017 DDD - Visão Tática - Enums
+wyYwupMVBV4|1888|018 DDD - Visão Tática - Comportamento em Entidades
+avyLtdFR6Ec|1459|019 DDD - Visão Tática - Comportamento em Objetos de Valor
+uiLK0u2fXe4|746|020 DDD - Visão Tática - Aggregates
+-VaRvdb2onY|1026|021 DDD - Visão Tática - Repositories
+#PLNCSWIsR6ADL_qsxAayXkSzzCCf2xlIy9 ece6a53e
+SWgCLOW1bCE|703|VOCÊ NÃO SABE ARQUITETURA DE SOFTWARE (veja esse vídeo)
+jwBpiEoo8rI|1691|Fundamentos de Arquitetura de Software para Backend
+5_fmI1nmWOQ|1352|Aprenda os príncipios do SOLID em 20 minutos.
+VJHb-MONfi8|1753|API REST x GRAPHQL | Entendendo NA PRÁTICA qual padrão é melhor usar
+yaNjUYg6yY0|3743|É isso que um SENIOR precisa saber sobre SYSTEM DESIGN
+Vf2rykpfgAI|5479|Padrões de Arquitetura de Software com Spring Boot (Limpa e Hexagonal) | Clean Architecture Java
+UKSj5VJEzps|2964|Arquitetura Hexagonal na Prática | Arquitetura com Java e Spring Boot
+zcDKQqFmjEA|4990|Descomplicando Clean Architecture - O que é a Arquitetura Limpa?
+ta0q7OrVxIc|7105|ENTENDENDO ARQUITETURA LIMPA com JAVA
+E1mTZtzyDRw|6733|ARQUITETURA ORIENTADA A EVENTOS | SNS, SQS, KAFKA | event driven na prática
+6bTkTy6DjOQ|1632|ARQUITETURA BACKEND DO FACEBOOK | System Design
+-0Ja8QWCMYo|6376|INTRODUÇÃO Á MODELAGEM DE ARQUITETURA | Conceitos de System Design
+llC6b8g6FgY|1086|Pare de quebrar o banco em produção: Aprenda Database Branching
+vU_VyacVh6s|1165|Como um site sai do localhost e fica disponível para os usuários?
+j5yLIOMb714|1571|O mínino sobre Design Patterns que você deveria saber.
+#PLs-l5bSgIMhA0P3xnOV5Bf9osyKzcN6tU 9c5edacf
+Z-7vxmCj3dQ|4234|TORNANDO-SE UM ENGENHEIRO DE PLATAFORMA: UM GUIA ABRANGENTE
+f0Dp6Ob2guc|3896|VISUALIZANDO SISTEMAS DE SOFTWARE COM MODELO C4
+fjnYO-puEJE|5507|20 PASSOS PARA O DOMÍNIO DA ARQUITETURA DE SOFTWARE: UM GUIA COMPLETO PARA DESENVOLVEDORES
+sUqtqNEj9aY|1018|ARQUITETURA ORIENTADA A EVENTOS (EVENT DRIVEN ARCHITECTURE)
+qfVs3-mL1nE|363|O QUE EU GOSTARIA DE SABER HÁ UM ANO ATRÁS SOBRE SERVIÇOS E MICROSSERVIÇOS
+bEYApUHG-r0|563|EU TAMBÉM ME SAIA MUITO MAL EM ARQUITETURA DE SOFTWARE ATÉ APRENDER ESTAS TÉCNICAS
+WjN4ljhchx0|1375|O QUE TODOS DEVERIAM SABER SOBRE CQRS
+#PLQCmSnNFVYnStflA1V__q6_9yC8_nV2ra 1e0ccbbf
+kgRMPN96Lns|6617|Implementando a comunicação entre Microservices: Síncrona vs. Assíncrona #Microservices #SAGA
+RdOx2Pndc74|5761|Qual é a diferença entre Dependency Injection e Dependency Inversion? #SOLID
+94qRszXSw7c|5690|O que são e como utilizar Value Objects?
+HTp5KM9P2yU|6319|Um use case pode chamar o outro?
+DWsxTJpxaOo|6719|Aplicando Arquitetura Hexagonal com testes de integração e unidade
+tetVY6jmlnM|6556|Como criar e desacoplar camadas usando SOLID
+kCSiGeUFi_U|8470|Ports and Adapters, Clean Architecture e Design Patterns no Frontend: Faz sentido?
+zo1MVUnfAbo|5431|Qual é a diferença entre Ports and Adapters e Clean Architecture?
+NYoW-ycqbYk|3881|10 perguntas sobre Clean Architecture
+2LQkKU3dPGo|3915|Event-Driven Architecture, Microservices e CQRS: A combinação perfeita
+6jHgd1LY6IE|4495|10 perguntas sobre Domain-Driven Design
+Xakc4KlL5is|7326|Se eu mockar tudo em um teste de integração ele vira teste de unidade?
+QAMHNhuXvz0|7591|Desvendando os Microservices com Rodrigo Branas e André Baltieri
+tcZP0DlZD9U|8029|Transaction Script vs. Domain Model, qual estratégia de design devo adotar?
+GL-6AkbsW3A|842|Qual é a diferença entre testes de unidade e integração? Pode usar mock?
+eaCAykuD13o|2931|SOLID Open/Closed Principle + Design Patterns Strategy e Template Method
+#PLs-l5bSgIMhAIi4QIWvzwdyoTFXj9CDFv 9a099ac6
+Z-7vxmCj3dQ|4234|TORNANDO-SE UM ENGENHEIRO DE PLATAFORMA: UM GUIA ABRANGENTE
+f0Dp6Ob2guc|3896|VISUALIZANDO SISTEMAS DE SOFTWARE COM MODELO C4
+hJOVJpYVrO4|6064|SYSTEM DESIGN: RATE LIMIT
+-NF06EaAr0I|6407|ENTREVISTA SYSTEM DESIGN: O ROADMAP PARA VOCÊ SER CONTRATADO!
+5nwei1ZIvFA|6778|SYSTEM DESIGN: PROXIES & LOAD BALANCER + NGINX NA PRÁTICA!
+jpGGfSV_QWw|6476|SYSTEM DESIGN: ESCALANDO UM SISTEMA PARA MILHÕES DE USUÁRIOS
+-8tdjn30SSw|7195|SYSTEM DESIGN: ALÉM DA ENTREVISTA
+9lYK4gnV86M|6155|FUNDAMENTOS SYSTEM DESIGN: CLIENT SERVER IP TCP DATABASE
+#PLFmBNfkCoVHJq7FfY8MyZfEZGE4JIaUkW df7ab07a
+W0BringR3y8|884|System Design | Uma introdução ao DESIGN de Arquitetura de Software
+28kqe1-pCFg|1640|O que é Cache e Cache Distribuído? | Explicando estratégias de consistência
+RhZf4WeK8gI|1459|System Design | Escala Horizontal ou Escala Vertical?
+2MhESEMQmh0|1640|Como evitar um Single point of failure (SPOF) em sistemas distribuídos?
+_JHWUKaZ2Do|1878|Entendendo os algoritmos utilizados em Load Balancers para alocação de servidores
+klLKXk6zs24|1345|Explicando o algoritmo Consistent Hashing //Balanceamento de Dados e Carga
+yRN88O6ke0w|1547|Planeje arquiteturas de ALTA ESCALABILIDADE usando Message Queue //System Design
+LCVoiiWN7Kw|2470|Arquitetura Orientada a Eventos // Event-Driven Architecture (EDA)
+XP6Yi6tZLOo|2247|#Event-Driven: Outbox Pattern usando .NET 6
+#PLz3hnOImntAPoJZ2JAWtOzc34X1EI_ge7 86af3972
+keHP-56Bifo|3732|AWS Certified Cloud Practitioner | Aula 1
+Yt5Wd7ZC3d4|5452|AWS Certified Cloud Practitioner | Aula 2
+-GB_hvNf7sk|2583|AWS Certified Cloud Practitioner | Aula 3
+PPrvwuSHLLQ|3280|AWS Certified Cloud Practitioner | Aula 4
+w_9KaO83Qfs|4891|AWS Certified Cloud Practitioner | Aula 5
+GFf2NDd0sTw|5222|AWS Certified Cloud Practitioner | Aula 6
+590i6PNQ6Do|4357|AWS Certified Cloud Practitioner | Aula 7
+iWTxcljL1kc|6500|AWS Certified Cloud Practitioner | Aula 8
+_Fe11henGpY|2547|AWS Certified Cloud Practitioner | Aula 9
+EjQzn55ykCg|3941|AWS Certified Cloud Practitioner | Aula 10
+0LFjtEEMnpI|2754|AWS Certified Cloud Practitioner | Aula 11
+fe52MlLAIKI|1194|AWS Certified Cloud Practitioner | Aula Final
+#PLNHxHgB-_LTsDUVJrtGoITAkq8hmUmsHa 10aeec3d
+Y4Tu8Sl0iK0|1261|AINDA VALE A PENA SER PROGRAMADOR NA ERA DA IA?
+EaD3st7Sdus|1531|COMO ESTUDAR PROGRAMAÇÃO E ARQUITETURA SEM ESQUECER TUDO DEPOIS!
+pEvc5sILvgo|1330|A Verdade Sobre Fazer Uma PÓS-GRADUAÇÃO em Arquitetura de Software!
+YzapWW6RK18|1459|GOLANG: A MAIOR OPORTUNIDADE DE 2026 E NINGUÉM ESTÁ VENDO!
+1tUzuhsDco0|1543|PROGRAMAR PARA O EXTERIOR NÃO É O QUE TE CONTARAM!
+zKkMquLXioI|1550|RESPONDENDO PERGUNTAS SOBRE PROGRAMAÇÃO, CARREIRA, MERCADO, INTELIGÊNCIA ARTIFICIAL E MUITO MAIS
+TREjh6d5fLg|1751|10 ANOS DE PROGRAMAÇÃO EM 10 LIÇÕES QUE VÃO MUDAR SUA CARREIRA!
+7rRp9H3ynBY|1427|OS 10 MELHORES LIVROS SOBRE PROGRAMAÇÃO E ARQUITETURA DE SOFTWARE
+-yiU4XLw_Po|942|Os 3 Maiores ERROS Que PROGRAMADORES Cometem nas Entrevistas | E Como Corrigir!
+FfigYiI2fKc|1728|Como Se Tornar Um ARQUITETO DE SOLUÇÕES | 4 Passos Que Vão Mudar Sua Carreira de PROGRAMADOR
+-mVv2lJQvJI|656|SOFT SKILLS: O Segredo dos PROGRAMADORES de Sucesso: Desenvolva Essas Habilidades e se Destaque!
+UDRaycIJUAA|713|A Maioria dos Programadores Duvida da Própria Capacidade: 3 PASSOS Pra Vencer a Síndrome do Impostor
+mKIltWid_L0|734|Como Virar Um ARQUITETO DE SOFTWARE  | 5 PASSOS Que Vão Mudar Sua Carreira de PROGRAMADOR
+2-0CpBlxH7M|357|APRENDER PROGRAMAÇÃO EM 2 HORAS? Eles Querem Te Vender MENTIRAS!
+fam_O0-4F9Y|531|Vale a pena fazer Análise e Desenvolvimento de Sistemas?
+MR59gG8-hqI|764|Síndrome do Impostor na Programação: Como Vencer o Medo de Não Ser Bom o Suficiente

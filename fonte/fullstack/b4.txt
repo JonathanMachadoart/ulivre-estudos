@@ -1,0 +1,66 @@
+#PLAp37wMSBouDdpuuYhZfEK9oH0qk0IANb f8235c8e
+YbRHeRFYyCQ|282|Cursos de Fundamentos de Redes de Computadores e Internet
+l94zFTcfpRQ|713|Como surgiu a Internet (ARPANET) - Aula 01
+kddmXxCgca8|661|Classes de Endereçamento IP - Aula 02
+khU1cjtCIRg|507|Tipos de Comunicação e Endereço MAC - Aula 03
+ud021cJIAI0|480|Tecnologias de Conexão com a Internet - Aula 04
+qs5sx7BSUx4|550|Conceitos Básicos de Internet - Aula 05
+DpEGFcDFkAI|627|Formato dos endereços dos sites - Aula 06
+zqoBggdaE7w|577|O que são os URLs e Domínios? - Aula 07
+N09heq6Dccw|416|Intranet, Extranet e Internet - Aula 08
+Xj3dtPq05KU|588|Componentes dos Navegadores - Aula 09
+7NWVl-SYjIQ|978|Teclas de Atalhos e Recursos dos navegadores - Aula 10
+FWi3OuUlMYg|676|Tipos de Rede: Ponto a Ponto e Cliente-Servidor - Aula 11
+XENGDCqgFkI|1004|O que são Servidores e Desktops? - Aula 12
+2gZiyuu9W_8|613|Classificação de Redes por Abrangência - Aula 13
+4b75tAW5mms|367|Topologias de Redes - Aula 14
+lJLLvHAzs4c|430|Tipos de Transmissão (Simplex, Half-Duplex e Full-Duplex) - Aula 15
+AfIHd3xf1qs|682|Topologia Estrela - Aula 16
+qJpHFT_THjA|439|Topologia em Anel - Aula 17
+FLswTxWz27s|575|Topologia em Barramento - Aula 18
+rHRzscL4Zgo|504|Meios de Transmissão (Meios Guiados e Não guiados) - Aula 19
+NigvBMW6xQ4|584|Cabos Par Trançado (UTP e STP) - Aula 20
+7S53H99m_Rw|722|Padrões de cores dos cabos UTP - Aula 21
+LNjYhjeLtCo|577|Equipamentos de Redes (Equipamentos Passivos) - Aula 22
+byI0hKDgQRA|749|Equipamentos de Redes (Equipamentos Ativos) - Aula 23
+Usb2kZjPMws|565|Protocolos e Portas de Comunicação - Aula 24
+tFCoHHG1ZJ0|882|Principais Protocolos e Portas - Aula 25
+mMtZC5snPLQ|912|Modelo OSI - Aula 26
+voXuOcRIzuc|657|Como criar uma rede LAN - Tirando Dúvidas Parte 1 (Curso de Fundamentos de Redes) - Aula 27
+rjyv7AhA9JA|779|Filtro de MAC - Tirando Dúvidas Parte 2 (Curso de Fundamentos de Redes) - Aula 28
+IAYN9W7FRLA|736|Como funciona um TROJAN ou RAT - Tirando Dúvidas #3 (Cursos de Fundamento de Redes) - Aula 29
+E3t6YxdlD4c|425|Equipamentos Topologias de Redes - Aula 30 (Curso de Fundamentos de Redes) - Aula 30
+Tze-C_941ls|475|Aula final do Curso de Fundamentos de Redes de Computadores
+L26dSJ8u-IY|408|Cursos com Certificado
+#PL3B-OV5dZTqbaLi1f2UmXEWbcx9WyYaTX bfe21a50
+P1Mm-gTi5i8|98|REST APIs Básico - Introdução (Parte 1)
+_4PikzgWX24|565|REST APIs Básico -  O que é (Parte 2)
+XX1800nlbxU|245|REST APIs Básico - Por que? (Parte 3)
+KHcFYMtKVko|360|REST APIs Básico - Princípios Arquiteturais (Parte 4)
+BkzfaIcbXVc|753|REST APIs Básico - Recursos (Parte 5)
+fqGqlygkrcQ|557|REST APIs Básico - Verbos (Parte 6)
+rxxC9FJukXg|653|REST APIs Básico - Códigos HTTP (Parte 7)
+dIY6WUDlm1o|161|REST APIs Básico - Fluxo da Requisição (Parte 8)
+G4qUa3uftgY|365|REST APIs Básico - Requisições Assíncronas (Parte 9)
+V0KqWy877Jg|378|REST APIs Básico - Query Strings (Parte 10)
+rmHVC2u4N1s|529|REST APIs Básico -  Exercícios (Parte 11)
+m-XFJXipGqU|313|REST APIs Básico - HATEOAS (Parte 12)
+Fl7u3WZO9kk|721|REST APIs Básico - Modelagem (Parte 13)
+SXHVdP0LlPo|219|REST APIs Básico - Contrato (Parte 14)
+tdi3B6zZlr8|467|REST APIs Básico - Versionamento (Parte 15)
+tXaw3doMuBc|541|REST APIs Básico - OpenID Connect e OAUTH2.0 (Parte 16)
+2jLLNWF6Vac|4038|REST APIs Básico - Programando uma API em .NET Core (Conteúdo Extra)
+#PLEqTHftpM91OZzAIOwMcAuQ4ciK1n4_Ll dd248fa8
+toTA8na9yqY|827|Falhas de integridade de software e dados - Aula 13
+eTH3ZElqeF0|1235|Falhas de identificação e autenticação de software - Aula 12
+rUU9TN_MABg|808|Componentes desatualizados e vulneráveis de software - Aula 11
+VBTniKv4djo|834|Configuração de segurança de software incorretas -  Aula 10
+4fn3ZZFhz4M|1415|Projeto de software inseguro - Aula 9
+6YiRhRBn6m4|875|Injeção de Código: A Vulnerabilidade Que Ainda Derruba Sistemas - Aula 8
+q_sbVYTJa4k|1362|Falhas criptográficas de software - Aula 7
+084ptOPTtRs|862|Quebra de controle de acesso em software - Aula 6
+K4nqTy75CkQ|219|As 10 maiores ameaças de software do mundo! OWASP TOP 10 - Aula 5
+7c-nON1sVes|659|Confidencialidade, Integridade e Disponibilidade - Entenda a tríade CID - Aula 4
+BYkwhUKFogM|476|Segurança funcional e não funcional! entenda a diferença - Aula 3
+D1bXs-eHN9M|825|Por que precisamos de segurança de software? - Aula 2
+5x-eXStbzlM|587|O que é segurança de software - Aula 1

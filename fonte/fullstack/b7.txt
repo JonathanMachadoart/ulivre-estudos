@@ -1,0 +1,73 @@
+#PLNHxHgB-_LTtnyj453VPF7_CdYM4dpv_Z 670de394
+UYOr-rpQs1I|2185|O QUE NINGUÉM TE ENSINOU SOBRE BUSCAS INTELIGENTES NO BANCO DE DADOS!
+vFBUWtrzz48|804|Por Que Você NUNCA Deve Usar FLOAT pra Representar Dinheiro no Código — Como Corrigir do Jeito Certo
+KXaPJhG9yCk|1015|Object Calisthenics: LEI DE DEMETER - A Técnica Para Eliminar DEPENDÊNCIAS Ocultas no seu Código!
+_OKbQKjiKR8|1621|Object Calisthenics: Aumente a COESÃO das suas CLASSES com essas Duas Regras! | Orientação a Objetos
+pW9Bb4PteWU|1502|Object Calisthenics: Técnicas Para Eliminar o ELSE do Seu Código | Boas Práticas de Programação
+YGNH71KPIes|1710|Object Calisthenics: A ARMADILHA dos TIPOS PRIMITIVOS! Seu código está FRÁGIL por causa disso!
+PXHqooNlkVM|1285|Object Calisthenics: Pare de Usar Getters e Setters | Boas Práticas e Orientação a Objetos!
+S2mMFopw_ww|647|4 Sintomas de que Seu Código Está APODRECENDO e Você Precisa Identificar Agora!
+wjtfJ9c4KdM|506|O maior erro que Programadores cometem e como o YAGNI pode salvar seu código
+#PLVc5bWuiFQ8H5P-7QB1_3LOJkOZNMnnpg 4ec95d5e
+O5aWwBXPoh4|779|O que é Código Limpo? // Entendendo o Livro Clean Code (Capítulo 1)
+aEPn7VV45kU|1241|Programadores Profissionais Devem Saber dar Nomes // Entendendo o Livro Clean Code (Capítulo 2)
+wr8n2J4Sqs4|1390|Suas Funções Nunca Mais Serão as Mesmas Depois desse Vídeo // Clean Code (Capítulo 3)
+XUx0Mb7iUtg|1072|Comentar Códigos é uma Forma de Fracassar // Análise do Livro Código Limpo (Capítulo 4)
+rFbkzjWdLWE|1615|Entender Código é Tão Importante Quando Só Fazer Rodar // Análise do Clean Code (Capítulo 5)
+kKjU57F1Zf8|694|ESSA É A 1ª LIÇÃO SOBRE CLASSES QUE VOCÊ DEVERIA SABER (Capítulo 6)
+IQyKUpfWZ_0|581|Tratando Erros no Código Usando Boas Práticas (Livro Clean Code - Capítulo 7)
+#PLNHxHgB-_LTt67szNmMsZwqBKq9jH4uKJ d104dff4
+el1MtIPXTqo|1155|Padrão de Projeto Proxy: Melhore a Arquitetura do Seu Código Usando Orientação a Objetos!
+E8ey3HjSthg|1312|Padrão de Projeto Singleton: Multithreading & Testes Unitários Expõem os Riscos deste Design Pattern
+7B60j9EGrrU|1505|Padrão de Projeto Decorator: O Design Pattern que Flexibiliza seu Código com Orientação a Objetos!
+j5fGTi8ObK4|1013|Padrão de Projeto Template Method: Como Eliminar Códigos Duplicados Usando Orientação a Objetos!
+yZRd_EWUs1g|503|SOLID, Clean Code e Design Patterns: Pare de Buscar o Código Perfeito!
+mv9JxI85Ac8|1253|Padrão de Projeto Observer: Como Criar Código Reativo e Escalável Usando Orientação a Objetos!
+4Aq9UHQ5f5Y|704|Padrão de Projeto Facade: O Design Pattern Que Simplifica Código Complexo com Orientação a Objetos!
+OrCgWzpNszk|1557|Padrão de Projeto State: Domine o Design Pattern de Transições de Estado com Orientação a Objetos!
+Fg1kEjaaBrs|1110|Padrão de Projeto Adapter: Melhore sua Orientação a Objetos e Testes Unitários! Design Pattern (GOF)
+3-ESljj0jgI|813|Padrão de Projeto Simple Factory: O Design Pattern Mais Fácil Explicado!
+DzlXwgsc_AU|1333|Padrão de Projeto Strategy: Tudo o Que Você Precisa Saber Sobre Esse Design Pattern (GOF)
+#PLbIBj8vQhvm0pgOkQu3YzOfpQLvWRKdAG 3c272f95
+AuHCcVcmSSM|3083|Testes no Next.js com Vitest e Playwright - Unitários, Integração e E2E (Aula 1)
+43tyTPPf-6A|2336|Criando testes unitários de funções com o Vitest (Aula 2)
+_5rSRf-J4D0|1886|Mock com vi.spyOn no Vitest: como interceptar e modificar funções (Aula 3)
+5DwvF73brcQ|2053|Como mockar retorno de função com vi.spyOn no Vitest (Aula 4)
+6sEQiyITGiw|3089|Como Configurar Variáveis de Ambiente e .gitignore no Next.js, Vitest e Playwright (Aula 5)
+TaMvD9UmYVI|2217|Configure o Drizzle ORM com base .env para Vitest, Playwright e Next.js (Aula 6)
+DVXC-TDdffY|2043|Repository Pattern com Drizzle ORM no TypeScript na prática (Aula 7)
+MwBidyxowXw|2203|Teste de Integração do Repositório com Drizzle ORM e Vitest - Repository Pattern (Aula 8)
+ZFNnBuiUJNY|1603|Teste de Integração do Caso de Uso Create com Repository e Validação - Clean Architecture (Aula 9)
+YZz7aTJHprA|1756|Teste Unitário da Server Action e revalidatePath do Next.js com Vitest (Aula 10)
+zKkZ68kn8eA|710|Teste de Integração do Caso de Uso para "Delete" com Vitest (Aula 11)
+jfWSGFAUVG0|735|Teste Unitário da Server Action para "Delete" com revalidatePath do Next.js 15 (Aula 12)
+26qDYbYyYPo|2184|Storybook com Next.js, Tailwind e React: Renderize componentes isolados (Aula 13)
+PQCzKwyMS9Q|1839|React Testing Library: Query Methods, render, screen e boas práticas (Aula 14)
+Pxi0da_v6Yw|1533|Testando Componentes Estilizados com Tailwind e RTL - Botão com Variants e Size (Aula 15)
+1EhOBpe2VRQ|1841|Componente de Input de texto para o Next.js + Configuração do Storybook (Aula 16)
+gYSSRNfXaP4|2352|Testes do Componente de InputText com a React Testing Library - Acessibilidade e UX (Aula 17)
+s_jGtgQ0QIM|2032|Formulário React com validação, transição, server action e mock no Storybook (Aula 18)
+hRnSMKd2k88|2334|Teste de integração de formulário em React com Server Action no Vitest (Aula 19)
+XqAEPgDSRtc|2121|Testes de integração TodoList com Server Action do Next.js em Mock no Vitest (Aula 20)
+AgpJD9oedz0|819|Testes de integração do server component do Next.js TodoContainer com Vitest (Aula 21)
+ENk69v9g298|992|Subindo e buildando o Next.js e desativando o cache com force-dynamic (Aula 22)
+kUvqyQ3WQ9Y|2065|Instalando e configurando o Playwright para testes E2E no Next.js (Aula 23)
+l_mTHMVLMKo|1172|getByRole, beforeEach e afterAll no Playwright com Next.js (Aula 24)
+YrcbwFi7Ubo|980|Testes E2E para criação com form, input e button usando Playwright no Next.js (Aula 25)
+WmK52ZZu1do|1786|Testando mudanças rápidas de estado na UI com o Playwright (Aula 26)
+7VUVixRmHOA|1197|Teste E2E de remoção de elementos da página com o Playwright (Aula 27)
+jwp_yjtalLU|761|Teste da desativação e ativação de elementos entre ações assíncronas com Playwright (Aula 28)
+BQ2HNjeR1nA|1329|Testes finais com Vitest e Playwright + Prettier e ESLint para Next.js (Aula 30)
+u1sg_uD8H4g|40761|Testes no Next.js com Vitest e Playwright - O único vídeo que você vai precisar
+#PL3j2sfzg3FPvJIz_ifBUjBjMosgP7VLdM 77d538cb
+Rx80QRZRgHc|726|Processamento assíncrono com mensageria - Escalando aplicações Web | Dias de Dev
+eSrIV6BQ7Fs|781|Computação em nuvem - O que é cloud computing | Dias de Dev
+TNl08-PgimE|371|Load balancer - O que é um balanceador de carga? | Dias de Dev
+zfTw5AUS0K0|1090|Tudo o que você precisa saber sobre cache: como funciona e onde é usado | Dias de Dev
+IrwIYywpvbM|611|Como usar Cache HTTP - Entenda melhor sobre performance na Web | Dias de Dev
+mkEd5OP-oKA|728|System Design - Arquitetura de sistemas na prática | Dias de Dev
+2geXZqSeulA|693|CDN: Entenda o que é e porque você PRECISA de uma para sua aplicação web | Dias de Dev
+jYksvGHu1O4|866|Circuit Breaker - Padrão de Projeto para Microsserviços | Dias de Dev
+ZeyNRRoxrpQ|697|O Poder dos Covering Indexes: Otimizando Consultas em Bancos Relacionais | Dias de Dev
+BsCdPKNX8rc|1243|Garantindo a Consistência de Dados com Locks Pessimistas e Locks Otimistas | Dias de Dev
+aKCwC3NX2HQ|1082|PHP e gRPC: Como Implementar um Cliente gRPC de Forma Simples com PHP | Dias de Dev
