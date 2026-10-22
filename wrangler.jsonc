@@ -1,0 +1,9 @@
+{
+  // Site estático publicado como Worker com assets (Cloudflare Workers Builds)
+  "name": "ulivre-estudos",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "single-page-application"
+  }
+}

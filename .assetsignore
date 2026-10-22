@@ -1,0 +1,8 @@
+.git
+.github
+fonte
+wrangler.jsonc
+.assetsignore
+README.md
+LICENSE
+node_modules
