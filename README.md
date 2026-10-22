@@ -1,8 +1,8 @@
 # ULivre Estudos
 
-Plataforma de estudos para os currículos da [Universidade Brasileira Livre](https://github.com/Universidade-Livre): Ciência da Computação, Matemática, Full Stack Development (roadmap em 4 níveis, do Júnior ao Arquiteto de Soluções) e seis especializações, reunidos num só lugar.
+Plataforma de estudos para os currículos da [Universidade Brasileira Livre](https://github.com/Universidade-Livre): Ciência da Computação, Matemática, Full Stack Development (roadmap em 4 níveis, do Júnior ao Arquiteto de Soluções), Inteligência Artificial (de prompts e Machine Learning a LLMs, RAG, agentes e MLOps) e seis especializações, reunidos num só lugar.
 
-- **9 trilhas, 170 cursos e 4.492 aulas**, com a lista de vídeos de cada playlist
+- **10 trilhas, 186 cursos e 4.879 aulas**, com a lista de vídeos de cada playlist
 - **Lista, quadro e mapa** de pré-requisitos para cada trilha
 - **Plano de estudos**: você informa as horas por semana e a plataforma estima quando termina cada etapa, usando a duração real das aulas
 - **Anotações por aula** com o minuto do vídeo

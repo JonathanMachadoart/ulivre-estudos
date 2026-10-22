@@ -1,0 +1,102 @@
+#PLucm8g_ezqNqMWJwzCUjQn-SdHDwcxcCY fc38c1b2
+l3OnSWGMgUM|1001|Engenharia de Prompt - Apresentação do Mini-Curso para IA Generativa - 01
+IMt8IFYPVFw|1210|Engenharia de Prompt - Prompts Básicos, Exemplos e Exercícios - 02
+GjrxubeWCTY|1446|Engenharia de Prompt - Persona, Cenários, Estilo de Escrita - Exemplos e Exercícios - 03
+LrAFUnzXiaY|1850|Padrões Brainstorm, Entrevista, Cadeia de Pensamento em Engenharia de Prompt + Exercícios Aula 04
+OHDgm68WMuU|1464|Padrões Role-Playing, Verificador Cognitivo, Interação Invertida em Engenharia de Prompt - Aula 05
+t_3uDOZCuL4|1452|Vibe Coding: Programação por IA - Futuro da Programação ou só Hype?
+#PLyqOvdQmGdTTYHKdxWRmt8oOhMwYhmxkM 5203a1fe
+MSHpE9dnIho|549|Matemática para Machine Learning (o que estudar?)
+gDkvNDoh0nE|1293|Cálculo (AULA 1): Limites
+vFHa2BK-xuU|2784|Cálculo (AULA 2): Derivada
+_-xBDLCQ7pk|706|Cálculo (AULA 3): Derivadas Parciais
+-3joNcXXBdw|1177|Cálculo (AULA 4): Máximos e Mínimos de funções, com exemplos
+OtDgQuDBgGk|1592|Entenda a essência da Distribuição Normal (de onde vem, para que serve)
+HwgOnEU9NYo|1157|Operações básicas com vetores (Álgebra linear/ Cálculo vetorial)
+xD9-t4JmJm0|636|O que é normalização e para que serve (machine learning)
+_pJX2SFoFtY|598|Erro médio absoluto x Erro médio quadrático (MAE x MSE)
+wDJjmH3JFqc|712|Coeficiente de determinação R2 (machine learning)
+qoOHUCVG0Gs|502|Coeficiente R2 ajustado, diferenças para o R2 (machine learning)
+DlBhJdHQElI|510|Aprenda a função Sigmóide (machine learning)
+I643PqSrETM|1230|Entenda o Teorema de Bayes (ótima explicação!)
+Yp819pOUptc|763|Como calcular um Boxplot na prática (diagrama de caixa) - Curso para Machine Learning
+htfh2xrnlaE|3069|A matemática do Gradiente Descendente & Regressão Linear (machine learning)
+#PLvlkVRRKOYFQGIZdz7BycJet9OncyXlbq 05461d18
+4CcgZXXIl7o|3518|APRENDA ESTATÍSTICA 01: População e Amostra
+FPZBAp8QSRM|1266|APRENDA ESTATÍSTICA 02: Tipos de Variáveis
+qca5fOJ2TTg|1173|APRENDA ESTATÍSTICA 03: Tabela de Frequência
+cVpO7V0fu_s|2885|APRENDA ESTATÍSTICA 04: Tabela de Frequência na PRÁTICA
+D0hlGcAmc94|2378|APRENDA ESTATÍSTICA 05: Somatórios e Média
+sL5tbdc2rCE|2293|APRENDA ESTATÍSTICA 06: Mediana e Quartis
+hgxLeea6Hr8|1522|APRENDA ESTATÍSTICA 07: Medidas de Resumo na Prática (PLANILHAS)
+9D_c_22lRL8|1047|APRENDA ESTATÍSTICA 08: Medidas de Resumo na Prática (PYTHON)
+eTBXmQmyqMc|1406|APRENDA ESTATÍSTICA 09: Medidas de Resumo na Prática (SQL)
+0kdgO0E4Rg8|1361|APRENDA ESTATÍSTICA 10: Medidas de Dispersão
+BCAbwdkdfhM|683|APRENDA ESTATÍSTICA 11: Medidas de Dispersão (PLANILHAS)
+aZ7ufhnsblY|655|APRENDA ESTATÍSTICA 12: Medidas de Dispersão (PYTHON)
+BAhz7OgJyAQ|3302|APRENDA ESTATÍSTICA 13: Gráficos
+ZmYG2dPJxfw|1104|APRENDA ESTATÍSTICA 14: Gráficos (PLANILHAS)
+_PzfSLBn22k|1674|APRENDA ESTATÍSTICA 15: Gráficos (PYTHON)
+cZyp6Tq9V-0|5338|APRENDA ESTATÍSTICA 16: Probabilidade
+P48vFrhhKf0|817|APRENDA ESTATÍSTICA 17: Probabilidade (PLANILHAS)
+QoMwhXw5aD4|3327|APRENDA ESTATÍSTICA 18: Distribuição Bernoulli
+pbN-W7gV_kM|1481|APRENDA ESTATÍSTICA 19: Distribuição Normal
+Xy2esjcmcdI|3574|APRENDA ESTATÍSTICA 20: Intervalo de Confiança
+ueFCFsPHRRo|950|APRENDA ESTATÍSTICA 20.1: Intervalo de Confiança (PYTHON)
+qrv5rFhrM4Q|4502|APRENDA ESTATÍSTICA 21: Teste de Hipótese
+#PLyqOvdQmGdTR46HUxDA6Ymv4DGsIjvTQ- 1ceb592b
+MmSXHCxDwBs|395|Python para Machine Learning (Curso - Aula 1)
+OPJnTuBwySY|1178|Listas em Python (curso Python para machine learning - Aula 2)
+90Z4p1B4M08|303|Transformando listas float em int (Python para machine learning - Aula 3)
+BVNGvpK9VoA|651|O que são Tuplas em Python (curso Python para machine learning - Aula 4)
+o6ribWs3_lk|939|Dicionários em Python (Curso Python para machine learning - Aula 5)
+AbnPVxoTlqw|668|Manipulando strings com Python (curso Python para machine learning - Aula 6)
+G3COxzJ1SW0|407|Função Lambda e funções anônimas (Python para machine learning - Aula 7)
+Dp92Yd4-T3s|456|Função map() Python (curso Python para machine learning - Aula 8)
+NlRUAq6-meg|575|List Comprehension em Python (curso Python para machine learning - Aula 9)
+CC4aco6zWic|926|Aprenda como usar o Numpy (Python para machine learning - Aula 10)
+cd6eU5GV_8o|1129|Como abrir arquivos no Python usando Pandas (Python para machine learning - Aula 11)
+an54pc9BW4I|979|Introdução ao Pandas (curso Python para Machine Learning - Aula 12)
+hp-FGSKVPy4|463|Aprenda comandos úteis no Pandas (Python para machine learning - Aula 13)
+6M0PUNw7faE|640|Filtrando linhas e colunas em uma tabela (Python para Machine Learning - Aula 14)
+-22JkOmJeSI|561|Manipulando linhas de dataframes pandas (Python para Machine Learning - Aula 15)
+6NgyWKaP1ZU|813|Manipulando colunas em um dataframe pandas (Python para Machine Learning - Aula 16)
+Jy8SJ42MYu0|222|Como excluir uma coluna usando drop() pandas (Python para Machine Learning - Aula 17)
+qtY3VBghp1w|862|Como criar HISTOGRAMAS em Python (curso Python para Machine Learning - Aula 18)
+Yp819pOUptc|763|Como calcular um Boxplot na prática (diagrama de caixa) - Curso para Machine Learning
+0_F_8fLelEU|395|Aprenda a criar um boxplot usando Python (curso Python para Machine Learning - Aula 20)
+1-R5b3dTvhs|967|Como criar gráficos em Python com Matplotlib (Python para machine learning - Aula 21)
+k1zi4EwIXoc|1336|Como lidar com dados faltantes (NaN) em um Dataset (Python para machine learning - Aula 22)
+voiYTkf_W9Q|593|Como instalar o PyCharm em 2019 (Python para machine learning - Aula 23)
+DNegkxwQJuY|1737|Seu primeiro código de Machine Learning com Python!
+RhtsCbKyYoA|3135|Aulão Python sobre Classes, Objetos, Métodos, Herança, Construtor
+_nK3jeh8UFI|1304|Subplots: Criando vários gráficos ao mesmo tempo com Matplotlib
+cX0rc20NG-I|2320|O mercado vai CAIR ou SUBIR? Machine Learning na prática!
+SVlsK2goeoI|1594|Crie uma rede neural com apenas 5 linhas de código Python e Keras!
+iiCl4Xnl-CU|3845|Cientista de Dados do ZERO ao AVANÇADO em UMA hora! (Projeto completo)
+#PLvlkVRRKOYFR6_LmNcJliicNan2TYeFO2 d44b3c35
+oz_rZ92Tmls|2365|Machine Learning 01: Sobre o curso e dados
+dPL3eZNjsMs|1812|Machine Learning 02: Construindo Modelo
+80B4Ze11qWw|1493|Machine Learning 03: Prática no Python (Frutas)
+wc8o423bwi8|1143|Machine Learning 04: Prática no Python (Cerveja)
+s8jFHHM679s|1319|Machine Learning 05: Case Star Wars
+KIGKWjmWavU|876|Machine Learning 06: Ciclo Analítico
+IZcDceAjFWk|1905|Machine Learning 07: Regressão Linear
+pPWxZpSkt1s|899|Machine Learning 08: Árvore de Decisão - Regressão
+baTTP48cOho|1700|Machine Learning 09: Prática no Python (Reg. Linear e Árvore)
+Pk7cHs9H1OY|1339|Machine Learning 10: Regressão Logística
+4HwFrWAULkk|1536|Machine Learning 11: Árvore de Decisão (Classificação)
+ahJks3rmK34|1739|Machine Learning 12: Naive Bayes
+QhjyjH8CRKw|1357|Machine Learning 13: Prática no Python (Classificação)
+ImWgtWmP61s|1684|Machine Learning 14: Métricas de ajuste - Introdução
+oB6vEx11vZU|3889|Machine Learning 15: Métricas de ajuste (Matriz de Confusão)
+KjI3xyZEj-w|1999|Machine Learning 16: Prevendo a Felicidade
+QMThkUWSEVM|3143|Machine Learning 17: Projeto Churn - Sample
+GdFvcj_m4VE|2159|Machine Learning 18: Projeto Churn - Explore
+u23Ld3ji_nk|3451|Machine Learning 19: Projeto Churn - Modify
+QbKjOfY_bpQ|1653|Machine Learning 20: Projeto Churn - Modify (Python)
+kPQAla_r8d0|1974|Machine Learning 21: Projeto Churn - Pipeline
+jK5ljNa_Qrs|2432|Machine Learning 22: Projeto Churn - Assess
+lYXyYmSOZLM|2724|Machine Learning 23: Projeto Churn - Tuning
+iWFBeR552Hc|2690|Machine Learning 24: Projeto Churn - Novas predições
+LhXiEDrt418|1321|Machine Learning 25: Métricas Adicionais

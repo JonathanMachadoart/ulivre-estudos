@@ -4,7 +4,7 @@
   --ink:#1E1C2A; --ink2:#454257; --muted:#75728A; --line:#E5E3EE; --line2:#EFEEF5;
   --accent:#6C47FF; --accent-ink:#FFFFFF; --accent-soft:#EEE9FF; --accent-text:#5B36F0;
   --locked:#9A97AD; --locked-soft:#EFEEF4; --avail:#2F7BF5; --avail-soft:#E6F0FF; --doing:#E58A00; --doing-soft:#FFF2DC; --done:#169C4A; --done-soft:#E1F5E8; --danger:#D6334A; --danger-soft:#FDE8EB;
-  --t-violet:#6C47FF; --t-teal:#0E9F9A; --t-pink:#E0378C; --t-sky:#0B8FD6; --t-orange:#EA6C10; --t-red:#DC3545; --t-lime:#5E9E0F; --t-purple:#A23CE6; --t-gold:#B7791F;
+  --t-violet:#6C47FF; --t-teal:#0E9F9A; --t-pink:#E0378C; --t-sky:#0B8FD6; --t-orange:#EA6C10; --t-red:#DC3545; --t-lime:#5E9E0F; --t-purple:#A23CE6; --t-gold:#B7791F; --t-indigo:#3B5BDB;
   --shadow:0 1px 2px rgba(30,28,42,.06),0 8px 24px rgba(30,28,42,.08);
   --f-ui:"Plus Jakarta Sans","Segoe UI",system-ui,-apple-system,sans-serif;
   --f-mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
@@ -14,14 +14,14 @@
   --ink:#ECEAF4; --ink2:#C8C5D8; --muted:#9592AA; --line:#2C2A38; --line2:#24222F;
   --accent:#8569FF; --accent-ink:#FFFFFF; --accent-soft:#2A2445; --accent-text:#A893FF;
   --locked:#6F6C82; --locked-soft:#24232E; --avail:#5C9BFF; --avail-soft:#1A2740; --doing:#F2A93B; --doing-soft:#33281A; --done:#3CC775; --done-soft:#15301F; --danger:#FF6B7F; --danger-soft:#3A1C22;
-  --t-violet:#8A70FF; --t-teal:#2CC4BE; --t-pink:#F25AA6; --t-sky:#38AEEB; --t-orange:#FF8A3D; --t-red:#FF5F6D; --t-lime:#8CCB3A; --t-purple:#C26BFF; --t-gold:#E8B04B;
+  --t-violet:#8A70FF; --t-teal:#2CC4BE; --t-pink:#F25AA6; --t-sky:#38AEEB; --t-orange:#FF8A3D; --t-red:#FF5F6D; --t-lime:#8CCB3A; --t-purple:#C26BFF; --t-gold:#E8B04B; --t-indigo:#7C93FF;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 30px rgba(0,0,0,.45); color-scheme:dark}}
 :root[data-theme="dark"]{
   --canvas:#121118; --surface:#1B1A23; --side:#16151D; --raised:#211F2B; --hover:#262433;
   --ink:#ECEAF4; --ink2:#C8C5D8; --muted:#9592AA; --line:#2C2A38; --line2:#24222F;
   --accent:#8569FF; --accent-ink:#FFFFFF; --accent-soft:#2A2445; --accent-text:#A893FF;
   --locked:#6F6C82; --locked-soft:#24232E; --avail:#5C9BFF; --avail-soft:#1A2740; --doing:#F2A93B; --doing-soft:#33281A; --done:#3CC775; --done-soft:#15301F; --danger:#FF6B7F; --danger-soft:#3A1C22;
-  --t-violet:#8A70FF; --t-teal:#2CC4BE; --t-pink:#F25AA6; --t-sky:#38AEEB; --t-orange:#FF8A3D; --t-red:#FF5F6D; --t-lime:#8CCB3A; --t-purple:#C26BFF; --t-gold:#E8B04B;
+  --t-violet:#8A70FF; --t-teal:#2CC4BE; --t-pink:#F25AA6; --t-sky:#38AEEB; --t-orange:#FF8A3D; --t-red:#FF5F6D; --t-lime:#8CCB3A; --t-purple:#C26BFF; --t-gold:#E8B04B; --t-indigo:#7C93FF;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 30px rgba(0,0,0,.45); color-scheme:dark}
 
 *{box-sizing:border-box}

@@ -1,0 +1,111 @@
+#PLo4jXE-LdDTRLGDL59SkkLPBHVmYphuqI c44579a9
+dLLw6QjADjo|6120|(05/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 01
+h_8fUxdA0QU|7116|(07/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 02
+P5HASTfCXwQ|4801|(09/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 03
+Bfm9w3NEiNU|7551|(12/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 04
+jf0wMpZ_guA|6546|(14/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 05
+sSCUmXUl-vk|6272|(16/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 06
+sYZ9LLJ9CdE|7005|(19/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 07
+yzcY1ZJBc9M|6886|(21/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 08
+I8V7urx5AA0|6241|(23/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 09
+zT5lhq5JKl8|6452|(28/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 10
+oAVwiKp8wcw|5161|(30/01/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 11
+SgTPsT0eS8o|6686|(02/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 12
+eczFDbSEujY|6701|(04/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 13
+S1EKR7S-vOQ|7360|(05/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 14
+qoSIXbN9CzA|7561|(06/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 15
+hJutDyJ6-Xk|7906|(09/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 16
+b3qw0mpKqQg|6461|(11/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 17
+X_pbNkQYr0U|7666|(12/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 18
+HpX_9DjP978|6821|(13/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 19
+yhF_tZ1aWZ4|5078|(18/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 20
+F16BSQTgGBM|7044|(20/02/2026) - Mestrado: Machine Learning - Paulo Orenstein - Aula 21
+#PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi 2c1e295c
+aircAruvnKk|1120|But what is a neural network? | Deep learning chapter 1
+IHZwWFHWa-w|1233|Gradient descent, how neural networks learn | Deep Learning Chapter 2
+Ilg3gGewQ5U|767|O que a retropropagação realmente está fazendo? | Capítulo 3, Aprendizado profundo
+tIeHLnjs5U8|618|Cálculo na retropropagação | Capítulo 4, Aprendizado profundo
+LPZh9BOjkQs|478|Modelos de Linguagem de Grande Escala explicados resumidamente
+wjZofJX0v4M|1634|Mas o que é um GPT? Introdução visual aos Transformadores | Aprendizagem profunda, capítulo 5
+eMlx5fFNoYc|1570|Atenção em transformadores, explicada visualmente | Capítulo 6, Aprendizado Profundo
+9-Jl0dxWQs8|1363|Como os LLMs provavelmente armazenam fatos | Capítulo 7, Aprendizado profundo
+GlYgs6v2YfU|2031|But what is cross-entropy? | Compression is Intelligence Part 2
+iv-5mZ_9CPY|2240|But how do AI images and videos actually work? | Guest video by Welch Labs
+#PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2- 70cbd55b
+0VD_2t6EdS4|183|Deep Learning - L00 Apresentação do curso de Deep Learning
+l3YXuNJREOk|2513|Deep Learning - L01 O que é aprendizado de máquina e aprendizado profundo? Uma visão geral part1
+wTtpqCkuy28|3001|Deep Learning - L01 O que é aprendizado de máquina e aprendizado profundo? Uma visão geral part2
+_rxy25sl1YY|2470|Deep Learning - L02 Um breve resumo da história das redes neurais e deep learning
+VkLUQWNhApk|2434|Deep Learning - L03 O Perceptron, introdução às redes neurais de camada única part1
+yNA-aaZAkdQ|2783|Deep Learning - L03 O Perceptron, introdução às redes neurais de camada única part2
+1KRhtQOcORk|2540|Deep Learning - L04 Álgebra Linear para deep learning part1
+OmQn8aPpkO4|1523|Deep Learning - L04 Álgebra linear para deep learning part2
+xI9LolOu0jo|2836|Deep Learning - L05 Aprendizado com gradiente descendente part1
+FW3vf3TSGr0|2156|Deep Learning - L05 Aprendizado com gradiente descendente part2
+mIKuWmJRApQ|1545|Deep Learning - L05 Aprendizado com gradiente descendente part3
+1EQV6d8ArJo|2909|Deep Learning - L06 Diferenciação automática com Pytorch
+LMA081dvtf4|2796|Deep Learning - L07 Regressão logística e classificação multiclasse part1
+CDguod1rNvU|2016|Deep Learning - L07 Regressão logistica e classificação multiclasse part2
+gSMYyUYA9Us|2840|Deep Learning - L07 Regressão logistica e classificação multiclasse part3
+VN8RTIyfJUs|2805|Deep Learning - L08 Rede neural multilayer perceptron part1
+-YY1AIM3j88|3769|Deep Learning - L08 Rede neural multilayer perceptron part2
+pOVcv_XouUg|2970|Deep Learning - L09 Regularização part1
+-vS_rk4ZDTA|2404|Deep Learning - L09 Regularização part2
+W4X2ZeEzreM|2960|Deep Learning - L10 Normalização de características e inicialização de pesos part1
+6jWywZypNdI|2008|Deep Learning - L10 Normalização de características e inicialização de pesos part2
+akgqZ6M9pQw|3640|Deep Learning - L11 Algoritmos de otimização para Deep Learning
+OoYUL7lzznw|5063|Deep Learning - L12 Redes neurais convolucionais
+_QbA4IOT1GM|2425|Deep Learning - L13 Redes neurais convolucionais part1
+5MySLWCG6E0|3729|Deep Learning - L13 Redes neurais convolucionais part2
+1inwL2FNy90|2390|Deep Learning - L13 Redes neurais convolucionais part3
+jxqVnVYPndU|1661|Deep Learning - L13 Metric learning
+n7jWzlMDT-0|3431|Deep Learning - L14 Redes neurais recorrentes part1
+vrEMGdfDB7A|2292|Deep Learning - L14 Redes neurais recorrentes part2
+IKVuwKh1n1g|3344|Deep Learning - L15 Autoencoder part1
+VYXY5Z1jx78|2046|Deep Learinig - L15 Autoencoder part2
+zAESjdU_QyE|3261|Deep Learning - L16 Generative Adversarial Networks part1
+dzLDlWllKNU|2568|Deep Learning - L16 Generative Adversarial Networks part2
+#PLxI8Can9yAHfjhwNAEYdbf1ok7Kwfz7kG 4c12b92d
+cAV-VlOufQE|1301|Visão Computacional - Introdução à Visão Computacional
+s86d3odScyE|1322|Visão Computacional - Sistema Visual Humano
+xumhbN3bOb8|1323|Visão Computacional - Fundamentos de Imagens Digitais
+VFmbJskC27g|1197|Visão Computacional - Relacionamentos e operações
+ge2pBOs5JS8|1037|Visão Computacional - Transformações de intensidade
+YVAM_xzVknA|1082|Visão Computacional - Filtragem espacial
+I7LvnlbsE9U|1251|Visão Computacional - Modelo de cores
+_IyWP7kyp6k|1143|Visão Computacional - Processamento de imagens coloridas
+bs4TsJZ8xk8|1258|Visão Computacional - Câmeras e calibrações
+qVMvyGz1cvQ|1261|Visão Computacional - Aprendizado de Máquina
+U5jzBmlqqE8|1205|Visão Computacional - Classificação
+jYmwMKAXrB8|1239|Visão Computacional - Redes Neurais Convolucionais
+eOrBkDDWpIA|1147|Visão Computacional -  Segmentação de Imagens
+rx5aMzd738c|1086|Visão Computacional - Limiarização
+DsXb22zSsrU|1164|Visão Computacional - Prática de Segmentação Semântica com CNN
+ieTKBApouUc|1132|Visão Computacional -  Representação e Descrição
+ktWfxo0LJaw|1270|Visão Computacional - Classificação de imagens
+TIlxHazr3yw|1226|Visão Computacional - Prática de classificação de imagens baseada em características
+QBkizr0hrxA|1193|Visão Computacional -  Reconhecimento de objetos
+CmMubEjR1Mk|1179|Visão Computacional - Prática com Deep Learning para Classificação de Imagens
+hNm2aY2pzJw|1011|Visão Computacional - Prática com Reconhecimento Facial
+#PLxI8Can9yAHeLcxJwSQPrzhWTKoYqgXOL 4ecd3de6
+-TD6g2jffpI|1279|Processamento de Linguagem Natural - Introdução ao Processamento de Linguagem Natural
+t3fZqGkWgZg|1043|Processamento de Linguagem Natural - Sequências de caracteres, tokens e palavras
+OS5iRU0ZhWY|1127|Processamento de Linguagem Natural - Introdução ao PLN usando Python
+_hW6bDvbNWk|969|Processamento de Linguagem Natural - Corpus
+JRux0oKv2UU|1238|Processamento de Linguagem Natural - Similaridade Textual
+t-epyanpK50|1153|Processamento de Linguagem Natural - Prática: Corpus e Similaridade Textual
+Zx_2JJWrjwQ|875|Processamento de Linguagem Natural - Modelos n-gramas
+chTC_MNnmL4|1084|Processamento de Linguagem Natural - Representação vetorial de textos
+kT8FoJOBRFA|1380|Processamento de Linguagem Natural - Prática: Modelos de Linguagem e Representações Vetoriais
+WE1VsBpgaUA|1278|Processamento de Linguagem Natural - Modelagem de tópicos
+oMT1ohKN238|1172|Processamento de Linguagem Natural - Embeddings
+j4p6Tr5OQkI|1275|Processamento de Linguagem Natural - Prática: Embedding
+rFJCpo65DsE|1242|Processamento de Linguagem Natural - Aprendizado de Máquina
+72C4ZGsjVE4|1060|Processamento de Linguagem Natural - Aprendizado Bayesiano
+N8r_iEyjVMU|1300|Processamento de Linguagem Natural - Prática: Aprendizado de Máquina
+OG8jvzyTaGY|1273|Processamento de Linguagem Natural - Classificação de textos
+btthELR-Ug0|1327|Processamento de Linguagem Natural - Redes Neurais Profundas
+RB3vG8fcDX0|1388|Processamento de Linguagem Natural - Prática: Classificação de textos
+0pnvzWUnjmo|1123|Processamento de Linguagem Natural - Similaridade Semântica
+B16wDm-0Ifo|1317|Processamento de Linguagem Natural - Análise de sentimentos
+h_D7GTfNkd4|1316|Processamento de Linguagem Natural - Prática: Análise de Sentimentos

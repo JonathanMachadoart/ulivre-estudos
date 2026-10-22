@@ -67,26 +67,35 @@ tracks.append(dict(id='mat',name='Matemática',short='MAT',kind='Currículo',col
   desc='Uma educação completa em Matemática com materiais abertos, organizada em 6 blocos com pré-requisitos.',
   link='https://github.com/Universidade-Livre/matematica',groups=mg))
 import sys; sys.path.insert(0,D)
-# Full Stack Development (roadmap do Miro, 4 níveis)
-import fs_def
-FPL,FV=fs_def.load(); fg=[{'name':n,'items':[]} for n in fs_def.LEVELS]
-for cid,name,lv,pl,alt,pre,topics,srcs,links in fs_def.COURSES:
-    L=[];seen=set()
-    for kind,ref in srcs:
-        rows=FPL[ref] if kind in('pl','pl-') else [FV[v] for v in ref]
-        if kind=='pl-': rows=rows[::-1]
-        for r in rows:
-            if r[0] in fs_def.SKIP or r[0] in seen: continue
-            seen.add(r[0]); x=int(r[1]); L.append([r[0],(f'{x//3600}:{x%3600//60:02d}:{x%60:02d}' if x>=3600 else f'{x//60}:{x%60:02d}'),r[2]])
-    c=dict(id=cid,name=name,track='fs',g=lv,url='https://www.youtube.com/playlist?list='+pl,pre=pre,L=L,topics=topics,bk=[])
-    if alt: c['alt']=alt
-    if links: c['links']=links
-    courses[cid]=c; fg[lv]['items'].append(cid)
+# Currículos extras definidos em módulos (*_def.py)
+import fs_def, ia_def
+def hms(x):
+    x=int(x); return f'{x//3600}:{x%3600//60:02d}:{x%60:02d}' if x>=3600 else f'{x//60}:{x%60:02d}'
+def addtrack(mod,PL,V,tid,name,short,color,desc,link):
+    groups=[{'name':n,'items':[]} for n in mod.LEVELS]
+    for cid,cname,lv,pl,alt,pre,topics,srcs,links in mod.COURSES:
+        L=[];seen=set()
+        for kind,ref in srcs:
+            rows=PL[ref] if kind in('pl','pl-') else [V[v] for v in ref]
+            if kind=='pl-': rows=rows[::-1]
+            for r in rows:
+                if r[0] in mod.SKIP or r[0] in seen: continue
+                seen.add(r[0]); L.append([r[0],hms(r[1]),r[2]])
+        c=dict(id=cid,name=cname,track=tid,g=lv,url='https://www.youtube.com/playlist?list='+pl,pre=pre,L=L,topics=topics,bk=[])
+        if alt: c['alt']=alt
+        if links: c['links']=links
+        courses[cid]=c; groups[lv]['items'].append(cid)
+    tracks.append(dict(id=tid,name=name,short=short,kind='Currículo',color=color,map=True,desc=desc,link=link,groups=groups))
+FPL,FV=fs_def.load()
+addtrack(fs_def,FPL,FV,'fs','Full Stack Development','FS','gold',
+  'Roadmap de Full Stack em 4 níveis, seguindo o board do Miro: Programador Júnior, Programador Pleno/Sênior, Arquiteto de Software e Arquiteto de Soluções. Cada tópico do board virou um curso com aulas gratuitas no YouTube.',
+  'https://miro.com/app/board/uXjVG_pQnTE=/')
 for cid,t,a,e,d in fs_def.BOOKS:
     books.append(dict(t=t,a=a,e=e,d=d,isbn='',c=cid)); courses[cid]['bk'].append(len(books)-1)
-tracks.append(dict(id='fs',name='Full Stack Development',short='FS',kind='Currículo',color='gold',map=True,
-  desc='Roadmap de Full Stack em 4 níveis, seguindo o board do Miro: Programador Júnior, Programador Pleno/Sênior, Arquiteto de Software e Arquiteto de Soluções. Cada tópico do board virou um curso com aulas gratuitas no YouTube.',
-  link='https://miro.com/app/board/uXjVG_pQnTE=/',groups=fg))
+IPL,IV=ia_def.load()
+addtrack(ia_def,IPL,IV,'ia','Inteligência Artificial','IA','indigo',
+  'Trilha de IA em 6 etapas: fundamentos e engenharia de prompt, matemática e Python, Machine Learning, Deep Learning, LLMs com RAG e agentes, e IA em produção (MLOps). Aulas gratuitas no YouTube, a maioria em português.',
+  'https://www.youtube.com/@CursoemVideo')
 colors={'web':'pink','devops':'sky','data':'orange','cyber':'red','emb':'lime','cgx':'purple'}
 shorts={'web':'WEB','devops':'OPS','data':'DADOS','cyber':'SEC','emb':'EMB','cgx':'CG'}
 for s in C['specs']:
